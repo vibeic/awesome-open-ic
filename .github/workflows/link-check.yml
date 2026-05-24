@@ -1,0 +1,48 @@
+name: link-check
+
+on:
+  schedule:
+    # Every Monday 08:00 UTC
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    name: Check Markdown links with lychee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run lychee on Markdown files
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Scan every Markdown file in the repo; fail the job on any dead link.
+          args: --no-progress --verbose --max-concurrency 8 "**/*.md"
+          fail: true
+          output: ./lychee/out.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload lychee report as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: ./lychee/out.md
+          if-no-files-found: ignore
+
+      - name: Open issue if dead links are found
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Dead links found by weekly link-check"
+          content-filepath: ./lychee/out.md
+          labels: |
+            link-check
+            automated

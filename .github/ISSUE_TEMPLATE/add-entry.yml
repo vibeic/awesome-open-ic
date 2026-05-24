@@ -1,0 +1,102 @@
+name: Suggest a new entry
+description: Propose a new project, tool, IP, PDK, board, or resource for awesome-open-ic.
+title: "[add] <project-name>"
+labels: ["new-entry", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an entry! Please fill in every required field.
+        Maintainers will sanity-check the URL, license, and category before
+        opening a PR on your behalf (or asking you to open one).
+
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+      description: The canonical name of the project.
+      placeholder: e.g. OpenROAD
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL
+      description: GitHub repo, GitLab repo, or official homepage. Not a personal fork.
+      placeholder: https://github.com/<org>/<repo>
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which `docs/<category>.md` file should this entry live in?
+      options:
+        - design-tools
+        - ip-cores
+        - pdks
+        - verification
+        - simulation
+        - standards
+        - foundry-programs
+        - benchmarks
+        - ai-for-eda
+        - communities
+        - education
+        - hardware-boards
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description (one sentence, neutral tone)
+      description: Max 200 characters. No marketing language ("best", "fastest", "revolutionary").
+      placeholder: A static timing analysis engine for digital ASICs that reads Liberty, Verilog, and SDC.
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License (SPDX identifier)
+      description: Use the exact SPDX identifier. See https://spdx.org/licenses/.
+      placeholder: e.g. Apache-2.0, MIT, BSD-3-Clause, GPL-3.0
+    validations:
+      required: true
+
+  - type: input
+    id: last_commit_year
+    attributes:
+      label: Last commit / release year
+      description: Four-digit year of the most recent commit, tag, or release.
+      placeholder: e.g. 2025
+    validations:
+      required: true
+
+  - type: dropdown
+    id: mcp_wrapped
+    attributes:
+      label: MCP wrap status
+      description: Is this tool already wrapped by mcp-eda-server, available for a contribution, or not applicable?
+      options:
+        - "Yes — wrapped by mcp-eda-server"
+        - "No — contribution wanted"
+        - "Not applicable"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-submit checks
+      description: Please confirm each item before submitting.
+      options:
+        - label: I confirm the URL is canonical (not a personal fork)
+          required: true
+        - label: I confirm the project license is OSI-approved or CC-family
+          required: true
+        - label: I confirm this is not a duplicate
+          required: true
