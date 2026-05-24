@@ -10,7 +10,6 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenCores test suites](https://opencores.org/)** — Repositories of community-contributed cores, many with self-checking testbenches.
   `License: Mixed (per project)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[ISCAS benchmarks](https://web.eecs.umich.edu/~jhayes/iscas.restore/)** — Classic ISCAS-85 / ISCAS-89 combinational + sequential benchmark circuits. <!-- needs URL verification -->
   `License: Public release` | `Last commit: 1989 (legacy reference)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[ITC benchmarks](https://www.cerc.utexas.edu/itc99-benchmarks/bench.html)** — ITC'99 benchmark suite from Politecnico di Torino, standardized RTL+gate-level circuits. <!-- needs URL verification -->
+- **[ITC benchmarks](https://www.cerc.utexas.edu/itc99-benchmarks/bench.html)** — ITC'99 benchmark suite from Politecnico di Torino, standardized RTL+gate-level circuits.
   `License: Public release` | `Last commit: 1999 (legacy reference)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

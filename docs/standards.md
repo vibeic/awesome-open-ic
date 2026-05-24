@@ -17,7 +17,7 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Public domain / open spec` | `Last commit: 2010 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Avalon Interface Specifications](https://www.intel.com/content/www/us/en/docs/programmable/683091/current/introduction-to-the-interface-specifications.html)** — Altera/Intel Avalon-MM / Avalon-ST spec. Royalty-free for use on Intel FPGAs.
   `License: Intel publishes royalty-free` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[TileLink](https://www.sifive.com/documentation/tilelink/tilelink-spec)** — SiFive's open cache-coherent SoC interconnect; used by RocketChip / BOOM. Spec also at [chipsalliance/tilelink](https://github.com/chipsalliance/tilelink). <!-- needs URL verification -->
+- **[TileLink](https://www.sifive.com/documentation/tilelink/tilelink-spec)** — SiFive's open cache-coherent SoC interconnect; used by RocketChip / BOOM. Spec also at [chipsalliance/tilelink](https://github.com/chipsalliance/tilelink).
   `License: Apache-2.0 (spec)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OCP (Open Core Protocol)](https://accellera.org/community/ocp)** — Accellera-hosted bus protocol used in some legacy SoCs.
   `License: Accellera open spec` | `Last commit: 2013 (legacy)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
@@ -31,11 +31,11 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 
 ## Physical / Backend File Formats
 
-- **[GDSII format](https://boolean.klaasholwerda.nl/interface/bnf/gdsformat.html)** — Calma GDSII stream format, the de-facto mask-data exchange format. <!-- needs URL verification -->
+- **[GDSII format](https://boolean.klaasholwerda.nl/interface/bnf/gdsformat.html)** — Calma GDSII stream format, the de-facto mask-data exchange format.
   `License: Open spec (Calma legacy)` | `Last commit: n/a (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
 - **[LEF / DEF reference](https://www.si2.org/openeda.si2.org/projects/lefdef)** — Library Exchange Format / Design Exchange Format for physical design.
   `License: Si2 open license` | `Last commit: 2017 (still in use)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
-- **[Liberty (.lib) reference](https://opensource.org/licenses/MIT)** — Standard cell timing/power model format, hosted by Si2 (CCS / Liberty Technical Advisory Board). <!-- needs URL verification -->
+- **[Liberty (.lib) reference](https://si2.org/oa-tools-utils-libs-2/)** — Standard cell timing/power model format, hosted by Si2 (CCS / Liberty Technical Advisory Board).
   `License: Si2 open license` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
 - **[SPEF (IEEE 1481)](https://standards.ieee.org/ieee/1481/3866/)** — Standard Parasitic Exchange Format for back-annotation.
   `License: IEEE paywall` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*

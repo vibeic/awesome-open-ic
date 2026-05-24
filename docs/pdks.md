@@ -24,5 +24,3 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
 
 ## Specialty PDKs
 
-- **Wenzhou SiC PDK** — Open SiC power-device PDK released through the Wenzhou semiconductor program. TBD <!-- needs URL verification -->
-  `License: TBD` | `Last commit: TBD` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

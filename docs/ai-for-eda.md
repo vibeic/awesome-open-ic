@@ -11,7 +11,7 @@ Where machine learning meets chip design. This category covers LLM-driven assist
 
 - **[ChipNeMo paper](https://arxiv.org/abs/2311.00176)** — NVIDIA's domain-adapted LLM trained on chip-design corpora. Reference for adaptation techniques.
   `License: Paper (arXiv)` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
-- **[GPT4DA paper](https://arxiv.org/abs/2401.12224)** — Survey + experiments on applying GPT-class LLMs to design automation. <!-- needs URL verification -->
+- **[GPT4DA paper](https://arxiv.org/abs/2401.12224)** — Survey + experiments on applying GPT-class LLMs to design automation.
   `License: Paper (arXiv)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[ChatEDA paper](https://arxiv.org/abs/2308.10204)** — LLM-driven EDA flow orchestration agent — task planning → tool calling → flow execution.
   `License: Paper (arXiv)` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
