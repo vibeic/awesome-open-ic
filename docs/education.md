@@ -17,7 +17,83 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
 - **[Christopher Batten ECE 5745](https://www.csl.cornell.edu/courses/ece5745/)** — Cornell's complex digital ASIC design course, OpenROAD-based labs.
   `License: Open courseware` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 
+## Online Courses (MOOCs)
+
+- **[Coursera — Computer Architecture (Princeton)](https://www.coursera.org/learn/comparch)** — David Wentzlaff's advanced computer-architecture MOOC; 21 modules, free audit, RISC-V / pipelining / cache hierarchy.
+  `License: Free audit, paid certificate` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Coursera — VLSI CAD Part I: Logic (UIUC)](https://www.coursera.org/learn/vlsi-cad-logic)** — Rob Rutenbar's Boolean-algebra / BDD / SAT / logic-synthesis course; 4.8★, free audit, 6 modules.
+  `License: Free audit, paid certificate` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Tiny Tapeout — Digital Design Guide](https://tinytapeout.com/digital_design/)** — Quicker, easier, cheaper way into your own chip. Wokwi-based teaching path used by the Tiny Tapeout shuttle community.
+  `License: Open educational materials` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Nand2Tetris](https://www.nand2tetris.org/)** — Build a complete computer from NAND gates up through an OS, in two free courses. Taught at 400+ schools.
+  `License: Free / open-source educational materials` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[NPTEL — Computer Architecture and Organization (IIT Kharagpur)](https://nptel.ac.in/courses/106105163)** — Prof. Indranil Sengupta & Prof. Kamalika Datta. Free NPTEL video course on architecture fundamentals.
+  `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[NPTEL — Digital System Design (IIT Ropar)](https://nptel.ac.in/courses/108106177)** — Prof. Neeraj Goel. Free NPTEL course on digital design and Verilog.
+  `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+
+## University Open Courseware
+
+- **[MIT OCW 6.004 — Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)** — Chris Terman's full course on digital systems architecture, with lecture videos, slides, worksheets and programming assignments.
+  `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[MIT OCW 6.111 — Introductory Digital Systems Laboratory](https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-spring-2006/)** — Anantha Chandrakasan's classic FPGA / Verilog course with full lab project archive.
+  `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Cambridge ECAD and Architecture Practical Classes](https://www.cl.cam.ac.uk/teaching/2122/ECAD+Arch/)** — Department of Computer Science and Technology Part IB SystemVerilog / FPGA labs.
+  `License: Open courseware (Cambridge)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+
 ## Free Books
 
 - **[Memory Systems: Cache, DRAM, Disk — Bruce Jacob](https://www.elsevier.com/books/memory-systems/jacob/978-0-12-379751-3)** — Comprehensive memory-systems textbook; free PDF available through several university mirrors.
   `License: Free PDF (publisher / mirrors)` | `Last commit: 2007 (canonical reference)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — book*
+
+## Free Books & References
+
+- **[Digital Design and Computer Architecture, RISC-V Edition (companion site)](https://pages.hmc.edu/harris/ddca/ddcarv.html)** — David & Sarah Harris. Companion site with sample chapters, slides, lab handouts, and errata. *Commercial book — full text via publisher / Amazon.*
+  `License: Commercial book; free companion materials` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Harris & Harris — DDCA companion hub](https://pages.hmc.edu/harris/ddca/)** — Top-level index for all DDCA editions (2nd, ARM, RISC-V) with lab kits and slide decks.
+  `License: Commercial book; free companion materials` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[RISC-V Ratified Specifications](https://riscv.org/technical/specifications/)** — Official RISC-V ISA and non-ISA specifications, freely downloadable. Essential reference for any RISC-V implementer.
+  `License: CC BY 4.0 (RISC-V International)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ChipVerify — Verilog Cheat Sheet & Quick Refresher](https://www.chipverify.com/verilog/verilog-cheatsheet)** — Compact reference card for Verilog syntax, datatypes, operators and control flow.
+  `License: Free tutorial / cheat sheet` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ChipVerify — SystemVerilog Cheat Sheet](https://www.chipverify.com/systemverilog/systemverilog-cheatsheet)** — Reference for SystemVerilog data types, interfaces, assertions and OOP additions over Verilog.
+  `License: Free tutorial / cheat sheet` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+
+## Reference Cards & Cheat Sheets
+
+- **[ChipVerify — Hardware Design Tutorial Hub](https://www.chipverify.com/)** — 7 structured courses, 700+ examples covering Verilog, SystemVerilog, UVM, RTL synthesis. Includes browser-based ChipVerify Lab with sky130 PDK.
+  `License: Free tutorial collection` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ASIC World — Verilog Tutorial](https://www.asic-world.com/verilog/veritut.html)** — Long-running comprehensive Verilog reference: gate-level, behavioural, testbench, synthesis, PLI. All examples Icarus-verified.
+  `License: Free online tutorial` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+
+## Video Series & YouTube
+
+- **[Asianometry (YouTube + Substack)](https://www.asianometry.com/)** — Jon Y's deep-dive documentary channel on the semiconductor industry, fab economics, lithography, and chip history. 41k+ Substack subscribers + companion YouTube.
+  `License: Free video / newsletter content` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ZipCPU — Blog & Verilog tutorials](https://zipcpu.com/)** — Active blog covering FPGA design, formal verification (SymbiYosys), Wishbone / AXI bus design, and DSP. "Learning by doing" code-and-verify ethos.
+  `License: Free blog content` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Nandland — FPGA tutorials by Russell Merrick](https://nandland.com/)** — Beginner-friendly tutorials, YouTube channel, "Getting Started with FPGAs" book and the Go Board dev kit.
+  `License: Free tutorials; commercial book / board` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[fpga4fun](https://www.fpga4fun.com/)** — Long-running FPGA project blog: music boxes, Pong / Breakout on FPGA, RS-232 / I2C / HDMI interfacing, soft-core CPUs.
+  `License: Free tutorials` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+
+## Hands-on Tutorials
+
+- **[HDLBits — practice Verilog problems](https://hdlbits.01xz.net/wiki/Main_Page)** — Browser-based Verilog problem set with built-in Icarus simulator; combinational / sequential / FSM / testbench problems from easy to hard.
+  `License: Free practice platform` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Caravel User Project (efabless)](https://github.com/efabless/caravel_user_project)** — Template for users participating in efabless MPW / chipIgnite shuttles; Apache 2.0, OpenLane-integrated, ReadTheDocs guide.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[OpenLane — Quick-start + tutorials](https://openlane.readthedocs.io/)** — Hands-on tutorials including hierarchical chip design with macros and OpenRAM integration. Step-by-step from RTL to GDSII.
+  `License: Apache-2.0 docs` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[OpenROAD-flow-scripts (ORFS)](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)** — Fully autonomous RTL-to-GDSII tutorial flow; Docker / pre-built / Bazel install paths; good entry point for trying a full PnR flow end-to-end.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Yosys — Getting Started docs](https://yosyshq.readthedocs.io/projects/yosys/en/latest/)** — Official walk-through of the Yosys synthesis flow: interactive shell, scripts, mapping to cell libraries; covers basic to advanced synthesis.
+  `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Chisel Bootcamp (freechipsproject)](https://github.com/freechipsproject/chisel-bootcamp)** — Interactive Jupyter / Binder bootcamp for the Chisel hardware description language; Berkeley RISC-V ecosystem on-ramp.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ZipCPU on GitHub — small RISC soft-core + tutorial scaffold](https://github.com/ZipCPU/zipcpu)** — Companion to the ZipCPU blog: a small, light-weight RISC CPU in Verilog with five-stage pipeline, Wishbone / AXI4 / AXI4-Lite support. Use as a real worked example.
+  `License: GPLv3 (commercial dual-license available)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[anasymod — FPGA emulation of mixed-signal systems](https://github.com/sgherbst/anasymod)** — Framework for running synthesizable analog models alongside digital Verilog / VHDL on FPGA; great hands-on entry to mixed-signal HDL.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[PeakRDL — SystemRDL register generator toolchain](https://github.com/SystemRDL/PeakRDL)** — Hands-on tutorial path for learning CSR generation: SystemRDL 2.0 -> SystemVerilog / C headers / UVM / IP-XACT. Great for "how do real chips manage registers" study.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

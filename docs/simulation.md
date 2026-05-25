@@ -2,21 +2,47 @@
 
 Digital, analog, and mixed-signal simulators plus waveform viewers.
 
-## Digital Simulation
+## Digital Simulators (Verilog / SystemVerilog)
 
 - **[Icarus Verilog](https://github.com/steveicarus/iverilog)** — Event-driven Verilog simulator. The default lightweight tool for compiling and running Verilog testbenches.
   `License: GPL-2.0 / LGPL` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_simulate`*
 - **[Verilator](https://github.com/verilator/verilator)** — Translates Verilog/SystemVerilog to optimized C++ or SystemC; the fastest open-source HDL simulator.
-  `License: LGPL-3.0 / Artistic-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_lint` (lint mode)*
+  `License: LGPL-3.0 / Artistic-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_lint` (lint mode)*
+- **[Surelog](https://github.com/chipsalliance/Surelog)** — SystemVerilog 2017 pre-processor, parser and elaborator. Produces UHDM output consumable by Yosys, Verilator and custom analysis tools.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UHDM](https://github.com/chipsalliance/UHDM)** — Universal Hardware Data Model: IEEE SystemVerilog object model with VPI interface used as the compiled interchange format between Surelog and downstream tools.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Yosys (CXXRTL backend)](https://github.com/YosysHQ/yosys)** — The CXXRTL backend in Yosys compiles synthesizable RTL to standalone C++ that runs without a separate simulator kernel; useful for embedded co-simulation.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_synth` (synthesis mode)*
+
+## VHDL Simulators
+
 - **[GHDL](https://github.com/ghdl/ghdl)** — Open-source VHDL analyzer + simulator. Used with GTKWave for VHDL-based flows.
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NVC](https://github.com/nickg/nvc)** — Modern VHDL compiler and simulator with LLVM JIT backend; supports VHDL-2008 and partial VHDL-2019.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MyHDL](https://github.com/myhdl/myhdl)** — Python-based hardware description and verification framework that converts to Verilog or VHDL; co-simulates against Icarus / GHDL.
+  `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
-## Analog & Mixed-Signal Simulation
+## Analog / SPICE
 
 - **[ngspice](https://sourceforge.net/projects/ngspice/)** — Open-source mixed-mode / mixed-level circuit simulator, the SPICE-3f5 successor.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_spice`, `eda_spice_corner`*
 - **[Xyce](https://github.com/Xyce/Xyce)** — Sandia National Laboratories' open-source parallel circuit simulator. Handles very large networks.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Qucs-S](https://github.com/ra3xdh/qucs_s)** — Qt-based schematic capture frontend that drives ngspice, Xyce, Qucsator-RF or SPICE OPUS as simulation backends.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GNUcap](https://github.com/gnucap/gnucap)** — General-purpose circuit simulator with plugin architecture, supports event-driven analog simulation. Read-only mirror of the upstream tree.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Mixed-Signal / Co-simulation
+
+- **[cocotb](https://github.com/cocotb/cocotb)** — Python-based coroutine cosimulation library for digital RTL; drives Icarus, Verilator, GHDL, NVC and commercial simulators via VPI/VHPI/FLI.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_cocotb`*
+- **[dromajo](https://github.com/chipsalliance/dromajo)** — RISC-V RV64GC ISA emulator designed for RTL co-simulation; lock-step checks RTL traces against a golden model.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Spike (riscv-isa-sim)](https://github.com/riscv-software-src/riscv-isa-sim)** — The official RISC-V golden-reference ISA simulator; co-simulated with RTL for trace comparison and SAIL alignment.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
@@ -24,6 +50,30 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Surfer](https://gitlab.com/surfer-project/surfer)** — Modern Rust-based waveform viewer with TUI / web / native frontends.
   `License: EUPL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[WaveDrom](https://github.com/wavedrom/wavedrom)** — JSON-driven digital timing diagram renderer; the de-facto standard for embedding waveform diagrams in datasheets and READMEs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Konata](https://github.com/shioyadan/Konata)** — Instruction-pipeline visualizer for Onikiri2-Kanata and gem5 O3PipeView traces; visualizes per-cycle pipeline state for CPU bring-up.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PulseView](https://github.com/sigrokproject/pulseview)** — Qt-based logic-analyzer/oscilloscope frontend for the sigrok backend; reads protocol-decoded traces from real hardware.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## High-Performance Simulation
+
+- **[ESSENT](https://github.com/ucsc-vama/essent)** — High-performance RTL simulator that consumes FIRRTL and emits aggressively-optimized C++; targets Chisel-generated designs.
+  `License: BSD-style (see repo)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FireSim](https://github.com/firesim/firesim)** — FPGA-accelerated cycle-exact full-system simulation for ASIC designs, runs on on-prem FPGAs or AWS F1/F2 instances.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gem5](https://github.com/gem5/gem5)** — Cycle-level computer-system architecture simulator covering CPU, memory, devices and full-system boot; widely used for pre-RTL architectural exploration.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Snitch cluster](https://github.com/pulp-platform/snitch_cluster)** — PULP-platform energy-efficient RISC-V FP compute cluster with a self-contained Verilator-based simulation flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Simulation Orchestration
+
+- **[FuseSoC](https://github.com/olofk/fusesoc)** — Package manager and build abstraction for FPGA/ASIC IP cores; drives a dozen simulators and synthesis tools from a single CAPI core description.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Edalize](https://github.com/olofk/edalize)** — Python abstraction library used by FuseSoC to interface with EDA tools (Verilator, Icarus, Vivado, Quartus, OpenLane, ModelSim, ...).
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 

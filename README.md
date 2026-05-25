@@ -1,8 +1,10 @@
 # Awesome Open IC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> A curated, MCP-aware map of open-source IC design — from RTL all the way to silicon.
+> All open-source resources for IC design.
 
-This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. Entries that have been wrapped as a Model Context Protocol (MCP) tool by [vibeic/vibe-ic](https://github.com/vibeic/vibe-ic) are marked with a green badge so AI agents can call them directly.
+This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **407 curated entries across 12 categories and 101 sub-sections** — every URL and license verified at the time of inclusion.
+
+Entries that have been wrapped as a Model Context Protocol (MCP) tool by [vibeic/vibe-ic](https://github.com/vibeic/vibe-ic) are marked with a green badge so AI agents can call them directly.
 
 ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) = available as an MCP tool today.
 ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) = contribution wanted — wrap this in `mcp-eda-server`.

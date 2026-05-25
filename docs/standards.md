@@ -39,3 +39,60 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Si2 open license` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
 - **[SPEF (IEEE 1481)](https://standards.ieee.org/ieee/1481/3866/)** — Standard Parasitic Exchange Format for back-annotation.
   `License: IEEE paywall` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
+
+## Open Specs (RISC-V)
+
+- **[RISC-V Debug Specification](https://github.com/riscv/riscv-debug-spec)** — Ratified external debug spec (DTM, DMI, halt/resume, abstract commands). Required for OpenOCD targets.
+  `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Bit-Manipulation Extension (B)](https://github.com/riscv/riscv-bitmanip)** — Ratified Zb* extensions (Zba/Zbb/Zbc/Zbs) for bit-manipulation instructions.
+  `License: CC-BY-4.0` | `Last commit: 2021 (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## Bus & Interconnect
+
+- **[TileLink (CHIPS Alliance impl)](https://github.com/chipsalliance/tilelink)** — Hardware IP generators implementing the SiFive TileLink spec (cache-coherent SoC interconnect for RocketChip / BOOM).
+  `License: Apache-2.0 (impl) / SiFive-owned spec` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[OCP-IP (Open Core Protocol)](https://accellera.org/community/ocp)** — Legacy Accellera-hosted SoC bus protocol; still referenced in older IP packages.
+  `License: Accellera open spec` | `Last commit: 2013 (legacy)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## EDA File Formats
+
+- **[OASIS layout format](https://en.wikipedia.org/wiki/OASIS_(Open_Artwork_System_Interchange_Standard))** — SEMI P39 successor to GDSII, 10-50x smaller files; supported by KLayout, Calibre, Magic.
+  `License: SEMI open spec` | `Last commit: 2024 (P39 active)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[SDF — Standard Delay Format (IEEE 1497)](https://standards.ieee.org/standard/1497-2001.html)** — Textual delay/timing back-annotation format; consumed by gate-level sim and STA.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2001 (inactive-reserved, IEC 61523-3 dual logo)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[OpenAccess (Si2)](http://si2.org/openaccess/)** — Reference EDA database / API for interoperable physical design tools (member-only redistribution).
+  `License: Si2 OpenAccess Coalition (membership)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[OpenROAD OpenDB / ODB](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/odb)** — BSD-licensed open EDA database for physical design (LEF/DEF 5.6 based), powers OpenROAD flow.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## HDL Languages
+
+- **[IEEE 1364-2005 Verilog](https://standards.ieee.org/standard/1364-2005.html)** — Final Verilog-only standard before merger into 1800; still cited by legacy tools and PDKs.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2005` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1800-2017 SystemVerilog](https://standards.ieee.org/standard/1800-2017.html)** — Unified HDL/HVL standard widely supported by Verilator / Yosys / commercial sim.
+  `License: Paywalled spec (IEEE; free via Accellera/IEEE GET for 1800-2023)` | `Last commit: 2017` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1076-2019 VHDL](https://standards.ieee.org/standard/1076-2019.html)** — Current VHDL LRM (supersedes 1076-2008); used by GHDL + commercial flows.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## Verification Methodology
+
+- **[UVM — Accellera reference impl (IEEE 1800.2-2020)](https://github.com/accellera-official/uvm-core)** — Universal Verification Methodology SystemVerilog library; aligns with IEEE 1800.2.
+  `License: Apache-2.0 (impl); IEEE 1800.2 spec free via IEEE GET` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[SystemC (IEEE 1666-2023) — Accellera](https://accellera.org/downloads/standards/systemc)** — C++ class library for system-level / TLM modeling; IEEE 1666 free via IEEE GET courtesy Accellera.
+  `License: Apache-2.0 (impl) / IEEE 1666 free spec` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1685-2014 IP-XACT](https://standards.ieee.org/standard/1685-2014.html)** — XML schema for packaging/integrating/reusing IP across tool flows; used by Kactus2.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2014 (superseded by 1685-2022)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## DFT & JTAG
+
+- **[IEEE 1149.1-2013 JTAG / Boundary-Scan](https://standards.ieee.org/ieee/1149.1/4484/)** — Test Access Port + boundary-scan architecture; foundation of every TAP controller in modern ICs.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2013` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1500-2022 SECT (embedded core test)](https://standards.ieee.org/standard/1500-2022.html)** — Testability method for embedded cores in SoC; defines wrapper + CTL test language.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+
+## Power & Low-Power Intent
+
+- **[IEEE 1801-2018 UPF (Unified Power Format)](https://standards.ieee.org/standard/1801-2018.html)** — Low-power intent + power-aware verification; free PDF via IEEE GET program.
+  `License: Free via IEEE GET program` | `Last commit: 2018 (superseded by 1801-2024)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[Switching Activity Interchange Format (SAIF)](https://en.wikipedia.org/wiki/Switching_Activity_Interchange_Format)** — De-facto activity-vector format for power analysis; produced by sim, consumed by power tools.
+  `License: Public spec (de-facto, Synopsys-originated)` | `Last commit: n/a (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*

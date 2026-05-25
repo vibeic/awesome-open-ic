@@ -8,15 +8,94 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: Hardware (commercially available)` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_fpga_compile`, `eda_fpga_program`, `eda_fpga_adc_read`*
 - **[DE10-Nano (Terasic)](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046)** — Intel Cyclone V SoC FPGA + dual-core ARM Cortex-A9; popular for Linux + FPGA prototyping.
   `License: Hardware (commercially available)` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[ULX3S](https://github.com/emard/ulx3s)** — Fully open-source ECP5-based FPGA board, open-tools friendly (Yosys + nextpnr).
-  `License: CERN-OHL-S-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[Tang Nano FPGA](https://wiki.sipeed.com/hardware/en/tang/tang-nano/Nano.html)** — Sipeed's low-cost Gowin GW1N FPGA board, great for hobbyist projects.
-  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
-## Silicon Test Vehicles
+## Lattice iCE40 (fully open toolchain)
 
-- **[Caravel chip](https://github.com/efabless/caravel)** — eFabless Caravel chassis chip used by Open MPW shuttles. Carries your user_project area to silicon.
-  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
+
+- **[iCEBreaker](https://github.com/icebreaker-fpga/icebreaker)** — Low-cost iCE40 UP5K educational/dev board; designed for the open Yosys+nextpnr toolchain. Hardware design files in repo (project mirrored to Codeberg).
+  `License: Open hardware (see repo)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[TinyFPGA BX](https://github.com/tinyfpga/TinyFPGA-BX)** — Tiny iCE40LP8K-CM81 board (7,680 LUTs, 41 user IOs), USB-bootloader friendly.
+  `License: CERN-OHL-1.2` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Fomu](https://github.com/im-tomu/fomu-hardware)** — iCE40 UP5K board that fits inside a USB port (5K LUTs, 128KB SRAM). Open hardware.
+  `License: CC BY-SA 4.0 / TAPR OHL` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+
+## Lattice ECP5 (fully open toolchain)
+
+Yosys + nextpnr-ecp5 + prjtrellis = open bitstream flow.
+
+- **[ULX3S](https://github.com/emard/ulx3s)** — Fully open-source ECP5 FPGA board (12/25/45/85K LUT variants); first-class target for Yosys + nextpnr.
+  `License: MIT (modified)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)** — Feather-form-factor ECP5-25F/85F board (csfBGA285); OSHWA-certified.
+  `License: CERN-OHL-1.2 (hw) / MIT (gateware)` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+
+## Intel/Altera
+
+Quartus required for synthesis/bitstream, but RTL and constraint files can be authored with open tools.
+
+- **[Tang Primer 20K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/primer-20k.html)** — Note: vendor calls this "Tang Primer" but it ships a Gowin GW2A-18 (20,736 LUT4, 828Kb BSRAM, 128M DDR3) — listed here for completeness near the larger eval-board class; Gowin toolchain required.
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+
+## Xilinx
+
+Open-source projects (e.g. F4PGA / Project X-Ray) reverse-engineer the 7-series bitstream, but Vivado is still the mainstream flow.
+
+- **[Nexys A7](https://digilent.com/shop/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/)** — Artix-7 XC7A100T-1CSG324C trainer board (15,850 slices, 4,860 Kbit BRAM); widely used in university curricula.
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform — Vivado required for bitstream*
+- **[PYNQ](https://github.com/Xilinx/PYNQ)** — Xilinx's Python-on-Zynq framework, with image support for Pynq-Z1/Z2 and other Zynq-7000 / Zynq UltraScale+ boards.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform — Vivado required for HDL flow*
+- **[Project X-Ray (prjxray)](https://github.com/SymbiFlow/prjxray)** — Documents the Xilinx 7-series bitstream format; foundation for F4PGA/SymbiFlow open flows on Artix/Kintex/Zynq.
+  `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — toolchain enabler for Xilinx boards*
+- **[F4PGA Architecture Definitions](https://github.com/SymbiFlow/symbiflow-arch-defs)** — Open FPGA architecture definitions covering iCE40, ECP5, Xilinx 7-series (Artix/Kintex/Zynq) and QuickLogic.
+  `License: ISC / Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — toolchain enabler*
+
+## Gowin (partial open)
+
+apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target Gowin parts.
+
+- **[Tang Nano (GW1N)](https://wiki.sipeed.com/hardware/en/tang/tang-nano/Nano.html)** — Sipeed's low-cost Gowin GW1N FPGA board; great hobby entry, apicula support.
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Tang Nano 4K](https://wiki.sipeed.com/hardware/zh/tang/Tang-Nano-4K/Nano.html)** — Sipeed Tang Nano 4K with Gowin GW1NSR-LV4CQN48 (4,608 LUTs, Cortex-M3 hard core, PSRAM).
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)** — Sipeed Tang Nano 9K with Gowin GW1NR-LV9QN88PC6 (8,640 LUTs, on-board 27 MHz, 2 PLLs).
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Tang Nano 20K](https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html)** — Sipeed Tang Nano 20K with Gowin GW2AR-LV18QN88C8 (20,736 LUT4, 48 multipliers); popular for RISC-V softcore demos.
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Tang Nano examples](https://github.com/sipeed/Tang-Nano-examples)** — Sipeed-curated example projects for the Tang Nano family (RGB LED, RGB LCD, etc.).
+  `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — example sources*
+
+## RISC-V Single-Board Computers
+
+- **[SiFive Freedom (HiFive Unleashed / Unmatched RTL)](https://github.com/sifive/freedom)** — RTL for the Freedom E300 (Arty-targeted) and U500 (VC707-targeted) reference SoCs. Repo archived 2021 but still a canonical reference.
+  `License: Apache-2.0` | `Last commit: 2021 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[SiFive Freedom U SDK (FUSDK)](https://github.com/sifive/freedom-u-sdk)** — OpenEmbedded/Yocto SDK targeting HiFive Unleashed, HiFive Unmatched, and qemuriscv64.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — software SDK for HiFive boards*
+- **[StarFive VisionFive 2](https://github.com/starfive-tech/VisionFive2)** — Build environment + cross-toolchain for the JH7110-based RISC-V SBC (5-core RV64GC).
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[BeagleV-Fire](https://www.beagleboard.org/boards/beaglev-fire)** — Microchip PolarFire MPFS025T SoC (1x E51 monitor + 4x U54-MC application cores, 667 MHz) with FPGA fabric.
+  `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Sipeed MaixDuino (Kendryte K210)](https://github.com/sipeed/MaixDuino)** — Arduino core for K210-based boards (dual-core RV64GC + neural-net accelerator).
+  `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware/software stack*
+
+## ASIC Test Vehicles (Caravel / Tiny Tapeout)
+
+- **[Caravel chip](https://github.com/efabless/caravel)** — eFabless Caravel chassis SoC used by every Open MPW shuttle. Carries your `user_project` area (~2.92mm x 3.52mm) to silicon on Sky130, with 38 IO pads and 128 LA probes.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
+- **[Caravel user_project template](https://github.com/efabless/caravel_user_project)** — Skeleton repo for new Caravel designs (Verilog, GDS/LEF/DEF, OpenLane configs, signoff CI).
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — design template*
+- **[Caravel evaluation board](https://github.com/efabless/caravel_board)** — Schematics, layout, gerbers, firmware, and diagnostics for the Caravel/chipIgnite evaluation PCB (10 MHz clock, 1.8V/3.3V regulators).
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
+- **[Tiny Tapeout](https://tinytapeout.com/)** — Educational shared-shuttle service that aggregates many small user designs onto one chip; runs on Sky130, IHP, GF processes.
+  `License: Project — designs Apache-2.0` | `Last commit: 2025 (active program)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle program*
+- **[Tiny Tapeout 09 shuttle](https://github.com/TinyTapeout/tinytapeout-09)** — TT09 shuttle aggregate: GDS, Verilog, mux architecture, signoff for all participant designs.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
+- **[Microwatt](https://github.com/antonblanchard/microwatt)** — Tiny open POWER ISA softcore (VHDL 2008); tested on Arty A7, Nexys Video, OrangeCrab, ButterStick (Caravel port also exists in community forks).
+  `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon/FPGA softcore reference*
+
+## Test & Measurement Boards (FPGA-based)
+
+- **[Glasgow Interface Explorer](https://github.com/GlasgowEmbedded/glasgow)** — FPGA-based multi-protocol interface tool ("Scots Army Knife for electronics"); SPI/I2C/JTAG/SWD/UART/USB/etc. with Python control plane.
+  `License: 0BSD / Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — instrumentation*
 
 ## RF / SDR
 
