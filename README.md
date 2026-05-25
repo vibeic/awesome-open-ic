@@ -1,6 +1,6 @@
 # Awesome Open IC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> All open-source resources for IC design.
+> A curated list of open-source resources for IC design.
 
 This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **407 curated entries across 12 categories and 101 sub-sections** — every URL and license verified at the time of inclusion.
 
