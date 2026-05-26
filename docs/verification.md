@@ -97,6 +97,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[core-v-verif](https://github.com/openhwgroup/core-v-verif)** — OpenHW Group SV/UVM functional verification environment for the CORE-V RISC-V cores.
   `License: SHL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[force-riscv](https://github.com/openhwgroup/force-riscv)** — Constrained-random RISC-V instruction-stream generator for processor verification, contributed to OpenHW Group by Futurewei.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

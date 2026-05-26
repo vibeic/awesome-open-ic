@@ -315,3 +315,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: LGPL-3.0 / MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Veryl](https://github.com/veryl-lang/veryl)** — Modern hardware description language that transpiles to SystemVerilog, with built-in linting and formatting.
   `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Migen](https://github.com/m-labs/migen)** — Python toolbox (FHDL) for describing and generating synthesizable digital hardware; the synthesis foundation of the MiSoC and LiteX SoC ecosystem.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
