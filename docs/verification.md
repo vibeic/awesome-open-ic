@@ -18,6 +18,14 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_cocotb`*
 - **[cocotbext-axi](https://github.com/alexforencich/cocotbext-axi)** — AXI / AXI-lite / AXI-stream / APB master, slave and RAM models for cocotb verification.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-eth](https://github.com/alexforencich/cocotbext-eth)** — Ethernet MAC, GMII, RGMII, XGMII and PTP interface models for cocotb testbenches.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-pcie](https://github.com/alexforencich/cocotbext-pcie)** — PCI Express simulation framework with root-complex and endpoint models for cocotb.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-spi](https://github.com/schang412/cocotbext-spi)** — SPI bus master and peripheral models for cocotb, with configurable CPOL/CPHA modes.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-wishbone](https://github.com/wallento/cocotbext-wishbone)** — Wishbone bus master and slave models for driving cocotb verification environments.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -25,6 +33,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChiselVerify](https://github.com/chiselverify/chiselverify)** — Dynamic verification library for Chisel: functional coverage, constrained random, BFMs, approximate-design checks.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SVUnit](https://github.com/svunit/svunit)** — Unit-testing framework for SystemVerilog and UVM modules, classes and interfaces, with a JUnit-style runner.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -47,6 +57,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ABC](https://github.com/berkeley-abc/abc)** — Berkeley's sequential logic synthesis + formal equivalence/model-checking engine; back-end for Yosys flows.
   `License: BSD-style` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_equiv`*
+- **[Pono](https://github.com/stanford-centaur/pono)** — SMT-based model checker (BMC, k-induction, IC3/PDR, interpolation) built on smt-switch; reads BTOR2 and Verilog transition systems.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AVR](https://github.com/aman-goel/avr)** — Word-level IC3/PDR model checker that reads BTOR2 transition systems and performs safety-property checking.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -54,6 +68,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_formal`*
 - **[Bitwuzla](https://github.com/Bitwuzla/bitwuzla)** — Successor to Boolector — SMT solver for bit-vectors, FP, arrays and UF; used in HW formal flows.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Yices 2](https://github.com/SRI-CSL/yices2)** — SRI International SMT solver supporting bit-vectors, arrays and linear arithmetic; an alternate back-end for HW model checkers.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Btor2Tools](https://github.com/hwmcc/btor2tools)** — Parser, simulator and witness checker for the BTOR2 word-level model-checking format emitted by Yosys.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

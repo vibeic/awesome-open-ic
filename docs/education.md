@@ -31,6 +31,10 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[NPTEL — Digital System Design (IIT Ropar)](https://nptel.ac.in/courses/108106177)** — Prof. Neeraj Goel. Free NPTEL course on digital design and Verilog.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[NPTEL — VLSI Circuits (IIT Madras)](https://nptel.ac.in/courses/117106092)** — Prof. S. Srinivasan. Free NPTEL video course on VLSI circuit design.
+  `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[NPTEL — Hardware Modeling using Verilog (IIT Kharagpur)](https://nptel.ac.in/courses/106105165)** — Prof. Indranil Sengupta. Free NPTEL course on hardware modeling and digital design with Verilog.
+  `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## University Open Courseware
 
@@ -40,6 +44,14 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Cambridge ECAD and Architecture Practical Classes](https://www.cl.cam.ac.uk/teaching/2122/ECAD+Arch/)** — Department of Computer Science and Technology Part IB SystemVerilog / FPGA labs.
   `License: Open courseware (Cambridge)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[MIT OCW 6.374 — Analysis and Design of Digital Integrated Circuits](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/)** — Anantha Chandrakasan's graduate course on MOS models, circuit design styles, energy consumption, and memory architectures, with downloadable lecture notes.
+  `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[MIT OCW 6.012 — Microelectronic Devices and Circuits](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-spring-2009/)** — Course on semiconductor junction / MOS device physics and basic analog + digital circuit analysis; full downloadable lecture notes.
+  `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[UC Berkeley EECS151 — Introduction to Digital Design and Integrated Circuits](https://inst.eecs.berkeley.edu/~eecs151/)** — Berkeley's digital-design + IC course covering RTL, FPGA and ASIC implementation, with open lecture and lab materials.
+  `License: Open courseware (Berkeley)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Cornell ECE5760 — Hardware Acceleration via FPGA](https://people.ece.cornell.edu/land/courses/ece5760/)** — Bruce Land's FPGA hardware-accelerator and SoC course; freely available YouTube lectures, four detailed lab assignments, and Verilog/Quartus design examples.
+  `License: Open courseware (Cornell)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Free Books
 
@@ -58,6 +70,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Free tutorial / cheat sheet` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ChipVerify — SystemVerilog Cheat Sheet](https://www.chipverify.com/systemverilog/systemverilog-cheatsheet)** — Reference for SystemVerilog data types, interfaces, assertions and OOP additions over Verilog.
   `License: Free tutorial / cheat sheet` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Free Range VHDL (book + LaTeX source)](https://github.com/fabriziotappero/Free-Range-VHDL-book)** — Open-access introductory-to-intermediate VHDL textbook (14 chapters) for digital design, with full LaTeX source and a free PDF.
+  `License: CC-BY-SA-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
@@ -97,3 +111,9 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[PeakRDL — SystemRDL register generator toolchain](https://github.com/SystemRDL/PeakRDL)** — Hands-on tutorial path for learning CSR generation: SystemRDL 2.0 -> SystemVerilog / C headers / UVM / IP-XACT. Great for "how do real chips manage registers" study.
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[learn-fpga (Bruno Levy)](https://github.com/BrunoLevy/learn-fpga)** — Progressive from-scratch tutorials for FPGA, Yosys, nextpnr and building RISC-V soft-cores (the FemtoRV / TinyRaytracer series).
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[vsdstdcelldesign — custom standard-cell workshop](https://github.com/nickson-jose/vsdstdcelldesign)** — Step-by-step VSD workshop on designing a sky130 CMOS inverter in Magic, extracting a LEF, and plugging the custom cell into an OpenLane RTL-to-GDSII flow.
+  `License: Apache-2.0` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[cae-lab (Digital Design with Chisel labs)](https://github.com/schoeberl/cae-lab)** — Lab material accompanying Martin Schoeberl's Computer Architecture and Engineering course and the open "Digital Design with Chisel" book.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

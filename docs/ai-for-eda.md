@@ -22,6 +22,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[ALADDIN](https://github.com/harvard-acc/ALADDIN)** — Pre-RTL power/performance/area simulator for fixed-function accelerators (with gem5 integration), useful as a training oracle for ML-PPA predictors.
   `License: Open-source (see repo)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[OpenROAD-Assistant](https://github.com/OpenROAD-Assistant/OpenROAD-Assistant)** — Fine-tuned LLM chatbot for OpenROAD physical design with separate QA and TCL-script adapters, RAG databases, and pre-trained models published on Hugging Face.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTLFixer](https://github.com/NVlabs/RTLFixer)** — NVIDIA's runnable RAG + ReAct agent that auto-repairs syntax errors in LLM-generated Verilog (code release for the RTLFixer paper).
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -55,6 +59,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[DREAMPlace](https://github.com/limbo018/DREAMPlace)** — GPU-accelerated analytical placer cast as a deep-learning training loop; ~30× speedup vs CPU global placement.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[MaskPlace paper](https://arxiv.org/abs/2211.13382)** — NeurIPS 2022 RL placer that recasts macro placement as pixel-level visual representation learning, reporting 60-90% wirelength reduction with zero overlaps (companion code at github.com/laiyao1/maskplace).
+  `License: arXiv preprint` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[ChiPFormer paper](https://arxiv.org/abs/2306.14744)** — ICML 2023 offline-RL placer using a decision transformer to learn a transferable placement policy, reporting ~10× runtime improvement across 32 circuits (companion code at github.com/laiyao1/ChiPFormer).
+  `License: arXiv preprint` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 
 ## Research Papers (LLM × EDA)
 
@@ -92,6 +100,22 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Paper (arXiv)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[Chip Placement with Deep RL](https://arxiv.org/abs/2004.10746)** — Foundational Google paper (Mirhoseini et al.) that recast macro placement as RL; basis for AlphaChip / Circuit Training.
   `License: Paper (arXiv)` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[MAGE paper](https://arxiv.org/abs/2412.07822)** — Multi-agent engine for RTL generation with high-temperature candidate sampling and an early-error checkpoint mechanism; reports 95.7% on VerilogEval-Human v2.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[CraftRTL paper](https://arxiv.org/abs/2409.12993)** — Synthetic-data method generating correct-by-construction non-textual representations (Karnaugh maps, state diagrams) plus targeted code-repair data for Verilog LLMs.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[AutoVCoder paper](https://arxiv.org/abs/2407.18333)** — Verilog-generation framework combining a hardware-dataset generator, two-round fine-tuning, and a domain-specific RAG mechanism.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[Make Every Move Count (MCTS RTL)](https://arxiv.org/abs/2402.03289)** — LLM RTL generation guided by Monte-Carlo tree search with lookahead in the decoder to cut compile failures and improve PPA.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[The Dawn of AI-Native EDA](https://arxiv.org/abs/2403.07257)** — Position paper proposing Large Circuit Models and multimodal circuit representation learning over specs, RTL, netlists, and layouts.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[Code LLMs for HLS hardware generation](https://arxiv.org/abs/2502.13921)** — Benchmark, infrastructure, and analysis for fine-tuned code LLMs generating High-Level-Synthesis hardware code with chain-of-thought prompting.
+  `License: arXiv preprint` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[AnalogCoder paper](https://arxiv.org/abs/2405.14918)** — Training-free LLM agent that designs analog circuits via Python code generation; designed 20 circuits vs 15 for standard GPT-4o (companion code at github.com/laiyao1/AnalogCoder).
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[Evolutionary LLMs for Hardware Security (survey)](https://arxiv.org/abs/2404.16651)** — Comparative survey of LLM approaches for detecting and auto-repairing security vulnerabilities in RTL designs.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 
 ## Bug-Fixing / Debug Agents
 

@@ -27,6 +27,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 - **[Free Silicon Foundation (F-Si)](https://wiki.f-si.org/)** — Swiss non-profit (est. 2018) advancing free/open-source EDA + silicon; runs the annual Free Silicon Conference.
   `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
+- **[Open Source Hardware Association (OSHWA)](https://www.oshwa.org/)** — US non-profit stewarding the Open Source Hardware Definition and running the open-hardware certification program (3000+ certified projects).
+  `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 
 ## Conferences
 
@@ -38,10 +40,18 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Free attendance` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 - **[RISC-V Summit](https://riscv.org/events/)** — RISC-V International's flagship summit series (North America, Europe, China, India); 2026 European edition June 8-12 in Bologna, Italy.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[WOSET](https://woset-workshop.github.io/)** — Workshop on Open-Source EDA Technology; community workshop coordinating efforts toward a fully open-source EDA toolchain, with published proceedings (2018-2024).
+  `License: Community resource` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[OSDA](https://osda.ws/)** — Workshop on Open-Source Design Automation, held in conjunction with the DATE conference; brings industrial, academic, and hobbyist actors together over open design-automation work.
+  `License: Community resource` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 
 ## Chat & Real-time Discussion
 
 - **[Tiny Tapeout Discord](https://discord.gg/qZHPrPsmt6)** — Active Discord for the Tiny Tapeout shuttle community; submission help, sky130/ihp130 PDK questions, post-silicon bring-up.
+  `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
+- **[RISC-V International Community](https://riscv.org/community/)** — Official community hub for RISC-V; links the public Slack workspace, forums, and technical committees/working groups.
+  `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
+- **[1BitSquared Community Chat](https://1bitsquared.com/pages/chat)** — Official chat hub for the 1BitSquared open-hardware community; hosts the #yosyshq channel for the Yosys/nextpnr open-source FPGA toolchain.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
 
 ## Forums & Q&A
@@ -61,6 +71,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Public reading` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
 - **[Zero to ASIC Newsletter](https://www.zerotoasiccourse.com/newsletter/)** — Matt Venn's newsletter on open-source IC design, Tiny Tapeout updates, and shuttle results.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
+- **[El Correo Libre](https://fossi-foundation.org/ecl/)** — FOSSi Foundation's monthly newsletter rounding up free/open-source silicon ecosystem news, projects, and events.
+  `License: Public reading` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
 
 ## YouTube & Podcasts
 

@@ -19,6 +19,8 @@ Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
   `License: CERN-OHL-1.2` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[Fomu](https://github.com/im-tomu/fomu-hardware)** — iCE40 UP5K board that fits inside a USB port (5K LUTs, 128KB SRAM). Open hardware.
   `License: CC BY-SA 4.0 / TAPR OHL` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[UPduino 3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)** — Low-cost iCE40 UP5K board (5,280 LUTs) in a breadboard-friendly form factor; full KiCad design files in the repo.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## Lattice ECP5 (fully open toolchain)
 
@@ -28,6 +30,12 @@ Yosys + nextpnr-ecp5 + prjtrellis = open bitstream flow.
   `License: MIT (modified)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[OrangeCrab](https://github.com/orangecrab-fpga/orangecrab-hardware)** — Feather-form-factor ECP5-25F/85F board (csfBGA285); OSHWA-certified.
   `License: CERN-OHL-1.2 (hw) / MIT (gateware)` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[ButterStick](https://github.com/butterstick-fpga/butterstick-hardware)** — ECP5-25F/45F/85F board (BGA381) with Gigabit Ethernet, USB 2.0 HS, and two SYZYGY connectors; OSHWA-certified open hardware.
+  `License: CERN-OHL-1.2` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[chubby75 (Colorlight 5A-75/RV901T reverse engineering)](https://github.com/q3k/chubby75)** — Pin-out and schematic documentation that turns low-cost Colorlight LED receiver cards (ECP5) into open-toolchain FPGA dev boards.
+  `License: CC0-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — board documentation*
+- **[colorlite](https://github.com/enjoy-digital/colorlite)** — LiteX/LiteEth gateware project that brings up the Colorlight 5A-75B/5A-75E ECP5 boards with the open Yosys+nextpnr flow.
+  `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware/bring-up reference*
 
 ## Intel/Altera
 
@@ -63,6 +71,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[Tang Nano examples](https://github.com/sipeed/Tang-Nano-examples)** — Sipeed-curated example projects for the Tang Nano family (RGB LED, RGB LCD, etc.).
   `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — example sources*
+- **[Tang Primer 25K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-25k/primer-25k.html)** — Sipeed Tang Primer 25K core board with Gowin GW5A-LV25 (23,040 LUT4, 1,008 Kb BSRAM, 28 multipliers, 6 PLLs); Gowin toolchain required (apicula support evolving).
+  `License: Docs (vendor) — board commercially available` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## RISC-V Single-Board Computers
 
@@ -76,6 +86,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[Sipeed MaixDuino (Kendryte K210)](https://github.com/sipeed/MaixDuino)** — Arduino core for K210-based boards (dual-core RV64GC + neural-net accelerator).
   `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware/software stack*
+- **[PolarFire SoC Icicle Kit reference design](https://github.com/polarfire-soc/icicle-kit-reference-design)** — Libero reference design for the Microchip PolarFire SoC Icicle Kit (MPFS250T, 1x E51 + 4x U54 RV64GC cores plus FPGA fabric); Tcl build scripts and HDL in repo.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon SoC + FPGA fabric reference*
 
 ## ASIC Test Vehicles (Caravel / Tiny Tapeout)
 
@@ -96,6 +108,12 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
 
 - **[Glasgow Interface Explorer](https://github.com/GlasgowEmbedded/glasgow)** — FPGA-based multi-protocol interface tool ("Scots Army Knife for electronics"); SPI/I2C/JTAG/SWD/UART/USB/etc. with Python control plane.
   `License: 0BSD / Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — instrumentation*
+- **[ChipWhisperer](https://github.com/newaetech/chipwhisperer)** — Open-source toolchain for side-channel power analysis and fault-injection glitching, with FPGA capture hardware and Artix-7 target boards (e.g. CW305) for evaluating IC security.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — security test instrumentation*
+- **[Cynthion](https://github.com/greatscottgadgets/cynthion-hardware)** — ECP5-based USB 2.0 test/analysis instrument; hardware design files (KiCad) released as open hardware.
+  `License: CERN-OHL-P-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — USB test instrumentation*
+- **[LUNA](https://github.com/greatscottgadgets/luna)** — Amaranth HDL gateware framework for building USB devices/analyzers on ECP5 (and other) FPGAs; powers the Cynthion instrument.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware framework for USB bring-up*
 
 ## RF / SDR
 

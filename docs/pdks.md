@@ -24,6 +24,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
 
 ## Specialty PDKs
 
+- **[IHP-Open-DesignLib](https://github.com/IHP-GmbH/IHP-Open-DesignLib)** — Open IP and reference design library built on the IHP 130 nm SiGe BiCMOS open PDK, covering RF and mixed-signal blocks. Documentation at ihp-open-ip.readthedocs.io.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
@@ -63,6 +65,12 @@ Synthesizable standard cell libraries — the digital building blocks that map t
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[asap7_sram_0p0](https://github.com/The-OpenROAD-Project/asap7_sram_0p0)** — Predictive SRAM macros for ASAP7. Provides memory blocks for the predictive 7nm flow.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_fd_sc_hvl](https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hvl)** — "High voltage" SKY130 digital standard cells from SkyWater, for 5 V-domain logic alongside the core 1.8 V cells.
+  `License: Apache-2.0` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_osu_sc_t12](https://github.com/stineje/sky130_osu_sc_t12)** — Oklahoma State University 12-track standard cell library for SKY130, with high-speed, low-speed and medium-speed variants. An academic alternative to the SkyWater `fd_sc` cells.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_sram_macros](https://github.com/efabless/sky130_sram_macros)** — Pre-built SKY130 SRAM macros (1 kB to 16 kB, 1RW1R) generated with OpenRAM. Drop-in hardened memory blocks for sky130 flows without running a memory compiler.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## PDK Tooling
 
@@ -75,6 +83,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
 - **[Ciel](https://github.com/fossi-foundation/ciel)** — Open-source PDK version manager maintained under the FOSSi Foundation. Spiritual successor to Volare with broader PDK coverage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler)** — Modular hardware build system with first-class PDK abstractions. Provides a uniform Python API to drive flows across sky130, gf180mcu, ASAP7, FreePDK45 and other PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CACE](https://github.com/fossi-foundation/cace)** — Circuit Automatic Characterization Engine. Runs a PDK's analog/mixed-signal blocks through ngspice simulations to characterize them against a datasheet-style spec, under the FOSSi Foundation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
