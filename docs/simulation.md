@@ -34,6 +34,14 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GNUcap](https://github.com/gnucap/gnucap)** — General-purpose circuit simulator with plugin architecture, supports event-driven analog simulation. Read-only mirror of the upstream tree.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PySpice](https://github.com/PySpice-org/PySpice)** — Python interface for defining circuits and running them on the ngspice or Xyce engines, returning results as NumPy arrays.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ahkab](https://github.com/ahkab/ahkab)** — SPICE-like circuit simulator written in Python supporting DC, AC, transient, symbolic and pole-zero analyses.
+  `License: GPL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Lcapy](https://github.com/mph-/lcapy)** — Python package for symbolic linear circuit analysis and signal processing built on SymPy; derives transfer functions and netlist equations analytically.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenVAF](https://github.com/OpenVAF/OpenVAF-Original)** — Verilog-A compiler that produces OSDI compact device models loadable by ngspice and other SPICE engines.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -55,6 +63,19 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 - **[Konata](https://github.com/shioyadan/Konata)** — Instruction-pipeline visualizer for Onikiri2-Kanata and gem5 O3PipeView traces; visualizes per-cycle pipeline state for CPU bring-up.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PulseView](https://github.com/sigrokproject/pulseview)** — Qt-based logic-analyzer/oscilloscope frontend for the sigrok backend; reads protocol-decoded traces from real hardware.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sootty](https://github.com/Ben1152000/sootty)** — Command-line tool that renders VCD waveforms to SVG/terminal with a query language for selecting and slicing signals.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[WAL](https://github.com/ics-jku/wal)** — Waveform Analysis Language: a programmable Lisp-based environment for scripting analyses and assertions over VCD/FST traces.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Waveform & Trace Libraries
+
+- **[pyvcd](https://github.com/SanDisk-Open-Source/pyvcd)** — Python library for writing Value Change Dump (VCD) files; used to emit waveforms from custom Python simulators and testbenches.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vcdvcd](https://github.com/cirosantilli/vcdvcd)** — Python VCD parser library plus the `vcdcat` command-line pretty-printer for dumping waveform values to the terminal.
+  `License: Artistic-1.0 / GPL-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libsigrok](https://github.com/sigrokproject/libsigrok)** — C library providing the device-access and signal-processing backend for sigrok/PulseView; parses and decodes logic-analyzer and oscilloscope captures.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation

@@ -14,6 +14,14 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[MOSIS 2.0](https://mosis2.com/)** — Rebooted MOSIS at USC ISI; brokers GlobalFoundries 130 nm MPW slots and additional silicon-CMOS / compound-semi shuttles. Continuation of the 1981–2010s MOSIS service.
   `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[ChipFoundry](https://chipfoundry.io/)** — Open-source-flow chip platform running the chipIgnite MPW shuttles (e.g. CI2605/CI2609/CI2612) on the SkyWater sky130 PDK; continues the Caravel-based shuttle service for startups, product companies, and educational institutions.
+  `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[Muse Semiconductor](https://www.musesemi.com/)** — MPW broker offering shared-block, full-block, and dedicated-mask tapeouts on TSMC processes for university researchers and startups, including a University FinFET program at MPW pricing.
+  `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[IEEE SSCS PICO Open-Source Chipathon](https://sscs.ieee.org/technical-committees/tc-ose/sscs-pico-design-contest/)** — Mentored global open-source IC design contest under the IEEE SSCS PICO initiative; participating teams target the GF180MCUD open PDK and the program runs from onboarding through tapeout and post-silicon measurement. Open to all, including pre-college and undergraduate participants.
+  `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[SSCS Open-Source Ecosystem (SSCS-OSE)](https://sscs-ose.github.io/)** — IEEE SSCS resource hub for open-source IC design; links open ASIC tools, the no-NDA sky130 and gf180mcu PDKs, IIC-OSIC-TOOLS, and a "How to Tape Out an IC" pathway supporting the PICO Chipathon and Code-a-Chip competitions.
+  `License: Program page` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community resource hub*
 
 ## Tape-out Harnesses
 

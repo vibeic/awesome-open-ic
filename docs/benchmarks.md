@@ -19,6 +19,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[IEEE CEDA DATC RDF-2020](https://github.com/ieee-ceda-datc/RDF-2020)** — Robust Design Flow that bundles IWLS'05 OpenCores benchmarks, NanGate45, and SKY130 enablement for RTL-to-GDS academic research.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[VTR benchmarks](https://github.com/verilog-to-routing/vtr-verilog-to-routing)** — Verilog-to-Routing project bundling the MCNC20, VTR, and Titan FPGA benchmark circuit sets used for FPGA architecture and CAD research.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 
@@ -45,6 +47,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[Verilog-Eval (NVIDIA)](https://github.com/NVlabs/verilog-eval)** — Evaluation harness for LLM Verilog code generation with code-complete and spec-to-RTL task sets.
   `License: Open-source (LICENSE in repo)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[MLPerf Tiny](https://github.com/mlcommons/tiny)** — MLCommons benchmark suite for extremely low-power ML inference on microcontroller-class systems; reference target for TinyML accelerator and SoC evaluation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route Contests
 
@@ -52,6 +56,23 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[DREAMPlace](https://github.com/limbo018/DREAMPlace)** — Deep-learning toolkit-based placement tool that bundles loaders for ISPD 2005 / 2015 and ICCAD 2015 contest benchmarks.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[ISPD 2005 placement contest](http://www.ispd.cc/contests/05/contest.htm)** — Original ISPD 2005 placement benchmark suite (adaptec, bigblue) derived from industrial ASICs, with HPWL/legality evaluation scripts.
+  `License: Public release (research)` | `Last commit: 2005 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ISPD 2011 routability-driven placement contest](http://www.ispd.cc/contests/11/ispd2011_contest.html)** — Eight superblue benchmarks with a golden router and routing-overflow metric for congestion-aware placement evaluation.
+  `License: Public release (research)` | `Last commit: 2011 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ISPD 2018 detailed routing contest](http://www.ispd.cc/contests/18/)** — Ten initial-detailed-routing test cases (45nm–32nm) in LEF/DEF with guide files and an evaluation flow for detailed-routing research.
+  `License: Public release (research)` | `Last commit: 2018 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## HLS / Accelerator Benchmarks
+
+- **[MachSuite](https://github.com/breagen/MachSuite)** — Accelerator-design benchmark suite (19 kernels across stencil, sort, GEMM, BFS, FFT, AES) widely used for HLS and customized-architecture evaluation.
+  `License: BSD-3-Clause` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rosetta](https://github.com/cornell-zhang/rosetta)** — Realistic HLS benchmark suite for software-programmable FPGAs (FPGA'18) with full applications such as 3D rendering, digit recognition, and face detection.
+  `License: BSD-3-Clause` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SMAUG](https://github.com/harvard-acc/smaug)** — Deep-learning framework for end-to-end DNN-accelerator SoC simulation on gem5-Aladdin; ships reference models for accelerator-architecture benchmarking.
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DeepBench](https://github.com/baidu-research/DeepBench)** — Baidu Research benchmark of the basic operations (GEMM, convolution, RNN, all-reduce) underlying deep-learning training/inference, used to compare ML-accelerator hardware.
+  `License: Apache-2.0` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC / Application Benchmarks
 
@@ -67,3 +88,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[VeeR EH1 (CHIPS Alliance)](https://github.com/chipsalliance/Cores-SweRV)** — Production-grade RV32IMC core (formerly Western Digital SweRV) with verification suite.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[ChampSim](https://github.com/ChampSim/ChampSim)** — Trace-based microarchitecture simulator maintained at Texas A&M; the standard harness for CPU branch-prediction, cache, and prefetcher benchmarking with public trace sets.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

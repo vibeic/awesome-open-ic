@@ -46,6 +46,20 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Bit-Manipulation Extension (B)](https://github.com/riscv/riscv-bitmanip)** — Ratified Zb* extensions (Zba/Zbb/Zbc/Zbs) for bit-manipulation instructions.
   `License: CC-BY-4.0` | `Last commit: 2021 (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Cryptography Extensions](https://github.com/riscv/riscv-crypto)** — Standardization work for the scalar (Zk*) and vector (Zvk*) cryptography extensions, including AES/SHA/SM acceleration.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Advanced Interrupt Architecture (AIA)](https://github.com/riscv/riscv-aia)** — Specification of the IMSIC and APLIC interrupt controllers (MSI delivery, virtualization support).
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V PLIC Specification](https://github.com/riscv/riscv-plic-spec)** — Platform-Level Interrupt Controller specification for routing global interrupts to harts.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V IOMMU Specification](https://github.com/riscv-non-isa/riscv-iommu)** — Input/Output Memory Management Unit spec for DMA address translation and device isolation.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Processor Trace Specification](https://github.com/riscv-non-isa/riscv-trace-spec)** — Instruction-trace (N-Trace / branch-trace) specification for hardware execution tracing.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V CHERI Extension](https://github.com/riscv/riscv-cheri)** — Capability Hardware Enhanced RISC Instructions extension adding hardware memory-protection capabilities to the RISC-V ISA.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[CHERI ISA Specification (CTSRD)](https://github.com/CTSRD-CHERI/cheri-specification)** — Cambridge/SRI canonical CHERI architecture document on which the capability model is based (LICENSE file states CC-BY-4.0).
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 
@@ -73,6 +87,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Paywalled spec (IEEE; free via Accellera/IEEE GET for 1800-2023)` | `Last commit: 2017` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[IEEE 1076-2019 VHDL](https://standards.ieee.org/standard/1076-2019.html)** — Current VHDL LRM (supersedes 1076-2008); used by GHDL + commercial flows.
   `License: Paywalled spec (IEEE)` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[Verilog-AMS LRM — Accellera](https://accellera.org/downloads/standards/v-ams)** — Analog/mixed-signal extension of Verilog; LRM (current 2023) downloadable free from Accellera as PDF.
+  `License: Free Accellera download (Verilog-AMS LRM)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Verification Methodology
 
@@ -82,6 +98,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0 (impl) / IEEE 1666 free spec` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[IEEE 1685-2014 IP-XACT](https://standards.ieee.org/standard/1685-2014.html)** — XML schema for packaging/integrating/reusing IP across tool flows; used by Kactus2.
   `License: Paywalled spec (IEEE)` | `Last commit: 2014 (superseded by 1685-2022)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IP-XACT XML schemas & user guide — Accellera](https://www.accellera.org/downloads/standards/ip-xact)** — Free IP-XACT (IEEE 1685) XML schema files, vendor-extension definitions, and user guide hosted by Accellera (the normative IEEE doc itself remains paywalled).
+  `License: Free Accellera download (schemas + user guide)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## DFT & JTAG
 
