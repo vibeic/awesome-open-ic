@@ -110,7 +110,7 @@ LLM-assisted and ML-assisted chip design — papers, datasets, and runnable syst
 
 Highlights:
 
-- [Vibe-IC](https://github.com/vibeic/vibe-ic) - AI-native IC design plugin and MCP-EDA server.
+- [Vibe-IC](https://github.com/vibeic/vibe-ic) - AI-native IC design plugin and MCP-EDA server (🟢 MCP-wrapped).
 - [ChipNeMo paper](https://arxiv.org/abs/2311.00176) - NVIDIA's domain-adapted LLM for chip design.
 - [ChatEDA paper](https://arxiv.org/abs/2308.10204) - LLM-driven EDA flow orchestration.
 
