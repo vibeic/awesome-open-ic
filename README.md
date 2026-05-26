@@ -152,7 +152,7 @@ Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before openin
 
 ## Related
 
-- [awesome-hwd-tools](https://github.com/Vitorian/awesome-hwd-tools) - Broader hardware-design tools list.
+- [awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - Broader open-source hardware-design tools list.
 - [awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware-description-language ecosystem.
-- [awesome-asic](https://github.com/Wenzhi-Zhu/Awesome-ASIC) - ASIC-focused resources.
+- [awesome-opensource-asic-resources](https://github.com/mattvenn/awesome-opensource-asic-resources) - Open-source ASIC design resources.
 - [awesome-electronics](https://github.com/kitspace/awesome-electronics) - Board-level electronics.
