@@ -102,5 +102,3 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 
 ## Lab Instruments / SDR-adjacent
 
-- **[ScopeFun](https://github.com/scopefun/scopefun)** — Open-source FPGA-based oscilloscope and logic analyzer.
-  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

@@ -61,9 +61,9 @@ Open-source projects (e.g. F4PGA / Project X-Ray) reverse-engineer the 7-series 
 
 apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target Gowin parts.
 
-- **[Tang Nano (GW1N)](https://wiki.sipeed.com/hardware/en/tang/tang-nano/Nano.html)** — Sipeed's low-cost Gowin GW1N FPGA board; great hobby entry, apicula support.
+- **[Tang Nano (GW1N)](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano/Nano.html)** — Sipeed's low-cost Gowin GW1N FPGA board; great hobby entry, apicula support.
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
-- **[Tang Nano 4K](https://wiki.sipeed.com/hardware/zh/tang/Tang-Nano-4K/Nano.html)** — Sipeed Tang Nano 4K with Gowin GW1NSR-LV4CQN48 (4,608 LUTs, Cortex-M3 hard core, PSRAM).
+- **[Tang Nano 4K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-4K/Nano-4K.html)** — Sipeed Tang Nano 4K with Gowin GW1NSR-LV4CQN48 (4,608 LUTs, Cortex-M3 hard core, PSRAM).
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)** — Sipeed Tang Nano 9K with Gowin GW1NR-LV9QN88PC6 (8,640 LUTs, on-board 27 MHz, 2 PLLs).
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
@@ -119,7 +119,7 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
 
 - **[LimeSDR](https://github.com/myriadrf/LimeSDR-Mini)** — Open-source field-programmable RF transceiver.
   `License: CERN-OHL-W-2.0 / Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[NanoVNA](https://github.com/nanovna/NanoVNA-H)** — Pocket-size, open-source vector network analyzer.
+- **[NanoVNA](https://github.com/hugen79/NanoVNA-H)** — Pocket-size, open-source vector network analyzer.
   `License: MIT / GPL-3.0 (mixed)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ADALM-PLUTO](https://github.com/analogdevicesinc/plutosdr-fw)** — Analog Devices' learning SDR, firmware open-source on GitHub.
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
