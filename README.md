@@ -26,7 +26,7 @@ Entries wrapped as a Model Context Protocol (MCP) tool by vibeic/vibe-ic are mar
 
 ## Design Tools
 
-Open-source synthesis, place-and-route, static-timing, DRC, LVS, and layout editors. See [docs/design-tools.md](docs/design-tools.md) for the full list.
+Open-source synthesis, place-and-route, static-timing, DRC, LVS, and layout editors. See [docs/design-tools.md](docs/design-tools.md) for the full list — including the [IIC-OSIC-TOOLS Docker bundle](docs/design-tools.md#iic-osic-tools-docker-bundle) (hpretl/iic-osic-tools on [Docker Hub](https://hub.docker.com/r/hpretl/iic-osic-tools)), which packages 90+ of these tools into one container.
 
 Highlights:
 
