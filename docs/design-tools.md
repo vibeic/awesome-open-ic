@@ -147,6 +147,129 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[IIC-OSIC-TOOLS Docker](https://github.com/iic-jku/IIC-OSIC-TOOLS)** — Single Docker image bundling 100+ open-source IC design tools. JKU's curated chip-design container.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
+## IIC-OSIC-TOOLS Docker Bundle
+
+The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`hpretl/iic-osic-tools`) bundles 90+ open-source IC-design tools into a single container for analog and digital flows. Source: the repository at https://github.com/iic-jku/IIC-OSIC-TOOLS and the published image on Docker Hub at https://hub.docker.com/r/hpretl/iic-osic-tools . Tools already listed in the sections above (Yosys, OpenROAD, OpenSTA, KLayout, Magic, Netgen, Xschem, Verible, Verilator, GHDL, sv2v, eqy, sby, mcy, open_pdks, KLayout-PEX, and others) are part of the image too and are not repeated here.
+
+- **[abc](https://github.com/berkeley-abc/abc)** — Sequential logic synthesis and formal verification system, used as the technology-mapping back-end by Yosys.
+  `License: MIT-like (UC Berkeley)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CACE](https://github.com/efabless/cace)** — Python-based circuit automatic characterization engine that runs and reports parametric simulations against a datasheet specification.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CharLib](https://github.com/stineje/CharLib)** — Characterization library that generates timing and power Liberty models for standard cells.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ciel](https://github.com/fossi-foundation/ciel)** — Version manager and builder for open-source PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotb](https://github.com/cocotb/cocotb)** — Coroutine-based co-simulation library for writing VHDL and Verilog testbenches in Python.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[covered](https://github.com/hpretl/verilog-covered)** — Verilog code coverage analysis tool.
+  `License: GPL-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cvc](https://github.com/d-m-bailey/cvc)** — Circuit validity checker that performs electrical rule checking (ERC) on transistor-level netlists.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gaw3-xschem](https://github.com/StefanSchippers/xschem-gaw)** — Waveform plotting tool for Xschem.
+  `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gds2palace / setupEM](https://github.com/VolkerMuehlhaus/setupEM)** — Setup tools that prepare a GDS layout for Palace electromagnetic simulation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GDS3D](https://github.com/trilomix/GDS3D)** — Three-dimensional viewer for GDS layout files.
+  `License: GPL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gdsfill](https://github.com/aesc-silicon/gdsfill)** — Python tool for inserting dummy metal fill into semiconductor layouts.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gdspy](https://github.com/heitzmann/gdspy)** — Python module for the creation and manipulation of GDSII files.
+  `License: BSL-1.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)** — VHDL synthesis plugin that lets Yosys read VHDL through GHDL.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gmsh](https://gmsh.info/)** — Three-dimensional finite-element mesh generator used to build geometry for EM and physical solvers.
+  `License: GPL-2.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GTKWave](https://github.com/gtkwave/gtkwave)** — Waveform viewer for digital simulation dumps (VCD, FST, and related formats).
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hdl21](https://github.com/dan-fritchman/Hdl21)** — Python-based analog hardware description library for generating circuits and SPICE netlists.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IRSIM](https://github.com/RTimothyEdwards/irsim)** — Switch-level digital simulator, paired with Magic for layout-driven simulation.
+  `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Icarus Verilog](https://github.com/steveicarus/iverilog)** — Verilog compiler and simulator for IEEE-1364.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kactus2](https://github.com/kactus2/kactus2dev)** — Graphical editor for IP-XACT files that describe hardware components and their interfaces.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[kepler-formal](https://github.com/keplertech/kepler-formal)** — Logic equivalence checking (LEC) tool for OpenROAD flows.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lctime](https://codeberg.org/librecell/lctime)** — Characterization kit that generates Liberty timing models for CMOS standard cells.
+  `License: AGPL-3.0-or-later` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LibMan](https://github.com/IHP-GmbH/LibMan)** — Design library manager for organizing cells and their views.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[naja (najaeda)](https://github.com/najaeda/naja)** — Data structures and APIs for developing post-synthesis EDA algorithms on logic netlists.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ngspice](http://ngspice.sourceforge.net)** — SPICE analog and mixed-signal circuit simulator, with OSDI/Verilog-A device-model support.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ngspyce](https://github.com/ignamv/ngspyce)** — Python bindings for ngspice.
+  `License: GPL-2.0` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openEMS](https://github.com/thliebig/openEMS)** — Electromagnetic field solver using the EC-FDTD method.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenRAM](https://github.com/VLSIDA/OpenRAM)** — Python memory compiler that generates SRAM macros, layout, and characterization views for open PDKs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenVAF](https://github.com/arpadbuermen/OpenVAF)** — Verilog-A compiler that builds OSDI device models for SPICE simulators.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[osic-multitool](https://github.com/iic-jku/osic-multitool)** — Collection of helper scripts and documentation for the open IC design flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[padring](https://github.com/donn/padring)** — Pad-ring generation tool for assembling chip I/O pad frames.
+  `License: ISC` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Palace](https://github.com/awslabs/palace)** — 3D finite-element solver for computational electromagnetics.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP tools](https://github.com/pulp-platform/pulp)** — Tool collection from the PULP platform for RISC-V SoC development.
+  `License: SolderPad-0.51 (Apache-2.0-based)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bender](https://github.com/pulp-platform/bender)** — Dependency-management and file-list generation tool for hardware projects.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pygmid](https://github.com/dreoilin/pygmid)** — Python implementation of the gm/Id analog-design starter kit.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyOPUS](https://codeberg.org/arpadbuermen/PyOPUS)** — Simulation runner and optimization framework for analog circuits.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyRTL](https://github.com/UCSBarchlab/PyRTL)** — Python classes for describing and simulating register-transfer-level designs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PySpice](https://github.com/PySpice-org/PySpice)** — Python interface to the ngspice and Xyce SPICE simulators.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyuvm](https://github.com/pyuvm/pyuvm)** — Universal Verification Methodology implemented in Python on top of cocotb.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Qucs-S](https://github.com/ra3xdh/qucs_s)** — Circuit simulation environment with an RF emphasis, driving SPICE-class back-ends.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RgGen](https://github.com/rggen/rggen)** — Code-generation tool for control and status registers.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V GNU toolchain](https://github.com/riscv/riscv-gnu-toolchain)** — GNU compiler toolchain for building software for RISC-V cores.
+  `License: GPL-3.0 (with components under BSD)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-pk](https://github.com/riscv-software-src/riscv-pk)** — RISC-V proxy kernel and bootloader for hosting bare-metal binaries.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[schemdraw](https://github.com/cdelker/schemdraw)** — Python package for drawing electrical schematics.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler)** — Modular build system that orchestrates hardware design flows across tools and PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[yosys-slang](https://github.com/povik/yosys-slang)** — Slang-based Yosys plugin that adds SystemVerilog front-end support.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[spicebind](https://github.com/themperek/spicebind)** — Lightweight bridge for co-simulating analog ngspice circuits alongside HDL simulators.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[spicelib](https://github.com/nunobrum/spicelib)** — Python library for reading, editing, and running SPICE-class simulator files.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Spike](https://github.com/riscv-software-src/riscv-isa-sim)** — Reference RISC-V ISA simulator.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[spyci](https://github.com/gmagno/spyci)** — Python tool to parse and plot ngspice and Xyce output data.
+  `License: MIT` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[surfer](https://gitlab.com/surfer-project/surfer)** — Waveform viewer focused on a responsive interface and extensibility.
+  `License: EUPL-1.2` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[svck](https://github.com/AsFigo/svck)** — Customizable SystemVerilog linter built on Verible.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VACASK](https://codeberg.org/arpadbuermen/VACASK)** — Verilog-A based analog circuit simulator.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vlsir](https://github.com/Vlsir/Vlsir)** — Interchange formats and tooling for representing chip-design data across tools.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XCircuit](https://github.com/RTimothyEdwards/XCircuit)** — Schematic capture editor with publication-quality drawing output.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Xyce](https://github.com/Xyce/Xyce)** — Parallel SPICE-class circuit simulator for large analog/mixed-signal designs.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FastHenry2](https://github.com/ediloren/FastHenry2)** — Inductance and resistance extractor for complex 3D conductor geometries.
+  `License: MIT` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FasterCap](https://github.com/ediloren/FasterCap)** — Capacitance extractor for 2D and 3D geometries.
+  `License: LGPL-2.1` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[scikit-rf](https://github.com/scikit-rf/scikit-rf)** — Python library for RF and microwave network analysis and S-parameter processing.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[klayout-productivity-suite](https://github.com/iic-jku/klayout-productivity-suite)** — Collection of iic-jku KLayout plugins that add productivity features to the layout tool.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
 ## Lint & Equivalence
 
 - **[Verilator (lint mode)](https://github.com/verilator/verilator)** — Used as a lint front-end for Verilog/SystemVerilog. See also Simulation.
