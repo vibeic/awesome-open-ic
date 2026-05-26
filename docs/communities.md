@@ -14,8 +14,6 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Free signup` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
 - **[ZeroToASIC course community](https://zerotoasiccourse.com)** — Matt Venn's course; community lives on the FOSSi Discord and the course forum linked from the course site.
   `License: Free signup` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
-- **[eFabless Discord](https://efabless.com/community)** — Designer community around eFabless / Caravel / Open MPW.
-  `License: Free signup` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
 
 ## Foundations & Working Groups
 

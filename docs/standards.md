@@ -33,9 +33,9 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 
 - **[GDSII format](https://boolean.klaasholwerda.nl/interface/bnf/gdsformat.html)** — Calma GDSII stream format, the de-facto mask-data exchange format.
   `License: Open spec (Calma legacy)` | `Last commit: n/a (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
-- **[LEF / DEF reference](https://www.si2.org/openeda.si2.org/projects/lefdef)** — Library Exchange Format / Design Exchange Format for physical design.
+- **[LEF / DEF reference](https://www.si2.org/lef-def/)** — Library Exchange Format / Design Exchange Format for physical design.
   `License: Si2 open license` | `Last commit: 2017 (still in use)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
-- **[Liberty (.lib) reference](https://si2.org/oa-tools-utils-libs-2/)** — Standard cell timing/power model format, hosted by Si2 (CCS / Liberty Technical Advisory Board).
+- **[Liberty (.lib) reference](https://www.si2.org/)** — Standard cell timing/power model format, hosted by Si2 (CCS / Liberty Technical Advisory Board).
   `License: Si2 open license` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
 - **[SPEF (IEEE 1481)](https://standards.ieee.org/ieee/1481/3866/)** — Standard Parasitic Exchange Format for back-annotation.
   `License: IEEE paywall` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
@@ -112,5 +112,3 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 
 - **[IEEE 1801-2018 UPF (Unified Power Format)](https://standards.ieee.org/standard/1801-2018.html)** — Low-power intent + power-aware verification; free PDF via IEEE GET program.
   `License: Free via IEEE GET program` | `Last commit: 2018 (superseded by 1801-2024)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
-- **[Switching Activity Interchange Format (SAIF)](https://en.wikipedia.org/wiki/Switching_Activity_Interchange_Format)** — De-facto activity-vector format for power analysis; produced by sim, consumed by power tools.
-  `License: Public spec (de-facto, Synopsys-originated)` | `Last commit: n/a (frozen)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
