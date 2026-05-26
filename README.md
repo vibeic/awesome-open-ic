@@ -2,7 +2,7 @@
 
 > A curated list of open-source resources for IC design.
 
-This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **540 curated entries across 12 categories and 106 sub-sections** — every URL and license verified at the time of inclusion.
+This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **599 curated entries across 12 categories and 107 sub-sections** — every URL and license verified at the time of inclusion.
 
 Entries wrapped as a Model Context Protocol (MCP) tool by vibeic/vibe-ic are marked 🟢 so AI agents can call them directly.
 
@@ -140,7 +140,7 @@ FPGA dev boards and silicon test vehicles useful for verifying open IC designs. 
 
 Highlights:
 
-- [DE10-Lite](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021) - MAX10 dev board, low-cost FPGA prototyping target.
+- [DE10-Lite](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021) - MAX10 dev board, low-cost FPGA prototyping target (🟢 MCP-wrapped).
 - [ULX3S](https://github.com/emard/ulx3s) - Fully open-source ECP5-based FPGA board.
 - [Tang Nano](https://wiki.sipeed.com/hardware/en/tang/tang-nano/Nano.html) - Low-cost Gowin FPGA board for hobbyist projects.
 
