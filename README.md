@@ -30,6 +30,7 @@ Open-source synthesis, place-and-route, static-timing, DRC, LVS, and layout edit
 
 Highlights:
 
+- [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) - Docker image (hpretl/iic-osic-tools) bundling 90+ open analog & digital IC tools; see the [full bundle list](docs/design-tools.md#iic-osic-tools-docker-bundle).
 - [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - End-to-end RTL-to-GDS flow (🟢 MCP-wrapped).
 - [Yosys](https://github.com/YosysHQ/yosys) - Open synthesis suite (🟢 MCP-wrapped).
 - [KLayout](https://github.com/KLayout/klayout) - High-performance layout viewer and DRC engine (🟢 MCP-wrapped).
