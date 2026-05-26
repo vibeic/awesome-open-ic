@@ -80,6 +80,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Qflow](https://github.com/RTimothyEdwards/qflow)** — End-to-end digital synthesis flow for ASICs wiring Yosys, qrouter, Magic, and Netgen together.
   `License: GPL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LibreLane](https://github.com/librelane/librelane)** — ASIC RTL-to-GDSII implementation flow, the community successor to OpenLane 2; Python-native and Nix-packaged.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
