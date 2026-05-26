@@ -60,6 +60,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hazard3](https://github.com/Wren6991/Hazard3)** — 3-stage RV32IMACZb* core with RISC-V debug support, used in the Raspberry Pi RP2350.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hummingbird E203](https://github.com/riscv-mcu/e203_hbirdv2)** — Open 2-stage RV32IMAC[B] microcontroller core and SoC optimized for low-power embedded and IoT use.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

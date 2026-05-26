@@ -88,6 +88,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Snitch cluster](https://github.com/pulp-platform/snitch_cluster)** — PULP-platform energy-efficient RISC-V FP compute cluster with a self-contained Verilator-based simulation flow.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V VP](https://github.com/agra-uni-bremen/riscv-vp)** — SystemC TLM-2.0 RISC-V virtual prototype (RV32/RV64 instruction-set simulator) for hardware/software co-design and pre-RTL exploration.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

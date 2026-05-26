@@ -98,6 +98,15 @@ Functional and formal verification frameworks. Simulators themselves live in [si
 - **[core-v-verif](https://github.com/openhwgroup/core-v-verif)** — OpenHW Group SV/UVM functional verification environment for the CORE-V RISC-V cores.
   `License: SHL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
+## VHDL Verification Methodologies
+
+- **[VUnit](https://github.com/VUnit/vunit)** — Unit-testing framework for VHDL and SystemVerilog with automatic test discovery, a Python test runner, and CI integration.
+  `License: MPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSVVM](https://github.com/OSVVM/OsvvmLibraries)** — VHDL verification methodology providing constrained-random, functional coverage, and scoreboards as a library.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UVVM](https://github.com/UVVM/UVVM)** — Universal VHDL Verification Methodology — open library and framework for structured testbenches with bus functional models.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
 ## Commercial / Freemium (cross-listed for completeness)
 
 - **[Aldec Riviera-PRO (Free for academia / partial)](https://www.aldec.com/en/products/functional_verification/riviera-pro)** — Commercial simulator with a free educational tier; listed for cross-reference, not as open source.
