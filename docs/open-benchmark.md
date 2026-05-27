@@ -5,9 +5,9 @@ Open, **agentic / LLM benchmarks for AI-driven IC design** — RTL generation, v
 Where a benchmark has been **run with the [Vibe-IC](https://github.com/vibeic/vibe-ic) plugin + MCP-EDA + Claude Opus 4.7**, the highest blind pass@1 is annotated in parentheses after the entry — same style as the `(🟢 MCP-wrapped)` tags elsewhere in this list. All scores are fully blind (prompt-only, no test access) and graded by each benchmark's **official upstream testbench**. Reproducible run logs live in **[vibeic/vibeic-bench → results/](https://github.com/vibeic/vibeic-bench/tree/main/results)**. Entries without a score have not yet been run with Vibe-IC.
 
 - **[VerilogEval-v2 (spec-to-RTL)](https://github.com/NVlabs/verilog-eval)** — NVIDIA's VerilogEval v2 spec-to-RTL task (156 problems): structured-interface prompt → full module, iverilog-scored. The frontier reference (~90%) for spec-driven RTL generation.
-  `License: see repo (NVIDIA)` | `Last commit: 2024` | *(🔵 **Vibe-IC + MCP-EDA + Opus 4.7: 93.59%** pass@1 — 146/156, blind)*
+  `License: see repo (NVIDIA)` | `Last commit: 2024` | *(🔵 **Vibe-IC + MCP-EDA + Opus 4.7: 99.36%** — 155/156 via the full closed-loop flow = **100% of solvable** (the lone miss, Prob099, is an un-runnable dataset defect); 93.59% blind single-shot)*
 - **[VerilogEval-Human](https://github.com/NVlabs/verilog-eval)** — NVIDIA's VerilogEval code-completion track with concise human-written descriptions (156 problems, iccad2023). The standard module-scale "write correct Verilog from a human prompt" benchmark.
-  `License: see repo (NVIDIA)` | `Last commit: 2024` | *(🔵 **Vibe-IC + MCP-EDA + Opus 4.7: 97.44%** pass@1 — 152/156, blind)*
+  `License: see repo (NVIDIA)` | `Last commit: 2024` | *(🔵 **Vibe-IC + MCP-EDA + Opus 4.7: 98.08%** — 153/156 = **100% of solvable** (3 misses are dataset/spec defects); 97.44% blind single-shot)*
 - **[RTLLM](https://github.com/hkust-zhiyao/RTLLM)** — Open natural-language → RTL benchmark (~50 designs: arithmetic / memory / control / misc) with reference RTL, testbenches, and self-planning prompt baselines. Module-scale.
   `License: MIT` | `Last commit: 2024`
 - **[PyHDL-Eval](https://github.com/cornell-brg/pyhdl-eval)** — Spec-to-RTL LLM evaluation across Verilog **and Python-embedded HDLs** (PyMTL3, PyRTL, MyHDL, Migen, Amaranth); 168 problems with reference solutions and testbenches.
