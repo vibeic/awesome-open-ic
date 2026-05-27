@@ -15,7 +15,8 @@ Entries wrapped as a Model Context Protocol (MCP) tool by vibeic/vibe-ic are mar
 - [Simulation](#simulation) — digital, analog, and mixed-signal simulators plus waveform viewers.
 - [Standards](#standards) — ISA, bus, and EDA file-format specifications.
 - [Foundry Programs](#foundry-programs) — paths to real silicon via shared shuttles.
-- [Benchmarks](#benchmarks) — module-, stage-, and full-flow suites for evaluating EDA tools **and AI agents**.
+- [Benchmarks](#benchmarks) — circuit suites for evaluating EDA tools.
+- [Open Benchmark](#open-benchmark) — open LLM / agent benchmarks for AI-driven IC design, with Vibe-IC scores.
 - [AI for EDA](#ai-for-eda) — LLM-driven assistants, datasets, and papers.
 - [Communities](#communities) — chats, forums, and foundations.
 - [Education](#education) — courses, books, and self-study tracks.
@@ -97,14 +98,24 @@ Highlights:
 
 ## Benchmarks
 
-Benchmarks for evaluating EDA tools **and AI agents** across the IC-design flow — any scope (single module → one stage → full end-to-end). See [docs/benchmarks.md](docs/benchmarks.md) for the full list, a **stage-coverage matrix**, and the **highest scores reached with Vibe-IC + MCP-EDA + Claude Opus 4.7**.
+Reference circuit suites for evaluating synthesis, P&R, and verification tools. See [docs/benchmarks.md](docs/benchmarks.md) for the full list.
 
 Highlights:
 
-- [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Fully open agentic IC-design benchmark + Vibe-IC results repo (🟢 MCP-wrapped) (🔵 Vibe-IC + Opus 4.7: VerilogEval-Human 97.44%).
-- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval) - NVIDIA's module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 97.44% pass@1).
+- [OpenROAD flow scripts designs](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - Reference flows and designs.
+- [EPFL combinational benchmarks](https://github.com/lsils/benchmarks) - Modern logic-synthesis benchmark suite.
+- [IWLS benchmarks](https://iwls.org/iwls2005/benchmarks.html) - International Workshop on Logic and Synthesis suites.
+
+## Open Benchmark
+
+Open, agentic / LLM benchmarks for **AI-driven IC design** — a different category from [Benchmarks](#benchmarks) (traditional circuit / synthesis / P&R suites). See [docs/open-benchmark.md](docs/open-benchmark.md). Scores in parentheses are the highest blind pass@1 reached with the **Vibe-IC plugin + MCP-EDA + Claude Opus 4.7**, graded by each benchmark's official upstream testbench.
+
+Highlights:
+
+- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 97.44% pass@1).
+- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 93.59% pass@1).
 - [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark — the open bar for agentic chip design.
-- [OpenROAD flow scripts designs](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts) - Reference RTL-to-GDS back-end flows and designs.
+- [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
 ## AI for EDA
 
