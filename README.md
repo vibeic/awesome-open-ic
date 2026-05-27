@@ -112,8 +112,8 @@ Open, agentic / LLM benchmarks for **AI-driven IC design** — a different categ
 
 Highlights:
 
-- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 97.44% pass@1).
-- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 93.59% pass@1).
+- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 98.08% — 100% of solvable).
+- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7: 99.36% — closed-loop, 100% of solvable).
 - [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark — the open bar for agentic chip design.
 - [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
