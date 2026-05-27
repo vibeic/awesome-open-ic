@@ -27,16 +27,11 @@ Where machine learning meets chip design. This category covers LLM-driven assist
 - **[RTLFixer](https://github.com/NVlabs/RTLFixer)** — NVIDIA's runnable RAG + ReAct agent that auto-repairs syntax errors in LLM-generated Verilog (code release for the RTLFixer paper).
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
-## LLM Benchmarks for RTL
+## Benchmarks
 
-- **[VerilogEval](https://github.com/NVlabs/verilog-eval)** — NVIDIA's HDLBits-derived benchmark (156 problems, code-completion + spec-to-RTL tracks) with iverilog-based functional scoring; V2 released 2024.
-  `License: Open-source (see repo)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
-- **[RTLLM](https://github.com/hkust-zhiyao/RTLLM)** — 50-design natural-language → RTL benchmark across arithmetic / memory / control / misc, with reference RTL, testbenches, and "self-planning" prompt baselines.
-  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
-- **[RTL-Repo](https://github.com/AUCOHL/RTL-Repo)** — AUC benchmark for evaluating LLMs on multi-file, project-scale Verilog generation rather than single-module toy problems.
-  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
-- **[Verismith](https://github.com/ymherklotz/verismith)** — Random Verilog fuzzer that has found 11 confirmed bugs in Yosys, XST, Vivado, Quartus, and Icarus; usable as a robustness benchmark for LLM-generated RTL.
-  `License: GPL-3.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+RTL-generation, agentic, and full-flow benchmarks now live in one hub →
+see **[Benchmarks for IC Design](benchmarks.md)** (with a stage-coverage matrix and
+the highest scores reached with Vibe-IC + MCP-EDA + Claude Opus 4.7).
 
 ## Datasets
 
