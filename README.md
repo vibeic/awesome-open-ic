@@ -108,12 +108,12 @@ Highlights:
 
 ## Open Benchmark
 
-Open, agentic / LLM benchmarks for **AI-driven IC design** — a different category from [Benchmarks](#benchmarks) (traditional circuit / synthesis / P&R suites). See [docs/open-benchmark.md](docs/open-benchmark.md). Scores in parentheses are the highest blind pass@1 reached with the **Vibe-IC plugin + MCP-EDA + Claude Opus 4.7**, graded by each benchmark's official upstream testbench.
+Open, agentic / LLM benchmarks for **AI-driven IC design** — a different category from the Benchmarks section above (traditional circuit / synthesis / P&R suites). See [docs/open-benchmark.md](docs/open-benchmark.md). Scores in parentheses are the highest blind pass@1 reached with the **Vibe-IC plugin + MCP-EDA + Claude Opus 4.7**, graded by each benchmark's official upstream testbench.
 
 Highlights:
 
-- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7 v0.1.24: 98.08% — 100% of solvable).
-- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7 v0.1.24: 97.44% — closed-loop, 100% of solvable).
+- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval/tree/main/dataset_code-complete-iccad2023) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7 v0.1.24: 98.08% — 100% of solvable).
+- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval/tree/main/dataset_spec-to-rtl) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.7 v0.1.24: 97.44% — closed-loop, 100% of solvable).
 - [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC v0.1.24: PASS 9/9 on the one open problem, N=1).
 - [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
