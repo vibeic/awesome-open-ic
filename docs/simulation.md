@@ -14,6 +14,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Yosys (CXXRTL backend)](https://github.com/YosysHQ/yosys)** — The CXXRTL backend in Yosys compiles synthesizable RTL to standalone C++ that runs without a separate simulator kernel; useful for embedded co-simulation.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_synth` (synthesis mode)*
+- **[DigitalJS](https://github.com/tilk/digitaljs)** — Browser-based digital circuit simulator that runs Yosys-synthesized Verilog netlists interactively for visualization and teaching.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Simulators
 

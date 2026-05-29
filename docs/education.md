@@ -117,3 +117,7 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[cae-lab (Digital Design with Chisel labs)](https://github.com/schoeberl/cae-lab)** — Lab material accompanying Martin Schoeberl's Computer Architecture and Engineering course and the open "Digital Design with Chisel" book.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Digital (hneemann)](https://github.com/hneemann/Digital)** — Graphical digital logic circuit simulator for learning and teaching digital design, with Verilog/VHDL export and an embeddable circuit format.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[RISC-V MYTH Workshop](https://github.com/stevehoover/RISC-V_MYTH_Workshop)** — Hands-on workshop material for building a RISC-V CPU core from scratch in TL-Verilog using the Makerchip IDE.
+  `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

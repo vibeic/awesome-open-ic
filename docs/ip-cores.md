@@ -70,6 +70,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V Steel (RVX)](https://github.com/riscv-steel/riscv-steel)** — RV32I microcontroller IP core in Verilog with UART, GPIO, SPI, and timer peripherals for embedded, FPGA, and ASIC use.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-mini](https://github.com/ucb-bar/riscv-mini)** — Simple 3-stage RV32I core written in Chisel, widely used as a teaching and reference design in the Berkeley ecosystem.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -159,6 +161,14 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[axi_riscv_atomics](https://github.com/pulp-platform/axi_riscv_atomics)** — AXI adapter that implements RISC-V atomic memory operations (LR/SC and AMOs) in front of downstream memory, from PULP Platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteSATA](https://github.com/enjoy-digital/litesata)** — Configurable SATA (Gen1/2/3) controller core for LiteX-based FPGA SoCs.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteJESD204B](https://github.com/enjoy-digital/litejesd204b)** — JESD204B transmit/receive core for high-speed data-converter (ADC/DAC) interfaces in LiteX SoCs.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteScope](https://github.com/enjoy-digital/litescope)** — Migen-based embedded logic analyzer / debug core for LiteX SoCs, with a host-side bridge for signal capture.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cluster_interconnect](https://github.com/pulp-platform/cluster_interconnect)** — SystemVerilog low-latency logarithmic interconnect (TCDM crossbar) connecting cores to shared memory banks in PULP clusters.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -237,3 +247,7 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULPissimo](https://github.com/pulp-platform/pulpissimo)** — PULP single-core microcontroller SoC platform (CV32E40P or Ibex core) with peripherals; base for many PULP chips.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CORE-V eXtension Interface (cv-x-if)](https://github.com/openhwgroup/core-v-xif)** — OpenHW Group standardized coprocessor/accelerator interface specification with reference SystemVerilog, used by CV32E40X and CVA6 for custom instruction extensions.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CoreScore](https://github.com/olofk/corescore)** — FuseSoC-based demonstration SoC that packs as many SERV RISC-V cores as fit on an FPGA, used as an FPGA density benchmark.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
