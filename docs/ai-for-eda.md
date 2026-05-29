@@ -26,6 +26,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RTLFixer](https://github.com/NVlabs/RTLFixer)** — NVIDIA's runnable RAG + ReAct agent that auto-repairs syntax errors in LLM-generated Verilog (code release for the RTLFixer paper).
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[chipagent](https://github.com/samirliu/chipagent)** — EDA tool-wrapper agent toolkit for AI-assisted chip design that orchestrates SiliconCompiler, Verilator, and cocotb behind an agent interface.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
