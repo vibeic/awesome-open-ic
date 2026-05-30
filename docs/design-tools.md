@@ -19,6 +19,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Custom` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HeteroCL](https://github.com/cornell-zhang/heterocl)** — Cornell's multi-paradigm DSL for accelerator design with decoupled algorithm/schedule.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Calyx](https://github.com/calyxir/calyx)** — Intermediate language and compiler infrastructure for hardware accelerators, separating control and structural representations.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hls4ml](https://github.com/fastmachinelearning/hls4ml)** — Python package that translates trained machine-learning models into HLS for FPGA and ASIC inference accelerators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FINN](https://github.com/Xilinx/finn)** — Framework from AMD/Xilinx Research for generating dataflow-style quantized neural-network accelerators on FPGAs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -46,6 +52,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sv-tests](https://github.com/chipsalliance/sv-tests)** — Compliance test suite for SystemVerilog tools; the standard cross-tool benchmark.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiveHD](https://github.com/masc-ucsc/livehd)** — Live hardware development infrastructure from UC Santa Cruz with a language-neutral graph IR (LGraph) bridging HDLs, synthesis, and incremental flows.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -323,3 +331,15 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Migen](https://github.com/m-labs/migen)** — Python toolbox (FHDL) for describing and generating synthesizable digital hardware; the synthesis foundation of the MiSoC and LiteX SoC ecosystem.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Bluespec Compiler (bsc)](https://github.com/B-Lang-org/bsc)** — Open-source compiler for Bluespec SystemVerilog (BSV) and Bluespec Haskell, emitting synthesizable Verilog and a Bluesim cycle simulator.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Clash](https://github.com/clash-lang/clash-compiler)** — Functional hardware description language with Haskell syntax and semantics that compiles to synthesizable Verilog, SystemVerilog, and VHDL.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hardcaml](https://github.com/janestreet/hardcaml)** — OCaml-embedded hardware description library that generates Verilog/VHDL with built-in simulation, waveform, and testbench tooling.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Magma](https://github.com/phanrahan/magma)** — Python-embedded hardware description language modeled on Verilog's circuit and wiring semantics, generating structural netlists.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Spade](https://github.com/spade-lang/spade)** — Statically typed hardware description language with pipelining and pattern matching as first-class constructs, compiling to Verilog.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Silice](https://github.com/sylefeb/Silice)** — Hardware description language focused on FPGA design with explicit cycle-level control, compiling to Verilog.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

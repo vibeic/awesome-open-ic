@@ -169,6 +169,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cluster_interconnect](https://github.com/pulp-platform/cluster_interconnect)** — SystemVerilog low-latency logarithmic interconnect (TCDM crossbar) connecting cores to shared memory banks in PULP clusters.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Corundum](https://github.com/corundum/corundum)** — FPGA-based 10G/25G/100G network interface controller with PCIe DMA, used for high-speed networking and packet processing research.
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -251,3 +253,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CoreScore](https://github.com/olofk/corescore)** — FuseSoC-based demonstration SoC that packs as many SERV RISC-V cores as fit on an FPGA, used as an FPGA density benchmark.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CFU Playground](https://github.com/google/CFU-Playground)** — Google framework for designing and integrating custom function units (CFUs) into a soft RISC-V core to accelerate embedded ML workloads on FPGAs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
