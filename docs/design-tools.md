@@ -81,6 +81,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Project Oxide](https://github.com/gatecat/prjoxide)** — Reverse-engineered bitstream documentation and tooling for Lattice Nexus FPGAs, enabling the open Yosys + nextpnr flow.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FOEDAG](https://github.com/os-fpga/FOEDAG)** — Generic FPGA EDA framework providing a Qt-based GUI and Tcl interface for building open FPGA design flows.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -96,6 +98,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LibreLane](https://github.com/librelane/librelane)** — ASIC RTL-to-GDSII implementation flow, the community successor to OpenLane 2; Python-native and Nix-packaged.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[iEDA](https://github.com/OSCC-Project/iEDA)** — RTL-to-GDSII infrastructure and point tools (floorplan, placement, CTS, routing, timing analysis) from the Chinese open-source EDA community.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -343,3 +347,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Silice](https://github.com/sylefeb/Silice)** — Hardware description language focused on FPGA design with explicit cycle-level control, compiling to Verilog.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HWT](https://github.com/Nic30/hwt)** — Python library for hardware description that generates synthesizable Verilog/VHDL with automatic pipeline and interface handling.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

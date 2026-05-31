@@ -72,6 +72,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-mini](https://github.com/ucb-bar/riscv-mini)** — Simple 3-stage RV32I core written in Chisel, widely used as a teaching and reference design in the Berkeley ecosystem.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CVE2](https://github.com/openhwgroup/cve2)** — OpenHW Group's 2-stage 32-bit RISC-V core (RV32E/RV32I), a verification-focused fork of the lowRISC Ibex core.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -171,6 +173,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Corundum](https://github.com/corundum/corundum)** — FPGA-based 10G/25G/100G network interface controller with PCIe DMA, used for high-speed networking and packet processing research.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ValentyUSB](https://github.com/litex-hub/valentyusb)** — Migen/LiteX USB 1.1 full-speed device core (eptri CDC and other endpoint interfaces) for FPGA SoCs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[iob-eth](https://github.com/IObundle/iob-eth)** — Configurable Ethernet MAC core in Verilog with a host-side driver, from the IObundle IP library.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AIB PHY Hardware](https://github.com/chipsalliance/aib-phy-hardware)** — Advanced Interface Bus (AIB) die-to-die chiplet interconnect PHY RTL and reference hardware from CHIPS Alliance.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -217,6 +225,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DFFRAM](https://github.com/AUCOHL/DFFRAM)** — Memory compiler that builds RAM/register-file macros from standard-cell flip-flop/latch cells (no custom bitcell).
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[iob-cache](https://github.com/IObundle/iob-cache)** — Configurable pipelined cache IP in Verilog with AXI4 and native back-end interfaces, from the IObundle IP library.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -255,3 +265,11 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CFU Playground](https://github.com/google/CFU-Playground)** — Google framework for designing and integrating custom function units (CFUs) into a soft RISC-V core to accelerate embedded ML workloads on FPGAs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TestChipIP](https://github.com/ucb-bar/testchipip)** — UC Berkeley library of chip integration peripherals (TileLink SerDes, TSI host interface, block device, boot ROM) used across Chipyard tape-outs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[amaranth-soc](https://github.com/amaranth-lang/amaranth-soc)** — System-on-chip building blocks (CSR register banks, memory maps, wishbone/CSR bus primitives) for the Amaranth HDL.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IOb-SoC](https://github.com/IObundle/iob-soc)** — Verilog RISC-V SoC template integrating a CPU, memory, and peripherals with a Python-based build system, from IObundle.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NDK-FPGA](https://github.com/CESNET/ndk-fpga)** — CESNET Network Development Kit — an FPGA framework for building 100/400 Gbps network applications with DMA and Ethernet infrastructure.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
