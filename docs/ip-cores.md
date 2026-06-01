@@ -74,6 +74,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CVE2](https://github.com/openhwgroup/cve2)** — OpenHW Group's 2-stage 32-bit RISC-V core (RV32E/RV32I), a verification-focused fork of the lowRISC Ibex core.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[WARP-V](https://github.com/stevehoover/warp-v)** — Open-source RISC-V CPU core generator written in TL-Verilog, configurable across pipeline depths and RV32/RV64 variants.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -179,6 +181,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AIB PHY Hardware](https://github.com/chipsalliance/aib-phy-hardware)** — Advanced Interface Bus (AIB) die-to-die chiplet interconnect PHY RTL and reference hardware from CHIPS Alliance.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CLIC](https://github.com/pulp-platform/clic)** — RISC-V Core-Local Interrupt Controller (CLIC) for low-latency vectored interrupts, in SystemVerilog from PULP Platform.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wb_intercon](https://github.com/olofk/wb_intercon)** — Wishbone bus interconnect utilities (arbiter, mux, and address-decoding generators) for wiring Wishbone masters to slaves.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -214,6 +220,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[secworks/sha1](https://github.com/secworks/sha1)** — SHA-1 cryptographic hash function core in Verilog.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ara](https://github.com/pulp-platform/ara)** — PULP 64-bit RISC-V Vector (RVV 1.0) coprocessor unit that attaches to the CORE-V CVA6 application-class core.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -273,3 +281,7 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NDK-FPGA](https://github.com/CESNET/ndk-fpga)** — CESNET Network Development Kit — an FPGA framework for building 100/400 Gbps network applications with DMA and Ethernet infrastructure.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Subservient](https://github.com/olofk/subservient)** — Minimal SERV-based RISC-V SoC (CPU plus memory and debug) packaged primarily for OpenMPW open-shuttle tapeouts.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hwtLib](https://github.com/Nic30/hwtLib)** — Library of reusable hardware components (AXI/Avalon interconnect, FIFOs, RAMs, serial interfaces) written for the hwt Python HDL.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

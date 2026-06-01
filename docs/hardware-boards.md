@@ -36,6 +36,8 @@ Yosys + nextpnr-ecp5 + prjtrellis = open bitstream flow.
   `License: CC0-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — board documentation*
 - **[colorlite](https://github.com/enjoy-digital/colorlite)** — LiteX/LiteEth gateware project that brings up the Colorlight 5A-75B/5A-75E ECP5 boards with the open Yosys+nextpnr flow.
   `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware/bring-up reference*
+- **[Colorlight-FPGA-Projects](https://github.com/wuxx/Colorlight-FPGA-Projects)** — Documentation, schematics, and example gateware for the low-cost Colorlight i5/i9/i9plus ECP5 FPGA modules usable with the open Yosys+nextpnr flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## Intel/Altera
 

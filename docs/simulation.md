@@ -44,6 +44,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenVAF](https://github.com/OpenVAF/OpenVAF-Original)** — Verilog-A compiler that produces OSDI compact device models loadable by ngspice and other SPICE engines.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[eSim](https://github.com/FOSSEE/eSim)** — Open-source EDA suite for schematic capture, analog/mixed-signal SPICE simulation (ngspice), and PCB design, developed by FOSSEE/IIT Bombay.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 

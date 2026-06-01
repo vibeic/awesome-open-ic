@@ -2,7 +2,7 @@
 
 > A curated list of open-source resources for IC design.
 
-This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **655 curated entries across 12 categories and 107 sub-sections** — every URL and license verified at the time of inclusion.
+This list catalogs the open-source tools, IP cores, PDKs, foundry programs, and learning resources that make end-to-end integrated-circuit design possible without proprietary lock-in. **667 curated entries across 12 categories and 107 sub-sections** — every URL and license verified at the time of inclusion.
 
 Entries wrapped as a Model Context Protocol (MCP) tool by vibeic/vibe-ic are marked 🟢 so AI agents can call them directly.
 
