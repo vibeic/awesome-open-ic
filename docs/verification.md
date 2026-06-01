@@ -42,6 +42,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Verilator Coverage](https://github.com/verilator/verilator)** — Line, toggle, branch and user coverage built into the Verilator simulator (`--coverage*` flags).
   `License: LGPL-3.0 / Artistic-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyUCIS](https://github.com/fvutils/pyucis)** — Python implementation of the Accellera UCIS (Unified Coverage Interoperability Standard) API for reading, writing, and merging coverage databases.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 

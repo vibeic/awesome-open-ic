@@ -83,6 +83,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FOEDAG](https://github.com/os-fpga/FOEDAG)** — Generic FPGA EDA framework providing a Qt-based GUI and Tcl interface for building open FPGA design flows.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PRGA](https://github.com/PrincetonUniversity/prga)** — Open framework for building customizable FPGA fabrics and generating their full RTL-to-bitstream CAD toolchain.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 

@@ -60,6 +60,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[CHERI ISA Specification (CTSRD)](https://github.com/CTSRD-CHERI/cheri-specification)** — Cambridge/SRI canonical CHERI architecture document on which the capability model is based (LICENSE file states CC-BY-4.0).
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V ELF psABI Specification](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)** — Processor-specific ABI defining calling conventions, ELF object format, relocations, and DWARF register numbering for RISC-V toolchains.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Fast Interrupt (CLIC) Specification](https://github.com/riscv/riscv-fast-interrupt)** — Core-Local Interrupt Controller specification for low-latency vectored and preemptive interrupt handling.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 
