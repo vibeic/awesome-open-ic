@@ -8,6 +8,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_synth`*
 - **[Synlig](https://github.com/chipsalliance/synlig)** — SystemVerilog synthesis front-end that plugs Surelog/UHDM into Yosys for full IEEE 1800-2017 parsing.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[mockturtle](https://github.com/lsils/mockturtle)** — C++ logic network library from the EPFL Logic Synthesis Libraries, providing logic optimization and technology-mapping algorithms over AIGs, MIGs, and other network types.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LSOracle](https://github.com/lnis-uofu/LSOracle)** — Logic synthesis framework that partitions a circuit and optimizes each partition with either AIG- or MIG-based optimizers.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 

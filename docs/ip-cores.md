@@ -95,6 +95,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VexiiRiscv](https://github.com/SpinalHDL/VexiiRiscv)** — From-scratch SpinalHDL successor to VexRiscv: a configurable in-order RV32/RV64 IMAFDCSB core that scales up to a Linux-capable application class.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XiangShan](https://github.com/OpenXiangShan/XiangShan)** — Open-source high-performance out-of-order superscalar 64-bit RISC-V (RV64GC) processor written in Chisel.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NutShell](https://github.com/OSCPU/NutShell)** — In-order 64-bit RISC-V (RV64) core developed by the OSCPU/XiangShan team for computer-architecture teaching.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -133,6 +137,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sdspi](https://github.com/ZipCPU/sdspi)** — SD/eMMC card controller in Verilog (SPI + native SD modes), with formal proofs.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP apb_uart](https://github.com/pulp-platform/apb_uart)** — APB-attached UART peripheral IP from the PULP platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP AXI](https://github.com/pulp-platform/axi)** — SystemVerilog AXI4/AXI4-Lite interconnect from PULP Platform, used in many ASICs.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP common_cells](https://github.com/pulp-platform/common_cells)** — Reusable SystemVerilog primitives: FIFOs, CDC, arbiters, edge detectors.

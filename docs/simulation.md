@@ -46,6 +46,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[eSim](https://github.com/FOSSEE/eSim)** — Open-source EDA suite for schematic capture, analog/mixed-signal SPICE simulation (ngspice), and PCB design, developed by FOSSEE/IIT Bombay.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JoSIM](https://github.com/JoeyDelp/JoSIM)** — SPICE-compatible analog simulator for superconducting (Josephson-junction) circuits.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 

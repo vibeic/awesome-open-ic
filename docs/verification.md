@@ -74,6 +74,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Btor2Tools](https://github.com/hwmcc/btor2tools)** — Parser, simulator and witness checker for the BTOR2 word-level model-checking format emitted by Yosys.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cvc5](https://github.com/cvc5/cvc5)** — SMT solver supporting bit-vectors, arrays, and many other theories; an alternate back-end for hardware formal verification.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CaDiCaL](https://github.com/arminbiere/cadical)** — CDCL SAT solver from Armin Biere, used as a back-end engine by hardware model-checking and formal-verification flows.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 
