@@ -28,6 +28,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[chipagent](https://github.com/samirliu/chipagent)** — EDA tool-wrapper agent toolkit for AI-assisted chip design that orchestrates SiliconCompiler, Verilator, and cocotb behind an agent interface.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VerilogCoder](https://github.com/NVlabs/VerilogCoder)** — NVIDIA's autonomous agent that writes and verifies Verilog using a task-graph planner and abstract-syntax-tree-based waveform-tracing tools.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
