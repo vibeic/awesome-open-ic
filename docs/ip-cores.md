@@ -76,6 +76,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[WARP-V](https://github.com/stevehoover/warp-v)** — Open-source RISC-V CPU core generator written in TL-Verilog, configurable across pipeline depths and RV32/RV64 variants.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SweRV EH1 (VeeR EH1)](https://github.com/chipsalliance/Cores-VeeR-EH1)** — Western Digital's dual-issue 9-stage superscalar RV32IMC core, the original SweRV core and basis for the VeeR family.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -191,6 +193,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wb_intercon](https://github.com/olofk/wb_intercon)** — Wishbone bus interconnect utilities (arbiter, mux, and address-decoding generators) for wiring Wishbone masters to slaves.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Serial Link](https://github.com/pulp-platform/serial_link)** — Double-data-rate chip-to-chip serial link that tunnels AXI traffic over a narrow source-synchronous physical channel, in SystemVerilog from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -228,6 +232,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Ara](https://github.com/pulp-platform/ara)** — PULP 64-bit RISC-V Vector (RVV 1.0) coprocessor unit that attaches to the CORE-V CVA6 application-class core.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[neoTRNG](https://github.com/stnolting/neoTRNG)** — Technology-agnostic true random number generator based on free-running ring oscillators, written in platform-independent VHDL.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -241,6 +247,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[iob-cache](https://github.com/IObundle/iob-cache)** — Configurable pipelined cache IP in Verilog with AXI4 and native back-end interfaces, from the IObundle IP library.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI LLC](https://github.com/pulp-platform/axi_llc)** — Configurable AXI4 last-level cache with set-associative and scratchpad-memory partitioning modes, in SystemVerilog from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -291,3 +299,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hwtLib](https://github.com/Nic30/hwtLib)** — Library of reusable hardware components (AXI/Avalon interconnect, FIFOs, RAMs, serial interfaces) written for the hwt Python HDL.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[redundancy_cells](https://github.com/pulp-platform/redundancy_cells)** — Library of fault-tolerance RTL primitives including triple-modular-redundancy voters, ECC encoders/decoders, and lockstep comparators, from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
