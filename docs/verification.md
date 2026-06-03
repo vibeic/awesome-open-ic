@@ -35,6 +35,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SVUnit](https://github.com/svunit/svunit)** — Unit-testing framework for SystemVerilog and UVM modules, classes and interfaces, with a JUnit-style runner.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[uvm-python](https://github.com/tpoikela/uvm-python)** — Python and cocotb port of the SystemVerilog UVM 1.2 class library, tested with Icarus Verilog and Verilator.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -78,6 +80,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CaDiCaL](https://github.com/arminbiere/cadical)** — CDCL SAT solver from Armin Biere, used as a back-end engine by hardware model-checking and formal-verification flows.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PySMT](https://github.com/pysmt/pysmt)** — Python library providing a solver-agnostic API for SMT formula construction and dispatch to backends such as Z3, cvc5, and MathSAT.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

@@ -74,6 +74,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[WAL](https://github.com/ics-jku/wal)** — Waveform Analysis Language: a programmable Lisp-based environment for scripting analyses and assertions over VCD/FST traces.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VaporView](https://github.com/Lramseyer/vaporview)** — VS Code extension waveform viewer with native VCD, FST, and GHW support.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
@@ -98,6 +100,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Renode](https://github.com/antmicro/renode)** — Functional simulation framework that runs unmodified firmware across multiple cores and nodes with peripheral and sensor models, for pre-silicon software bring-up.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Silixel](https://github.com/sylefeb/Silixel)** — GPU- and CPU-based gate-level simulator for synthesized netlists.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
