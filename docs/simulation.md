@@ -102,6 +102,12 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Silixel](https://github.com/sylefeb/Silixel)** — GPU- and CPU-based gate-level simulator for synthesized netlists.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ramulator 2.0](https://github.com/CMU-SAFARI/ramulator2)** — Cycle-accurate and modular DRAM simulator supporting DDR4/DDR5, LPDDR5, HBM, and other modern memory standards.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DRAMsim3](https://github.com/umd-memsys/DRAMsim3)** — Cycle-accurate DRAM simulator with thermal modeling that runs standalone or coupled to CPU simulators such as gem5.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sparta (MAP)](https://github.com/sparcians/map)** — C++ modeling framework and the Olympia RISC-V out-of-order reference model for building cycle-approximate microarchitecture performance simulators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

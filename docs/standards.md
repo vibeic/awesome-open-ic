@@ -8,6 +8,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V V Vector spec](https://github.com/riscv/riscv-v-spec)** — Ratified RVV vector extension.
   `License: CC-BY-4.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)** — Machine-readable tables of RISC-V instruction encodings used to generate decoders, assemblers, and documentation across the toolchain.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## On-chip Buses
 
@@ -63,6 +65,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 - **[RISC-V ELF psABI Specification](https://github.com/riscv-non-isa/riscv-elf-psabi-doc)** — Processor-specific ABI defining calling conventions, ELF object format, relocations, and DWARF register numbering for RISC-V toolchains.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Fast Interrupt (CLIC) Specification](https://github.com/riscv/riscv-fast-interrupt)** — Core-Local Interrupt Controller specification for low-latency vectored and preemptive interrupt handling.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V SBI Specification](https://github.com/riscv-non-isa/riscv-sbi-doc)** — Supervisor Binary Interface specification defining the call interface between supervisor-mode software and the underlying runtime firmware (SEE).
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
