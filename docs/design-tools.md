@@ -31,6 +31,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TAPA](https://github.com/rapidstream-org/rapidstream-tapa)** — High-level synthesis framework that compiles C++ task-parallel dataflow programs into RTL with explicit streaming and parallel task instantiation.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Dahlia](https://github.com/cucapra/dahlia)** — Imperative programming language for designing hardware accelerators whose type system rejects programs that would synthesize inefficiently under high-level synthesis.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -93,6 +95,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PRGA](https://github.com/PrincetonUniversity/prga)** — Open framework for building customizable FPGA fabrics and generating their full RTL-to-bitstream CAD toolchain.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Raptor Tools](https://github.com/os-fpga/Raptor_Tools)** — Supporting toolset for Rapid Silicon's Raptor open-source FPGA design flow, bundling the device modeler and related EDA utilities.
+  `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 

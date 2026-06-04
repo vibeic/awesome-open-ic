@@ -122,6 +122,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ZAP ARMv4](https://github.com/krevanth/ZAP)** — Open ARMv4-compatible 32-bit pipelined core in Verilog.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Patmos](https://github.com/t-crest/patmos)** — Time-predictable dual-issue VLIW processor for hard real-time embedded systems, developed in the T-CREST project and implemented in Chisel.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
