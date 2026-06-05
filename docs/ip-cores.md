@@ -78,6 +78,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SweRV EH1 (VeeR EH1)](https://github.com/chipsalliance/Cores-VeeR-EH1)** — Western Digital's dual-issue 9-stage superscalar RV32IMC core, the original SweRV core and basis for the VeeR family.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SweRV EH2 (VeeR EH2)](https://github.com/chipsalliance/Cores-VeeR-EH2)** — Western Digital's dual-threaded dual-issue 9-stage superscalar RV32IMAC core, the multi-threaded member of the VeeR family.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -302,4 +304,14 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[hwtLib](https://github.com/Nic30/hwtLib)** — Library of reusable hardware components (AXI/Avalon interconnect, FIFOs, RAMs, serial interfaces) written for the hwt Python HDL.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[redundancy_cells](https://github.com/pulp-platform/redundancy_cells)** — Library of fault-tolerance RTL primitives including triple-modular-redundancy voters, ECC encoders/decoders, and lockstep comparators, from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ESP](https://github.com/sld-columbia/esp)** — Columbia University's heterogeneous SoC platform integrating RISC-V cores and accelerators with an automated tile-based architecture and IP integration flow.
+  `License: Apache-2.0 AND GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SaxonSoc](https://github.com/SpinalHDL/SaxonSoc)** — Linux-capable SoC built around the VexRiscv core in SpinalHDL, targeting low-cost FPGAs such as the iCE40 UP5K.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hwpe-stream](https://github.com/pulp-platform/hwpe-stream)** — Streaming interconnect primitives (FIFOs, source/sink, muxes) for building Hardware Processing Engine accelerators in the PULP platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hwpe-ctrl](https://github.com/pulp-platform/hwpe-ctrl)** — Control and register-file infrastructure for Hardware Processing Engine accelerators in the PULP platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic)** — Technology-agnostic standard-cell wrappers (clock gates, muxes, flip-flops, pads) that let PULP RTL be portable across foundry libraries.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
