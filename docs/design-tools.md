@@ -64,6 +64,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[vhd2vl](https://github.com/ldoolitt/vhd2vl)** — Translator that converts synthesizable VHDL source into equivalent Verilog.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[svls](https://github.com/dalance/svls)** — SystemVerilog language server built on sv-parser, providing diagnostics and IEEE 1800-2017 syntax checking to LSP-capable editors.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdlConvertor](https://github.com/Nic30/hdlConvertor)** — Verilog/VHDL parser, preprocessor, and code generator for C++ and Python built on an ANTLR4 grammar.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -166,6 +170,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_xschem_netlist`*
 - **[KLayout-PEX](https://github.com/iic-jku/klayout-pex)** — Parasitic (R/C) extraction for KLayout layouts, bridging open PDK rule decks to extracted netlists.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public)** — Analog layout automation framework that generates schematic-driven place-and-route layouts for analog and mixed-signal circuits.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MAGICAL](https://github.com/magical-eda/MAGICAL)** — Fully automated analog IC layout generation system that produces layouts directly from a netlist.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
