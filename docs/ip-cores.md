@@ -103,6 +103,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NutShell](https://github.com/OSCPU/NutShell)** — In-order 64-bit RISC-V (RV64) core developed by the OSCPU/XiangShan team for computer-architecture teaching.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Flute](https://github.com/bluespec/Flute)** — RISC-V CPU with a 5-stage in-order pipeline and MMU, written in Bluespec for low-end Linux-capable application use.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -126,6 +128,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Patmos](https://github.com/t-crest/patmos)** — Time-predictable dual-issue VLIW processor for hard real-time embedded systems, developed in the T-CREST project and implemented in Chisel.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MIAOW](https://github.com/VerticalResearchGroup/miaow)** — Open-source GPGPU implementing a subset of the AMD Southern Islands ISA, from the University of Wisconsin-Madison.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 

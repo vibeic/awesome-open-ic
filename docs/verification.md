@@ -89,6 +89,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_formal`*
 - **[Sail RISC-V](https://github.com/riscv/sail-riscv)** — Official RISC-V International executable golden-model ISA spec written in Sail.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sail](https://github.com/rems-project/sail)** — Architecture definition language and toolchain for specifying instruction-set semantics and emitting executable models, documentation, and theorem-prover definitions.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing
 
