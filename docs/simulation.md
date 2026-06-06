@@ -118,3 +118,7 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 
 ## Lab Instruments / SDR-adjacent
 
+- **[libscopehal](https://github.com/ngscopeclient/scopehal)** — Test-and-measurement hardware abstraction library with protocol decoders for oscilloscopes, logic analyzers, and other lab instruments.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ngscopeclient](https://github.com/ngscopeclient/scopehal-apps)** — Cross-platform oscilloscope and signal-analysis GUI client built on libscopehal.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
