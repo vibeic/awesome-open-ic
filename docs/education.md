@@ -123,3 +123,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Ripes](https://github.com/mortbopet/Ripes)** — Graphical processor simulator and assembly editor for the RISC-V ISA, built for computer-architecture education.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)** — Digital logic design tool and simulator for education, with circuit simulation and Verilog/VHDL export.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

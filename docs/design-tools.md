@@ -152,6 +152,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdl/constraints](https://github.com/hdl/constraints)** — Collection of pin and timing constraint files for common FPGA development boards, maintained by the HDL community.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[chipflow-lib](https://github.com/ChipFlow/chipflow-lib)** — Python library for building, simulating, and packaging SoC designs through the ChipFlow platform.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -330,6 +332,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Custom` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[svlint](https://github.com/dalance/svlint)** — Configurable SystemVerilog linter with rules covering naming conventions, coding style, and synthesizability.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VHDL Style Guide (VSG)](https://github.com/jeremiah-c-leary/vhdl-style-guide)** — Style-guide and lint checker for VHDL that reports and automatically fixes coding-style violations.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Schematic Visualization
 
@@ -381,3 +385,11 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyMTL3](https://github.com/pymtl/pymtl3)** — Python-based hardware generation, simulation, and verification framework (Mamba) from Cornell University.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ROHD](https://github.com/intel/rohd)** — Framework for describing and verifying hardware in the Dart programming language, generating synthesizable SystemVerilog, from Intel.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Filament](https://github.com/cucapra/filament)** — Hardware description language whose type system statically enforces correct pipelining and timing, compiling to synthesizable Verilog, from Cornell's Capra group.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HDLRuby](https://github.com/civol/HDLRuby)** — Ruby library for describing and simulating digital circuits, with generation of Verilog HDL and VHDL.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Veriloggen](https://github.com/PyHDI/veriloggen)** — Python library for constructing Verilog RTL and high-level synthesis through a mixed-paradigm hardware construction framework.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
