@@ -26,6 +26,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-wishbone](https://github.com/wallento/cocotbext-wishbone)** — Wishbone bus master and slave models for driving cocotb verification environments.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SVUT](https://github.com/dpretet/svut)** — Framework for writing Verilog/SystemVerilog unit tests, running on Icarus Verilog or Verilator.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -37,6 +39,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[uvm-python](https://github.com/tpoikela/uvm-python)** — Python and cocotb port of the SystemVerilog UVM 1.2 class library, tested with Icarus Verilog and Verilator.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ROHD-VF](https://github.com/intel/rohd-vf)** — Hardware verification framework built on ROHD that provides UVM-style testbench components in Dart, from Intel.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
