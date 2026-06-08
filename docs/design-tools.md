@@ -68,6 +68,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdlConvertor](https://github.com/Nic30/hdlConvertor)** — Verilog/VHDL parser, preprocessor, and code generator for C++ and Python built on an ANTLR4 grammar.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FIRRTL](https://github.com/chipsalliance/firrtl)** — Flexible Intermediate Representation for RTL: the typed compiler IR and pass framework emitted by Chisel and lowered to Verilog (now continued inside CIRCT).
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -339,6 +341,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
 
 - **[netlistsvg](https://github.com/nturley/netlistsvg)** — Draws an SVG schematic from a Yosys JSON netlist; ubiquitous for RTL documentation.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Lepton EDA](https://github.com/lepton-eda/lepton-eda)** — Schematic capture and netlisting suite, a maintained fork of gEDA/gaf with a Scheme-scriptable schematic editor and SPICE/Verilog netlist export.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

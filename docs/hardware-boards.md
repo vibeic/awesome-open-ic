@@ -105,6 +105,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
 - **[Microwatt](https://github.com/antonblanchard/microwatt)** — Tiny open POWER ISA softcore (VHDL 2008); tested on Arty A7, Nexys Video, OrangeCrab, ButterStick (Caravel port also exists in community forks).
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon/FPGA softcore reference*
+- **[Caravel analog user_project template](https://github.com/efabless/caravel_user_project_analog)** — Sample analog/mixed-signal user-project template for the eFabless Caravel/Caravan harness, with SKY130 analog signoff CI (DRC/LVS, GDS) for MPW shuttles.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 

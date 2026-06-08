@@ -28,6 +28,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SVUT](https://github.com/dpretet/svut)** — Framework for writing Verilog/SystemVerilog unit tests, running on Icarus Verilog or Verilator.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-ahb](https://github.com/aignacio/cocotbext-ahb)** — AMBA AHB master, slave, and monitor verification models (VIP) for cocotb testbenches.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 

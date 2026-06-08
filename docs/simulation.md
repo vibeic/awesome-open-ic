@@ -48,6 +48,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[JoSIM](https://github.com/JoeyDelp/JoSIM)** — SPICE-compatible analog simulator for superconducting (Josephson-junction) circuits.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DEVSIM](https://github.com/devsim/devsim)** — TCAD semiconductor device simulator that solves drift-diffusion equations on 1D/2D/3D meshes to model device physics and extract I-V and compact-model behavior.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -107,6 +109,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 - **[DRAMsim3](https://github.com/umd-memsys/DRAMsim3)** — Cycle-accurate DRAM simulator with thermal modeling that runs standalone or coupled to CPU simulators such as gem5.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sparta (MAP)](https://github.com/sparcians/map)** — C++ modeling framework and the Olympia RISC-V out-of-order reference model for building cycle-approximate microarchitecture performance simulators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Whisper](https://github.com/tenstorrent/whisper)** — RISC-V instruction-set simulator from Tenstorrent used as a golden reference model for RTL verification, with GDB integration and memory-consistency checking.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
