@@ -49,6 +49,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Open-source (LICENSE in repo)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[MLPerf Tiny](https://github.com/mlcommons/tiny)** — MLCommons benchmark suite for extremely low-power ML inference on microcontroller-class systems; reference target for TinyML accelerator and SoC evaluation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AnalogGym](https://github.com/CODA-Team/AnalogGym)** — Open benchmark suite of analog circuit sizing problems (amplifiers, bandgap, comparator, LDO) with ngspice testbenches for evaluating optimization- and learning-based analog design automation.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route Contests
 

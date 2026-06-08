@@ -40,6 +40,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lowRISC](https://github.com/lowRISC/lowrisc-chip)** — SoC platform around Rocket + open peripherals (parent project of Ibex/OpenTitan).
   `License: Apache-2.0 / BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Betrusted SoC](https://github.com/betrusted-io/betrusted-soc)** — LiteX-based secure system-on-chip gateware for the Betrusted/Precursor open hardware device, built around a VexRiscv root of trust.
+  `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -242,6 +244,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[neoTRNG](https://github.com/stnolting/neoTRNG)** — Technology-agnostic true random number generator based on free-running ring oscillators, written in platform-independent VHDL.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UH-JLS](https://github.com/WangXuan95/UH-JLS)** — FPGA-based high-throughput JPEG-LS encoder core for lossless image compression, written in Verilog.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
