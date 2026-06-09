@@ -41,6 +41,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[Verismith](https://github.com/ymherklotz/verismith)** — Random Verilog fuzzer that has found 11 confirmed bugs in Yosys, XST, Vivado, Quartus, and Icarus; usable as a robustness benchmark for LLM-generated RTL.
   `License: GPL-3.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[TuRTLe](https://github.com/HPAI-BSC/TuRTLe)** — Unified evaluation framework from Barcelona Supercomputing Center that scores LLMs across RTL generation, completion, and repair tasks by integrating VerilogEval, RTLLM, and other benchmarks.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## Datasets
 
