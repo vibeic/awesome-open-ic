@@ -70,6 +70,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FIRRTL](https://github.com/chipsalliance/firrtl)** — Flexible Intermediate Representation for RTL: the typed compiler IR and pass framework emitted by Chisel and lowered to Verilog (now continued inside CIRCT).
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL)** — Open-source HDL integrated development environment for VS Code with linting, state-machine and schematic viewers, documentation generation, and simulator/project management integration.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SpyDrNet](https://github.com/byuccl/spydrnet)** — Python framework from BYU for parsing, analyzing, and transforming structural netlists (EDIF, Verilog), used for FPGA reliability transformations such as TMR insertion.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -103,6 +107,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Raptor Tools](https://github.com/os-fpga/Raptor_Tools)** — Supporting toolset for Rapid Silicon's Raptor open-source FPGA design flow, bundling the device modeler and related EDA utilities.
   `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FABulous](https://github.com/FPGA-Research/FABulous)** — Embedded FPGA (eFPGA) fabric generator producing custom FPGA fabrics in Verilog or VHDL, with bitstream generation and CAD support through Yosys and nextpnr.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -191,6 +197,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[kfactory](https://github.com/gdsfactory/kfactory)** — KLayout-based Python API for programmatic IC layout generation, used as a backend for parametric photonic and analog layout.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LAYGO2](https://github.com/niftylab/laygo2)** — Python-based layout generation framework for custom and analog ICs using template-and-grid-based metal patterning; successor to the BAG-integrated LAYGO.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Substrate2](https://github.com/ucb-substrate/substrate2)** — Rust framework from UC Berkeley for programmatic analog and mixed-signal circuit design, covering schematic generation, simulation control, and layout.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -397,3 +407,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Veriloggen](https://github.com/PyHDI/veriloggen)** — Python library for constructing Verilog RTL and high-level synthesis through a mixed-paradigm hardware construction framework.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PipelineC](https://github.com/JulianKemmerer/PipelineC)** — C-like hardware description language with automatic pipelining that compiles to synthesizable VHDL, occupying a middle ground between RTL and high-level synthesis.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

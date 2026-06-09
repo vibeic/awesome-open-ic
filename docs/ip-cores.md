@@ -107,6 +107,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Flute](https://github.com/bluespec/Flute)** — RISC-V CPU with a 5-stage in-order pipeline and MMU, written in Bluespec for low-end Linux-capable application use.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Muntjac](https://github.com/lowRISC/muntjac)** — 64-bit RV64GC multicore-capable RISC-V core from lowRISC with MMU and TileLink-based coherent caches, designed as a simple, well-validated baseline.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -205,6 +207,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Serial Link](https://github.com/pulp-platform/serial_link)** — Double-data-rate chip-to-chip serial link that tunnels AXI traffic over a narrow source-synchronous physical channel, in SystemVerilog from PULP Platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Constellation](https://github.com/ucb-bar/constellation)** — Chisel-based network-on-chip generator from UC Berkeley's Chipyard ecosystem producing parameterized interconnects with arbitrary topologies and AXI4/TileLink endpoints.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -322,4 +326,6 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[hwpe-ctrl](https://github.com/pulp-platform/hwpe-ctrl)** — Control and register-file infrastructure for Hardware Processing Engine accelerators in the PULP platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic)** — Technology-agnostic standard-cell wrappers (clock gates, muxes, flip-flops, pads) that let PULP RTL be portable across foundry libraries.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Croc](https://github.com/pulp-platform/croc)** — Minimal RISC-V microcontroller SoC from ETH Zurich built around the CVE2 core, used in VLSI teaching and taped out end-to-end with open-source tools on IHP 130 nm.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

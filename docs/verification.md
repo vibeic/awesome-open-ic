@@ -52,6 +52,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: LGPL-3.0 / Artistic-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyUCIS](https://github.com/fvutils/pyucis)** — Python implementation of the Accellera UCIS (Unified Coverage Interoperability Standard) API for reading, writing, and merging coverage databases.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyVSC](https://github.com/fvutils/pyvsc)** — Python library providing SystemVerilog-style constrained randomization and functional coverage for testbenches written with cocotb or pyuvm.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 
@@ -88,6 +90,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PySMT](https://github.com/pysmt/pysmt)** — Python library providing a solver-agnostic API for SMT formula construction and dispatch to backends such as Z3, cvc5, and MathSAT.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kissat](https://github.com/arminbiere/kissat)** — Condensed C reimplementation of the CaDiCaL SAT solver by Armin Biere, a repeated SAT Competition winner used as a back-end engine by formal tools.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

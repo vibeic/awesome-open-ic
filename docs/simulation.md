@@ -50,6 +50,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DEVSIM](https://github.com/devsim/devsim)** — TCAD semiconductor device simulator that solves drift-diffusion equations on 1D/2D/3D meshes to model device physics and extract I-V and compact-model behavior.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)** — SPICE-derived circuit simulator written in C#/.NET with a netlist parser and an extensible component model.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
