@@ -74,6 +74,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SpyDrNet](https://github.com/byuccl/spydrnet)** — Python framework from BYU for parsing, analyzing, and transforming structural netlists (EDIF, Verilog), used for FPGA reliability transformations such as TMR insertion.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler)** — Compiler front-end for the SystemRDL 2.0 register description language that parses and elaborates register specifications into a traversable Python object model; the foundation of the PeakRDL toolchain.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -162,6 +164,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[chipflow-lib](https://github.com/ChipFlow/chipflow-lib)** — Python library for building, simulating, and packaging SoC designs through the ChipFlow platform.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Orbit](https://github.com/chaseruskin/orbit)** — Package manager and build system for VHDL, Verilog, and SystemVerilog projects with versioned IP dependency resolution.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl)** — Bazel build rules for hardware description languages (Verilog, VHDL, Chisel) driving open tools such as Yosys, Verilator, and OpenROAD.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -353,6 +359,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Lepton EDA](https://github.com/lepton-eda/lepton-eda)** — Schematic capture and netlisting suite, a maintained fork of gEDA/gaf with a Scheme-scriptable schematic editor and SPICE/Verilog netlist export.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[d3-hwschematic](https://github.com/Nic30/d3-hwschematic)** — JavaScript schematic visualizer based on D3.js and the ELK layout engine that renders interactive hardware schematics in the browser.
+  `License: EPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

@@ -42,6 +42,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0 / BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Betrusted SoC](https://github.com/betrusted-io/betrusted-soc)** — LiteX-based secure system-on-chip gateware for the Betrusted/Precursor open hardware device, built around a VexRiscv root of trust.
   `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sonata System](https://github.com/lowRISC/sonata-system)** — Full microcontroller system from lowRISC's Sunburst project built around the CHERIoT Ibex core, providing memory-safety-focused gateware and software for the Sonata FPGA board.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -82,6 +84,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SweRV EH2 (VeeR EH2)](https://github.com/chipsalliance/Cores-VeeR-EH2)** — Western Digital's dual-threaded dual-issue 9-stage superscalar RV32IMAC core, the multi-threaded member of the VeeR family.
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CHERIoT Ibex](https://github.com/microsoft/cheriot-ibex)** — Microsoft's RTL implementation of the CHERIoT capability ISA based on lowRISC's Ibex core, adding hardware memory-safety enforcement for embedded systems.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -209,6 +213,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Constellation](https://github.com/ucb-bar/constellation)** — Chisel-based network-on-chip generator from UC Berkeley's Chipyard ecosystem producing parameterized interconnects with arbitrary topologies and AXI4/TileLink endpoints.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Taxi](https://github.com/fpganinja/taxi)** — SystemVerilog library of AXI, AXI stream, Ethernet, and PCIe components from the author of verilog-ethernet and verilog-axi.
+  `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPGA-USB-Device](https://github.com/WangXuan95/FPGA-USB-Device)** — USB 1.1 full-speed device controller in Verilog implementing USB-serial, USB-camera, USB-audio, and USB-HID classes using only three FPGA IOs and no external PHY chip.
+  `License: LGPL-2.1` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -328,4 +336,6 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[tech_cells_generic](https://github.com/pulp-platform/tech_cells_generic)** — Technology-agnostic standard-cell wrappers (clock gates, muxes, flip-flops, pads) that let PULP RTL be portable across foundry libraries.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Croc](https://github.com/pulp-platform/croc)** — Minimal RISC-V microcontroller SoC from ETH Zurich built around the CVE2 core, used in VLSI teaching and taped out end-to-end with open-source tools on IHP 130 nm.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Carfield](https://github.com/pulp-platform/carfield)** — Mixed-criticality SoC platform from PULP built around the Cheshire RV64 host with safety, security, and predictability features, plus a ready-to-use FPGA flow on multiple boards.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
