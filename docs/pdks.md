@@ -71,6 +71,10 @@ Synthesizable standard cell libraries — the digital building blocks that map t
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_sram_macros](https://github.com/efabless/sky130_sram_macros)** — Pre-built SKY130 SRAM macros (1 kB to 16 kB, 1RW1R) generated with OpenRAM. Drop-in hardened memory blocks for sky130 flows without running a memory compiler.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_osu_sc_t15](https://github.com/stineje/sky130_osu_sc_t15)** — Oklahoma State University 15-track standard cell library for SKY130, the mid-height member of the OSU t12/t15/t18 family.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_osu_sc_t18](https://github.com/stineje/sky130_osu_sc_t18)** — Oklahoma State University 18-track standard cell library for SKY130, the tallest member of the OSU t12/t15/t18 family.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## PDK Tooling
 

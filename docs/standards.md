@@ -97,6 +97,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Paywalled spec (IEEE)` | `Last commit: 2019` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[Verilog-AMS LRM — Accellera](https://accellera.org/downloads/standards/v-ams)** — Analog/mixed-signal extension of Verilog; LRM (current 2023) downloadable free from Accellera as PDF.
   `License: Free Accellera download (Verilog-AMS LRM)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[SystemRDL 2.0 — Accellera](https://accellera.org/downloads/standards/systemrdl)** — Register description language providing a single source for control/status register specifications from which RTL, headers, UVM models, and documentation are generated; spec PDF downloadable free from Accellera.
+  `License: Free Accellera download (SystemRDL 2.0)` | `Last commit: 2018 (current release)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Verification Methodology
 
@@ -108,6 +110,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Paywalled spec (IEEE)` | `Last commit: 2014 (superseded by 1685-2022)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[IP-XACT XML schemas & user guide — Accellera](https://www.accellera.org/downloads/standards/ip-xact)** — Free IP-XACT (IEEE 1685) XML schema files, vendor-extension definitions, and user guide hosted by Accellera (the normative IEEE doc itself remains paywalled).
   `License: Free Accellera download (schemas + user guide)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[Portable Test and Stimulus Standard (PSS) — Accellera](https://accellera.org/downloads/standards/portable-stimulus)** — Single representation of stimulus and test scenarios reusable across simulation, emulation, FPGA prototyping, and post-silicon validation; PSS 3.0 LRM downloadable free from Accellera.
+  `License: Free Accellera download (PSS 3.0 LRM)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## DFT & JTAG
 

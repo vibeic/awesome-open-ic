@@ -72,6 +72,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Free tutorial / cheat sheet` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Free Range VHDL (book + LaTeX source)](https://github.com/fabriziotappero/Free-Range-VHDL-book)** — Open-access introductory-to-intermediate VHDL textbook (14 chapters) for digital design, with full LaTeX source and a free PDF.
   `License: CC-BY-SA-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Systematic Design of Analog CMOS Circuits — ancillary material](https://github.com/bmurmann/Book-on-gm-ID-design)** — Boris Murmann's companion repository for the gm/ID-based analog design book, with lookup-table generation scripts and worked examples in Python and MATLAB.
+  `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
