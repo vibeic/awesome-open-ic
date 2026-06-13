@@ -417,3 +417,7 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PipelineC](https://github.com/JulianKemmerer/PipelineC)** — C-like hardware description language with automatic pipelining that compiles to synthesizable VHDL, occupying a middle ground between RTL and high-level synthesis.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rust-HDL](https://github.com/samitbasu/rust-hdl)** — Rust library for describing synthesizable digital hardware that generates Verilog, with built-in simulation and testbench support.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DFHDL](https://github.com/DFiantHDL/DFHDL)** — Scala-based dataflow hardware description language (formerly DFiant) that compiles to Verilog/VHDL while abstracting explicit clock and reset handling.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

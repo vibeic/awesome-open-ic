@@ -113,6 +113,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Muntjac](https://github.com/lowRISC/muntjac)** — 64-bit RV64GC multicore-capable RISC-V core from lowRISC with MMU and TileLink-based coherent caches, designed as a simple, well-validated baseline.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VRoom!](https://github.com/MoonbaseOtago/vroom)** — Out-of-order superscalar RV64GC RISC-V CPU targeting application-class performance, written in SystemVerilog.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -138,6 +140,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MIAOW](https://github.com/VerticalResearchGroup/miaow)** — Open-source GPGPU implementing a subset of the AMD Southern Islands ISA, from the University of Wisconsin-Madison.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[A2O](https://github.com/OpenPOWERFoundation/a2o)** — IBM out-of-order POWER ISA core (derived from the A2 used in PowerEN and BlueGene/Q), released by the OpenPOWER Foundation.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[A2I](https://github.com/OpenPOWERFoundation/a2i)** — IBM in-order multithreaded POWER ISA core (the A2 used in BlueGene/Q and PowerEN), released by the OpenPOWER Foundation.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -258,6 +264,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UH-JLS](https://github.com/WangXuan95/UH-JLS)** — FPGA-based high-throughput JPEG-LS encoder core for lossless image compression, written in Verilog.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Spatz](https://github.com/pulp-platform/spatz)** — Compact 64-bit RISC-V vector processing unit (RVV) from PULP/ETH Zurich, designed as an energy-efficient accelerator for the Snitch ecosystem.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -338,4 +346,6 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[Croc](https://github.com/pulp-platform/croc)** — Minimal RISC-V microcontroller SoC from ETH Zurich built around the CVE2 core, used in VLSI teaching and taped out end-to-end with open-source tools on IHP 130 nm.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Carfield](https://github.com/pulp-platform/carfield)** — Mixed-criticality SoC platform from PULP built around the Cheshire RV64 host with safety, security, and predictability features, plus a ready-to-use FPGA flow on multiple boards.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BSG Manycore (HammerBlade)](https://github.com/bespoke-silicon-group/bsg_manycore)** — Tiled RISC-V manycore array with a 2D-mesh network-on-chip, from the University of Washington Bespoke Silicon Group.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

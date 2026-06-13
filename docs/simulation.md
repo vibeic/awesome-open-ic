@@ -52,6 +52,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)** — SPICE-derived circuit simulator written in C#/.NET with a netlist parser and an extensible component model.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[python-deltasigma](https://github.com/ggventurini/python-deltasigma)** — Python toolkit for the design, simulation, and analysis of delta-sigma modulators, a port of Richard Schreier's MATLAB Delta Sigma Toolbox.
+  `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
