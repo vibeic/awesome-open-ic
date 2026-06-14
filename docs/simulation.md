@@ -116,6 +116,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Whisper](https://github.com/tenstorrent/whisper)** — RISC-V instruction-set simulator from Tenstorrent used as a golden reference model for RTL verification, with GDB integration and memory-consistency checking.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)** — Header-only C RISC-V RV32IMA instruction-set emulator small enough to embed yet capable of booting Linux, usable as a compact golden reference.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

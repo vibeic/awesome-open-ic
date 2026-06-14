@@ -44,6 +44,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sonata System](https://github.com/lowRISC/sonata-system)** — Full microcontroller system from lowRISC's Sunburst project built around the CHERIoT Ibex core, providing memory-safety-focused gateware and software for the Sonata FPGA board.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[quasiSoC](https://github.com/regymm/quasiSoC)** — Linux-capable RISC-V system-on-chip with readable RTL and a complete FPGA bring-up flow, intended for learning and reuse.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -144,6 +146,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[A2I](https://github.com/OpenPOWERFoundation/a2i)** — IBM in-order multithreaded POWER ISA core (the A2 used in BlueGene/Q and PowerEN), released by the OpenPOWER Foundation.
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VeriGPU](https://github.com/hughperkins/VeriGPU)** — Open-source GPGPU implemented in Verilog with an accompanying compiler toolchain, loosely based on the RISC-V ISA.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -223,6 +227,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPGA-USB-Device](https://github.com/WangXuan95/FPGA-USB-Device)** — USB 1.1 full-speed device controller in Verilog implementing USB-serial, USB-camera, USB-audio, and USB-HID classes using only three FPGA IOs and no external PHY chip.
   `License: LGPL-2.1` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wbi2c](https://github.com/ZipCPU/wbi2c)** — Wishbone-controlled I2C master and slave controller cores in Verilog.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wbscope](https://github.com/ZipCPU/wbscope)** — Wishbone-controlled internal logic-analyzer (scope) core that captures on-chip signal traces into a buffer for FPGA and ASIC debug.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -266,6 +274,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Spatz](https://github.com/pulp-platform/spatz)** — Compact 64-bit RISC-V vector processing unit (RVV) from PULP/ETH Zurich, designed as an energy-efficient accelerator for the Snitch ecosystem.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[secworks/ascon](https://github.com/secworks/ascon)** — Verilog implementation of the ASCON lightweight authenticated encryption and hashing algorithm (NIST lightweight cryptography standard).
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[secworks/siphash](https://github.com/secworks/siphash)** — Hardware implementation of the SipHash keyed pseudo-random function (short-input PRF) in Verilog.
+  `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

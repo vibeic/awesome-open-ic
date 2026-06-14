@@ -168,6 +168,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl)** — Bazel build rules for hardware description languages (Verilog, VHDL, Chisel) driving open tools such as Yosys, Verilator, and OpenROAD.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.ProjectModel](https://github.com/edaa-org/pyEDAA.ProjectModel)** — Python abstract data model describing EDA tool projects (design files, source groups, constraints, toolchains) for sharing project structure across the EDA² (edaa-org) tooling ecosystem.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -212,6 +214,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 
 - **[IIC-OSIC-TOOLS Docker](https://github.com/iic-jku/IIC-OSIC-TOOLS)** — Single Docker image bundling 100+ open-source IC design tools. JKU's curated chip-design container.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdl/containers](https://github.com/hdl/containers)** — Collection of container images bundling open-source EDA tools (Yosys, Verilator, GHDL, nextpnr, OpenROAD, and more) for reproducible CI and development environments.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 
