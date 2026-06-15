@@ -33,6 +33,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Dahlia](https://github.com/cucapra/dahlia)** — Imperative programming language for designing hardware accelerators whose type system rejects programs that would synthesize inefficiently under high-level synthesis.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Allo](https://github.com/cornell-zhang/allo)** — Python-embedded, MLIR-based language and compiler from Cornell for composable machine-learning accelerator design, with automatic accelerator generation from PyTorch models (PLDI'24).
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -76,6 +78,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler)** — Compiler front-end for the SystemRDL 2.0 register description language that parses and elaborates register specifications into a traversable Python object model; the foundation of the PeakRDL toolchain.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HDL Checker](https://github.com/suoto/hdl_checker)** — Language-server backend that repurposes existing HDL tools to provide on-the-fly linting and diagnostics for Verilog/VHDL editors.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -111,6 +115,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FABulous](https://github.com/FPGA-Research/FABulous)** — Embedded FPGA (eFPGA) fabric generator producing custom FPGA fabrics in Verilog or VHDL, with bitstream generation and CAD support through Yosys and nextpnr.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Icestudio](https://github.com/FPGAwars/icestudio)** — Visual block-diagram editor for open FPGA boards that generates Verilog and drives the Yosys/nextpnr toolchain via apio.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -128,6 +134,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[iEDA](https://github.com/OSCC-Project/iEDA)** — RTL-to-GDSII infrastructure and point tools (floorplan, placement, CTS, routing, timing analysis) from the Chinese open-source EDA community.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ACT](https://github.com/asyncvlsi/act)** — Asynchronous Circuit Toolkit: a hardware description language and core tools for designing, simulating, and laying out asynchronous VLSI circuits.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -143,6 +151,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Coriolis](https://github.com/lip6/coriolis)** — Complete RTL-to-GDSII physical-design toolchain (floorplanning, placement, routing) for standard-cell ASICs, from Sorbonne University LIP6.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NTHU-Route](https://github.com/luckyrantanplan/nthu-route)** — VLSI global router for placement-and-routing congestion benchmarks.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -177,6 +187,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_sta`, `eda_sta_mcorner`*
 - **[OpenTimer](https://github.com/OpenTimer/OpenTimer)** — Multi-threaded gate-level static timing analysis engine for VLSI systems, usable as a standalone STA tool or library.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ink](https://github.com/Randy1005/Ink)** — Incremental k-critical-path generation engine for static timing analysis.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
@@ -209,6 +221,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Substrate2](https://github.com/ucb-substrate/substrate2)** — Rust framework from UC Berkeley for programmatic analog and mixed-signal circuit design, covering schematic generation, simulation control, and layout.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Skillbridge](https://github.com/unihd-cag/skillbridge)** — Python-to-Cadence-Virtuoso bridge that exposes the SKILL scripting interface for layout and PDK automation from Python.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -425,3 +439,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DFHDL](https://github.com/DFiantHDL/DFHDL)** — Scala-based dataflow hardware description language (formerly DFiant) that compiles to Verilog/VHDL while abstracting explicit clock and reset handling.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SUS](https://github.com/pc2/sus-compiler)** — RTL hardware design language and compiler with built-in pipelining via "latency counting" that produces netlists for standard synthesis tools.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
