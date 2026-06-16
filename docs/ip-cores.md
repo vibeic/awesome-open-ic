@@ -233,6 +233,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wbscope](https://github.com/ZipCPU/wbscope)** — Wishbone-controlled internal logic-analyzer (scope) core that captures on-chip signal traces into a buffer for FPGA and ASIC debug.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vgasim](https://github.com/ZipCPU/vgasim)** — Verilog video display controller and pipeline (frame buffer, VGA/HDMI/camera framing) with a Verilator-based simulator that renders the output to a window for testbench inspection.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[eth10g](https://github.com/ZipCPU/eth10g)** — 10Gb Ethernet Layer-2 switch in Verilog that routes packets across four SFP+ interfaces using a MAC-address learning table.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -280,6 +284,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[secworks/siphash](https://github.com/secworks/siphash)** — Hardware implementation of the SipHash keyed pseudo-random function (short-input PRF) in Verilog.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[dspfilters](https://github.com/ZipCPU/dspfilters)** — Library of parameterizable digital filter cores in Verilog, including generic FIR, fast/slow FIR, symmetric FIR, and recursive/IIR building blocks with formal checks.
+  `License: LGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

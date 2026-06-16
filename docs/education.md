@@ -35,6 +35,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[NPTEL — Hardware Modeling using Verilog (IIT Kharagpur)](https://nptel.ac.in/courses/106105165)** — Prof. Indranil Sengupta. Free NPTEL course on hardware modeling and digital design with Verilog.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[NPTEL — CAD for VLSI Design I (IIT Madras)](https://nptel.ac.in/courses/106106088)** — Prof. V. Kamakoti and Prof. Shankar Balachandran. Free NPTEL video course on VLSI CAD algorithms: logic synthesis, placement, routing, and physical design automation.
+  `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## University Open Courseware
 

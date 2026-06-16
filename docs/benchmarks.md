@@ -21,6 +21,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[VTR benchmarks](https://github.com/verilog-to-routing/vtr-verilog-to-routing)** — Verilog-to-Routing project bundling the MCNC20, VTR, and Titan FPGA benchmark circuit sets used for FPGA architecture and CAD research.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ITC'99 benchmarks (Polito I99T)](https://github.com/cad-polito-it/I99T)** — Politecnico di Torino's synthesizable ITC'99 benchmark circuits (b01–b22) in VHDL/Verilog, an academic reference set used for ATPG, fault-simulation, and DFT research.
+  `License: EUPL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## RISC-V Test Suites
 
