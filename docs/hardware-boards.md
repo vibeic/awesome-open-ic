@@ -109,6 +109,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon/FPGA softcore reference*
 - **[Caravel analog user_project template](https://github.com/efabless/caravel_user_project_analog)** — Sample analog/mixed-signal user-project template for the eFabless Caravel/Caravan harness, with SKY130 analog signoff CI (DRC/LVS, GDS) for MPW shuttles.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout 10 shuttle](https://github.com/TinyTapeout/tinytapeout-10)** — TT10 shuttle aggregate for the Tiny Tapeout educational ASIC program: GDS, Verilog, mux architecture, and signoff for all participant designs.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
 
 ## Test & Measurement Boards (FPGA-based)
 
@@ -120,6 +122,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: CERN-OHL-P-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — USB test instrumentation*
 - **[LUNA](https://github.com/greatscottgadgets/luna)** — Amaranth HDL gateware framework for building USB devices/analyzers on ECP5 (and other) FPGAs; powers the Cynthion instrument.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware framework for USB bring-up*
+- **[Tigard](https://github.com/tigard-tools/tigard)** — Open-hardware FT2232H-based multi-protocol debug board exposing JTAG, SWD, UART, SPI, and I2C interfaces with switchable target voltages; KiCad design files in the repo.
+  `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — multi-protocol debug board*
 
 ## RF / SDR
 

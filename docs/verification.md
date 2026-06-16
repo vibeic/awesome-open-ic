@@ -96,6 +96,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kissat](https://github.com/arminbiere/kissat)** — Condensed C reimplementation of the CaDiCaL SAT solver by Armin Biere, a repeated SAT Competition winner used as a back-end engine by formal tools.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CryptoMiniSat](https://github.com/msoos/cryptominisat)** — CDCL SAT solver with XOR-clause and Gaussian-elimination support, usable as a back-end engine for hardware formal and equivalence-checking flows.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[STP](https://github.com/stp/stp)** — SMT solver for the theory of bit-vectors and arrays, used as a decision-procedure back-end by model checkers and symbolic-execution tools.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

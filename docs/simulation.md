@@ -63,6 +63,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Spike (riscv-isa-sim)](https://github.com/riscv-software-src/riscv-isa-sim)** — The official RISC-V golden-reference ISA simulator; co-simulated with RTL for trace comparison and SAIL alignment.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyVerilator](https://github.com/maltanar/pyverilator)** — Python wrapper that compiles a Verilog design with Verilator and exposes the model's signals for stepping and inspection from Python scripts.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 

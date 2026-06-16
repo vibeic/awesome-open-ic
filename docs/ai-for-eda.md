@@ -30,6 +30,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VerilogCoder](https://github.com/NVlabs/VerilogCoder)** — NVIDIA's autonomous agent that writes and verifies Verilog using a task-graph planner and abstract-syntax-tree-based waveform-tracing tools.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ORAssistant](https://github.com/The-OpenROAD-Project/ORAssistant)** — Retrieval-augmented multi-agent chat assistant grounded in OpenROAD / ORFS docs and GitHub that answers tool-usage and flow questions, with a deployable front end and evaluation harness.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -58,6 +60,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[CircuitNet](https://github.com/circuitnet/CircuitNet)** — Open EDA-ML dataset for congestion / DRC / IR-drop / net-delay prediction with feature extraction + GNN baselines (TCAD + ICLR companion papers).
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[EDA-Corpus](https://github.com/OpenROAD-Assistant/EDA-Corpus)** — Data corpus for EDA LLM research tailored to OpenROAD / ORFS: question-answer pairs and prompt-script pairs mined from OpenROAD issues, discussions, and docs (arXiv:2405.06676).
+  `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 
 ## ML for Placement & Routing
 
