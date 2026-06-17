@@ -120,6 +120,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)** — Header-only C RISC-V RV32IMA instruction-set emulator small enough to embed yet capable of booting Linux, usable as a compact golden reference.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BookSim 2](https://github.com/booksim/booksim2)** — Cycle-accurate interconnection-network (network-on-chip) simulator from Stanford for evaluating topologies, routing algorithms, and flow control.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DRAMSys](https://github.com/tukl-msd/DRAMSys)** — SystemC TLM-2.0 DRAM subsystem simulator modeling DDR/LPDDR/HBM with power and thermal analysis, from RPTU Kaiserslautern-Landau and Fraunhofer IESE.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

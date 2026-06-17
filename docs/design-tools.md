@@ -80,6 +80,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HDL Checker](https://github.com/suoto/hdl_checker)** — Language-server backend that repurposes existing HDL tools to provide on-the-fly linting and diagnostics for Verilog/VHDL editors.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Moore](https://github.com/fabianschuiki/moore)** — Hardware compiler for SystemVerilog and VHDL written in Rust that lowers designs to the LLHD and CIRCT intermediate representations.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VHDL-LS (rust_hdl)](https://github.com/VHDL-LS/rust_hdl)** — VHDL language server and analysis library written in Rust, providing diagnostics, navigation, and IEEE library support to LSP-capable editors.
+  `License: MPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Veridian](https://github.com/vivekmalneedi/veridian)** — SystemVerilog language server offering autocomplete, diagnostics, and navigation, built on the slang and sv-parser front-ends.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -117,6 +123,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Icestudio](https://github.com/FPGAwars/icestudio)** — Visual block-diagram editor for open FPGA boards that generates Verilog and drives the Yosys/nextpnr toolchain via apio.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RapidWright](https://github.com/Xilinx/RapidWright)** — Framework from AMD/Xilinx for low-level placement, routing, and device-model manipulation of Vivado designs on UltraScale, UltraScale+, and Versal devices.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 

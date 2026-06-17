@@ -94,3 +94,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[ChampSim](https://github.com/ChampSim/ChampSim)** — Trace-based microarchitecture simulator maintained at Texas A&M; the standard harness for CPU branch-prediction, cache, and prefetcher benchmarking with public trace sets.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTLMeter](https://github.com/verilator/rtlmeter)** — Benchmark suite from the Verilator project that measures simulator build and run performance across a curated set of real open-source RTL designs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
