@@ -90,6 +90,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SoomRV](https://github.com/mathis-s/SoomRV)** — 4-wide superscalar out-of-order RV32IMAC RISC-V core that implements the privileged spec and boots Linux.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[srv32](https://github.com/kuopinghsu/srv32)** — Three-stage pipelined RV32IM RISC-V core paired with a matching C instruction-set simulator and compliance test flow.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[kianRiscV](https://github.com/splinedrive/kianRiscV)** — From-scratch RISC-V cores and SoC for learning, including an RV32 FPGA core and a Linux/xv6-capable RV64 design.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -371,3 +375,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MemPool](https://github.com/pulp-platform/mempool)** — Scalable 256/1024-core RISC-V system with low-latency access into a shared L1 memory, from PULP Platform.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Garnet](https://github.com/StanfordAHA/garnet)** — Coarse-grained reconfigurable array (CGRA) generator from the Stanford AHA project that produces the fabric and its companion compiler/CAD toolchain.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
