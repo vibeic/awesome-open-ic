@@ -35,6 +35,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Allo](https://github.com/cornell-zhang/allo)** — Python-embedded, MLIR-based language and compiler from Cornell for composable machine-learning accelerator design, with automatic accelerator generation from PyTorch models (PLDI'24).
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ScaleHLS / HIDA](https://github.com/UIUC-ChenLab/ScaleHLS-HIDA)** — MLIR-based high-level synthesis framework that compiles C/C++ and PyTorch models through multi-level intermediate representations and a hierarchical dataflow optimizer toward HLS C/C++.
+  `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -113,6 +115,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Project Oxide](https://github.com/gatecat/prjoxide)** — Reverse-engineered bitstream documentation and tooling for Lattice Nexus FPGAs, enabling the open Yosys + nextpnr flow.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openXC7](https://github.com/openXC7/toolchain-nix)** — Nix-packaged fully open toolchain for Xilinx 7-series FPGAs that combines Yosys, nextpnr-xilinx, and Project X-Ray for synthesis through bitstream generation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FOEDAG](https://github.com/os-fpga/FOEDAG)** — Generic FPGA EDA framework providing a Qt-based GUI and Tcl interface for building open FPGA design flows.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PRGA](https://github.com/PrincetonUniversity/prga)** — Open framework for building customizable FPGA fabrics and generating their full RTL-to-bitstream CAD toolchain.
@@ -188,6 +192,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyEDAA.ProjectModel](https://github.com/edaa-org/pyEDAA.ProjectModel)** — Python abstract data model describing EDA tool projects (design files, source groups, constraints, toolchains) for sharing project structure across the EDA² (edaa-org) tooling ecosystem.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tsfpga](https://github.com/tsfpga/tsfpga)** — Python-based build and simulation framework for FPGA projects that generates VHDL register files from TOML and orchestrates Vivado, GHDL, and Verilator runs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

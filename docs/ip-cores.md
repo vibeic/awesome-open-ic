@@ -20,6 +20,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SCR1](https://github.com/syntacore/scr1)** — Syntacore RV32IMC core, open-sourced for embedded use.
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FRISCV](https://github.com/dpretet/friscv)** — Configurable RV32I/E RISC-V core in SystemVerilog built around a 3-stage pipeline, with AXI4-lite instruction/data buses, instruction and data caches, and an optional M extension.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — 64-bit / Application-class
 
@@ -310,6 +312,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 
 - **[BAG Framework](https://github.com/ucb-art/BAG_framework)** — UC Berkeley's Python framework for generator-based analog/mixed-signal layout & sim.
   `License: BSD-3-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DragonPHY](https://github.com/StanfordVLSI/dragonphy2)** — Open-source wireline SerDes (PHY) receiver from Stanford, implemented with a Python generator-based mixed-signal design flow and taped out in 16 nm.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
