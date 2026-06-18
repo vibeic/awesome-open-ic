@@ -93,6 +93,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Artistic-1.0 / GPL-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[libsigrok](https://github.com/sigrokproject/libsigrok)** — C library providing the device-access and signal-processing backend for sigrok/PulseView; parses and decodes logic-analyzer and oscilloscope captures.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wellen](https://github.com/ekiwi/wellen)** — Rust library for fast parsing of VCD, FST, and GHW waveform files, used as the trace backend of the Surfer waveform viewer.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 

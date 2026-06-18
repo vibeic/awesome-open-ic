@@ -31,6 +31,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[IHP Open PDK SG13G2](https://github.com/IHP-GmbH/IHP-Open-PDK)** — 0.13 μm SiGe BiCMOS PDK released by IHP; standard cells, IO, SRAM, and tags aligned with each Open-Silicon MPW shuttle.
   `License: Apache-2.0 / open` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[MPW Precheck](https://github.com/efabless/mpw_precheck)** — Automated checks (license, documentation, manifest, DRC/XOR, and hierarchy) that a design must pass before submission to an eFabless MPW or ChipIgnite shuttle.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

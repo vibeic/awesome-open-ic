@@ -32,6 +32,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ORAssistant](https://github.com/The-OpenROAD-Project/ORAssistant)** — Retrieval-augmented multi-agent chat assistant grounded in OpenROAD / ORFS docs and GitHub that answers tool-usage and flow questions, with a deployable front end and evaluation harness.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Timeloop](https://github.com/NVlabs/timeloop)** — NVIDIA's modeling, mapping, and code-generation infrastructure for tensor-algebra accelerators that evaluates performance, energy, and area across dataflows and memory hierarchies, paired with the Accelergy energy estimator.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -69,6 +71,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[DREAMPlace](https://github.com/limbo018/DREAMPlace)** — GPU-accelerated analytical placer cast as a deep-learning training loop; ~30× speedup vs CPU global placement.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[AutoDMP](https://github.com/NVlabs/AutoDMP)** — NVIDIA's automated macro placement and parameter-optimization framework built on the GPU-accelerated DREAMPlace, using multi-objective Bayesian optimization to tune placement configurations (ISPD'23).
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MaskPlace paper](https://arxiv.org/abs/2211.13382)** — NeurIPS 2022 RL placer that recasts macro placement as pixel-level visual representation learning, reporting 60-90% wirelength reduction with zero overlaps (companion code at github.com/laiyao1/maskplace).
   `License: arXiv preprint` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[ChiPFormer paper](https://arxiv.org/abs/2306.14744)** — ICML 2023 offline-RL placer using a decision transformer to learn a transferable placement policy, reporting ~10× runtime improvement across 32 circuits (companion code at github.com/laiyao1/ChiPFormer).
