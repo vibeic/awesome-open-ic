@@ -88,6 +88,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Veridian](https://github.com/vivekmalneedi/veridian)** — SystemVerilog language server offering autocomplete, diagnostics, and navigation, built on the slang and sv-parser front-ends.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Verilog-Mode](https://github.com/veripool/verilog-mode)** — Emacs major mode for Verilog and SystemVerilog with indentation, syntax highlighting, and AUTO meta-comment expansion that generates and maintains port lists, sensitivity lists, and instantiations.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -194,6 +196,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tsfpga](https://github.com/tsfpga/tsfpga)** — Python-based build and simulation framework for FPGA projects that generates VHDL register files from TOML and orchestrates Vivado, GHDL, and Verilator runs.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AutoFPGA](https://github.com/ZipCPU/autofpga)** — Utility that composes an FPGA SoC from per-peripheral configuration files, generating the bus interconnect, address decoding, register definitions, and glue logic.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

@@ -90,6 +90,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CACE](https://github.com/fossi-foundation/cace)** — Circuit Automatic Characterization Engine. Runs a PDK's analog/mixed-signal blocks through ngspice simulations to characterize them against a datasheet-style spec, under the FOSSi Foundation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lambdapdk](https://github.com/siliconcompiler/lambdapdk)** — Collection of open-source process design kits packaged for the SiliconCompiler build system, providing a uniform interface across sky130, gf180mcu, ASAP7, and other PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
