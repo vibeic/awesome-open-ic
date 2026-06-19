@@ -96,6 +96,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[kianRiscV](https://github.com/splinedrive/kianRiscV)** — From-scratch RISC-V cores and SoC for learning, including an RV32 FPGA core and a Linux/xv6-capable RV64 design.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XuanTie E906](https://github.com/XUANTIE-RV/opene906)** — Alibaba T-Head's open 32-bit embedded RISC-V CPU core (OpenE906) targeting real-time and control applications.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[T1](https://github.com/chipsalliance/t1)** — RISC-V Vector (Zve32) processor generator written in Chisel, using a lane-based microarchitecture with chaining that integrates with any RISC-V scalar core.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -380,4 +384,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[MemPool](https://github.com/pulp-platform/mempool)** — Scalable 256/1024-core RISC-V system with low-latency access into a shared L1 memory, from PULP Platform.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Garnet](https://github.com/StanfordAHA/garnet)** — Coarse-grained reconfigurable array (CGRA) generator from the Stanford AHA project that produces the fabric and its companion compiler/CAD toolchain.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Occamy](https://github.com/pulp-platform/occamy)** — PULP-platform high-efficiency RISC-V system-on-chip built on Snitch compute clusters for floating-point and HPC workloads.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[picobello](https://github.com/pulp-platform/picobello)** — PULP-platform open-source research system-on-chip targeting AI and machine-learning acceleration.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lambdalib](https://github.com/siliconcompiler/lambdalib)** — Verilog hardware abstraction library providing technology-independent standard-cell, RAM, and I/O primitives for portable RTL, used with SiliconCompiler.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ROHD-HCL](https://github.com/intel/rohd-hcl)** — Configurable, verified hardware component library (arithmetic units, FIFOs, encoders, interfaces) built on the ROHD Dart-based HDL framework.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

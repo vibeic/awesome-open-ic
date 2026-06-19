@@ -23,6 +23,8 @@ Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[pico-ice](https://github.com/tinyvision-ai-inc/pico-ice)** — Open-hardware board pairing a Raspberry Pi RP2040 microcontroller with a Lattice iCE40 UP5K FPGA, with the RP2040 acting as the on-board programmer for the open toolchain.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[iCE40HX1K-EVB](https://github.com/OLIMEX/iCE40HX1K-EVB)** — OLIMEX open-hardware Lattice iCE40HX1K FPGA development board with KiCad design files, usable with the Yosys + nextpnr + IceStorm toolchain.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## Lattice ECP5 (fully open toolchain)
 
