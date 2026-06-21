@@ -30,6 +30,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-ahb](https://github.com/aignacio/cocotbext-ahb)** — AMBA AHB master, slave, and monitor verification models (VIP) for cocotb testbenches.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-uart](https://github.com/alexforencich/cocotbext-uart)** — UART source and sink models for driving and monitoring serial interfaces in cocotb testbenches.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -131,6 +133,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-config](https://github.com/riscv-software-src/riscv-config)** — YAML-based RISC-V ISA and platform configuration validator used by RISCOF to check a target's claimed spec against the standard.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-isac](https://github.com/riscv-software-src/riscv-isac)** — RISC-V ISA coverage tool that measures architectural coverage from instruction execution logs, used by the RISCOF compliance flow.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-ctg](https://github.com/riscv-software-src/riscv-ctg)** — RISC-V compliance test generator that produces architectural test programs from coverage-point specifications.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

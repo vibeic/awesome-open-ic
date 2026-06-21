@@ -100,6 +100,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[T1](https://github.com/chipsalliance/t1)** — RISC-V Vector (Zve32) processor generator written in Chisel, using a lane-based microarchitecture with chaining that integrates with any RISC-V scalar core.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Aquila](https://github.com/eisl-nctu/aquila)** — 32-bit RV32IMA RISC-V SoC for Xilinx FPGAs with a 5-stage pipeline, caches, and FreeRTOS support, designed as a teaching and research platform.
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -173,6 +175,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)** — Full Ethernet MAC (10M/100M/1G/10G/25G) with AXI-stream interface.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[verilog-wishbone](https://github.com/alexforencich/verilog-wishbone)** — Wishbone bus interconnect, arbiter, RAM, and adapter components in Verilog.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wb2axip](https://github.com/ZipCPU/wb2axip)** — Wishbone to AXI bridges, AXI/AXI-Lite slaves, crossbars, with formal proofs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sdspi](https://github.com/ZipCPU/sdspi)** — SD/eMMC card controller in Verilog (SPI + native SD modes), with formal proofs.
@@ -296,6 +300,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[dspfilters](https://github.com/ZipCPU/dspfilters)** — Library of parameterizable digital filter cores in Verilog, including generic FIR, fast/slow FIR, symmetric FIR, and recursive/IIR building blocks with formal checks.
   `License: LGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[secworks/gcm](https://github.com/secworks/gcm)** — Verilog implementation of the Galois/Counter Mode (GCM) authenticated-encryption block for AES.
+  `License: BSD-2-Clause` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[dsp-blocks](https://github.com/ucb-bar/dsp-blocks)** — Collection of common digital signal processing block generators written in Chisel.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
