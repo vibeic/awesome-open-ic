@@ -95,6 +95,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wellen](https://github.com/ekiwi/wellen)** — Rust library for fast parsing of VCD, FST, and GHW waveform files, used as the trace backend of the Surfer waveform viewer.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyDigitalWaveTools](https://github.com/Nic30/pyDigitalWaveTools)** — Python library for reading and writing VCD and other digital waveform file formats.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 
@@ -126,6 +128,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DRAMSys](https://github.com/tukl-msd/DRAMSys)** — SystemC TLM-2.0 DRAM subsystem simulator modeling DDR/LPDDR/HBM with power and thermal analysis, from RPTU Kaiserslautern-Landau and Fraunhofer IESE.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SCALE-Sim](https://github.com/scalesim-project/SCALE-Sim)** — Systolic-array CNN accelerator simulator from ARM and Georgia Tech that models cycle-accurate compute, on-chip memory traffic, and DRAM bandwidth for DNN dataflow exploration.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MAESTRO](https://github.com/maestro-project/maestro)** — Analytical cost model that evaluates DNN accelerator mappings (dataflow and tiling) to estimate latency, energy, and hardware-resource trade-offs.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

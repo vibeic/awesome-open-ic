@@ -102,6 +102,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Aquila](https://github.com/eisl-nctu/aquila)** — 32-bit RV32IMA RISC-V SoC for Xilinx FPGAs with a 5-stage pipeline, caches, and FreeRTOS support, designed as a teaching and research platform.
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[YARVI](https://github.com/tommythorn/yarvi)** — Compact in-order RV32I RISC-V soft core in Verilog written by Tommy Thorn as a readable reference implementation.
+  `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -251,6 +253,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[eth10g](https://github.com/ZipCPU/eth10g)** — 10Gb Ethernet Layer-2 switch in Verilog that routes packets across four SFP+ interfaces using a MAC-address learning table.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdl-modules](https://github.com/hdl-modules/hdl-modules)** — Collection of reusable, peer-reviewed VHDL building blocks including FIFOs, clock-domain-crossing primitives, and AXI/AXI-Stream infrastructure, with a Python-based build framework.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Digilent vivado-library](https://github.com/Digilent/vivado-library)** — Free-to-use IP cores and interface definitions from Digilent compatible with the AMD/Xilinx Vivado IP catalog, covering Pmod and peripheral interfaces for their FPGA boards.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
