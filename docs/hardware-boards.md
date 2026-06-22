@@ -137,3 +137,5 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HackRF One](https://github.com/greatscottgadgets/hackrf)** — Open-source half-duplex software-defined radio peripheral operating from 1 MHz to 6 GHz, with published hardware design files and host tools.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Red Pitaya Notes](https://github.com/pavel-demin/red-pitaya-notes)** — Open-source FPGA projects, SDR transceivers, and build notes for the Red Pitaya STEMlab board (Zynq-7000 SoC with dual ADC/DAC).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

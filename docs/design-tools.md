@@ -198,6 +198,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AutoFPGA](https://github.com/ZipCPU/autofpga)** — Utility that composes an FPGA SoC from per-peripheral configuration files, generating the bus interconnect, address decoding, register definitions, and glue logic.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdl-registers](https://github.com/hdl-registers/hdl-registers)** — Register code generator that produces VHDL/Verilog register files, C/C++ headers, and HTML documentation from a TOML, JSON, or Python register definition.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
