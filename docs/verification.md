@@ -32,6 +32,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-uart](https://github.com/alexforencich/cocotbext-uart)** — UART source and sink models for driving and monitoring serial interfaces in cocotb testbenches.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[common_verification](https://github.com/pulp-platform/common_verification)** — SystemVerilog library of basic testbench helper modules — clock and reset generators, stimulus drivers, and signal watchdogs — from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 

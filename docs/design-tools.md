@@ -37,6 +37,16 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ScaleHLS / HIDA](https://github.com/UIUC-ChenLab/ScaleHLS-HIDA)** — MLIR-based high-level synthesis framework that compiles C/C++ and PyTorch models through multi-level intermediate representations and a hierarchical dataflow optimizer toward HLS C/C++.
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MatchLib](https://github.com/NVlabs/matchlib)** — SystemC/C++ library of synthesizable transaction-level connection and component models such as FIFOs, arbiters, and interconnect for high-level synthesis.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MatchLib Toolkit](https://github.com/hlslibs/matchlib_toolkit)** — Packaging of the MatchLib SystemC library with examples and a build flow for high-level synthesis using open simulators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Algorithmic C Datatypes (ac_types)](https://github.com/hlslibs/ac_types)** — C++ header library of arbitrary-precision integer, fixed-point, and floating-point datatypes for bit-accurate high-level synthesis.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Algorithmic C Math (ac_math)](https://github.com/hlslibs/ac_math)** — C++ header library of synthesizable math functions built on the Algorithmic C datatypes for high-level synthesis.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Algorithmic C Sim Utils (ac_simutils)](https://github.com/hlslibs/ac_simutils)** — C++ utility library for simulating and verifying Algorithmic C designs, with random generators and memory-modeling helpers for high-level synthesis.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -90,6 +100,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Verilog-Mode](https://github.com/veripool/verilog-mode)** — Emacs major mode for Verilog and SystemVerilog with indentation, syntax highlighting, and AUTO meta-comment expansion that generates and maintains port lists, sensitivity lists, and instantiations.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sv-tests](https://github.com/antmicro/sv-tests)** — Test suite and framework for measuring SystemVerilog language-feature support across parsers, simulators, and synthesis tools.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 

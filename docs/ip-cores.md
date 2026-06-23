@@ -48,6 +48,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[quasiSoC](https://github.com/regymm/quasiSoC)** — Linux-capable RISC-V system-on-chip with readable RTL and a complete FPGA bring-up flow, intended for learning and reuse.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Caliptra Subsystem](https://github.com/chipsalliance/caliptra-ss)** — Reference subsystem integrating the Caliptra root-of-trust core with a manufacturer control unit, fuse controller, and recovery interface, in SystemVerilog.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
