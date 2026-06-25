@@ -132,6 +132,12 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MAESTRO](https://github.com/maestro-project/maestro)** — Analytical cost model that evaluates DNN accelerator mappings (dataflow and tiling) to estimate latency, energy, and hardware-resource trade-offs.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sniper](https://github.com/snipersim/snipersim)** — Parallel, interval- and cycle-level multi-core x86 architecture simulator for pre-RTL performance and power exploration of many-core systems.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SST (Structural Simulation Toolkit)](https://github.com/sstsimulator/sst-core)** — Parallel discrete-event simulation core from Sandia National Laboratories for building scalable architecture simulations of processors, memory, and networks.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Scarab](https://github.com/hpsresearchgroup/scarab)** — Cycle-accurate x86 and RISC-V microarchitecture simulator from the HPS research group for detailed processor performance modeling.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

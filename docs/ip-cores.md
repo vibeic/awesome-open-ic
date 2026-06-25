@@ -312,6 +312,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[dsp-blocks](https://github.com/ucb-bar/dsp-blocks)** — Collection of common digital signal processing block generators written in Chisel.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VTA](https://github.com/apache/tvm-vta)** — Versatile Tensor Accelerator, an open and parameterizable deep-learning accelerator hardware design with HLS and Chisel implementations, part of the Apache TVM stack.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
