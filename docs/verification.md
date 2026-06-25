@@ -34,6 +34,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[common_verification](https://github.com/pulp-platform/common_verification)** — SystemVerilog library of basic testbench helper modules — clock and reset generators, stimulus drivers, and signal watchdogs — from PULP Platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Picker](https://github.com/XS-MLVP/picker)** — Tool that converts a Verilog/SystemVerilog DUT into multi-language (Python, C++, Go, Java, Scala) verification libraries so testbenches can be written in software languages, from the OpenXiangShan ecosystem.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[toffee](https://github.com/XS-MLVP/toffee)** — Python hardware verification framework built on Picker that provides structured driver, monitor, and coverage abstractions for software-language testbenches.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -104,6 +108,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[STP](https://github.com/stp/stp)** — SMT solver for the theory of bit-vectors and arrays, used as a decision-procedure back-end by model checkers and symbolic-execution tools.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Boolector](https://github.com/Boolector/boolector)** — SMT solver for the theories of fixed-size bit-vectors, arrays, and uninterpreted functions, long used as a back-end by hardware model checkers (succeeded by Bitwuzla).
+  `License: MIT` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenSMT](https://github.com/usi-verification-and-security/opensmt)** — SMT solver from USI Lugano supporting bit-vectors, arrays, and linear arithmetic, with interpolation features used in SMT-based model checking.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 
