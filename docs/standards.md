@@ -68,6 +68,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V SBI Specification](https://github.com/riscv-non-isa/riscv-sbi-doc)** — Supervisor Binary Interface specification defining the call interface between supervisor-mode software and the underlying runtime firmware (SEE).
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Architecture Profiles](https://github.com/riscv/riscv-profiles)** — Ratified profiles (RVA20/RVA22/RVA23 and RVB23) that bundle ISA extensions into standardized feature sets for application-class and bare-metal platforms.
+  `License: CC-BY-4.0` | `Last commit: 2026 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Cache Management Operations](https://github.com/riscv/riscv-CMOs)** — Ratified CMO extensions (Zicbom cache-block management, Zicbop prefetch, and Zicboz block-zeroing) for cacheable memory regions.
+  `License: CC-BY-4.0` | `Last commit: 2025 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

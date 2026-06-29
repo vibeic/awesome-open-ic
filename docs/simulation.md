@@ -138,6 +138,12 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Scarab](https://github.com/hpsresearchgroup/scarab)** — Cycle-accurate x86 and RISC-V microarchitecture simulator from the HPS research group for detailed processor performance modeling.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution)** — Cycle-level simulator modeling contemporary NVIDIA GPUs running CUDA and OpenCL workloads, with TensorCore support and the GPUWattch energy model.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Accel-Sim](https://github.com/accel-sim/accel-sim-framework)** — GPU architecture simulation framework built on a validated version of GPGPU-Sim, supporting both trace-driven and execution-driven modeling of modern GPUs.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SST Elements](https://github.com/sstsimulator/sst-elements)** — Library of architectural component models (processors, memory, and network) that run on the SST parallel discrete-event simulation core from Sandia National Laboratories.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

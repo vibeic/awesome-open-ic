@@ -259,6 +259,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Digilent vivado-library](https://github.com/Digilent/vivado-library)** — Free-to-use IP cores and interface definitions from Digilent compatible with the AMD/Xilinx Vivado IP catalog, covering Pmod and peripheral interfaces for their FPGA boards.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[APB GPIO](https://github.com/pulp-platform/apb_gpio)** — General-purpose I/O peripheral with an APB slave interface from the PULP platform, providing configurable input/output pins and interrupt generation.
+  `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

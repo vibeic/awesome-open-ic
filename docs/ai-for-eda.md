@@ -34,6 +34,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Timeloop](https://github.com/NVlabs/timeloop)** — NVIDIA's modeling, mapping, and code-generation infrastructure for tensor-algebra accelerators that evaluates performance, energy, and area across dataflows and memory hierarchies, paired with the Accelergy energy estimator.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Accelergy](https://github.com/Accelergy-Project/accelergy)** — Energy and area estimation infrastructure for hardware accelerators that plugs into Timeloop to score the cost of dataflows and memory hierarchies.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
