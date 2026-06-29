@@ -143,6 +143,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RapidWright](https://github.com/Xilinx/RapidWright)** — Framework from AMD/Xilinx for low-level placement, routing, and device-model manipulation of Vivado designs on UltraScale, UltraScale+, and Versal devices.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Logik](https://github.com/siliconcompiler/logik)** — Configurable RTL-to-bitstream FPGA toolchain built on SiliconCompiler that targets open FPGA architectures.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -261,6 +263,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[IIC-OSIC-TOOLS Docker](https://github.com/iic-jku/IIC-OSIC-TOOLS)** — Single Docker image bundling 100+ open-source IC design tools. JKU's curated chip-design container.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdl/containers](https://github.com/hdl/containers)** — Collection of container images bundling open-source EDA tools (Yosys, Verilator, GHDL, nextpnr, OpenROAD, and more) for reproducible CI and development environments.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FOSS-ASIC-TOOLS](https://github.com/efabless/foss-asic-tools)** — All-in-one container of open-source analog and digital IC design tools for the SkyWater sky130 flow, bundling OpenLane, Magic, KLayout, ngspice, Xschem, and related utilities.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
