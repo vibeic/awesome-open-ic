@@ -131,3 +131,11 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[SiliWiz](https://github.com/TinyTapeout/siliwiz)** — Browser-based interactive silicon layout tool that lets beginners draw transistor-level layout and simulate it with ngspice; part of the Tiny Tapeout learning curriculum.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[CircuitVerse](https://github.com/CircuitVerse/CircuitVerse)** — Browser-based digital logic circuit simulator and designer for learning and teaching digital design, with circuit sharing and an interactive simulator.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[RARS — RISC-V Assembler and Runtime Simulator](https://github.com/TheThirdOne/rars)** — Graphical RISC-V assembler and runtime simulator with an integrated editor, register/memory views, and a debugger, built for computer-architecture education.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ibex-demo-system](https://github.com/lowRISC/ibex-demo-system)** — Reference demo SoC built around the lowRISC Ibex RV32 core with a debug module and peripherals, intended for FPGA bring-up and teaching.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[neorv32-setups](https://github.com/stnolting/neorv32-setups)** — Ready-to-synthesize example projects and board setups for the NEORV32 RISC-V processor across a range of FPGAs and open-source toolchains.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

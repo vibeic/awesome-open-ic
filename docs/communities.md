@@ -27,6 +27,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 - **[Open Source Hardware Association (OSHWA)](https://www.oshwa.org/)** — US non-profit stewarding the Open Source Hardware Definition and running the open-hardware certification program (3000+ certified projects).
   `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
+- **[CERN Open Hardware Repository (OHWR)](https://ohwr.org/)** — CERN-hosted platform for collaborative development of open hardware and home of the CERN Open Hardware Licence (CERN-OHL); hosts projects such as Wishbone and White Rabbit.
+  `License: CERN project (CERN-OHL)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 
 ## Conferences
 

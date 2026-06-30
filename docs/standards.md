@@ -72,6 +72,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Cache Management Operations](https://github.com/riscv/riscv-CMOs)** — Ratified CMO extensions (Zicbom cache-block management, Zicbop prefetch, and Zicboz block-zeroing) for cacheable memory regions.
   `License: CC-BY-4.0` | `Last commit: 2025 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual)** — Community reference documenting RISC-V assembler directives, pseudo-instructions, register naming conventions, and relocation syntax used by RISC-V toolchains.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 
