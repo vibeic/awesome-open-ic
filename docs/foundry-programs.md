@@ -33,6 +33,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0 / open` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[MPW Precheck](https://github.com/efabless/mpw_precheck)** — Automated checks (license, documentation, manifest, DRC/XOR, and hierarchy) that a design must pass before submission to an eFabless MPW or ChipIgnite shuttle.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout tt-support-tools](https://github.com/TinyTapeout/tt-support-tools)** — Build and chip-integration scripts that harden, document, and assemble individual Tiny Tapeout designs into the shared multi-project shuttle.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

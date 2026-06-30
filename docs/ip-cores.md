@@ -261,6 +261,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[APB GPIO](https://github.com/pulp-platform/apb_gpio)** — General-purpose I/O peripheral with an APB slave interface from the PULP platform, providing configurable input/output pins and interrupt generation.
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[rocket-chip-blocks](https://github.com/chipsalliance/rocket-chip-blocks)** — Chisel device blocks compatible with the Rocket Chip generator, covering UART, SPI, I2C, GPIO, PWM, JTAG, timer, watchdog, and ChipLink peripherals (successor to sifive-blocks).
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
