@@ -36,6 +36,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Accelergy](https://github.com/Accelergy-Project/accelergy)** — Energy and area estimation infrastructure for hardware accelerators that plugs into Timeloop to score the cost of dataflows and memory hierarchies.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VGen (VeriGen)](https://github.com/shailja-thakur/VGen)** — Fine-tuning and evaluation code from the VeriGen study, training and benchmarking large language models (fine-tuned CodeGen) for automated Verilog RTL generation.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

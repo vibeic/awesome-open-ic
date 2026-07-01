@@ -40,6 +40,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[toffee](https://github.com/XS-MLVP/toffee)** — Python hardware verification framework built on Picker that provides structured driver, monitor, and coverage abstractions for software-language testbenches.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HDLRegression](https://github.com/HDLUtils/hdlregression)** — Python-based regression test runner for VHDL and SystemVerilog that manages incremental compilation and test execution across multiple simulators.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
