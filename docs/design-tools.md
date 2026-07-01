@@ -214,6 +214,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdl-registers](https://github.com/hdl-registers/hdl-registers)** — Register code generator that produces VHDL/Verilog register files, C/C++ headers, and HTML documentation from a TOML, JSON, or Python register definition.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Corsair](https://github.com/esynr3z/corsair)** — Control and status register map generator that produces SystemVerilog/VHDL register blocks, C headers, Python models, and documentation from a register description.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[duh](https://github.com/sifive/duh)** — Tool for validating and transforming IP-block metadata and generating bus bridges, integration wrappers, and documentation from a JSON IP description, from SiFive.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -477,3 +481,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SUS](https://github.com/pc2/sus-compiler)** — RTL hardware design language and compiler with built-in pipelining via "latency counting" that produces netlists for standard synthesis tools.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kôika](https://github.com/mit-plv/koika)** — Rule-based hardware description language embedded in the Coq/Rocq proof assistant, with formal cycle-accurate semantics and a Verilog back-end.
+  `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

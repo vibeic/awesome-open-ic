@@ -106,6 +106,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[YARVI](https://github.com/tommythorn/yarvi)** — Compact in-order RV32I RISC-V soft core in Verilog written by Tommy Thorn as a readable reference implementation.
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Minerva](https://github.com/minerva-cpu/minerva)** — 32-bit RISC-V soft CPU with a pipelined microarchitecture and optional caches, written in the Amaranth HDL.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -263,6 +265,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[rocket-chip-blocks](https://github.com/chipsalliance/rocket-chip-blocks)** — Chisel device blocks compatible with the Rocket Chip generator, covering UART, SPI, I2C, GPIO, PWM, JTAG, timer, watchdog, and ChipLink peripherals (successor to sifive-blocks).
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OBI](https://github.com/pulp-platform/obi)** — Open Bus Interface (OBI) protocol with synthesizable SystemVerilog interconnect components — multiplexers, demultiplexers, and adapters — for on-chip communication, from PULP Platform.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -318,6 +322,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VTA](https://github.com/apache/tvm-vta)** — Versatile Tensor Accelerator, an open and parameterizable deep-learning accelerator hardware design with HLS and Chisel implementations, part of the Apache TVM stack.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vicuna](https://github.com/vproc/vicuna)** — RISC-V vector coprocessor implementing the Zve32x vector extension, designed to attach to a 32-bit scalar core such as Ibex.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
