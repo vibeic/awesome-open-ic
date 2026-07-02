@@ -50,6 +50,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Caliptra Subsystem](https://github.com/chipsalliance/caliptra-ss)** — Reference subsystem integrating the Caliptra root-of-trust core with a manufacturer control unit, fuse controller, and recovery interface, in SystemVerilog.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wujian100](https://github.com/XUANTIE-RV/wujian100_open)** — Open-source RISC-V microcontroller SoC platform from Alibaba T-Head with on-chip peripherals, an open simulation flow (Icarus/Verilator), and an FPGA emulation setup.
+  `License: MIT` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -108,6 +110,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Minerva](https://github.com/minerva-cpu/minerva)** — 32-bit RISC-V soft CPU with a pipelined microarchitecture and optional caches, written in the Amaranth HDL.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KianV RV32 Linux Core](https://github.com/splinedrive/kianv-rv32-linuxcore)** — RV32IMA RISC-V soft core in Verilog with an Sv32 MMU and SSTC timer that boots Linux on FPGA.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tinyriscv](https://github.com/liangkangnan/tinyriscv)** — RV32IM RISC-V soft core in Verilog with an accompanying SoC, written as a readable teaching implementation.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

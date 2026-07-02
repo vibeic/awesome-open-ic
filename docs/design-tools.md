@@ -145,6 +145,14 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Logik](https://github.com/siliconcompiler/logik)** — Configurable RTL-to-bitstream FPGA toolchain built on SiliconCompiler that targets open FPGA architectures.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project Mistral](https://github.com/Ravenslofty/mistral)** — Reverse-engineered bitstream documentation and device database for Intel/Altera Cyclone V FPGAs, enabling the open Yosys + nextpnr-mistral place-and-route flow.
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FASM](https://github.com/chipsalliance/fasm)** — Parser and generator for the FPGA Assembly (FASM) text format used to describe bitstream feature sets across the open FPGA bitstream-documentation projects.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ecpprog](https://github.com/gregdavill/ecpprog)** — Command-line utility for programming Lattice ECP5 FPGAs and their SPI flash over FTDI-based JTAG adapters.
+  `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fujprog](https://github.com/kost/fujprog)** — JTAG programmer for the ULX2S and ULX3S open FPGA boards, loading bitstreams to SRAM or SPI flash.
+  `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
