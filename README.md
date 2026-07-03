@@ -114,7 +114,7 @@ Highlights:
 
 - [VerilogEval-Human](https://github.com/NVlabs/verilog-eval/tree/main/dataset_code-complete-iccad2023) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.2.7: 98.72% — 100% of solvable).
 - [VerilogEval-v2](https://github.com/NVlabs/verilog-eval/tree/main/dataset_spec-to-rtl) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.2.7: 98.08% — closed-loop, 100% of solvable).
-- [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC v0.3.20: PASS on the one open problem, N=1).
+- [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.2.96: **243/302 = 80.46%** official-compliant blind pass@1 on the public no-commercial code-generation set — **prompt+context-only** (the hidden harness + golden are off-limits oracle, proven by a regression guard); scored by the official `run_benchmark.py`).
 - [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
 ## AI for EDA
