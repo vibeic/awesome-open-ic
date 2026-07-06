@@ -215,6 +215,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FlooNoC](https://github.com/pulp-platform/FlooNoC)** — AXI4-compatible network-on-chip with routers and network interfaces from PULP Platform.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ucie](https://github.com/ucb-bar/ucie)** — Chisel generator for a Universal Chiplet Interconnect Express (UCIe) die-to-die interface, including protocol, adapter, and physical layers.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[i3c-core](https://github.com/chipsalliance/i3c-core)** — MIPI I3C bus controller IP core written in SystemVerilog.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[usb3_pipe](https://github.com/enjoy-digital/usb3_pipe)** — USB 3.0 SuperSpeed PIPE interface implementation using FPGA transceivers (Xilinx 7-Series), for use in LiteX SoCs.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdl-util/hdmi](https://github.com/hdl-util/hdmi)** — SystemVerilog HDMI transmitter sending video and audio with TMDS encoding.
   `License: Apache-2.0 OR MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP register_interface](https://github.com/pulp-platform/register_interface)** — SystemVerilog register-bus interface plus APB/AXI-Lite protocol converters used across PULP IP.
@@ -330,6 +336,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vicuna](https://github.com/vproc/vicuna)** — RISC-V vector coprocessor implementing the Zve32x vector extension, designed to attach to a 32-bit scalar core such as Ibex.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[adams-bridge](https://github.com/chipsalliance/adams-bridge)** — Hardware accelerator for the ML-DSA (CRYSTALS-Dilithium) post-quantum digital signature scheme, written in SystemVerilog.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SpinalCrypto](https://github.com/SpinalHDL/SpinalCrypto)** — Cryptographic hardware primitive library written in SpinalHDL, including symmetric ciphers and hash functions.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -427,3 +437,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ROHD-HCL](https://github.com/intel/rohd-hcl)** — Configurable, verified hardware component library (arithmetic units, FIFOs, encoders, interfaces) built on the ROHD Dart-based HDL framework.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv)** — Reference LiteX SoC design that boots Linux on the VexRiscv RISC-V core across many supported FPGA boards.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

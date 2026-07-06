@@ -139,3 +139,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[neorv32-setups](https://github.com/stnolting/neorv32-setups)** — Ready-to-synthesize example projects and board setups for the NEORV32 RISC-V processor across a range of FPGAs and open-source toolchains.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[FPGA 101](https://github.com/litex-hub/fpga_101)** — Introductory FPGA and digital design lessons and labs based on the LiteX/Migen ecosystem.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
