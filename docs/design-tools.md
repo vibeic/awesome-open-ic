@@ -153,6 +153,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fujprog](https://github.com/kost/fujprog)** — JTAG programmer for the ULX2S and ULX3S open FPGA boards, loading bitstreams to SRAM or SPI flash.
   `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project Peppercorn](https://github.com/YosysHQ/prjpeppercorn)** — Documentation of the Cologne Chip GateMate FPGA bitstream format, enabling an open synthesis and place-and-route flow via Yosys and nextpnr.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 

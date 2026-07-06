@@ -151,6 +151,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-ctg](https://github.com/riscv-software-src/riscv-ctg)** — RISC-V compliance test generator that produces architectural test programs from coverage-point specifications.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-vector-tests](https://github.com/chipsalliance/riscv-vector-tests)** — Generator of unit tests for the RISC-V Vector (RVV) 1.0 extension.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 
