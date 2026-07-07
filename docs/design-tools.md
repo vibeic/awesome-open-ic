@@ -12,6 +12,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LSOracle](https://github.com/lnis-uofu/LSOracle)** — Logic synthesis framework that partitions a circuit and optimizes each partition with either AIG- or MIG-based optimizers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[yosys-f4pga-plugins](https://github.com/chipsalliance/yosys-f4pga-plugins)** — Collection of Yosys plugins developed for the F4PGA flow, including a SystemVerilog/UHDM front-end, design-introspection, and FASM output plugins.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 
@@ -47,6 +49,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Algorithmic C Sim Utils (ac_simutils)](https://github.com/hlslibs/ac_simutils)** — C++ utility library for simulating and verifying Algorithmic C designs, with random generators and memory-modeling helpers for high-level synthesis.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Intel SystemC Compiler (ICSC)](https://github.com/intel/systemc-compiler)** — Translates synthesizable SystemC into synthesizable SystemVerilog RTL for a standard ASIC/FPGA flow.
+  `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 

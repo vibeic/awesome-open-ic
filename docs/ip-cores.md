@@ -52,6 +52,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wujian100](https://github.com/XUANTIE-RV/wujian100_open)** — Open-source RISC-V microcontroller SoC platform from Alibaba T-Head with on-chip peripherals, an open simulation flow (Icarus/Verilator), and an FPGA emulation setup.
   `License: MIT` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v)** — Rocket/BOOM RISC-V SoC block designs that boot Debian Linux on Xilinx/AMD FPGA boards, built with Vivado.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -114,6 +116,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tinyriscv](https://github.com/liangkangnan/tinyriscv)** — RV32IM RISC-V soft core in Verilog with an accompanying SoC, written as a readable teaching implementation.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Potato](https://github.com/skordal/potato)** — RV32 RISC-V soft processor with SoC peripherals (UART, GPIO, timer, interrupt controller) written in VHDL for FPGA use.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

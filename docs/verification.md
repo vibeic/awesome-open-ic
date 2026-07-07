@@ -57,6 +57,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tvip-axi](https://github.com/taichi-ishitani/tvip-axi)** — UVM verification IP for the AMBA AXI / AXI4 protocol.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UVM-SystemC](https://github.com/accellera-official/uvm-systemc)** — Accellera reference implementation of the Universal Verification Methodology as a SystemC/C++ class library, for building UVM-style testbenches in SystemC.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

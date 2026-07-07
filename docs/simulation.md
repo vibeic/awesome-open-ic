@@ -151,6 +151,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Edalize](https://github.com/olofk/edalize)** — Python abstraction library used by FuseSoC to interface with EDA tools (Verilator, Icarus, Vivado, Quartus, OpenLane, ModelSim, ...).
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Switchboard](https://github.com/zeroasiccorp/switchboard)** — Framework for connecting and co-simulating RTL simulators, C++ models, and FPGA emulation through shared-memory queues.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 

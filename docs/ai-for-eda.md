@@ -68,6 +68,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[EDA-Corpus](https://github.com/OpenROAD-Assistant/EDA-Corpus)** — Data corpus for EDA LLM research tailored to OpenROAD / ORFS: question-answer pairs and prompt-script pairs mined from OpenROAD issues, discussions, and docs (arXiv:2405.06676).
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[VerilogDB](https://arxiv.org/abs/2507.13369)** — 20,392-sample (751 MB) Verilog dataset built with an automated PostgreSQL-based collection and preprocessing pipeline for LLM RTL-generation training.
+  `License: arXiv` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[hdl2v](https://arxiv.org/abs/2506.04544)** — Code-translation dataset that converts VHDL, Chisel, and PyMTL3 into Verilog to augment training data for LLM Verilog generation.
+  `License: arXiv` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 
 ## ML for Placement & Routing
 

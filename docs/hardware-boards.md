@@ -94,6 +94,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware/software stack*
 - **[PolarFire SoC Icicle Kit reference design](https://github.com/polarfire-soc/icicle-kit-reference-design)** — Libero reference design for the Microchip PolarFire SoC Icicle Kit (MPFS250T, 1x E51 + 4x U54 RV64GC cores plus FPGA fabric); Tcl build scripts and HDL in repo.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon SoC + FPGA fabric reference*
+- **[VSDSquadron](https://github.com/vsdip/vsdsquadron)** — Open-hardware RISC-V development board from VLSI System Design, with design files and labs for learning the open-source RTL-to-GDSII flow.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## ASIC Test Vehicles (Caravel / Tiny Tapeout)
 
