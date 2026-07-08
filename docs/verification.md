@@ -42,6 +42,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HDLRegression](https://github.com/HDLUtils/hdlregression)** — Python-based regression test runner for VHDL and SystemVerilog that manages incremental compilation and test execution across multiple simulators.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fault](https://github.com/leonardt/fault)** — Python metaprogramming framework for writing directed and constrained-random hardware tests, built on the magma HDL and running against multiple simulators.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[chiseltest](https://github.com/ucb-bar/chiseltest)** — Testing and verification library for Chisel designs, providing a Scala test harness with peek/poke signal access and fork/join concurrency.
+  `License: BSD-3-Clause` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 

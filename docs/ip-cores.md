@@ -359,6 +359,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AXI LLC](https://github.com/pulp-platform/axi_llc)** — Configurable AXI4 last-level cache with set-associative and scratchpad-memory partitioning modes, in SystemVerilog from PULP Platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CV-HPDcache](https://github.com/openhwgroup/cv-hpdcache)** — Configurable high-performance L1 data cache in SystemVerilog from the OpenHW Group, with hardware prefetching and support for multiple requesters.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

@@ -51,6 +51,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Intel SystemC Compiler (ICSC)](https://github.com/intel/systemc-compiler)** — Translates synthesizable SystemC into synthesizable SystemVerilog RTL for a standard ASIC/FPGA flow.
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Spatial](https://github.com/stanford-ppl/spatial)** — Scala-embedded language and compiler from Stanford for designing hardware accelerators, generating synthesizable Chisel/Verilog from a dataflow description with explicit memory hierarchy and parallelism.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
