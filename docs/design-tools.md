@@ -108,6 +108,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sv-tests](https://github.com/antmicro/sv-tests)** — Test suite and framework for measuring SystemVerilog language-feature support across parsers, simulators, and synthesis tools.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LLHD](https://github.com/fabianschuiki/llhd)** — Low-Level Hardware Description intermediate representation and simulator intended as a common foundation for building hardware design and analysis tools.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -161,6 +163,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Project Peppercorn](https://github.com/YosysHQ/prjpeppercorn)** — Documentation of the Cologne Chip GateMate FPGA bitstream format, enabling an open synthesis and place-and-route flow via Yosys and nextpnr.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project U-Ray](https://github.com/SymbiFlow/prjuray)** — Reverse-engineered bitstream documentation for the Xilinx UltraScale, UltraScale+, and UltraScale+ MPSoC FPGA families, companion to Project X-Ray for the 7-series.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx)** — Experimental nextpnr flows targeting Xilinx 7-series, UltraScale, and UltraScale+ devices using Project X-Ray/U-Ray databases.
+  `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPGA Interchange Schema](https://github.com/chipsalliance/fpga-interchange-schema)** — Cap'n Proto schema defining the FPGA Interchange Format for exchanging logical netlists, physical netlists, and device resources between open FPGA tools such as nextpnr and RapidWright.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -233,6 +241,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[Corsair](https://github.com/esynr3z/corsair)** — Control and status register map generator that produces SystemVerilog/VHDL register blocks, C headers, Python models, and documentation from a register description.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[duh](https://github.com/sifive/duh)** — Tool for validating and transforming IP-block metadata and generating bus bridges, integration wrappers, and documentation from a JSON IP description, from SiFive.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.Reports](https://github.com/edaa-org/pyEDAA.Reports)** — Python data model that reads and unifies EDA tool reports such as JUnit test results and code/functional coverage databases across the EDA² (edaa-org) tooling ecosystem.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis

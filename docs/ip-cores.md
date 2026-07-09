@@ -283,6 +283,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OBI](https://github.com/pulp-platform/obi)** — Open Bus Interface (OBI) protocol with synthesizable SystemVerilog interconnect components — multiplexers, demultiplexers, and adapters — for on-chip communication, from PULP Platform.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenNIC Shell](https://github.com/Xilinx/open-nic-shell)** — AMD/Xilinx FPGA-based network interface card shell RTL, providing the QDMA subsystem, CMAC 100G Ethernet ports, and a packet-processing pipeline that user logic plugs into.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPGA Network Stack](https://github.com/fpgasystems/fpga-network-stack)** — Scalable hardware TCP/IP and RoCEv2 network stack in HLS/RTL for FPGAs, from the ETH Zurich Systems Group.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
