@@ -287,6 +287,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPGA Network Stack](https://github.com/fpgasystems/fpga-network-stack)** — Scalable hardware TCP/IP and RoCEv2 network stack in HLS/RTL for FPGAs, from the ETH Zurich Systems Group.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UMI](https://github.com/zeroasiccorp/umi)** — Universal Memory Interface, a transaction-based latency-insensitive on-chip and chiplet interconnect with a specification and SystemVerilog reference implementations, from Zero ASIC.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -365,6 +367,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CV-HPDcache](https://github.com/openhwgroup/cv-hpdcache)** — Configurable high-performance L1 data cache in SystemVerilog from the OpenHW Group, with hardware prefetching and support for multiple requesters.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HCI](https://github.com/pulp-platform/hci)** — Heterogeneous Cluster Interconnect providing the logarithmic crossbar between processing elements and shared L1 memory banks in PULP clusters, in SystemVerilog.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -449,3 +453,11 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv)** — Reference LiteX SoC design that boots Linux on the VexRiscv RISC-V core across many supported FPGA boards.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ZeroSoC](https://github.com/siliconcompiler/zerosoc)** — Demonstration open-source SoC used to exercise the SiliconCompiler RTL-to-GDS build flow end to end.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv_vhdl](https://github.com/sergeykhbr/riscv_vhdl)** — Portable RISC-V System-on-Chip implementation in VHDL/SystemVerilog with RTL, a debugger, and instruction-set simulators.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdl4fpga](https://github.com/hdl4fpga/hdl4fpga)** — VHDL IP library for FPGA designs, providing DDR memory controllers, Ethernet, and graphics/display cores.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[basic_verilog](https://github.com/pConst/basic_verilog)** — Collection of reusable Verilog/SystemVerilog building-block modules, including FIFOs, clock-domain-crossing synchronizers, counters, and LFSRs.
+  `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
