@@ -65,6 +65,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyVerilator](https://github.com/maltanar/pyverilator)** — Python wrapper that compiles a Verilog design with Verilator and exposes the model's signals for stepping and inspection from Python scripts.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)** — SystemC/TLM-2.0 co-simulation framework from AMD/Xilinx that couples QEMU with RTL simulators and provides TLM-to-AXI bridges for SoC-level simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 

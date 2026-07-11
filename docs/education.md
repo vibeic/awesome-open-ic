@@ -16,6 +16,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 - **[Christopher Batten ECE 5745](https://www.csl.cornell.edu/courses/ece5745/)** — Cornell's complex digital ASIC design course, OpenROAD-based labs.
   `License: Open courseware` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
+- **[Analog Circuit Design (JKU IIC)](https://github.com/iic-jku/analog-circuit-design)** — Course material for a hands-on analog circuit design course with IC emphasis, built around open-source EDA tools.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 
 ## Online Courses (MOOCs)
 

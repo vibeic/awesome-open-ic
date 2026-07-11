@@ -350,6 +350,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SpinalCrypto](https://github.com/SpinalHDL/SpinalCrypto)** — Cryptographic hardware primitive library written in SpinalHDL, including symmetric ciphers and hash functions.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[prince](https://github.com/secworks/prince)** — Verilog implementation of the PRINCE lightweight low-latency block cipher.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

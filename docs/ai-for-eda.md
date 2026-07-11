@@ -85,6 +85,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: arXiv preprint` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[ChiPFormer paper](https://arxiv.org/abs/2306.14744)** — ICML 2023 offline-RL placer using a decision transformer to learn a transferable placement policy, reporting ~10× runtime improvement across 32 circuits (companion code at github.com/laiyao1/ChiPFormer).
   `License: arXiv preprint` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[EDA-AI](https://github.com/Thinklab-SJTU/EDA-AI)** — Reference implementations from SJTU ThinkLab of deep-learning placement and routing methods, including DeepPlace, PRNet, HubRouter, PreRoutGNN, FlexPlanner, and DSBRouter.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenPARF](https://github.com/PKU-IDEA/OpenPARF)** — GPU-accelerated placement and routing framework for large-scale heterogeneous FPGAs, built on a deep-learning toolkit.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 
