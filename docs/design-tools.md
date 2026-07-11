@@ -169,6 +169,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPGA Interchange Schema](https://github.com/chipsalliance/fpga-interchange-schema)** — Cap'n Proto schema defining the FPGA Interchange Format for exchanging logical netlists, physical netlists, and device resources between open FPGA tools such as nextpnr and RapidWright.
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project Combine](https://codeberg.org/prjunnamed/prjcombine)** — FPGA reverse-engineering and documentation project building geometry, bitstream-format, and timing databases for Xilinx, Lattice, and SiliconBlue device families.
+  `License: 0BSD OR Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project Unnamed](https://codeberg.org/prjunnamed/prjunnamed)** — Early-stage end-to-end FPGA synthesis, place-and-route, and bitstream generation toolchain that builds on Project Combine device databases.
+  `License: 0BSD OR Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -287,6 +291,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Skillbridge](https://github.com/unihd-cag/skillbridge)** — Python-to-Cadence-Virtuoso bridge that exposes the SKILL scripting interface for layout and PDK automation from Python.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GDS2glTF](https://github.com/mbalestrini/GDS2glTF)** — Python tool that converts GDSII layout files into glTF 3D models for interactive visualization of chip layouts.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gplugins](https://github.com/gdsfactory/gplugins)** — Simulation and verification plugins for gdsfactory that connect layouts to electromagnetic, photonic, and circuit solvers.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

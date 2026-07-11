@@ -46,6 +46,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[chiseltest](https://github.com/ucb-bar/chiseltest)** — Testing and verification library for Chisel designs, providing a Scala test harness with peek/poke signal access and fork/join concurrency.
   `License: BSD-3-Clause` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[constrainedrandom](https://github.com/imaginationtech/constrainedrandom)** — Python package from Imagination Technologies for creating and solving constrained randomization problems for verification stimulus.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
