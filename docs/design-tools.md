@@ -295,6 +295,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gplugins](https://github.com/gdsfactory/gplugins)** — Simulation and verification plugins for gdsfactory that connect layouts to electromagnetic, photonic, and circuit solvers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SiEPIC-Tools](https://github.com/SiEPIC/SiEPIC-Tools)** — KLayout package for silicon-photonics layout, providing schematic-driven layout, waveguide routing, connectivity verification, and netlist export.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

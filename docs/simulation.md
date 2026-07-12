@@ -162,3 +162,14 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ngscopeclient](https://github.com/ngscopeclient/scopehal-apps)** — Cross-platform oscilloscope and signal-analysis GUI client built on libscopehal.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Photonics & Electromagnetic
+
+- **[Meep](https://github.com/NanoComp/meep)** — Finite-difference time-domain (FDTD) electromagnetic solver from MIT, widely used for silicon-photonics and integrated-optics device simulation.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[simphony](https://github.com/BYUCamachoLab/simphony)** — Python simulator for photonic integrated circuits that computes s-parameter frequency-domain responses from connected component models.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fdtd](https://github.com/flaport/fdtd)** — Python 3D electromagnetic FDTD simulator with a NumPy/PyTorch backend for modeling photonic structures and waveguides.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SAX](https://github.com/gdsfactory/sax)** — S-parameter-based circuit simulator for photonic integrated circuits, built on JAX for differentiable and hardware-accelerated frequency-domain analysis.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

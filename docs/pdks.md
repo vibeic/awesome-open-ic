@@ -26,6 +26,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
 
 - **[IHP-Open-DesignLib](https://github.com/IHP-GmbH/IHP-Open-DesignLib)** — Open IP and reference design library built on the IHP 130 nm SiGe BiCMOS open PDK, covering RF and mixed-signal blocks. Documentation at ihp-open-ip.readthedocs.io.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SiEPIC EBeam PDK](https://github.com/SiEPIC/SiEPIC_EBeam_PDK)** — Silicon-photonics process design kit for the SiEPIC electron-beam-lithography fabrication process, providing component libraries, compact models, and DRC decks for use with KLayout and SiEPIC-Tools.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
