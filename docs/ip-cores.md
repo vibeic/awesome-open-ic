@@ -357,6 +357,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 
 - **[OpenRAM](https://github.com/VLSIDA/OpenRAM)** — Open-source SRAM compiler producing GDS, SPICE, Liberty for sky130/gf180mcu/freepdk45.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SRAM22](https://github.com/ucb-substrate/sram22)** — SRAM generator from UC Berkeley, built on the Substrate framework, that produces SPICE, layout, and abstract views for sky130.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteDRAM](https://github.com/enjoy-digital/litedram)** — Migen-based open DDR/DDR2/DDR3/DDR4/HBM2 controller used in many LiteX SoCs.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteSDCard](https://github.com/enjoy-digital/litesdcard)** — Migen-based SD card controller (SPI + 4-bit SDIO) for LiteX-based SoCs.
