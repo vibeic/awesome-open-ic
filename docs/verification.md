@@ -61,6 +61,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ROHD-VF](https://github.com/intel/rohd-vf)** — Hardware verification framework built on ROHD that provides UVM-style testbench components in Dart, from Intel.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ROHD-Cosim](https://github.com/intel/rohd-cosim)** — Cosimulation layer connecting ROHD (Dart) testbenches to other HDL simulators so Dart models can interoperate with existing SystemVerilog, from Intel.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tvip-axi](https://github.com/taichi-ishitani/tvip-axi)** — UVM verification IP for the AMBA AXI / AXI4 protocol.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UVM-SystemC](https://github.com/accellera-official/uvm-systemc)** — Accellera reference implementation of the Universal Verification Methodology as a SystemC/C++ class library, for building UVM-style testbenches in SystemC.
