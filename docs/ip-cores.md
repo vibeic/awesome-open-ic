@@ -357,6 +357,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 
 - **[OpenRAM](https://github.com/VLSIDA/OpenRAM)** — Open-source SRAM compiler producing GDS, SPICE, Liberty for sky130/gf180mcu/freepdk45.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[async_fifo](https://github.com/dpretet/async_fifo)** — Dual-clock asynchronous FIFO in Verilog for clock-domain crossing, verified with Icarus Verilog.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SRAM22](https://github.com/ucb-substrate/sram22)** — SRAM generator from UC Berkeley, built on the Substrate framework, that produces SPICE, layout, and abstract views for sky130.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteDRAM](https://github.com/enjoy-digital/litedram)** — Migen-based open DDR/DDR2/DDR3/DDR4/HBM2 controller used in many LiteX SoCs.
@@ -385,6 +387,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 
 - **[LiteX](https://github.com/enjoy-digital/litex)** — Python-based SoC builder/glue around VexRiscv, LiteDRAM, LiteEth, LitePCIe, etc.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[oh](https://github.com/aolofsson/oh)** — Library of reusable Verilog building blocks (FIFOs, clock/reset, arbiters, links, memory) for ASIC and FPGA SoC assembly.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[litex-boards](https://github.com/litex-hub/litex-boards)** — 300+ pre-configured FPGA board targets for LiteX SoC builds.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[liteeth](https://github.com/enjoy-digital/liteeth)** — Migen-based Ethernet MAC + UDP/IP/ARP stack used in LiteX SoCs.

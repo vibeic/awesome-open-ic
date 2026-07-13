@@ -82,6 +82,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
 
 - **[Caravel](https://github.com/efabless/caravel)** — Efabless SoC harness used by every OpenMPW shuttle; ships with test patterns for the management SoC and user-project wrapper.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[scgallery](https://github.com/siliconcompiler/scgallery)** — Collection of open-source designs packaged to build through the SiliconCompiler RTL-to-GDS flow across supported PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[Microwatt](https://github.com/antonblanchard/microwatt)** — Open POWER ISA softcore in VHDL with a `make check` regression suite (random exec + micropython tests) and ghdl simulation.
   `License: Open-source (LICENSE in repo)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[OpenPiton](https://github.com/PrincetonUniversity/openpiton)** — Princeton many-core research SoC with ISA tests, assembly tests, and unit-test regressions across ASIC and Xilinx FPGA prototypes.
