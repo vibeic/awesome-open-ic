@@ -289,6 +289,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UMI](https://github.com/zeroasiccorp/umi)** — Universal Memory Interface, a transaction-based latency-insensitive on-chip and chiplet interconnect with a specification and SystemVerilog reference implementations, from Zero ASIC.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[axi-crossbar](https://github.com/dpretet/axi-crossbar)** — Parametric AXI4 crossbar switch in SystemVerilog with configurable master/slave counts, outstanding-request support, and switching modes.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -352,6 +354,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[prince](https://github.com/secworks/prince)** — Verilog implementation of the PRINCE lightweight low-latency block cipher.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openwifi-hw](https://github.com/open-sdr/openwifi-hw)** — FPGA baseband design of the openwifi project, an open-source IEEE 802.11 Wi-Fi software-defined-radio implementation.
+  `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -469,3 +473,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[basic_verilog](https://github.com/pConst/basic_verilog)** — Collection of reusable Verilog/SystemVerilog building-block modules, including FIFOs, clock-domain-crossing synchronizers, counters, and LFSRs.
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SURF](https://github.com/slaclab/surf)** — Large VHDL firmware library from SLAC National Accelerator Laboratory for FPGA and digital ASIC development, covering AXI infrastructure, communication protocols, and DSP blocks.
+  `License: BSD-3-Clause (SLAC variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

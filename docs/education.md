@@ -56,6 +56,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (Berkeley)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Cornell ECE5760 — Hardware Acceleration via FPGA](https://people.ece.cornell.edu/land/courses/ece5760/)** — Bruce Land's FPGA hardware-accelerator and SoC course; freely available YouTube lectures, four detailed lab assignments, and Verilog/Quartus design examples.
   `License: Open courseware (Cornell)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ETH Zurich — Digital Design and Computer Architecture (SAFARI)](https://safari.ethz.ch/digitaltechnik/spring2025/doku.php)** — Onur Mutlu's ETH Zurich undergraduate course with freely available lecture videos, slides, and Verilog/FPGA lab materials.
+  `License: Open courseware (ETH Zurich)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Free Books
 

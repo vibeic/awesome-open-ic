@@ -38,6 +38,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VGen (VeriGen)](https://github.com/shailja-thakur/VGen)** — Fine-tuning and evaluation code from the VeriGen study, training and benchmarking large language models (fine-tuned CodeGen) for automated Verilog RTL generation.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenROAD-MCP](https://github.com/The-OpenROAD-Project/OpenROAD-MCP)** — Model Context Protocol server from the OpenROAD project that exposes OpenROAD physical-design flows to LLM agents.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -89,6 +91,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenPARF](https://github.com/PKU-IDEA/OpenPARF)** — GPU-accelerated placement and routing framework for large-scale heterogeneous FPGAs, built on a deep-learning toolkit.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Xplace](https://github.com/cuhk-eda/Xplace)** — GPU-accelerated, extensible, and deterministic placement framework from CUHK with detailed-routability and timing optimization (DAC'22 / TCAD).
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 
