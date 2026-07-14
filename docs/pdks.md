@@ -28,6 +28,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SiEPIC EBeam PDK](https://github.com/SiEPIC/SiEPIC_EBeam_PDK)** — Silicon-photonics process design kit for the SiEPIC electron-beam-lithography fabrication process, providing component libraries, compact models, and DRC decks for use with KLayout and SiEPIC-Tools.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CORNERSTONE PDK (cspdk)](https://github.com/gdsfactory/cspdk)** — Silicon-photonics process design kit for the CORNERSTONE multi-project-wafer foundry service, packaged for the gdsfactory design flow.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 

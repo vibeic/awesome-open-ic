@@ -55,6 +55,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Spatial](https://github.com/stanford-ppl/spatial)** — Scala-embedded language and compiler from Stanford for designing hardware accelerators, generating synthesizable Chisel/Verilog from a dataflow description with explicit memory hierarchy and parallelism.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenASIP](https://github.com/cpc/openasip)** — Open application-specific instruction-set processor toolset from Tampere University (formerly TCE) for designing and programming customized transport-triggered-architecture processors.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Metron](https://github.com/aappleby/metron)** — Tool that translates a synthesizable subset of C++ into SystemVerilog so the same source can be compiled, simulated, and synthesized.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CGRA4ML](https://github.com/KastnerRG/cgra4ml)** — Open workflow from the Kastner Research Group for building coarse-grained-reconfigurable-array SoCs that run deep neural networks at the edge, generating synthesizable SystemVerilog from Keras models.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
