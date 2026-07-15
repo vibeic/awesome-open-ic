@@ -30,6 +30,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Proprietary (IEEE paywall)` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
 - **[IEEE 1364 Verilog](https://standards.ieee.org/ieee/1364/2052/)** — Legacy Verilog standard, superseded by 1800 but still widely cited.
   `License: Proprietary (IEEE paywall)` | `Last commit: 2005` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec only*
+- **[lowRISC Style Guides](https://github.com/lowRISC/style-guides)** — Coding style guides for SystemVerilog, Verilog and related HDL practices, adopted by OpenTitan and Ibex.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Physical / Backend File Formats
 

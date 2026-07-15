@@ -145,3 +145,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[FPGA 101](https://github.com/litex-hub/fpga_101)** — Introductory FPGA and digital design lessons and labs based on the LiteX/Migen ecosystem.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Project F — projf-explore](https://github.com/projf/projf-explore)** — Verilog designs and accompanying tutorials covering FPGA graphics, arithmetic, and hardware demos, with an open toolchain path.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
