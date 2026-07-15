@@ -54,6 +54,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[vivado-risc-v](https://github.com/eugene-tarassov/vivado-risc-v)** — Rocket/BOOM RISC-V SoC block designs that boot Debian Linux on Xilinx/AMD FPGA boards, built with Vivado.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Basilisk](https://github.com/pulp-platform/cheshire-ihp130-o)** — End-to-end open-source Linux-capable SoC based on Cheshire, targeting IHP's 130nm BiCMOS open-source PDK.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -118,6 +120,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Potato](https://github.com/skordal/potato)** — RV32 RISC-V soft processor with SoC peripherals (UART, GPIO, timer, interrupt controller) written in VHDL for FPGA use.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RSD](https://github.com/rsd-devel/rsd)** — RV32IMF out-of-order superscalar processor core with a 2-fetch front-end and 6-issue back-end, synthesizable for small FPGAs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NERV](https://github.com/YosysHQ/nerv)** — Single-stage RV32I processor with an RVFI interface, formally verified with riscv-formal and intended as an educational reference.
+  `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -178,6 +184,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VeriGPU](https://github.com/hughperkins/VeriGPU)** — Open-source GPGPU implemented in Verilog with an accompanying compiler toolchain, loosely based on the RISC-V ISA.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Z80 Open Silicon](https://github.com/rejunity/z80-open-silicon)** — Pin-compatible Z80 clone taped out on Sky130 via Tiny Tapeout, with silicon from the first two runs confirmed functional.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -356,6 +364,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openwifi-hw](https://github.com/open-sdr/openwifi-hw)** — FPGA baseband design of the openwifi project, an open-source IEEE 802.11 Wi-Fi software-defined-radio implementation.
   `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga)** — Wire-speed hardware implementation of the WireGuard VPN protocol for low-cost Artix-7 FPGAs, built with an open-source toolchain.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ITA](https://github.com/pulp-platform/ITA)** — Integer Transformer Accelerator: RTL and test generator for an 8-bit quantized multi-head attention accelerator with an integer-only streaming softmax.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

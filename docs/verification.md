@@ -48,6 +48,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[constrainedrandom](https://github.com/imaginationtech/constrainedrandom)** — Python package from Imagination Technologies for creating and solving constrained randomization problems for verification stimulus.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Berkeley TestFloat](https://github.com/ucb-bar/berkeley-testfloat-3)** — Test-vector generator and verification harness for IEEE 754 floating-point implementations, used to check FPU hardware and Berkeley SoftFloat.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -67,6 +69,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UVM-SystemC](https://github.com/accellera-official/uvm-systemc)** — Accellera reference implementation of the Universal Verification Methodology as a SystemC/C++ class library, for building UVM-style testbenches in SystemC.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[uvm-verilator](https://github.com/chipsalliance/uvm-verilator)** — CHIPS Alliance patches and examples for running the SystemVerilog UVM class library on Verilator.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
