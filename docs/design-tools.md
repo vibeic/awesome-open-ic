@@ -537,3 +537,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kôika](https://github.com/mit-plv/koika)** — Rule-based hardware description language embedded in the Coq/Rocq proof assistant, with formal cycle-accurate semantics and a Verilog back-end.
   `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[amaranth-boards](https://github.com/amaranth-lang/amaranth-boards)** — Board definitions for the Amaranth HDL, providing pinouts and programming support for a range of commercial FPGA development boards.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

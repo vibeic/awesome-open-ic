@@ -299,6 +299,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[axi-crossbar](https://github.com/dpretet/axi-crossbar)** — Parametric AXI4 crossbar switch in SystemVerilog with configurable master/slave counts, outstanding-request support, and switching modes.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RaveNoC](https://github.com/aignacio/ravenoc)** — Configurable HDL network-on-chip (NoC) with AXI4 packet interfaces, parametric mesh dimensions, and virtual channels for multi-processor SoCs.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

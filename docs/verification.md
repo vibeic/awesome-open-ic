@@ -103,6 +103,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AVR](https://github.com/aman-goel/avr)** — Word-level IC3/PDR model checker that reads BTOR2 transition systems and performs safety-property checking.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SCY](https://github.com/YosysHQ/scy)** — Formal harness built on Yosys and SymbiYosys that verifies sequences of cover statements to drive a design through and check deep reachable states.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
