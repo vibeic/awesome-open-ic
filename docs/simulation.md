@@ -173,3 +173,7 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SAX](https://github.com/gdsfactory/sax)** — S-parameter-based circuit simulator for photonic integrated circuits, built on JAX for differentiable and hardware-accelerated frequency-domain analysis.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[femwell](https://github.com/HelgeGehring/femwell)** — Finite-element solver for photonic and electromagnetic problems, covering waveguide mode, thermal, and RF analysis on top of scikit-fem.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MPB](https://github.com/NanoComp/mpb)** — MIT Photonic-Bands, an eigensolver that computes photonic band structures and electromagnetic modes of periodic dielectric structures.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
