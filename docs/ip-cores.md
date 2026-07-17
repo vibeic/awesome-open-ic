@@ -301,6 +301,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RaveNoC](https://github.com/aignacio/ravenoc)** — Configurable HDL network-on-chip (NoC) with AXI4 packet interfaces, parametric mesh dimensions, and virtual channels for multi-processor SoCs.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[amaranth-stdio](https://github.com/amaranth-lang/amaranth-stdio)** — Serial I/O peripheral cores for the Amaranth HDL.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[apb4_uart16550](https://github.com/RoaLogic/apb4_uart16550)** — 16550-compatible UART with an APB4 bus interface, in SystemVerilog.
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -489,3 +493,20 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SURF](https://github.com/slaclab/surf)** — Large VHDL firmware library from SLAC National Accelerator Laboratory for FPGA and digital ASIC development, covering AXI infrastructure, communication protocols, and DSP blocks.
   `License: BSD-3-Clause (SLAC variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Audio / Sound-Chip Cores
+
+- **[JT12](https://github.com/jotego/jt12)** — Verilog FM synthesis sound core compatible with the Yamaha YM2612, YM3438, YM2203, and YM2610 chips used in the Sega Mega Drive and arcade hardware.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JT51](https://github.com/jotego/jt51)** — Verilog reimplementation of the Yamaha YM2151 (OPM) FM synthesis sound chip, verified on FPGA.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JTOPL](https://github.com/jotego/jtopl)** — Verilog sound core compatible with the Yamaha OPL FM synthesis chip family.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JT49](https://github.com/jotego/jt49)** — Verilog clone of the Yamaha YM2149 programmable sound generator.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JT6295](https://github.com/jotego/jt6295)** — Verilog ADPCM sample-playback decoder compatible with the OKI MSM6295 sound chip.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JT89](https://github.com/jotego/jt89)** — Verilog sound core compatible with the Texas Instruments SN76489AN programmable sound generator, targeting FPGA and Sega Mega Drive/Master System use.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[opl3_fpga](https://github.com/gtaylormb/opl3_fpga)** — Reverse-engineered SystemVerilog RTL implementation of the Yamaha OPL3 (YMF262) FM synthesizer.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
