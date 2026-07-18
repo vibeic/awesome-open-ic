@@ -120,6 +120,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LLHD](https://github.com/fabianschuiki/llhd)** — Low-Level Hardware Description intermediate representation and simulator intended as a common foundation for building hardware design and analysis tools.
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ghdl-language-server](https://github.com/ghdl/ghdl-language-server)** — Language Server Protocol implementation for VHDL built on the GHDL front end, with editor plugins for VS Code and Vim.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -264,6 +266,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyEDAA.Reports](https://github.com/edaa-org/pyEDAA.Reports)** — Python data model that reads and unifies EDA tool reports such as JUnit test results and code/functional coverage databases across the EDA² (edaa-org) tooling ecosystem.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Connectal](https://github.com/cambridgehackers/connectal)** — Framework for software-driven hardware development that generates host-FPGA RPC interfaces and DMA plumbing from interface declarations.
+  `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -445,6 +449,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[klayout-productivity-suite](https://github.com/iic-jku/klayout-productivity-suite)** — Collection of iic-jku KLayout plugins that add productivity features to the layout tool.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSIC-Multitool](https://github.com/iic-jku/osic-multitool)** — Shell utilities from JKU IIC for open-source SKY130 IC design, covering setup, layout conversion, and simulation helper tasks.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lint & Equivalence
 
@@ -539,3 +545,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[amaranth-boards](https://github.com/amaranth-lang/amaranth-boards)** — Board definitions for the Amaranth HDL, providing pinouts and programming support for a range of commercial FPGA development boards.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyGears](https://github.com/bogdanvuk/pygears)** — Python framework for describing hardware as composable functional modules communicating over handshake interfaces, generating SystemVerilog or Verilog.
+  `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

@@ -305,6 +305,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[apb4_uart16550](https://github.com/RoaLogic/apb4_uart16550)** — 16550-compatible UART with an APB4 bus interface, in SystemVerilog.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hyperbus](https://github.com/pulp-platform/hyperbus)** — HyperBus/HyperRAM memory controller with an AXI4 slave and APB configuration interface.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[clint](https://github.com/pulp-platform/clint)** — RISC-V Core Local Interrupt Controller providing machine timer and software interrupts over a register bus.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -493,6 +497,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SURF](https://github.com/slaclab/surf)** — Large VHDL firmware library from SLAC National Accelerator Laboratory for FPGA and digital ASIC development, covering AXI infrastructure, communication protocols, and DSP blocks.
   `License: BSD-3-Clause (SLAC variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[snax_cluster](https://github.com/KULeuven-MICAS/snax_cluster)** — Heterogeneous accelerator-centric compute cluster built on the Snitch RISC-V core, with a hardware generator and compiler flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

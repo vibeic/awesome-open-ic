@@ -115,6 +115,10 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout 10 shuttle](https://github.com/TinyTapeout/tinytapeout-10)** — TT10 shuttle aggregate for the Tiny Tapeout educational ASIC program: GDS, Verilog, mux architecture, and signoff for all participant designs.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
+- **[tt-multiplexer](https://github.com/TinyTapeout/tt-multiplexer)** — Multiplexer RTL and layout that connects the hundreds of user designs on a Tiny Tapeout shuttle to the shared chip IO.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tt-gds-action](https://github.com/TinyTapeout/tt-gds-action)** — GitHub Action that hardens a Tiny Tapeout user project to GDS with LibreLane and publishes the signoff artifacts.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 
@@ -128,6 +132,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware framework for USB bring-up*
 - **[Tigard](https://github.com/tigard-tools/tigard)** — Open-hardware FT2232H-based multi-protocol debug board exposing JTAG, SWD, UART, SPI, and I2C interfaces with switchable target voltages; KiCad design files in the repo.
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — multi-protocol debug board*
+- **[Rowhammer Tester](https://github.com/antmicro/rowhammer-tester)** — LiteX-based FPGA platform for running Rowhammer and other DRAM reliability experiments on DDR3/DDR4/LPDDR4 memories.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR
 
