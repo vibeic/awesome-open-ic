@@ -42,6 +42,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SemiKong](https://github.com/aitomatic/semikong)** — Semiconductor-domain open language model plus an ontology and knowledge graph covering design, fabrication, test and packaging.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DRiLLS](https://github.com/scale-lab/DRiLLS)** — Reinforcement-learning agent that searches ABC optimization-command sequences to reduce area under a delay constraint (ASP-DAC'20).
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## LLM Benchmarks for RTL
 
