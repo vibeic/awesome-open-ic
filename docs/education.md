@@ -147,3 +147,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Project F — projf-explore](https://github.com/projf/projf-explore)** — Verilog designs and accompanying tutorials covering FPGA graphics, arithmetic, and hardware demos, with an open toolchain path.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Tiny Tapeout VGA Playground](https://github.com/TinyTapeout/vga-playground)** — Browser-based editor that simulates Verilog VGA designs live, used to prototype Tiny Tapeout video projects.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

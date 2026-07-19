@@ -98,6 +98,10 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[xschem_sky130](https://github.com/StefanSchippers/xschem_sky130)** — XSCHEM schematic symbol libraries for the SkyWater sky130 PDK devices, used for analog and mixed-signal schematic capture and SPICE netlisting.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SKY130_for_KLayout](https://github.com/laurentc2/SKY130_for_KLayout)** — KLayout technology files, layer properties, and DRC setup for the SkyWater sky130 PDK.
+  `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ACM MOSFET models](https://github.com/ACMmodel/ACM-MOSFET-models)** — Advanced Compact MOSFET model with five DC parameters, distributed as SPICE model cards for hand analysis and circuit simulation.
+  `License: ECL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

@@ -148,6 +148,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DifuzzRTL](https://github.com/compsec-snu/difuzz-rtl)** — Register-coverage differential fuzzer that compares RTL against an ISS to find CPU bugs (IEEE S&P '21).
   `License: BSD-3-Clause` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PreSiFuzz](https://github.com/IntelLabs/PreSiFuzz)** — Pre-silicon hardware fuzzing toolkit from Intel Labs built on LibAFL, driving RTL simulators with coverage feedback.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Revizor](https://github.com/microsoft/side-channel-fuzzer)** — Model-based fuzzer that searches CPUs for microarchitectural side-channel and speculative-execution leaks by differential contract testing.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 

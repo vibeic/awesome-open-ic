@@ -14,6 +14,16 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[yosys-f4pga-plugins](https://github.com/chipsalliance/yosys-f4pga-plugins)** — Collection of Yosys plugins developed for the F4PGA flow, including a SystemVerilog/UHDM front-end, design-introspection, and FASM output plugins.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ALSO](https://github.com/nbulsi/also)** — Advanced logic synthesis framework built on mockturtle, adding exact-synthesis, majority-logic, and emerging-technology optimization commands.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[phyLS](https://github.com/panhomyoung/phyLS)** — Logic synthesis tool combining mockturtle and ABC, with physical-aware optimization and technology-mapping commands.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CULS](https://github.com/cuhk-eda/CULS)** — GPU-accelerated logic synthesis tool from CUHK implementing parallel AIG rewriting, refactoring, and balancing.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Wildebeest](https://github.com/zeroasiccorp/wildebeest)** — RTL logic synthesis tool from Zero ASIC, packaged for scripted use in open ASIC and FPGA flows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lstools-showcase](https://github.com/lsils/lstools-showcase)** — Worked examples and reference flows demonstrating the EPFL logic synthesis libraries (mockturtle, kitty, lorina, percy).
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 
@@ -122,6 +132,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ghdl-language-server](https://github.com/ghdl/ghdl-language-server)** — Language Server Protocol implementation for VHDL built on the GHDL front end, with editor plugins for VS Code and Vim.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lorina](https://github.com/hriener/lorina)** — Header-only C++ parsing library for logic synthesis and formal verification formats including AIGER, BLIF, BENCH, PLA, and Verilog subsets.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 

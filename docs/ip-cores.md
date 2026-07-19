@@ -124,6 +124,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NERV](https://github.com/YosysHQ/nerv)** — Single-stage RV32I processor with an RVFI interface, formally verified with riscv-formal and intended as an educational reference.
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TinyQV](https://github.com/MichaelBell/tinyQV)** — Area-minimized RV32EC RISC-V SoC designed to fit a Tiny Tapeout tile, with QSPI flash execution and on-chip peripherals.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -498,6 +500,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[SURF](https://github.com/slaclab/surf)** — Large VHDL firmware library from SLAC National Accelerator Laboratory for FPGA and digital ASIC development, covering AXI infrastructure, communication protocols, and DSP blocks.
   `License: BSD-3-Clause (SLAC variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[snax_cluster](https://github.com/KULeuven-MICAS/snax_cluster)** — Heterogeneous accelerator-centric compute cluster built on the Snitch RISC-V core, with a hardware generator and compiler flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PoC Library](https://github.com/VHDL/PoC)** — Vendor-independent VHDL IP core collection covering FIFOs, arithmetic, memory controllers, and bus interfaces, maintained by the Open Source VHDL Group.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
