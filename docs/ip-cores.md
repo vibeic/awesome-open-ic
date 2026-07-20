@@ -126,6 +126,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TinyQV](https://github.com/MichaelBell/tinyQV)** — Area-minimized RV32EC RISC-V SoC designed to fit a Tiny Tapeout tile, with QSPI flash execution and on-chip peripherals.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[minimax](https://github.com/gsmecher/minimax)** — Compressed-instruction-only RV32I soft core that executes RVC encodings directly to reduce FPGA resource usage.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

@@ -22,6 +22,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Wildebeest](https://github.com/zeroasiccorp/wildebeest)** — RTL logic synthesis tool from Zero ASIC, packaged for scripted use in open ASIC and FPGA flows.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[kitty](https://github.com/lsils/kitty)** — Header-only C++ truth-table library from the EPFL Logic Synthesis Libraries, supporting static, dynamic, and partial truth tables with NPN canonization.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[percy](https://github.com/lsils/percy)** — C++ exact-synthesis library from the EPFL Logic Synthesis Libraries that finds size-optimum logic networks via SAT-based encodings.
+  `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lstools-showcase](https://github.com/lsils/lstools-showcase)** — Worked examples and reference flows demonstrating the EPFL logic synthesis libraries (mockturtle, kitty, lorina, percy).
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
@@ -116,6 +120,14 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[systemrdl-compiler](https://github.com/SystemRDL/systemrdl-compiler)** — Compiler front-end for the SystemRDL 2.0 register description language that parses and elaborates register specifications into a traversable Python object model; the foundation of the PeakRDL toolchain.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-regblock](https://github.com/SystemRDL/PeakRDL-regblock)** — Generates synthesizable SystemVerilog control/status register blocks from a SystemRDL description, with CPU-interface adapters for APB, AXI4-Lite, and Avalon.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-cheader](https://github.com/SystemRDL/PeakRDL-cheader)** — Generates C headers with register address maps and bitfield structs from a SystemRDL register description for firmware use.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm)** — Generates UVM register model (`uvm_reg`) code from a SystemRDL register description for verification environments.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tree-sitter-verilog](https://github.com/tree-sitter/tree-sitter-verilog)** — Incremental Verilog/SystemVerilog grammar for the tree-sitter parser generator, used for editor syntax highlighting and structural code navigation.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HDL Checker](https://github.com/suoto/hdl_checker)** — Language-server backend that repurposes existing HDL tools to provide on-the-fly linting and diagnostics for Verilog/VHDL editors.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Moore](https://github.com/fabianschuiki/moore)** — Hardware compiler for SystemVerilog and VHDL written in Rust that lowers designs to the LLHD and CIRCT intermediate representations.
@@ -250,6 +262,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenFASOC](https://github.com/idea-fasoc/OpenFASOC)** — Fully open analog/mixed-signal generators (LDO, PLL, temp sensor) on top of open EDA.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[dv-flow-mgr](https://github.com/dv-flow/dv-flow-mgr)** — Task-graph build and flow manager for design and verification, describing simulation and tool steps in declarative YAML packages.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[open_pdks](https://github.com/RTimothyEdwards/open_pdks)** — PDK installer for open EDA — packages Sky130, GF180MCU, IHP-Open-PDK with tool views.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hammer](https://github.com/ucb-bar/hammer)** — Berkeley physical-design flow generator that abstracts vendor and open tools behind a reusable, parameterized API.
