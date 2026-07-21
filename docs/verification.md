@@ -50,6 +50,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Berkeley TestFloat](https://github.com/ucb-bar/berkeley-testfloat-3)** — Test-vector generator and verification harness for IEEE 754 floating-point implementations, used to check FPU hardware and Berkeley SoftFloat.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Forastero](https://github.com/Intuity/forastero)** — Layer on top of cocotb that provides reusable drivers, monitors, scoreboards, and testbench scaffolding for building structured cocotb testbenches.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotb-vivado](https://github.com/themperek/cocotb-vivado)** — Python interface that lets cocotb testbenches drive the AMD/Xilinx Vivado simulator.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -71,6 +75,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[uvm-verilator](https://github.com/chipsalliance/uvm-verilator)** — CHIPS Alliance patches and examples for running the SystemVerilog UVM class library on Verilator.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AVL (Apheleia Verification Library)](https://github.com/projectapheleia/avl)** — Python HDL verification library built on cocotb that provides transaction, sequence, coverage, and factory constructs for class-based testbenches.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
