@@ -116,7 +116,6 @@ Highlights:
 - [VerilogEval-v2](https://github.com/NVlabs/verilog-eval/tree/main/dataset_spec-to-rtl) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA v1.4.81: **153/156 = 98.08%** blind pass@1 — at the dataset-defect floor).
 - [RTLLM v2.0](https://github.com/hkust-zhiyao/RTLLM) - HKUST spec-to-RTL design benchmark (🔵 Vibe-IC + MCP-EDA + Claude Fable 5 v1.3.88: **49/50 = 98.0%** blind pass@1; **49/49 = 100%** excluding the single proven upstream dataset defect — `ring_counter`, whose reference RTL also fails its own testbench).
 - [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC + MCP-EDA v1.2.63: **243/302 = 80.46%** official-compliant blind pass@1 on the public no-commercial code-generation set — **prompt+context-only** (the hidden harness + golden are off-limits oracle, proven by a regression guard); scored by the official `run_benchmark.py`).
-- [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
 ## AI for EDA
 
