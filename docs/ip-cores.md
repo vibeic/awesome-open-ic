@@ -56,6 +56,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Basilisk](https://github.com/pulp-platform/cheshire-ihp130-o)** — End-to-end open-source Linux-capable SoC based on Cheshire, targeting IHP's 130nm BiCMOS open-source PDK.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Greyhound](https://github.com/mole99/greyhound-ihp)** — RISC-V SoC with a tightly coupled FABulous eFPGA, taped out on the IHP SG13G2 130nm BiCMOS open-source PDK using open-source EDA tools.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 

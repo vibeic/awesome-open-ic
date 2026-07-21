@@ -230,6 +230,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ACT](https://github.com/asyncvlsi/act)** — Asynchronous Circuit Toolkit: a hardware description language and core tools for designing, simulating, and laying out asynchronous VLSI circuits.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VSDFLOW](https://github.com/kunalg123/vsdflow)** — Scripted RTL-to-GDSII flow that chains Yosys synthesis, Qflow place-and-route, and OpenTimer sign-off timing, with hooks at each stage.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -302,6 +304,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[OpenTimer](https://github.com/OpenTimer/OpenTimer)** — Multi-threaded gate-level static timing analysis engine for VLSI systems, usable as a standalone STA tool or library.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Ink](https://github.com/Randy1005/Ink)** — Incremental k-critical-path generation engine for static timing analysis.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tatum](https://github.com/verilog-to-routing/tatum)** — Block-based static timing analysis engine for digital circuits, used as the timing analyzer inside the VTR FPGA CAD flow.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS

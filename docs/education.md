@@ -18,6 +18,10 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 - **[Analog Circuit Design (JKU IIC)](https://github.com/iic-jku/analog-circuit-design)** — Course material for a hands-on analog circuit design course with IC emphasis, built around open-source EDA tools.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
+- **[STA Basics Course](https://github.com/brabect1/sta_basics_course)** — Introductory course on static timing analysis, with slides and worked examples covering setup/hold checks, clock relationships, and timing constraints.
+  `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OS-EDA Course](https://github.com/OS-EDA/Course)** — Course material for teaching open-source EDA, covering the RTL-to-GDSII flow with open tools.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Online Courses (MOOCs)
 
@@ -149,3 +153,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Tiny Tapeout VGA Playground](https://github.com/TinyTapeout/vga-playground)** — Browser-based editor that simulates Verilog VGA designs live, used to prototype Tiny Tapeout video projects.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ASP-DAC24 OpenROAD / CircuitOps Tutorial](https://github.com/ASU-VDA-Lab/ASP-DAC24-Tutorial)** — Tutorial material from ASP-DAC 2024 covering the OpenROAD Python API and the CircuitOps data representation for machine-learning-driven EDA experiments.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
