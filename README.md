@@ -108,14 +108,14 @@ Highlights:
 
 ## Open Benchmark
 
-Open, agentic / LLM benchmarks for **AI-driven IC design** — a different category from the Benchmarks section above (traditional circuit / synthesis / P&R suites). See [docs/open-benchmark.md](docs/open-benchmark.md). Scores in parentheses are the highest blind pass@1 reached with the **Vibe-IC plugin + MCP-EDA + Claude Opus 4.8**, graded by each benchmark's official upstream testbench.
+Open, agentic / LLM benchmarks for **AI-driven IC design** — a different category from the Benchmarks section above (traditional circuit / synthesis / P&R suites). See [docs/open-benchmark.md](docs/open-benchmark.md). Scores in parentheses are the highest blind pass@1 reached with the **Vibe-IC plugin + MCP-EDA** — each score names the plugin version that produced it — graded by each benchmark's official upstream testbench.
 
 Highlights:
 
-- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval/tree/main/dataset_code-complete-iccad2023) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.3.26: **153/156 = 98.08%** blind pass@1 — at the dataset-defect floor).
-- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval/tree/main/dataset_spec-to-rtl) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.3.27: **153/156 = 98.08%** blind pass@1 — at the dataset-defect floor).
-- [RTLLM v2.0](https://github.com/hkust-zhiyao/RTLLM) - HKUST spec-to-RTL design benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.3.26: **44/50 = 88%** blind pass@1; **44/44 = 100%** excluding 4 documented upstream dataset defects + 2 iverilog tool-gaps — each a per-design RESULT entry, never a silent drop).
-- [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC + MCP-EDA + Opus 4.8 v1.2.96: **243/302 = 80.46%** official-compliant blind pass@1 on the public no-commercial code-generation set — **prompt+context-only** (the hidden harness + golden are off-limits oracle, proven by a regression guard); scored by the official `run_benchmark.py`).
+- [VerilogEval-Human](https://github.com/NVlabs/verilog-eval/tree/main/dataset_code-complete-iccad2023) - NVIDIA module-scale code-completion benchmark (🔵 Vibe-IC + MCP-EDA v1.4.81: **154/156 = 98.72%** blind pass@1 — at the dataset-defect floor).
+- [VerilogEval-v2](https://github.com/NVlabs/verilog-eval/tree/main/dataset_spec-to-rtl) - NVIDIA spec-to-RTL benchmark (🔵 Vibe-IC + MCP-EDA v1.4.81: **153/156 = 98.08%** blind pass@1 — at the dataset-defect floor).
+- [RTLLM v2.0](https://github.com/hkust-zhiyao/RTLLM) - HKUST spec-to-RTL design benchmark (🔵 Vibe-IC + MCP-EDA + Claude Fable 5 v1.3.88: **49/50 = 98.0%** blind pass@1; **49/49 = 100%** excluding the single proven upstream dataset defect — `ring_counter`, whose reference RTL also fails its own testbench).
+- [CVDP](https://github.com/NVlabs/cvdp_benchmark) - NVIDIA's 1,500+ task agentic multi-file benchmark (🔵 Vibe-IC + MCP-EDA v1.2.63: **243/302 = 80.46%** official-compliant blind pass@1 on the public no-commercial code-generation set — **prompt+context-only** (the hidden harness + golden are off-limits oracle, proven by a regression guard); scored by the official `run_benchmark.py`).
 - [vibeic-bench](https://github.com/vibeic/vibeic-bench) - Vibe-IC's benchmark results repo + an open agentic IC-design benchmark we're building (in development).
 
 ## AI for EDA
