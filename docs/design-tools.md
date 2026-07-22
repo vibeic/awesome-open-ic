@@ -126,6 +126,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm)** — Generates UVM register model (`uvm_reg`) code from a SystemRDL register description for verification environments.
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html)** — Generates browsable HTML documentation of a register map from a SystemRDL description.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tree-sitter-verilog](https://github.com/tree-sitter/tree-sitter-verilog)** — Incremental Verilog/SystemVerilog grammar for the tree-sitter parser generator, used for editor syntax highlighting and structural code navigation.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HDL Checker](https://github.com/suoto/hdl_checker)** — Language-server backend that repurposes existing HDL tools to provide on-the-fly linting and diagnostics for Verilog/VHDL editors.
