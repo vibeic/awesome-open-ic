@@ -77,6 +77,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AVL (Apheleia Verification Library)](https://github.com/projectapheleia/avl)** — Python HDL verification library built on cocotb that provides transaction, sequence, coverage, and factory constructs for class-based testbenches.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[core-v-verif](https://github.com/openhwgroup/core-v-verif)** — UVM verification environment and testbenches for the OpenHW Group CORE-V RISC-V cores, including the RISCV-DV generator and step-and-compare reference model.
+  `License: SHL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

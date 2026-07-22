@@ -35,6 +35,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Wally (CVW)](https://github.com/openhwgroup/cvw)** — Open 5-stage pipelined RV32/RV64 core paired with the Harris & Harris textbook.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BlackParrot](https://github.com/black-parrot/black-parrot)** — Linux-capable multicore RV64GC processor with a cache-coherent tiled architecture.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Platforms / Root of Trust
 
@@ -130,6 +132,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[minimax](https://github.com/gsmecher/minimax)** — Compressed-instruction-only RV32I soft core that executes RVC encodings directly to reduce FPGA resource usage.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CV32E40X](https://github.com/openhwgroup/cv32e40x)** — 32-bit in-order RV32 core targeting embedded control with configurable ISA extensions and an eXtension interface.
+  `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -314,6 +318,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[hyperbus](https://github.com/pulp-platform/hyperbus)** — HyperBus/HyperRAM memory controller with an AXI4 slave and APB configuration interface.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[clint](https://github.com/pulp-platform/clint)** — RISC-V Core Local Interrupt Controller providing machine timer and software interrupts over a register bus.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI](https://github.com/pulp-platform/axi)** — SystemVerilog AXI4/AXI4-Lite infrastructure with crossbars, protocol converters, and DMA components.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[APB](https://github.com/pulp-platform/apb)** — APB bus IP with an AXI-to-APB bridge and demultiplexer for peripheral interconnect.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-dbg](https://github.com/pulp-platform/riscv-dbg)** — RISC-V Debug Module implementing the RISC-V external debug specification over JTAG.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
@@ -506,6 +516,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[snax_cluster](https://github.com/KULeuven-MICAS/snax_cluster)** — Heterogeneous accelerator-centric compute cluster built on the Snitch RISC-V core, with a hardware generator and compiler flow.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PoC Library](https://github.com/VHDL/PoC)** — Vendor-independent VHDL IP core collection covering FIFOs, arithmetic, memory controllers, and bus interfaces, maintained by the Open Source VHDL Group.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[common_cells](https://github.com/pulp-platform/common_cells)** — Library of reusable SystemVerilog RTL building blocks such as FIFOs, arbiters, synchronizers, and clock-domain-crossing primitives.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ibex-demo-system](https://github.com/lowRISC/ibex-demo-system)** — Example SoC built around the Ibex RISC-V core with peripherals and software for FPGA prototyping.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
