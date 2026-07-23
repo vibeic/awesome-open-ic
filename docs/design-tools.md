@@ -213,6 +213,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: 0BSD OR Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Project Unnamed](https://codeberg.org/prjunnamed/prjunnamed)** — Early-stage end-to-end FPGA synthesis, place-and-route, and bitstream generation toolchain that builds on Project Combine device databases.
   `License: 0BSD OR Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fpgacapZero (fcapz)](https://github.com/lcapossio/fpgacapZero)** — Vendor-agnostic embedded FPGA debug cores providing an in-system logic analyzer, embedded I/O, and a JTAG-AXI bridge for on-chip signal capture.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -233,6 +235,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[ACT](https://github.com/asyncvlsi/act)** — Asynchronous Circuit Toolkit: a hardware description language and core tools for designing, simulating, and laying out asynchronous VLSI circuits.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VSDFLOW](https://github.com/kunalg123/vsdflow)** — Scripted RTL-to-GDSII flow that chains Yosys synthesis, Qflow place-and-route, and OpenTimer sign-off timing, with hooks at each stage.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ECOS Studio](https://github.com/openecos-projects/ecos-studio)** — Desktop RTL-to-GDS design environment that integrates Yosys synthesis, ECC-Tools place-and-route, and KLayout visualization with the ICsprout 55 nm open PDK.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
@@ -358,6 +362,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FOSS-ASIC-TOOLS](https://github.com/efabless/foss-asic-tools)** — All-in-one container of open-source analog and digital IC design tools for the SkyWater sky130 flow, bundling OpenLane, Magic, KLayout, ngspice, Xschem, and related utilities.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[nix-eda](https://github.com/fossi-foundation/nix-eda)** — FOSSi Foundation Nix flake providing more up-to-date, reproducible builds of open-source EDA tools than typical distro packages.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 

@@ -86,6 +86,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VaporView](https://github.com/Lramseyer/vaporview)** — VS Code extension waveform viewer with native VCD, FST, and GHW support.
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenCircuitX](https://github.com/openlab-x/OpenCircuitX)** — Open-source EDA platform bundling an HDL editor, circuit canvas, RTL viewer, waveform viewer, and FPGA toolchain integration for VHDL and Verilog in one desktop application.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
