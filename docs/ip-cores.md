@@ -134,6 +134,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CV32E40X](https://github.com/openhwgroup/cv32e40x)** — 32-bit in-order RV32 core targeting embedded control with configurable ISA extensions and an eXtension interface.
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Coreblocks](https://github.com/kuznia-rdzeni/coreblocks)** — Experimental modular out-of-order RV32I core generator written in Amaranth, built for teaching and research on out-of-order microarchitecture.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

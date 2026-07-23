@@ -113,6 +113,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SCY](https://github.com/YosysHQ/scy)** — Formal harness built on Yosys and SymbiYosys that verifies sequences of cover statements to drive a design through and check deep reachable states.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ACL2](https://github.com/acl2/acl2)** — Applicative Common Lisp theorem prover and programming language historically used for machine-checked proofs of hardware designs, including AMD floating-point units and Rockwell Collins avionics microcode.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
