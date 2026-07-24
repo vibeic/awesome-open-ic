@@ -148,6 +148,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SST Elements](https://github.com/sstsimulator/sst-elements)** — Library of architectural component models (processors, memory, and network) that run on the SST parallel discrete-event simulation core from Sandia National Laboratories.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DESESC](https://github.com/masc-ucsc/desesc)** — Cycle-accurate architectural simulator from the UC Santa Cruz MASC group, evolved from SESC and ESESC, using the Dromajo RISC-V emulator as its front end.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -156,6 +158,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 - **[Edalize](https://github.com/olofk/edalize)** — Python abstraction library used by FuseSoC to interface with EDA tools (Verilator, Icarus, Vivado, Quartus, OpenLane, ModelSim, ...).
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Switchboard](https://github.com/zeroasiccorp/switchboard)** — Framework for connecting and co-simulating RTL simulators, C++ models, and FPGA emulation through shared-memory queues.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.CLITool](https://github.com/edaa-org/pyEDAA.CLITool)** — Python abstraction layer over EDA tool command-line interfaces, letting scripts construct and launch simulator and synthesis invocations programmatically.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.OutputFilter](https://github.com/edaa-org/pyEDAA.OutputFilter)** — Python library for post-processing EDA tool logs, classifying messages and extracting warnings and errors for CI reporting.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent

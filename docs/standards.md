@@ -76,6 +76,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2025 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Assembly Programmer's Manual](https://github.com/riscv-non-isa/riscv-asm-manual)** — Community reference documenting RISC-V assembler directives, pseudo-instructions, register naming conventions, and relocation syntax used by RISC-V toolchains.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Packed SIMD Extension (P)](https://github.com/riscv/riscv-p-spec)** — Specification of the P extension defining sub-word packed SIMD and DSP instructions that operate within the general-purpose registers.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Vector Intrinsic Document](https://github.com/riscv-non-isa/riscv-rvv-intrinsic-doc)** — Specification and auto-generated prototypes for the RISC-V Vector extension C intrinsics implemented by Clang and GCC.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 
