@@ -75,6 +75,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CGRA4ML](https://github.com/KastnerRG/cgra4ml)** — Open workflow from the Kastner Research Group for building coarse-grained-reconfigurable-array SoCs that run deep neural networks at the edge, generating synthesizable SystemVerilog from Keras models.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vericert](https://github.com/ymherklotz/vericert)** — High-level synthesis tool built on the CompCert verified C compiler and written in Coq, so the translation from C to Verilog carries a machine-checked correctness proof.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -148,6 +150,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lorina](https://github.com/hriener/lorina)** — Header-only C++ parsing library for logic synthesis and formal verification formats including AIGER, BLIF, BENCH, PLA, and Verilog subsets.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyVHDLModel](https://github.com/VHDL/pyVHDLModel)** — Abstract language model of VHDL in Python, used as a common document object model by VHDL parsers, linters, and documentation generators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vhd2vl](https://github.com/ldoolitt/vhd2vl)** — Translator that converts synthesizable VHDL into Verilog 1995 or 2001, with a regression suite of worked example translations.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -364,6 +370,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[nix-eda](https://github.com/fossi-foundation/nix-eda)** — FOSSi Foundation Nix flake providing more up-to-date, reproducible builds of open-source EDA tools than typical distro packages.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[conda-eda](https://github.com/hdl/conda-eda)** — Conda recipes packaging FPGA EDA tools for simulation, synthesis, place-and-route, and bitstream generation, installable without building from source.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 
