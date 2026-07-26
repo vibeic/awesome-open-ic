@@ -22,8 +22,10 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          # Scan every Markdown file in the repo; fail the job on any dead link.
-          args: --no-progress --verbose --max-concurrency 8 "**/*.md"
+          # Config (exclusions, retries, accepted codes) lives in lychee.toml,
+          # where every exclusion carries its reason and the date it was
+          # verified by hand.
+          args: --config ./lychee.toml --verbose "**/*.md"
           fail: true
           output: ./lychee/out.md
         env:
@@ -37,10 +39,39 @@ jobs:
           path: ./lychee/out.md
           if-no-files-found: ignore
 
-      - name: Open issue if dead links are found
+      # ONE issue, updated in place — not a new one every Monday.
+      #
+      # Nine issues with an identical title were opened weekly between
+      # 2026-05-25 and 2026-07-20 and not one was ever closed or acted on (#76
+      # consolidates them). A duplicate a week is how a real alert becomes
+      # unreadable: by the ninth copy the signal is indistinguishable from the
+      # noise it is buried in, and the six errors that WERE ours went unfixed
+      # for ten weeks.
+      #
+      # Updating in place also makes the issue's age the age of the OLDEST
+      # unfixed link — the number a maintainer actually needs, and the one the
+      # weekly-reopen pattern destroyed.
+      - name: Find the existing open link-check report
+        if: failure()
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+                --label link-check --limit 1 --json number --jq '.[0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+          if [ -n "$n" ]; then
+            echo "updating existing report #$n"
+          else
+            echo "no open report — a new one will be opened"
+          fi
+
+      - name: Open or update the dead-link report
         if: failure()
         uses: peter-evans/create-issue-from-file@v5
         with:
+          # Empty means "create"; a number means "update in place".
+          issue-number: ${{ steps.existing.outputs.number }}
           title: "Dead links found by weekly link-check"
           content-filepath: ./lychee/out.md
           labels: |

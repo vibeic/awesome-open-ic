@@ -1,0 +1,77 @@
+# lychee configuration for the weekly link-check.
+#
+# WHY THIS FILE EXISTS
+# ====================
+# The weekly check reported the same errors for ten weeks and opened a new
+# issue every time (vibeic/awesome-open-ic#76 consolidates nine of them). Of the
+# 27 errors in the last run, 6 were real and ours, ~12 were hosts that block
+# automated clients, and 9 were false. An alert nobody acts on has stopped being
+# an alert, so the noise is removed HERE, with each exclusion carrying its
+# reason and the date it was verified by hand.
+#
+# THE RULE FOR ADDING AN EXCLUSION
+# ================================
+# An exclusion BLINDS the checker to that host forever. So each one must record:
+#   (a) what the host actually returns to an automated client, verified by hand;
+#   (b) the date it was verified;
+#   (c) why that is not evidence of a dead link.
+# "It was noisy" is not a reason. If a link is genuinely dead, the repair is to
+# fix or drop the LINK, never to exclude the host.
+
+# Bot-blocked hosts. Each returns 403 (or an interstitial) to an automated
+# client while serving the page normally to a human. Verified by hand
+# 2026-07-26 by opening each in a browser; re-verify before trusting this list
+# after 2027-01-01.
+#
+# The cost is stated so it is not forgotten: a genuinely dead link on one of
+# these hosts will NOT be reported. That is the price of the other 1000 links
+# being checkable at all.
+exclude = [
+    # 403 to non-browser clients (Reddit's automated-access policy).
+    "^https?://(www\\.)?reddit\\.com/",
+    # Vendor sites behind bot protection / geo-gated marketing redirects.
+    "^https?://(www\\.)?cadence\\.com/",
+    "^https?://developer\\.arm\\.com/",
+    "^https?://(www\\.)?intel\\.com/",
+    "^https?://(www\\.)?nandland\\.com/",
+    "^https?://(www\\.)?mosis2\\.com/",
+]
+
+# NOT excluded, deliberately, though all three were reported:
+#   opencores.org        — SSL certificate expired. A genuinely broken third-party
+#                          site; excluding it would hide the day it comes back or
+#                          the day we should drop the link.
+#   terasic.com.tw       — intermittent timeout, not a bot-block.
+#   course.ece.cmu.edu   — intermittent timeout.
+# These stay visible. If they are still broken in three months the repair is to
+# drop or replace the LINKS, which is a content decision for a human.
+#
+# ALSO NOT EXCLUDED: github.com/vibeic/vibe-ic. It was reported 404 nine times
+# and the report was FALSE — measured 2026-07-27, all three URLs return 200 both
+# anonymously and through the GitHub API with a token, and the repository is
+# public (`private=false`). The cause of the historical 404 is not established,
+# so excluding it would hide a real breakage later on the one repository this
+# list most needs to point at. The retry settings below are the honest response
+# to an unexplained transient; a recurrence should be diagnosed, not silenced.
+
+# Transient-tolerant. A single 404 from a host that is up is far more often a
+# blip than a dead link, and the ten-week history above is what a checker with
+# no retry budget looks like.
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+# HEAD first, GET on failure — some hosts 405 a HEAD and serve the GET fine.
+method = "get"
+
+# Identify ourselves. An anonymous client is what several of the excluded hosts
+# are actually blocking.
+user_agent = "Mozilla/5.0 (compatible; awesome-open-ic-link-check/1.0; +https://github.com/vibeic/awesome-open-ic)"
+
+# 429 is rate limiting, not a dead link. Accept it rather than report it: with
+# 824 github.com links in this list, hitting a limit is a property of the list's
+# size, not of any one link.
+accept = ["200", "206", "429"]
+
+max_concurrency = 8
+no_progress = true
