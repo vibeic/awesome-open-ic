@@ -78,6 +78,18 @@ exclude = [
 # Transient-tolerant. A single 404 from a host that is up is far more often a
 # blip than a dead link, and the ten-week history above is what a checker with
 # no retry budget looks like.
+# A TIMEOUT IS NOT COUNTED AS AN ERROR, AND STILL EXITS NON-ZERO.
+# lychee's summary prints `Errors 0` while the process exits 2 on a timed-out
+# link, because timeouts are their own bucket. That cost a full debugging pass:
+# the run said zero errors and the job was red. If this workflow ever fails
+# with `Errors 0`, look at the "Timeouts per input" section, not the error one.
+#
+# 30s is deliberate rather than generous. `join.skywater.tools` was the first
+# case and it is dead, not slow — three consecutive 60-SECOND attempts all
+# returned nothing, so raising the timeout would only have made the red run
+# slower. The link was repaired instead, to the workspace itself, which answers
+# 200. A timeout that a longer wait would fix is a link worth waiting for; one
+# that survives 60s is a dead host.
 max_retries = 3
 retry_wait_time = 5
 timeout = 30
