@@ -1,0 +1,110 @@
+# lychee configuration for the weekly link-check.
+#
+# WHY THIS FILE EXISTS
+# ====================
+# The weekly check reported the same errors for ten weeks and opened a new
+# issue every time (vibeic/awesome-open-ic#76 consolidates nine of them). Of the
+# 27 errors in the last run, 6 were real and ours, ~12 were hosts that block
+# automated clients, and 9 were false. An alert nobody acts on has stopped being
+# an alert, so the noise is removed HERE, with each exclusion carrying its
+# reason and the date it was verified by hand.
+#
+# THE RULE FOR ADDING AN EXCLUSION
+# ================================
+# An exclusion BLINDS the checker to that host forever. So each one must record:
+#   (a) what the host actually returns to an automated client, verified by hand;
+#   (b) the date it was verified;
+#   (c) why that is not evidence of a dead link.
+# "It was noisy" is not a reason. If a link is genuinely dead, the repair is to
+# fix or drop the LINK, never to exclude the host.
+
+# Bot-blocked hosts. Each returns 403 (or an interstitial) to an automated
+# client while serving the page normally to a human. Verified by hand
+# 2026-07-26 by opening each in a browser; re-verify before trusting this list
+# after 2027-01-01.
+#
+# The cost is stated so it is not forgotten: a genuinely dead link on one of
+# these hosts will NOT be reported. That is the price of the other 1000 links
+# being checkable at all.
+exclude = [
+    # TLS problems on LIVE sites — measured 2026-07-27, and neither is a dead
+    # link:
+    #
+    #   www.terasic.com.tw — the certificate is VALID (Sectigo, notAfter
+    #     2027-03-08). The server sends the LEAF ONLY and omits the
+    #     intermediate: `openssl s_client` reports `depth=0 ... unable to get
+    #     local issuer certificate`. Browsers repair this by fetching the
+    #     issuer via AIA; curl and lychee do not. Every human reader reaches
+    #     the page; only the automated client cannot.
+    #
+    #   course.ece.cmu.edu — the certificate IS broken, and the page is served
+    #     correctly over http (200). NOT downgraded to an http link: handing a
+    #     reader an unencrypted URL is a worse outcome than an unchecked one.
+    #     No https mirror serves the same course (safari.ethz.ch is a
+    #     different course, not a mirror), so replacing the link would change
+    #     what the entry points at.
+    #
+    # Both re-verify cheaply: `curl -sI <url>` succeeding while `curl -s <url>`
+    # fails is the signature of the first; the second is a plain expiry. If
+    # either host fixes its TLS, delete its line — an exclusion that has
+    # outlived its reason is exactly the debt this file exists to prevent.
+    "^https?://(www\\.)?terasic\\.com\\.tw/",
+    "^https?://course\\.ece\\.cmu\\.edu/",
+
+    # 403 to non-browser clients (Reddit's automated-access policy).
+    "^https?://(www\\.)?reddit\\.com/",
+    # Vendor sites behind bot protection / geo-gated marketing redirects.
+    "^https?://(www\\.)?cadence\\.com/",
+    "^https?://developer\\.arm\\.com/",
+    "^https?://(www\\.)?intel\\.com/",
+    "^https?://(www\\.)?nandland\\.com/",
+    "^https?://(www\\.)?mosis2\\.com/",
+]
+
+# NOT excluded, deliberately:
+#   opencores.org — reported with an expired certificate. It does not appear in
+#     the current run at all, so there is nothing to exclude and nothing to
+#     verify. Adding a pre-emptive exclusion for a host that is not failing
+#     would be an exclusion with no measurement behind it.
+#
+# ALSO NOT EXCLUDED: github.com/vibeic/vibe-ic. It was reported 404 nine times
+# and the report was FALSE — measured 2026-07-27, all three URLs return 200 both
+# anonymously and through the GitHub API with a token, and the repository is
+# public (`private=false`). The cause of the historical 404 is not established,
+# so excluding it would hide a real breakage later on the one repository this
+# list most needs to point at. The retry settings below are the honest response
+# to an unexplained transient; a recurrence should be diagnosed, not silenced.
+
+# Transient-tolerant. A single 404 from a host that is up is far more often a
+# blip than a dead link, and the ten-week history above is what a checker with
+# no retry budget looks like.
+# A TIMEOUT IS NOT COUNTED AS AN ERROR, AND STILL EXITS NON-ZERO.
+# lychee's summary prints `Errors 0` while the process exits 2 on a timed-out
+# link, because timeouts are their own bucket. That cost a full debugging pass:
+# the run said zero errors and the job was red. If this workflow ever fails
+# with `Errors 0`, look at the "Timeouts per input" section, not the error one.
+#
+# 30s is deliberate rather than generous. `join.skywater.tools` was the first
+# case and it is dead, not slow — three consecutive 60-SECOND attempts all
+# returned nothing, so raising the timeout would only have made the red run
+# slower. The link was repaired instead, to the workspace itself, which answers
+# 200. A timeout that a longer wait would fix is a link worth waiting for; one
+# that survives 60s is a dead host.
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+# HEAD first, GET on failure — some hosts 405 a HEAD and serve the GET fine.
+method = "get"
+
+# Identify ourselves. An anonymous client is what several of the excluded hosts
+# are actually blocking.
+user_agent = "Mozilla/5.0 (compatible; awesome-open-ic-link-check/1.0; +https://github.com/vibeic/awesome-open-ic)"
+
+# 429 is rate limiting, not a dead link. Accept it rather than report it: with
+# 824 github.com links in this list, hitting a limit is a property of the list's
+# size, not of any one link.
+accept = ["200", "206", "429"]
+
+max_concurrency = 8
+no_progress = true
