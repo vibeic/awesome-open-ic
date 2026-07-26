@@ -136,6 +136,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Coreblocks](https://github.com/kuznia-rdzeni/coreblocks)** — Experimental modular out-of-order RV32I core generator written in Amaranth, built for teaching and research on out-of-order microarchitecture.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AIRISC Core Complex](https://github.com/Fraunhofer-IMS/airisc_core_complex)** — Fraunhofer IMS RV32IM core complex with peripherals aimed at embedded AI and smart-sensor applications.
+  `License: SHL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Pequeno (PQR5)](https://github.com/iammituraj/pequeno_riscv)** — Five-stage pipelined in-order RV32I core in SystemVerilog, shipped with an assembler, the RISC-V test suite, and CoreMark/Dhrystone builds.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -396,6 +400,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ITA](https://github.com/pulp-platform/ITA)** — Integer Transformer Accelerator: RTL and test generator for an 8-bit quantized multi-head attention accelerator with an integer-only streaming softmax.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[taneroksuz/fpu](https://github.com/taneroksuz/fpu)** — IEEE-754 single- and double-precision floating-point unit library written in both SystemVerilog and VHDL.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FEC Codec IP core library](https://github.com/dshekhalev/FEC)** — Forward-error-correction encoder/decoder cores in SystemVerilog covering BCH, Reed-Solomon, LDPC, and Turbo codes.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[INT_FP_MAC](https://github.com/erihsu/INT_FP_MAC)** — Multiply-accumulate unit supporting both INT8 and FP16 operands, delivered with a UVM verification environment.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -419,6 +429,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HCI](https://github.com/pulp-platform/hci)** — Heterogeneous Cluster Interconnect providing the logarithmic crossbar between processing elements and shared L1 memory banks in PULP clusters, in SystemVerilog.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UberDDR3](https://github.com/AngeloJacobo/UberDDR3)** — Open-source DDR3 SDRAM controller in Verilog with an optional AXI4 interface and a packaged Xilinx Vivado custom IP.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

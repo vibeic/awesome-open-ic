@@ -80,6 +80,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Vector Intrinsic Document](https://github.com/riscv-non-isa/riscv-rvv-intrinsic-doc)** — Specification and auto-generated prototypes for the RISC-V Vector extension C intrinsics implemented by Clang and GCC.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Toolchain Conventions](https://github.com/riscv-non-isa/riscv-toolchain-conventions)** — Documents the expected behaviour and supported command-line switches shared by GNU- and LLVM-based RISC-V toolchains, including `-march`/`-mabi` string rules.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

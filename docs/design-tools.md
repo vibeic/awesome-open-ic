@@ -154,6 +154,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[vhd2vl](https://github.com/ldoolitt/vhd2vl)** — Translator that converts synthesizable VHDL into Verilog 1995 or 2001, with a regression suite of worked example translations.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[slang-server](https://github.com/hudson-trading/slang-server)** — SystemVerilog language server built on the slang front-end, providing diagnostics, navigation, and completion to LSP-capable editors.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Limbo](https://github.com/limbo018/Limbo)** — C++ library for VLSI CAD providing parsers for LEF, DEF, GDSII, Verilog, Bookshelf, and LP formats plus min-cost-flow and linear-programming solver APIs.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -221,6 +225,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: 0BSD OR Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fpgacapZero (fcapz)](https://github.com/lcapossio/fpgacapZero)** — Vendor-agnostic embedded FPGA debug cores providing an in-system logic analyzer, embedded I/O, and a JTAG-AXI bridge for on-chip signal capture.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[f4pga-arch-defs](https://github.com/f4pga/f4pga-arch-defs)** — Open architecture definitions of FPGA hardware, used to generate the device databases that place-and-route tools need.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -308,6 +314,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Connectal](https://github.com/cambridgehackers/connectal)** — Framework for software-driven hardware development that generates host-FPGA RPC interfaces and DMA plumbing from interface declarations.
   `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[open-register-design-tool](https://github.com/Juniper/open-register-design-tool)** — Juniper's generator that produces register-block RTL, software models, and documentation from SystemRDL or JSpec register descriptions.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hog (HDL-on-git)](https://github.com/Hog-CERN/Hog)** — CERN-maintained tool for managing FPGA projects in git, handling project generation, versioning, and continuous integration.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -530,6 +540,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_dft`*
 - **[Fault](https://github.com/aucohl/fault)** — DFT (test pattern generation) framework targeting OpenROAD flows.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FAN_ATPG](https://github.com/NTU-LaDS-II/FAN_ATPG)** — Command-line automatic test pattern generator and fault simulator implementing the FAN (fan-out-oriented) algorithm, from NTU LaDS-II.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 
@@ -593,3 +605,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyGears](https://github.com/bogdanvuk/pygears)** — Python framework for describing hardware as composable functional modules communicating over handshake interfaces, generating SystemVerilog or Verilog.
   `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemC](https://github.com/accellera-official/systemc)** — Accellera's reference implementation of the IEEE 1666 SystemC C++ class library for system-level and transaction-level modeling.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

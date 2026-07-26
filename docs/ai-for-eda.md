@@ -150,6 +150,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[Evolutionary LLMs for Hardware Security (survey)](https://arxiv.org/abs/2404.16651)** — Comparative survey of LLM approaches for detecting and auto-repairing security vulnerabilities in RTL designs.
   `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[awesome-AI4EDA](https://github.com/ai4eda/awesome-AI4EDA)** — Curated and continuously updated bibliography of AI-for-EDA papers, organized by design stage and published as a browsable webpage.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper list*
 
 ## Bug-Fixing / Debug Agents
 
