@@ -27,6 +27,30 @@
 # these hosts will NOT be reported. That is the price of the other 1000 links
 # being checkable at all.
 exclude = [
+    # TLS problems on LIVE sites — measured 2026-07-27, and neither is a dead
+    # link:
+    #
+    #   www.terasic.com.tw — the certificate is VALID (Sectigo, notAfter
+    #     2027-03-08). The server sends the LEAF ONLY and omits the
+    #     intermediate: `openssl s_client` reports `depth=0 ... unable to get
+    #     local issuer certificate`. Browsers repair this by fetching the
+    #     issuer via AIA; curl and lychee do not. Every human reader reaches
+    #     the page; only the automated client cannot.
+    #
+    #   course.ece.cmu.edu — the certificate IS broken, and the page is served
+    #     correctly over http (200). NOT downgraded to an http link: handing a
+    #     reader an unencrypted URL is a worse outcome than an unchecked one.
+    #     No https mirror serves the same course (safari.ethz.ch is a
+    #     different course, not a mirror), so replacing the link would change
+    #     what the entry points at.
+    #
+    # Both re-verify cheaply: `curl -sI <url>` succeeding while `curl -s <url>`
+    # fails is the signature of the first; the second is a plain expiry. If
+    # either host fixes its TLS, delete its line — an exclusion that has
+    # outlived its reason is exactly the debt this file exists to prevent.
+    "^https?://(www\\.)?terasic\\.com\\.tw/",
+    "^https?://course\\.ece\\.cmu\\.edu/",
+
     # 403 to non-browser clients (Reddit's automated-access policy).
     "^https?://(www\\.)?reddit\\.com/",
     # Vendor sites behind bot protection / geo-gated marketing redirects.
@@ -37,14 +61,11 @@ exclude = [
     "^https?://(www\\.)?mosis2\\.com/",
 ]
 
-# NOT excluded, deliberately, though all three were reported:
-#   opencores.org        — SSL certificate expired. A genuinely broken third-party
-#                          site; excluding it would hide the day it comes back or
-#                          the day we should drop the link.
-#   terasic.com.tw       — intermittent timeout, not a bot-block.
-#   course.ece.cmu.edu   — intermittent timeout.
-# These stay visible. If they are still broken in three months the repair is to
-# drop or replace the LINKS, which is a content decision for a human.
+# NOT excluded, deliberately:
+#   opencores.org — reported with an expired certificate. It does not appear in
+#     the current run at all, so there is nothing to exclude and nothing to
+#     verify. Adding a pre-emptive exclusion for a host that is not failing
+#     would be an exclusion with no measurement behind it.
 #
 # ALSO NOT EXCLUDED: github.com/vibeic/vibe-ic. It was reported 404 nine times
 # and the report was FALSE — measured 2026-07-27, all three URLs return 200 both
