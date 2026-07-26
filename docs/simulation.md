@@ -88,6 +88,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenCircuitX](https://github.com/openlab-x/OpenCircuitX)** — Open-source EDA platform bundling an HDL editor, circuit canvas, RTL viewer, waveform viewer, and FPGA toolchain integration for VHDL and Verilog in one desktop application.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fliplot](https://github.com/raczben/fliplot)** — Browser-based VCD waveform viewer written in HTML and JavaScript, runnable locally or served from a web page.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
