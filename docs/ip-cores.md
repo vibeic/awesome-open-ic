@@ -438,6 +438,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DragonPHY](https://github.com/StanfordVLSI/dragonphy2)** — Open-source wireline SerDes (PHY) receiver from Stanford, implemented with a Python generator-based mixed-signal design flow and taped out in 16 nm.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenSERDES](https://github.com/SparcLab/OpenSERDES)** — Digitally synthesizable SerDes architecture for SKY130, including serializer, deserializer, inverter-based TX driver, resistive-feedback RX front-end, and oversampling CDR with GDS and SPICE views.
+  `License: GPL-3.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
@@ -463,6 +465,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Keystone Enclave](https://github.com/keystone-enclave/keystone)** — Open RISC-V framework for building TEE enclaves with hardware isolation.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tnoc](https://github.com/taichi-ishitani/tnoc)** — SystemVerilog network-on-chip router and fabric with a 2-D mesh, X-Y routing, wormhole and virtual-channel flow control, and an AMBA AXI4 bus interface.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[BaseJump STL](https://github.com/bespoke-silicon-group/basejump_stl)** — SystemVerilog standard template library of reusable hardware primitives (FIFOs, NoCs, arbiters, memories).
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULPissimo](https://github.com/pulp-platform/pulpissimo)** — PULP single-core microcontroller SoC platform (CV32E40P or Ibex core) with peripherals; base for many PULP chips.
