@@ -158,6 +158,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Limbo](https://github.com/limbo018/Limbo)** — C++ library for VLSI CAD providing parsers for LEF, DEF, GDSII, Verilog, Bookshelf, and LP formats plus min-cost-flow and linear-programming solver APIs.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CircuitGraph](https://github.com/circuitgraph/circuitgraph)** — Python library that represents gate-level Verilog designs as NetworkX graphs, with SAT-solver and Yosys integrations for circuit analysis and transformation.
+  `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -369,6 +371,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SiEPIC-Tools](https://github.com/SiEPIC/SiEPIC-Tools)** — KLayout package for silicon-photonics layout, providing schematic-driven layout, waveguide routing, connectivity verification, and netlist export.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KQCircuits](https://github.com/iqm-finland/KQCircuits)** — Python library from IQM built on the KLayout API that generates parameterized layouts of superconducting quantum circuits.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -542,6 +546,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FAN_ATPG](https://github.com/NTU-LaDS-II/FAN_ATPG)** — Command-line automatic test pattern generator and fault simulator implementing the FAN (fan-out-oriented) algorithm, from NTU LaDS-II.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Quaigh](https://github.com/Coloquinte/quaigh)** — Rust library and command-line tool for logic optimization, technology mapping, equivalence checking, and stuck-at automatic test pattern generation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 
@@ -607,3 +613,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SystemC](https://github.com/accellera-official/systemc)** — Accellera's reference implementation of the IEEE 1666 SystemC C++ class library for system-level and transaction-level modeling.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kratos](https://github.com/Kuree/kratos)** — Hardware design language with a Python front-end and C++ core that emits readable Verilog and keeps source-level debug information for the hgdb debugger.
+  `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

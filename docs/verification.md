@@ -79,6 +79,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[core-v-verif](https://github.com/openhwgroup/core-v-verif)** — UVM verification environment and testbenches for the OpenHW Group CORE-V RISC-V cores, including the RISCV-DV generator and step-and-compare reference model.
   `License: SHL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tvip-apb](https://github.com/taichi-ishitani/tvip-apb)** — UVM verification IP for the AMBA APB protocol, providing a master agent with driver, monitor, sequencer, and register-abstraction-layer adapter.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

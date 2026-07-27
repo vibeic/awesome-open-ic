@@ -104,6 +104,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ACM MOSFET models](https://github.com/ACMmodel/ACM-MOSFET-models)** — Advanced Compact MOSFET model with five DC parameters, distributed as SPICE model cards for hand analysis and circuit simulation.
   `License: ECL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pycell4klayout-api](https://github.com/IHP-GmbH/pycell4klayout-api)** — Python library from IHP that supports the PyCell parameterized-device API under KLayout, used to build PDK PCell libraries.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
