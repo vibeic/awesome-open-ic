@@ -140,6 +140,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Pequeno (PQR5)](https://github.com/iammituraj/pequeno_riscv)** — Five-stage pipelined in-order RV32I core in SystemVerilog, shipped with an assembler, the RISC-V test suite, and CoreMark/Dhrystone builds.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Piccolo](https://github.com/bluespec/Piccolo)** — RISC-V CPU with a simple 3-stage in-order pipeline written in Bluespec SystemVerilog, aimed at low-end embedded and IoT applications.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -169,6 +171,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VRoom!](https://github.com/MoonbaseOtago/vroom)** — Out-of-order superscalar RV64GC RISC-V CPU targeting application-class performance, written in SystemVerilog.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Toooba](https://github.com/bluespec/Toooba)** — Superscalar, out-of-order, multicore-capable RV64 RISC-V core in Bluespec SystemVerilog, derived from MIT's RiscyOO processor.
+  `License: Apache-2.0 (RiscyOO sources MIT)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -539,6 +543,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ibex-demo-system](https://github.com/lowRISC/ibex-demo-system)** — Example SoC built around the Ibex RISC-V core with peripherals and software for FPGA prototyping.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[X-HEEP](https://github.com/x-heep/x-heep)** — Configurable RISC-V microcontroller platform in SystemVerilog from EPFL ESL, UPM CEI, and POLITO VLSI; custom accelerators attach over CV-X-IF or the system bus, with FPGA setups and tape-outs in TSMC 65 nm, GF 22 nm, and TSMC 16 nm.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
