@@ -22,6 +22,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[SSCS Open-Source Ecosystem (SSCS-OSE)](https://sscs-ose.github.io/)** — IEEE SSCS resource hub for open-source IC design; links open ASIC tools, the no-NDA sky130 and gf180mcu PDKs, IIC-OSIC-TOOLS, and a "How to Tape Out an IC" pathway supporting the PICO Chipathon and Code-a-Chip competitions.
   `License: Program page` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community resource hub*
+- **[Wafer.Space](https://wafer.space/)** — Shared wafer-shuttle service on the GlobalFoundries GF180MCU 180 nm process, sold in full, half-width, and half-height slots of 1000 dies with optional chip-on-board packaging; Run 1 carried 29 open-source designs from universities, startups, and hobbyists and Run 2 is taking submissions through mid-2026.
+  `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 
 ## Tape-out Harnesses
 

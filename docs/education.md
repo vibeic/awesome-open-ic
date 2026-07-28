@@ -155,3 +155,7 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ASP-DAC24 OpenROAD / CircuitOps Tutorial](https://github.com/ASU-VDA-Lab/ASP-DAC24-Tutorial)** — Tutorial material from ASP-DAC 2024 covering the OpenROAD Python API and the CircuitOps data representation for machine-learning-driven EDA experiments.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CircuitJS1 (Falstad circuit simulator)](https://github.com/pfalstad/circuitjs1)** — Browser-based electronic circuit simulator with an interactive schematic editor and animated current display, covering analog and digital components; long-standing teaching tool for circuit behaviour.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)** — Browser-based digital logic designer and simulator for building, simulating, and sharing gate-level circuits without installing anything.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

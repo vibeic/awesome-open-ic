@@ -113,6 +113,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Free Accellera download (Verilog-AMS LRM)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[SystemRDL 2.0 — Accellera](https://accellera.org/downloads/standards/systemrdl)** — Register description language providing a single source for control/status register specifications from which RTL, headers, UVM models, and documentation are generated; spec PDF downloadable free from Accellera.
   `License: Free Accellera download (SystemRDL 2.0)` | `Last commit: 2018 (current release)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1076.1-2017 VHDL-AMS](https://standards.ieee.org/standard/1076_1-2017.html)** — Analog and mixed-signal extensions to VHDL for writing and simulating continuous-time and mixed-signal models; supersedes 1076.1-2007.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2017` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Verification Methodology
 
@@ -133,6 +135,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Paywalled spec (IEEE)` | `Last commit: 2013` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[IEEE 1500-2022 SECT (embedded core test)](https://standards.ieee.org/standard/1500-2022.html)** — Testability method for embedded cores in SoC; defines wrapper + CTL test language.
   `License: Paywalled spec (IEEE)` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1687-2014 IJTAG](https://standards.ieee.org/standard/1687-2014.html)** — Methodology for accessing and controlling instrumentation embedded within a semiconductor device through digital interfaces including the IEEE 1149.1 Test Access Port.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2014 (inactive-reserved 2025; P1687 revision active)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[IEEE 1149.6-2015](https://standards.ieee.org/standard/1149_6-2015.html)** — Augments IEEE 1149.1 to boundary-scan test differential and AC-coupled interconnections between integrated circuits on boards and systems.
+  `License: Paywalled spec (IEEE)` | `Last commit: 2015 (published 2016; inactive-reserved 2026)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Power & Low-Power Intent
 
