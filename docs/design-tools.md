@@ -160,6 +160,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CircuitGraph](https://github.com/circuitgraph/circuitgraph)** — Python library that represents gate-level Verilog designs as NetworkX graphs, with SAT-solver and Yosys integrations for circuit analysis and transformation.
   `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[verilog-ext](https://github.com/gmlarumbe/verilog-ext)** — Emacs extensions for Verilog and SystemVerilog adding tree-sitter navigation, hierarchy extraction, completion, and linter/LSP integration on top of verilog-mode.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vhdl-ext](https://github.com/gmlarumbe/vhdl-ext)** — Emacs extensions for VHDL adding tree-sitter navigation, hierarchy extraction, completion, and linter/LSP integration on top of vhdl-mode.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[svlangserver](https://github.com/imc-trading/svlangserver)** — SystemVerilog language server providing symbol indexing, navigation, completion, and Verilator-based diagnostics to LSP-capable editors.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -269,6 +275,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NTHU-Route](https://github.com/luckyrantanplan/nthu-route)** — VLSI global router for placement-and-routing congestion benchmarks.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Mt-KaHyPar](https://github.com/kahypar/mt-kahypar)** — Shared-memory parallel multilevel graph and hypergraph partitioner with direct k-way and recursive-bisection algorithms and a Steiner-tree metric for modeling VLSI wire lengths.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -320,6 +328,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hog (HDL-on-git)](https://github.com/Hog-CERN/Hog)** — CERN-maintained tool for managing FPGA projects in git, handling project generation, versioning, and continuous integration.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyFPGA](https://github.com/PyFPGA/pyfpga)** — Python package that drives FPGA vendor and open-source toolchains programmatically, generating and running synthesis, implementation, and programming steps from a script.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -373,6 +383,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[KQCircuits](https://github.com/iqm-finland/KQCircuits)** — Python library from IQM built on the KLayout API that generates parameterized layouts of superconducting quantum circuits.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Layout21](https://github.com/dan-fritchman/Layout21)** — Rust crate suite for custom IC layout with a ProtoBuf-based layered data model (raw geometric and gridded gate-array-style layout) plus GDSII and LEF parsers and generators.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

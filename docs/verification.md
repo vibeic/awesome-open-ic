@@ -185,6 +185,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-vector-tests](https://github.com/chipsalliance/riscv-vector-tests)** — Generator of unit tests for the RISC-V Vector (RVV) 1.0 extension.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TestRIG](https://github.com/CTSRD-CHERI/TestRIG)** — RISC-V processor verification framework built on the RVFI-DII interface: verification engines feed random instruction streams to two implementations and compare the returned execution traces.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 
