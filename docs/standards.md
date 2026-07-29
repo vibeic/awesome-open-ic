@@ -89,6 +89,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0 (impl) / SiFive-owned spec` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[OCP-IP (Open Core Protocol)](https://accellera.org/community/ocp)** — Legacy Accellera-hosted SoC bus protocol; still referenced in older IP packages.
   `License: Accellera open spec` | `Last commit: 2013 (legacy)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[OmniXtend](https://github.com/chipsalliance/omnixtend)** — CHIPS Alliance specification for a cache-coherence protocol that carries TileLink coherence messages over standard Ethernet frames.
+  `License: Apache-2.0` | `Last commit: 2025 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## EDA File Formats
 
@@ -100,6 +102,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Si2 OpenAccess Coalition (membership)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[OpenROAD OpenDB / ODB](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/odb)** — BSD-licensed open EDA database for physical design (LEF/DEF 5.6 based), powers OpenROAD flow.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[AIGER](https://github.com/arminbiere/aiger)** — Format specification, reference C library, and conversion utilities for And-Inverter Graphs, the interchange format used by logic-synthesis and hardware model-checking tools.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## HDL Languages
 

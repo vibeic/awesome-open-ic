@@ -67,6 +67,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[libsystemctlm-soc](https://github.com/Xilinx/libsystemctlm-soc)** — SystemC/TLM-2.0 co-simulation framework from AMD/Xilinx that couples QEMU with RTL simulators and provides TLM-to-AXI bridges for SoC-level simulation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DiffTest](https://github.com/OpenXiangShan/difftest)** — Co-simulation framework for RISC-V processors that runs a workload on the RTL design under test and a reference emulator in lock step, comparing architectural state each step.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NEMU](https://github.com/OpenXiangShan/NEMU)** — RV64 full-system ISA emulator (NJU Emulator) maintained by the XiangShan project as the reference model for its DiffTest co-simulation flow.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 

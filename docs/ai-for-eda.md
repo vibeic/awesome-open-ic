@@ -44,6 +44,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DRiLLS](https://github.com/scale-lab/DRiLLS)** — Reinforcement-learning agent that searches ABC optimization-command sequences to reduce area under a delay constraint (ASP-DAC'20).
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[Gamora](https://github.com/Yu-Maryland/Gamora)** — Graph-neural-network framework for symbolic reasoning over large-scale Boolean networks, trained to label adder structures in gate-level And-Inverter Graphs (DAC'23).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## LLM Benchmarks for RTL
 
