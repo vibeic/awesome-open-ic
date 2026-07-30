@@ -142,6 +142,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Piccolo](https://github.com/bluespec/Piccolo)** — RISC-V CPU with a simple 3-stage in-order pipeline written in Bluespec SystemVerilog, aimed at low-end embedded and IoT applications.
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[phoeniX](https://github.com/phoeniX-Digital-Design/phoeniX)** — Partially reconfigurable RV32I/EM core in Verilog that lets approximate arithmetic circuits be swapped into the datapath to trade accuracy against latency and power.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -335,6 +337,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-dbg](https://github.com/pulp-platform/riscv-dbg)** — RISC-V Debug Module implementing the RISC-V external debug specification over JTAG.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[jh_APLIC](https://github.com/jhauser-us/jh_APLIC)** — SystemVerilog implementation of a RISC-V Advanced Platform-Level Interrupt Controller conforming to the Advanced Interrupt Architecture specification, written by the author of that specification.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -444,6 +448,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenSERDES](https://github.com/SparcLab/OpenSERDES)** — Digitally synthesizable SerDes architecture for SKY130, including serializer, deserializer, inverter-based TX driver, resistive-feedback RX front-end, and oversampling CDR with GDS and SPICE views.
   `License: GPL-3.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SKY130 SAR-ADC1](https://github.com/iic-jku/SKY130_SAR-ADC1)** — Fully differential asynchronous non-binary 12-bit charge-redistribution SAR ADC in SKY130 with schematics, layout, and a sample rate configurable from 28 S/s to 1.2 MS/s, from JKU Linz.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_cw_ip](https://github.com/efabless/sky130_cw_ip)** — SKY130 analog IP collection containing a 10-bit SAR ADC, bandgap reference, bias generator, clock generator, and 1.2 V / 1.5 V linear regulators, with schematics, hierarchical GDS, and corner testbenches.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
@@ -545,6 +553,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[X-HEEP](https://github.com/x-heep/x-heep)** — Configurable RISC-V microcontroller platform in SystemVerilog from EPFL ESL, UPM CEI, and POLITO VLSI; custom accelerators attach over CV-X-IF or the system bus, with FPGA setups and tape-outs in TSMC 65 nm, GF 22 nm, and TSMC 16 nm.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CORE-ET Agentic Silicon Platform](https://github.com/openhwgroup/core-et)** — OpenHW Group IP catalog that rewrites source IP into lowRISC-style SystemVerilog with per-IP documentation, explicit parameters, technology primitives, and unit tests for FPGA and ASIC integration.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

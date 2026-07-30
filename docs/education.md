@@ -159,3 +159,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)** — Browser-based digital logic designer and simulator for building, simulating, and sharing gate-level circuits without installing anything.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Isle FPGA Computer](https://github.com/projf/isle)** — Project F's build-it-yourself FPGA computer, developed chapter by chapter (display controller, bitmap graphics, 2D drawing, text mode, RISC-V CPU, I/O) with Verilog designs and companion software.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
