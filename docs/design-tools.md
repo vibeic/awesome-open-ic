@@ -108,8 +108,6 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiveHD](https://github.com/masc-ucsc/livehd)** — Live hardware development infrastructure from UC Santa Cruz with a language-neutral graph IR (LGraph) bridging HDLs, synthesis, and incremental flows.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[vhd2vl](https://github.com/ldoolitt/vhd2vl)** — Translator that converts synthesizable VHDL source into equivalent Verilog.
-  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[svls](https://github.com/dalance/svls)** — SystemVerilog language server built on sv-parser, providing diagnostics and IEEE 1800-2017 syntax checking to LSP-capable editors.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdlConvertor](https://github.com/Nic30/hdlConvertor)** — Verilog/VHDL parser, preprocessor, and code generator for C++ and Python built on an ANTLR4 grammar.
@@ -459,8 +457,6 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenVAF](https://github.com/arpadbuermen/OpenVAF)** — Verilog-A compiler that builds OSDI device models for SPICE simulators.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
-- **[osic-multitool](https://github.com/iic-jku/osic-multitool)** — Collection of helper scripts and documentation for the open IC design flow.
-  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[padring](https://github.com/donn/padring)** — Pad-ring generation tool for assembling chip I/O pad frames.
   `License: ISC` | `Last commit: 2021` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Palace](https://github.com/awslabs/palace)** — 3D finite-element solver for computational electromagnetics.

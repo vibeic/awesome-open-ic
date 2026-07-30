@@ -22,5 +22,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run awesome-lint
+      # Reads README.md only. Every entry lives in docs/*.md, so this step says
+      # nothing about them — see the next two steps and issue #84.
+      - name: Run awesome-lint (README.md)
         run: npx awesome-lint
+
+      # Prove the checker still rejects malformed input before trusting the
+      # clean run below. A gate whose predicates have quietly stopped firing
+      # produces the same green as one that works.
+      - name: Self-test docs checker
+        run: python3 tools/lint_docs.py --self-test
+
+      - name: Lint entry files (docs/*.md)
+        run: python3 tools/lint_docs.py --root .
