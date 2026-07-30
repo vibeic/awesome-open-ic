@@ -59,6 +59,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: GPL-3.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[TuRTLe](https://github.com/HPAI-BSC/TuRTLe)** — Unified evaluation framework from Barcelona Supercomputing Center that scores LLMs across RTL generation, completion, and repair tasks by integrating VerilogEval, RTLLM, and other benchmarks.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[HSCO-Bench](https://github.com/B07901087/hsco_bench)** — SoC benchmark from the Columbia System Level Design group for evaluating LLM agents on hardware-software co-design, with driver scripts that extract FPGA-measured performance, resource area, and API cost per task.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 

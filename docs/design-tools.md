@@ -572,6 +572,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_rtl_audit`*
 - **[HAL](https://github.com/emsec/hal)** — Gate-level netlist analysis framework with a plugin API and Python bindings, used for hardware reverse engineering and netlist inspection.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Degate](https://github.com/DegateCommunity/Degate)** — Cross-platform chip reverse-engineering tool that recovers gates, vias, wires, and netlists from images of decapsulated silicon layers; maintained continuation of the original degate project.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Hardware Description Languages
 

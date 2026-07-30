@@ -82,6 +82,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Toolchain Conventions](https://github.com/riscv-non-isa/riscv-toolchain-conventions)** — Documents the expected behaviour and supported command-line switches shared by GNU- and LLVM-based RISC-V toolchains, including `-march`/`-mabi` string rules.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Unified Database](https://github.com/riscv/riscv-unified-db)** — Machine-readable database of the RISC-V specification (instructions, CSRs, extensions, profiles, certificates) plus the generators that build documentation and other artifacts from it.
+  `License: BSD-3-Clause-Clear / MIT / CC0-1.0 (per REUSE.toml)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 
@@ -132,6 +134,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Free Accellera download (schemas + user guide)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[Portable Test and Stimulus Standard (PSS) — Accellera](https://accellera.org/downloads/standards/portable-stimulus)** — Single representation of stimulus and test scenarios reusable across simulation, emulation, FPGA prototyping, and post-silicon validation; PSS 3.0 LRM downloadable free from Accellera.
   `License: Free Accellera download (PSS 3.0 LRM)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[Open Verification Library (OVL) — Accellera](https://accellera.org/downloads/standards/ovl)** — Library of assertion checkers for checking design behaviour in simulation, emulation, and formal verification, distributed with the OVL V2 Library Reference Manual; current release 2.8.1.
+  `License: Free Accellera download (OVL 2.8.1)` | `Last commit: 2014 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Unified Coverage Interoperability Standard (UCIS) — Accellera](https://accellera.org/downloads/standards/ucis)** — API for exchanging verification coverage data between tools from different vendors so coverage can be merged and analysed in one methodology; UCIS 1.0 PDF downloadable free from Accellera.
+  `License: Free Accellera download (UCIS 1.0)` | `Last commit: 2012 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT & JTAG
 

@@ -54,6 +54,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[python-deltasigma](https://github.com/ggventurini/python-deltasigma)** — Python toolkit for the design, simulation, and analysis of delta-sigma modulators, a port of Richard Schreier's MATLAB Delta Sigma Toolbox.
   `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EEcircuit](https://github.com/eelab-dev/EEcircuit)** — Browser-based circuit simulator that runs ngspice compiled to WebAssembly locally in the browser, with WebGL plotting and CSV export of simulation results.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
