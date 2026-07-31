@@ -56,6 +56,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-2-Clause` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EEcircuit](https://github.com/eelab-dev/EEcircuit)** — Browser-based circuit simulator that runs ngspice compiled to WebAssembly locally in the browser, with WebGL plotting and CSV export of simulation results.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ADMS](https://github.com/Qucs/ADMS)** — Automatic device model synthesizer that transforms Verilog-AMS compact device models into ready-to-compile C code for SPICE simulator APIs, driven by XML transformation rules.
+  `License: GPL-3.0` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -160,6 +162,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DESESC](https://github.com/masc-ucsc/desesc)** — Cycle-accurate architectural simulator from the UC Santa Cruz MASC group, evolved from SESC and ESESC, using the Dromajo RISC-V emulator as its front end.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[McPAT](https://github.com/HewlettPackard/mcpat)** — Architecture-level power, area, and timing modeling framework for multicore and manycore processors, driven by XML machine descriptions and paired with performance simulators such as gem5.
+  `License: BSD-3-Clause (stated in source headers)` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

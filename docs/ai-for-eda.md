@@ -156,6 +156,18 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[awesome-AI4EDA](https://github.com/ai4eda/awesome-AI4EDA)** — Curated and continuously updated bibliography of AI-for-EDA papers, organized by design stage and published as a browsable webpage.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper list*
+- **[HiVeGen paper](https://arxiv.org/abs/2412.05393)** — Hierarchical LLM-based Verilog generation that decomposes a design into submodules, with design-space exploration and interactive error correction for domain-specific accelerators.
+  `License: arXiv preprint` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[DeepCircuitX paper](https://arxiv.org/abs/2502.18297)** — Repository-level RTL dataset with chain-of-thought annotations and PPA labels for training and evaluating LLMs on RTL understanding, generation, and completion.
+  `License: arXiv preprint` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[HWE-Bench paper](https://arxiv.org/abs/2604.14709)** — Repository-level benchmark of 417 real hardware bug-repair tasks drawn from open-source projects, scoring LLM agents through the projects' native simulation and validation flows.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[RTL-BenchMT paper](https://arxiv.org/abs/2605.15537)** — Agent-assisted framework that analyses and revises flawed cases in RTL-generation benchmarks and flags model overfitting to existing benchmark sets.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[HighTide paper](https://arxiv.org/abs/2606.04126)** — Agent-curated open-source VLSI benchmark suite that pairs diverse open hardware designs with agent skills and decision logs for the RTL-to-GDS flow.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[CHIA paper](https://arxiv.org/abs/2606.27350)** — Open-source framework for agentic AI-driven hardware/software co-design research that expresses design flows as directed cyclic graphs coordinating tools and agents.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 
 ## Bug-Fixing / Debug Agents
 

@@ -93,6 +93,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Accellera open spec` | `Last commit: 2013 (legacy)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[OmniXtend](https://github.com/chipsalliance/omnixtend)** — CHIPS Alliance specification for a cache-coherence protocol that carries TileLink coherence messages over standard Ethernet frames.
   `License: Apache-2.0` | `Last commit: 2025 (archived)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[AIB (Advanced Interface Bus) Specification](https://github.com/chipsalliance/AIB-specification)** — CHIPS Alliance released specification for a die-to-die parallel chiplet interface, covering AIB 1.2, AIB 2.0, AIB-3D, and a UCIe interoperability guide.
+  `License: OWFa 1.0 (open specification)` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## EDA File Formats
 
