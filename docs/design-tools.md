@@ -556,6 +556,10 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Quaigh](https://github.com/Coloquinte/quaigh)** — Rust library and command-line tool for logic optimization, technology mapping, equivalence checking, and stuck-at automatic test pattern generation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Semi-ATE](https://github.com/Semi-ATE/Semi-ATE)** — Tester- and instrument-agnostic Python framework for semiconductor ATE test projects, organizing tests into test-programs and flows with a Spyder IDE plugin.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenOCD](https://github.com/openocd-org/openocd)** — On-chip debugger that drives JTAG and SWD adapters for target debugging, in-system programming, and boundary-scan testing; the standard host-side tool for RISC-V and Arm core bring-up.
+  `License: GPL-2.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 
