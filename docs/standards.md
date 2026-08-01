@@ -151,6 +151,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Paywalled spec (IEEE)` | `Last commit: 2014 (inactive-reserved 2025; P1687 revision active)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[IEEE 1149.6-2015](https://standards.ieee.org/standard/1149_6-2015.html)** — Augments IEEE 1149.1 to boundary-scan test differential and AC-coupled interconnections between integrated circuits on boards and systems.
   `License: Paywalled spec (IEEE)` | `Last commit: 2015 (published 2016; inactive-reserved 2026)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Nexus Trace (N-Trace)](https://github.com/riscv-non-isa/riscv-nexus-trace)** — Working repository of the RISC-V Nexus Trace Task Group, holding the ratified 1.0 N-Trace, Trace Control, and Trace Connectors documents plus reference code for Nexus-style processor trace.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Power & Low-Power Intent
 

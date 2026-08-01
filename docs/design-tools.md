@@ -28,6 +28,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lstools-showcase](https://github.com/lsils/lstools-showcase)** — Worked examples and reference flows demonstrating the EPFL logic synthesis libraries (mockturtle, kitty, lorina, percy).
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Lighter](https://github.com/AUCOHL/Lighter)** — Automatic clock-gating utility that rewrites a synthesized netlist to insert clock-gating cells and reports the resulting dynamic-power reduction.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 
@@ -164,6 +166,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[svlangserver](https://github.com/imc-trading/svlangserver)** — SystemVerilog language server providing symbol indexing, navigation, completion, and Verilator-based diagnostics to LSP-capable editors.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sv-bugpoint](https://github.com/antmicro/sv-bugpoint)** — SystemVerilog test-case minimizer built on the slang front-end; it repeatedly removes syntax-tree fragments while a user-supplied script confirms the property of interest (such as a tool crash) still holds.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -339,6 +343,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tatum](https://github.com/verilog-to-routing/tatum)** — Block-based static timing analysis engine for digital circuits, used as the timing analyzer inside the VTR FPGA CAD flow.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[f4pga-sdf-timing](https://github.com/chipsalliance/f4pga-sdf-timing)** — Python library for parsing, editing, and emitting Standard Delay Format (SDF) timing-annotation files.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
@@ -356,6 +362,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MAGICAL](https://github.com/magical-eda/MAGICAL)** — Fully automated analog IC layout generation system that produces layouts directly from a netlist.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gdscheck](https://github.com/aesc-silicon/gdscheck)** — Design-rule-check engine for GDSII layouts written in Rust, with rule decks described in plain YAML and a parallelised geometry engine.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -383,6 +391,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Layout21](https://github.com/dan-fritchman/Layout21)** — Rust crate suite for custom IC layout with a ProtoBuf-based layered data model (raw geometric and gridded gate-array-style layout) plus GDSII and LEF parsers and generators.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lithosim](https://github.com/VLSIDA/lithosim)** — Lithography simulator that rasterizes layers from GDSII/OASIS via gdstk and applies Hopkins partially-coherent imaging with SOCS decomposition, Zernike aberrations, a lumped-parameter resist model, and pixel-based OPC.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -536,6 +546,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VHDL Style Guide (VSG)](https://github.com/jeremiah-c-leary/vhdl-style-guide)** — Style-guide and lint checker for VHDL that reports and automatically fixes coding-style violations.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vlog-Hammer](https://github.com/YosysHQ/VlogHammer)** — Verilog synthesis regression test that generates large numbers of small modules and cross-checks Yosys against vendor synthesis tools using the built-in Yosys SAT solver for equivalence.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Schematic Visualization
 

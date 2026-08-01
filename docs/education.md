@@ -161,3 +161,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Isle FPGA Computer](https://github.com/projf/isle)** — Project F's build-it-yourself FPGA computer, developed chapter by chapter (display controller, bitmap graphics, 2D drawing, text mode, RISC-V CPU, I/O) with Verilog designs and companion software.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP Analog Academy](https://github.com/IHP-GmbH/IHP-AnalogAcademy)** — IHP's analog certificate course on the SG13G2 130 nm open PDK using open-source tools; modules cover a bandgap reference, a 50 GHz medium power amplifier, EM simulation, mixed-signal analysis, and Monte Carlo scripting, with slides and hands-on exercises.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

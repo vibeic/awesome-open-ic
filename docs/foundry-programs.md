@@ -37,6 +37,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout tt-support-tools](https://github.com/TinyTapeout/tt-support-tools)** — Build and chip-integration scripts that harden, document, and assemble individual Tiny Tapeout designs into the shared multi-project shuttle.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout IHP Verilog template](https://github.com/TinyTapeout/ttihp-verilog-template)** — Submission template for Tiny Tapeout shuttles on the IHP SG13G2 open PDK, providing the `info.yaml` project manifest, Verilog source skeleton, test directory, docs, and GitHub Actions workflows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

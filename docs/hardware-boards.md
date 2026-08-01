@@ -138,6 +138,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — multi-protocol debug board*
 - **[Rowhammer Tester](https://github.com/antmicro/rowhammer-tester)** — LiteX-based FPGA platform for running Rowhammer and other DRAM reliability experiments on DDR3/DDR4/LPDDR4 memories.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Packetry](https://github.com/greatscottgadgets/packetry)** — USB 2.0 protocol analysis application for the ECP5-based Cynthion instrument, decoding and displaying captured bus traffic.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — USB test instrumentation*
 
 ## RF / SDR
 
