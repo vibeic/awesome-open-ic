@@ -177,6 +177,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyEDAA.OutputFilter](https://github.com/edaa-org/pyEDAA.OutputFilter)** — Python library for post-processing EDA tool logs, classifying messages and extracting warnings and errors for CI reporting.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.OSVVM](https://github.com/edaa-org/pyEDAA.OSVVM)** — Python parsers and data models for OSVVM's `*.pro` project files and YAML reports, converting them into pyEDAA.ProjectModel instances for build and regression tooling.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 

@@ -140,6 +140,12 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Packetry](https://github.com/greatscottgadgets/packetry)** — USB 2.0 protocol analysis application for the ECP5-based Cynthion instrument, decoding and displaying captured bus traffic.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — USB test instrumentation*
+- **[Data Center RDIMM DDR5 Tester](https://github.com/antmicro/rdimm-ddr5-tester)** — Open-hardware KiCad design for an FPGA-based platform that interfaces with RDIMM DDR5 memory modules; revision 2.x is built around an AMD Artix UltraScale+ FPGA and works with the Rowhammer Tester suite.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
+- **[SO-DIMM DDR5 Tester](https://github.com/antmicro/sodimm-ddr5-tester)** — Open-hardware KiCad platform built around a Xilinx Kintex-7 FPGA for interfacing with SO-DIMM DDR5 modules, also usable with single LPDDR5 devices through adapter testbeds.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
+- **[LPDDR4 Testbed](https://github.com/antmicro/lpddr4-testbed)** — Open-hardware KiCad test module that break-routes a 200-ball WFBGA LPDDR4 footprint onto a SO-DIMM edge connector for use with Antmicro's LPDDR4 FPGA test platform.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
 
 ## RF / SDR
 
