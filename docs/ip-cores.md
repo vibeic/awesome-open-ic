@@ -543,6 +543,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CORE-ET Agentic Silicon Platform](https://github.com/openhwgroup/core-et)** — OpenHW Group IP catalog that rewrites source IP into lowRISC-style SystemVerilog with per-IP documentation, explicit parameters, technology primitives, and unit tests for FPGA and ASIC integration.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TeraNoC](https://github.com/pulp-platform/TeraNoC)** — Hybrid mesh–crossbar core-to-L1 network-on-chip from the PULP platform, designed to scale manycore clusters that share multi-megabyte L1 scratchpad memory.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

@@ -94,6 +94,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyUCIS Viewer](https://github.com/fvutils/pyucis-viewer)** — Qt-based graphical viewer for UCIS functional-coverage databases, built on the PyUCIS library.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Coverview](https://github.com/antmicro/coverview)** — Language-agnostic coverage dashboard generator from Antmicro; line-oriented but able to display several declared coverage types, usable for SystemVerilog RTL as well as C and Python.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 
@@ -144,6 +146,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenSMT](https://github.com/usi-verification-and-security/opensmt)** — SMT solver from USI Lugano supporting bit-vectors, arrays, and linear arithmetic, with interpolation features used in SMT-based model checking.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[smt-switch](https://github.com/stanford-centaur/smt-switch)** — Generic C++ API that abstracts over multiple SMT solvers through a common set of classes; used as the solver layer by the Pono hardware model checker.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

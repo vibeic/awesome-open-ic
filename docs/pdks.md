@@ -106,6 +106,10 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: ECL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pycell4klayout-api](https://github.com/IHP-GmbH/pycell4klayout-api)** — Python library from IHP that supports the PyCell parameterized-device API under KLayout, used to build PDK PCell libraries.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_klayout_pdk](https://github.com/efabless/sky130_klayout_pdk)** — eFabless KLayout package for SkyWater sky130: technology and connectivity description, layer colour and DEF/LEF mapping files, DRC and LVS decks, and PCell device generators.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[skywater130 (gdsfactory PDK)](https://github.com/gdsfactory/skywater130)** — SkyWater sky130 process design kit packaged for the gdsfactory layout framework, with parametric cells and CI-run DRC and compact-model regression checks.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
