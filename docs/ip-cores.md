@@ -435,6 +435,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UberDDR3](https://github.com/AngeloJacobo/UberDDR3)** — Open-source DDR3 SDRAM controller in Verilog with an optional AXI4 interface and a packaged Xilinx Vivado custom IP.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rocket Chip Inclusive Cache](https://github.com/chipsalliance/rocket-chip-inclusive-cache)** — RTL generator for a coherent last-level inclusive cache controller that acts as a TileLink adapter and drops in as a replacement for Rocket Chip's broadcast coherence manager.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
