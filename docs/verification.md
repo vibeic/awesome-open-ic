@@ -96,6 +96,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Coverview](https://github.com/antmicro/coverview)** — Language-agnostic coverage dashboard generator from Antmicro; line-oriented but able to display several declared coverage types, usable for SystemVerilog RTL as well as C and Python.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyEDAA.UCIS](https://github.com/edaa-org/pyEDAA.UCIS)** — Python data model for the Accellera Unified Coverage Interoperability Standard with converters that read simulator coverage databases and emit UCIS XML for merging and reporting.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 

@@ -138,6 +138,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[phoeniX](https://github.com/phoeniX-Digital-Design/phoeniX)** — Partially reconfigurable RV32I/EM core in Verilog that lets approximate arithmetic circuits be swapped into the datapath to trade accuracy against latency and power.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RVX](https://github.com/rafaelcalcada/rvx)** — RV32I microcontroller IP in Verilog bundling memory, timer, UART, GPIO, and SPI, targeted at embedded, FPGA, and ASIC integration and able to run bare-metal software or FreeRTOS.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -327,6 +329,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[jh_APLIC](https://github.com/jhauser-us/jh_APLIC)** — SystemVerilog implementation of a RISC-V Advanced Platform-Level Interrupt Controller conforming to the Advanced Interrupt Architecture specification, written by the author of that specification.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_UART](https://github.com/efabless/EF_UART)** — Configurable UART soft IP supporting 5-to-9 data bits, parity and stop-bit selection, line-break detection, an RX glitch filter, and 16-byte TX/RX FIFOs with programmable thresholds.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_GPIO8](https://github.com/efabless/EF_GPIO8)** — Eight-bit bidirectional GPIO peripheral with input synchronizers, edge detectors, per-pin direction control, and edge/level interrupts, shipped with AHB-Lite, APB, and Wishbone wrappers.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_TMR32](https://github.com/efabless/EF_TMR32)** — 32-bit timer and dual-channel PWM generator with a 32-bit prescaler, up/down counting, one-shot and periodic modes, configurable PWM dead time, and fault handling.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -545,6 +553,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TeraNoC](https://github.com/pulp-platform/TeraNoC)** — Hybrid mesh–crossbar core-to-L1 network-on-chip from the PULP platform, designed to scale manycore clusters that share multi-megabyte L1 scratchpad memory.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Safety Island](https://github.com/pulp-platform/safety_island)** — Real-time subsystem for the PULP Carfield SoC built around a triple-core lockstep CV32RT core and two memory banks, with AXI input and output ports and an optional CDC/synchronizer wrapper.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

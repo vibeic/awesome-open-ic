@@ -98,3 +98,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RTLMeter](https://github.com/verilator/rtlmeter)** — Benchmark suite from the Verilator project that measures simulator build and run performance across a curated set of real open-source RTL designs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Common Evaluation Platform (CEP)](https://github.com/mit-ll/CEP)** — MIT Lincoln Laboratory reference SoC built on the Chipyard framework from license-unencumbered components, bundling crypto and DSP accelerator cores with bare-metal and simulation test suites as a shared evaluation target.
+  `License: BSD-2-Clause` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
