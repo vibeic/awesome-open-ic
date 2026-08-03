@@ -84,6 +84,12 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Unified Database](https://github.com/riscv/riscv-unified-db)** — Machine-readable database of the RISC-V specification (instructions, CSRs, extensions, profiles, certificates) plus the generators that build documentation and other artifacts from it.
   `License: BSD-3-Clause-Clear / MIT / CC0-1.0 (per REUSE.toml)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V CoVE (AP-TEE) Specification](https://github.com/riscv-non-isa/riscv-ap-tee)** — Non-ISA specification from the RISC-V AP-TEE task group defining the interfaces for the Confidential VM Extension (CoVE) confidential-computing architecture on application-processor platforms.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Server Platform Specification](https://github.com/riscv-non-isa/riscv-server-platform)** — Specification of the hardware and software capabilities a RISC-V server platform must provide so that portable operating systems and hypervisors can rely on them.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Semihosting Specification](https://github.com/riscv-non-isa/riscv-semihosting)** — Non-ISA specification defining how code running on a RISC-V target requests I/O and other services from a debug host, using the EBREAK-based semihosting call sequence.
+  `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

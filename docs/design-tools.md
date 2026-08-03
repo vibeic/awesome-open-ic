@@ -260,6 +260,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ECOS Studio](https://github.com/openecos-projects/ecos-studio)** — Desktop RTL-to-GDS design environment that integrates Yosys synthesis, ECC-Tools place-and-route, and KLayout visualization with the ICsprout 55 nm open PDK.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Interact](https://github.com/asyncvlsi/interact)** — Command-line design environment for asynchronous logic that scripts the ACT toolchain across synthesis, simulation, and physical-design steps.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -279,6 +281,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Mt-KaHyPar](https://github.com/kahypar/mt-kahypar)** — Shared-memory parallel multilevel graph and hypergraph partitioner with direct k-way and recursive-bisection algorithms and a Steiner-tree metric for modeling VLSI wire lengths.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KaHyPar](https://github.com/kahypar/kahypar)** — Sequential n-level hypergraph partitioning framework with direct k-way and recursive-bisection algorithms; the single-threaded predecessor of Mt-KaHyPar used for circuit partitioning.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 

@@ -150,6 +150,19 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[smt-switch](https://github.com/stanford-centaur/smt-switch)** — Generic C++ API that abstracts over multiple SMT solvers through a common set of classes; used as the solver layer by the Pono hardware model checker.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MiniSat](https://github.com/niklasso/minisat)** — Minimal CDCL SAT solver by Niklas Eén and Niklas Sörensson; the reference implementation that most later SAT engines and SAT-based EDA back-ends derive from.
+  `License: MIT` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Decision Diagram Libraries
+
+Binary decision diagram (BDD) packages used as the symbolic back-end for equivalence checking, reachability analysis, and logic synthesis.
+
+- **[Sylvan](https://github.com/trolando/sylvan)** — Multi-core BDD and multi-terminal decision diagram library with parallel operations built on a work-stealing task framework.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Adiar](https://github.com/ssoelvsten/adiar)** — I/O-efficient BDD and zero-suppressed decision diagram library that streams diagrams through external memory, so decision diagrams larger than RAM can still be manipulated.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OxiDD](https://github.com/OxiDD/oxidd)** — Concurrent decision diagram framework written in Rust, supporting BDDs, zero-suppressed BDDs and multi-terminal BDDs with C, C++ and Python bindings.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 

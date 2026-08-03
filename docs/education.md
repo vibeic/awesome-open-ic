@@ -43,6 +43,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[NPTEL — CAD for VLSI Design I (IIT Madras)](https://nptel.ac.in/courses/106106088)** — Prof. V. Kamakoti and Prof. Shankar Balachandran. Free NPTEL video course on VLSI CAD algorithms: logic synthesis, placement, routing, and physical design automation.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Coursera — VLSI CAD Part II: Layout (UIUC)](https://www.coursera.org/learn/vlsi-cad-layout)** — Rob Rutenbar's sequel to VLSI CAD Part I, covering technology mapping, ASIC placement, maze routing, and static timing analysis; free audit.
+  `License: Free audit, paid certificate` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## University Open Courseware
 
