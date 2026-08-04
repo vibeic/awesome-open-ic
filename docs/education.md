@@ -64,6 +64,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (Cornell)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ETH Zurich — Digital Design and Computer Architecture (SAFARI)](https://safari.ethz.ch/digitaltechnik/spring2025/doku.php)** — Onur Mutlu's ETH Zurich undergraduate course with freely available lecture videos, slides, and Verilog/FPGA lab materials.
   `License: Open courseware (ETH Zurich)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[MIT OCW 6.884 — Complex Digital Systems](https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/)** — Graduate project course on designing multi-million-gate CMOS VLSI chips with high-level synthesis, with a six-lecture Bluespec sequence, a Bluespec tutorial, and labs including a network linecard model.
+  `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2005 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Free Books
 

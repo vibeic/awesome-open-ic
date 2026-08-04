@@ -90,6 +90,12 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Semihosting Specification](https://github.com/riscv-non-isa/riscv-semihosting)** — Non-ISA specification defining how code running on a RISC-V target requests I/O and other services from a debug host, using the EBREAK-based semihosting call sequence.
   `License: CC-BY-SA-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V IOPMP Specification](https://github.com/riscv-non-isa/riscv-iopmp)** — Specification for an I/O Physical Memory Protection unit that regulates the memory accesses issued by bus masters such as DMA engines and other I/O devices.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Server SoC Specification](https://github.com/riscv-non-isa/riscv-server-soc)** — Draft non-ISA specification from the Server SoC task group defining the SoC-level hardware requirements a RISC-V server chip must meet; distinct from the Server Platform specification.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V BRS Specification](https://github.com/riscv-non-isa/riscv-brs)** — Boot and Runtime Services specification stating the requirements a platform must satisfy for operating systems to perform device discovery, system management, and boot on RISC-V hardware.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

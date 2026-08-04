@@ -148,6 +148,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
 - **[LPDDR4 Testbed](https://github.com/antmicro/lpddr4-testbed)** — Open-hardware KiCad test module that break-routes a 200-ball WFBGA LPDDR4 footprint onto a SO-DIMM edge connector for use with Antmicro's LPDDR4 FPGA test platform.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
+- **[Red Pitaya](https://github.com/RedPitaya/RedPitaya)** — Zynq-based open instrumentation platform used as an oscilloscope, signal generator, and spectrum analyzer; the repository carries the FPGA sources alongside the applications and OS tooling.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — instrumentation*
 
 ## RF / SDR
 
