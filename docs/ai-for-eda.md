@@ -61,6 +61,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[HSCO-Bench](https://github.com/B07901087/hsco_bench)** — SoC benchmark from the Columbia System Level Design group for evaluating LLM agents on hardware-software co-design, with driver scripts that extract FPGA-measured performance, resource area, and API cost per task.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FVEval](https://github.com/NVlabs/FVEval)** — NVIDIA benchmark for evaluating LLMs on hardware formal verification, covering natural-language-to-SystemVerilog-assertion generation and design-to-assertion tasks; the full flow drives a commercial formal tool.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 
