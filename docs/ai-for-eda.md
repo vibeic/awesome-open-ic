@@ -46,6 +46,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[Gamora](https://github.com/Yu-Maryland/Gamora)** — Graph-neural-network framework for symbolic reasoning over large-scale Boolean networks, trained to label adder structures in gate-level And-Inverter Graphs (DAC'23).
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[AiEDA](https://github.com/OSCC-Project/AiEDA)** — AI-native EDA library that orchestrates iEDA-backed design flows and extracts vectorized design data (RTL-to-vector-to-GDS) through standardized Python APIs, for building AI-EDA task baselines.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -61,6 +63,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[HSCO-Bench](https://github.com/B07901087/hsco_bench)** — SoC benchmark from the Columbia System Level Design group for evaluating LLM agents on hardware-software co-design, with driver scripts that extract FPGA-measured performance, resource area, and API cost per task.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTL-BenchLS](https://github.com/hkust-zhiyao/RTL-BenchLS)** — Large-scale benchmark of 10,028 formally-verified Verilog designs with three self-supervised tasks — round-trip reasoning, masked-content reasoning, and repository-issue reasoning — all checked by sequential/logic equivalence rather than hand-written testbenches.
+  `License: CC-BY-4.0 (data) / MIT (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## Datasets
 

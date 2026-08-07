@@ -125,6 +125,10 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tt-gds-action](https://github.com/TinyTapeout/tt-gds-action)** — GitHub Action that hardens a Tiny Tapeout user project to GDS with LibreLane and publishes the signoff artifacts.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout breakout PCBs](https://github.com/TinyTapeout/breakout-pcb)** — Keyed breakout board that hosts a Tiny Tapeout chip and lets it be moved onto other host or demo PCBs, with socket adapters and "ASIC simulator" FPGA board variants.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
+- **[TinyTapeout Demo Board](https://github.com/TinyTapeout/tt-demo-pcb)** — Demonstration PCB for Tiny Tapeout ASICs with DIP switches, a 7-segment display, PMOD extension headers, an on-board RP2, and a 100-mil header exposing analog/mixed-signal IO since TT06.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
 
 ## Test & Measurement Boards (FPGA-based)
 

@@ -335,6 +335,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EF_TMR32](https://github.com/efabless/EF_TMR32)** — 32-bit timer and dual-channel PWM generator with a 32-bit prescaler, up/down counting, one-shot and periodic modes, configurable PWM dead time, and fault handling.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AOU-RTL](https://github.com/tenstorrent/aou-rtl)** — AXI-over-UCIe bridge IP bridging AXI4 traffic over the UCIe 3.0 Flit-Die Interface, with turn-key and core-only top-level integration options plus an APB3 configuration port, from Tenstorrent.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

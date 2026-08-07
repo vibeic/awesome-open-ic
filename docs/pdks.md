@@ -81,6 +81,8 @@ Synthesizable standard cell libraries — the digital building blocks that map t
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_osu_sc_t18](https://github.com/stineje/sky130_osu_sc_t18)** — Oklahoma State University 18-track standard cell library for SKY130, the tallest member of the OSU t12/t15/t18 family.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130RHBDlib](https://github.com/stineje/sky130RHBDlib)** — Oklahoma State University radiation-hardened-by-design (RHBD) standard cell library for SKY130, with the parasitic extraction, characterization, synthesis and place-and-route files needed to interface with the open-source flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## PDK Tooling
 
