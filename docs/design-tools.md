@@ -285,6 +285,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[KaHyPar](https://github.com/kahypar/kahypar)** — Sequential n-level hypergraph partitioning framework with direct k-way and recursive-bisection algorithms; the single-threaded predecessor of Mt-KaHyPar used for circuit partitioning.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RePlAce](https://github.com/The-OpenROAD-Project/RePlAce)** — Electrostatics-based analytic global placer for standard-cell designs, released standalone before the engine was folded into the OpenROAD tree.
+  `License: BSD-3-Clause` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -338,6 +340,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyFPGA](https://github.com/PyFPGA/pyfpga)** — Python package that drives FPGA vendor and open-source toolchains programmatically, generating and running synthesis, implementation, and programming steps from a script.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TaPaSCo](https://github.com/esa-tu-darmstadt/tapasco)** — Task Parallel System Composer from TU Darmstadt: assembles HLS- or HDL-authored processing elements into a complete FPGA system, wiring the host and memory interfaces and building the bitstream.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -651,3 +655,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kratos](https://github.com/Kuree/kratos)** — Hardware design language with a Python front-end and C++ core that emits readable Verilog and keeps source-level debug information for the hgdb debugger.
   `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Blarney](https://github.com/blarney-lang/blarney)** — Haskell library for hardware description that layers HDL abstractions over a small set of pure functional circuit primitives, in the tradition of Lava.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

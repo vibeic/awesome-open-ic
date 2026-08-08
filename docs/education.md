@@ -90,6 +90,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Circuit Designers' Etiquette](https://github.com/iic-jku/Circuit-Designers-Etiquette)** — Collected rules and recommendations for analog and digital circuit designers, maintained by the Institute for Integrated Circuits at JKU Linz.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Parallel Programming for FPGAs](https://github.com/KastnerRG/pp4fpgas)** — Open-source high-level-synthesis textbook by Kastner, Matai and Neuendorffer, used as the primary reference for UCSD CSE 237C; LaTeX source plus a pre-built PDF.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 

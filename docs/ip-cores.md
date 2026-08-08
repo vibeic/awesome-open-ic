@@ -58,6 +58,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Greyhound](https://github.com/mole99/greyhound-ihp)** — RISC-V SoC with a tightly coupled FABulous eFPGA, taped out on the IHP SG13G2 130nm BiCMOS open-source PDK using open-source EDA tools.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CHERIoT-SAFE](https://github.com/microsoft/cheriot-safe)** — FPGA platform for the CHERIoT capability-based security architecture, pairing a CHERIoT-enabled Ibex or Kudu core with RISC-V debug modules, TCM memories, an AXI fabric, and peripherals.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -414,6 +416,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[INT_FP_MAC](https://github.com/erihsu/INT_FP_MAC)** — Multiply-accumulate unit supporting both INT8 and FP16 operands, delivered with a UVM verification environment.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[N-EUREKA](https://github.com/pulp-platform/neureka)** — Neural processing engine for PULP clusters handling 2- to 8-bit weights and 8-bit activations, shipped as RTL with a golden model, microcode, and a regression suite.
+  `License: SHL-0.51 (hardware) / Apache-2.0 (software)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -561,6 +565,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Safety Island](https://github.com/pulp-platform/safety_island)** — Real-time subsystem for the PULP Carfield SoC built around a triple-core lockstep CV32RT core and two memory banks, with AXI input and output ports and an optional CDC/synchronizer wrapper.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SOFA](https://github.com/lnis-uofu/SOFA)** — Family of embedded FPGA IPs generated with OpenFPGA on the SkyWater 130 nm PDK, shipping architecture description files, fabrication-ready GDSII layouts, post-layout Verilog netlists, and per-IP datasheets.
+  `License: MIT` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
