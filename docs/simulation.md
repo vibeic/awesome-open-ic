@@ -164,6 +164,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[McPAT](https://github.com/HewlettPackard/mcpat)** — Architecture-level power, area, and timing modeling framework for multicore and manycore processors, driven by XML machine descriptions and paired with performance simulators such as gem5.
   `License: BSD-3-Clause (stated in source headers)` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GEM](https://github.com/NVlabs/GEM)** — GPU-accelerated RTL logic simulator from NVIDIA Research that synthesizes a design into an and-inverter graph and maps it onto a virtual manycore Boolean processor emulated with CUDA.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Banshee](https://github.com/pulp-platform/banshee)** — Binary-translation-based, instruction-accurate RISC-V simulator for PULP manycore systems such as Snitch clusters and MemPool.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -204,4 +208,6 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 - **[openems_ihp_sg13g2](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)** — openEMS-based electromagnetic simulation workflow for RFIC structures in the IHP SG13G2 open-source PDK.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gds2palace_ihp_sg13g2](https://github.com/VolkerMuehlhaus/gds2palace_ihp_sg13g2)** — Converts GDSII layout into AWS Palace electromagnetic models for RFIC simulation on the IHP SG13G2 process.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MEOW](https://github.com/gdsfactory/meow)** — Python eigenmode-expansion (EME) solver that computes modes and overlaps in photonic waveguides, with optional gdsfactory integration.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

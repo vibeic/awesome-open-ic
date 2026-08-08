@@ -10,6 +10,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)** — Machine-readable tables of RISC-V instruction encodings used to generate decoders, assemblers, and documentation across the toolchain.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V J Extension](https://github.com/riscv/riscv-j-extension)** — Working draft of the RISC-V J extension specification, which targets languages that are interpreted or JIT compiled and that rely on garbage collection, dynamic typing, and dynamic dispatch.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## On-chip Buses
 
@@ -120,6 +122,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[AIGER](https://github.com/arminbiere/aiger)** — Format specification, reference C library, and conversion utilities for And-Inverter Graphs, the interchange format used by logic-synthesis and hardware model-checking tools.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[pyEDAA.IPXACT](https://github.com/edaa-org/pyEDAA.IPXACT)** — Python document object model for IEEE 1685 IP-XACT that validates files against the Accellera XML schemas, extracts filesets from components, and generates IP-XACT catalogs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Languages
 

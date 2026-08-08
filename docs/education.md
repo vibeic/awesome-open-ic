@@ -88,6 +88,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC-BY-SA-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Systematic Design of Analog CMOS Circuits — ancillary material](https://github.com/bmurmann/Book-on-gm-ID-design)** — Boris Murmann's companion repository for the gm/ID-based analog design book, with lookup-table generation scripts and worked examples in Python and MATLAB.
   `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Circuit Designers' Etiquette](https://github.com/iic-jku/Circuit-Designers-Etiquette)** — Collected rules and recommendations for analog and digital circuit designers, maintained by the Institute for Integrated Circuits at JKU Linz.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
@@ -167,3 +169,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Analog Academy](https://github.com/IHP-GmbH/IHP-AnalogAcademy)** — IHP's analog certificate course on the SG13G2 130 nm open PDK using open-source tools; modules cover a bandgap reference, a 50 GHz medium power amplifier, EM simulation, mixed-signal analysis, and Monte Carlo scripting, with slides and hands-on exercises.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ihp-sg13g2-ams-chip-template](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template)** — Analog mixed-signal chip design template and tutorial for the IHP SG13G2 open PDK, from the Institute for Integrated Circuits at JKU Linz.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

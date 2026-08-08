@@ -81,6 +81,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: SHL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tvip-apb](https://github.com/taichi-ishitani/tvip-apb)** — UVM verification IP for the AMBA APB protocol, providing a master agent with driver, monitor, sequencer, and register-abstraction-layer adapter.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UVM with Verilator example](https://github.com/antmicro/verilator-uvm-example)** — Reference project from Antmicro showing how to build and run an Accellera UVM testbench on top of Verilator.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

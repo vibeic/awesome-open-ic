@@ -237,6 +237,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[f4pga-arch-defs](https://github.com/f4pga/f4pga-arch-defs)** — Open architecture definitions of FPGA hardware, used to generate the device databases that place-and-route tools need.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EqMap](https://github.com/cornell-zhang/eqmap)** — Verilog-to-Verilog FPGA LUT technology mapper that applies e-graph equality saturation to cut selection, from the ICCAD 2025 paper.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -397,6 +399,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lithosim](https://github.com/VLSIDA/lithosim)** — Lithography simulator that rasterizes layers from GDSII/OASIS via gdstk and applies Hopkins partially-coherent imaging with SOCS decomposition, Zernike aberrations, a lumped-parameter resist model, and pixel-based OPC.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ArtistIC](https://github.com/pulp-platform/artistic)** — PULP Platform toolchain that translates artwork into top-metal layers of a GDSII and renders layout files at high fidelity for chip posters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -561,6 +565,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[d3-hwschematic](https://github.com/Nic30/d3-hwschematic)** — JavaScript schematic visualizer based on D3.js and the ELK layout engine that renders interactive hardware schematics in the browser.
   `License: EPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Xschem Viewer](https://github.com/TinyTapeout/xschem-viewer)** — Browser-based viewer for Xschem schematic files, from the Tiny Tapeout project, that displays a schematic without a local Xschem installation.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

@@ -36,6 +36,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ICsprout55 (ICS55)](https://github.com/openecos-projects/icsprout55-pdk)** — 55 nm CMOS open-source PDK released by ICsprout Integrated Circuit Co., paired with the ECOS Studio RTL-to-GDS environment.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[QPDK](https://github.com/gdsfactory/quantum-rf-pdk)** — Process design kit for superconducting quantum RF circuits built on gdsfactory, with a parametric component library, DRC workflow, and generated documentation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
