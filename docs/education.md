@@ -173,3 +173,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ihp-sg13g2-ams-chip-template](https://github.com/iic-jku/ihp-sg13g2-ams-chip-template)** — Analog mixed-signal chip design template and tutorial for the IHP SG13G2 open PDK, from the Institute for Integrated Circuits at JKU Linz.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[VSRTL](https://github.com/mortbopet/VSRTL)** — Framework for visually simulating register-transfer-level circuits, pairing a C++ component library with an interactive schematic view; it is the simulation and visualization framework used by the Ripes processor simulator.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
