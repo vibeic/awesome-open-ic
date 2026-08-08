@@ -168,6 +168,12 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Banshee](https://github.com/pulp-platform/banshee)** — Binary-translation-based, instruction-accurate RISC-V simulator for PULP manycore systems such as Snitch clusters and MemPool.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HotSpot](https://github.com/uvahotspot/HotSpot)** — Compact thermal model from the University of Virginia that computes steady-state and transient temperature maps for a chip floorplan from per-block power traces.
+  `License: Custom (BSD-3-Clause-like)` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DRAMPower](https://github.com/tukl-msd/DRAMPower)** — DRAM power and energy estimation library that derives per-command energy from JEDEC memory specifications and a command trace.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Olympia](https://github.com/riscv-software-src/riscv-perf-model)** — Trace-driven out-of-order superscalar RISC-V CPU performance model in C++ built on the Sparta modeling framework, maintained under RISC-V International.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
