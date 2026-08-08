@@ -1,0 +1,60 @@
+You are running ONE automated daily enrichment round for the "Awesome Open IC"
+curated list (github.com/vibeic/awesome-open-ic). Your current working directory
+IS a clean checkout of that repo on a fresh branch created from origin/main.
+
+Your ONLY job: ADD new, real, verified open-source entries to the docs/*.md
+category files. The wrapper script handles git, the README count, validation,
+and the pull request. So:
+  - DO NOT run any git command, DO NOT push, DO NOT open a PR.
+  - DO NOT edit README.md (the script recomputes the headline count).
+  - Only edit files under docs/.
+
+GOAL: add 8-15 high-quality NEW entries total, spread across whichever
+categories have the best real gaps today. Quality over quantity — if you can
+only verify fewer genuinely notable projects, add fewer. Never pad to a number.
+
+CRITICAL — evidence-based, ZERO hallucination (this is a hard rule):
+- Every entry MUST be a real project you verify THIS run. Never invent a repo,
+  a license, or a date.
+- GitHub repos — verify with:
+    gh repo view <owner>/<repo> --json nameWithOwner,licenseInfo,pushedAt,isArchived,url
+  * licenseInfo.spdxId -> the SPDX string. If it is NOASSERTION/null/"other",
+    read the LICENSE file:
+      gh api repos/<owner>/<repo>/contents/LICENSE -q .content | base64 -d | head -40
+    and name the license explicitly. If you cannot determine it, DROP the entry.
+  * pushedAt -> `Last commit: <year>`.
+  * If `gh repo view` ERRORS, the repo does not exist at that path -> DROP it
+    (do not guess another URL).
+  * If isArchived is true AND last commit > 2 years ago, DROP unless it is a
+    canonical, still-cited reference (then write `Last commit: <year> (widely used)`).
+- Non-GitHub resources (arXiv papers, foundation/standards-body sites, course
+  pages) — use WebFetch to confirm the URL returns HTTP 200 and that your
+  description matches the page. If you cannot confirm, DROP it.
+
+QUALITY CRITERIA (all must hold): OSI/open-spec license (Apache/BSD/MIT/GPL/
+LGPL/CC-BY/EUPL/CERN-OHL); maintained within 2 years OR a canonical widely-used
+reference; working canonical URL (the upstream project, not a fork/mirror);
+clear SPDX license; directly relevant to IC design.
+
+DEDUP: read /tmp/aoi_existing_urls.txt FIRST — it lists every URL already in the
+list on origin/main AND in other currently-open enrich branches. Skip anything
+already there, and skip near-duplicates (same project, different URL). Also read
+the target docs file before appending so you don't repeat an entry.
+
+FORMAT — match EXACTLY, two lines per entry, GREY badge ONLY (never the green
+MCP-wrapped badge — none of your additions are MCP-wrapped):
+- **[Name](https://github.com/owner/repo)** — Short factual one-sentence description (US English, no marketing words such as "powerful", "amazing", "best").
+  `License: <SPDX>` | `Last commit: <year>` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+RULES:
+- ADD ONLY. Never modify, reorder, or delete an existing line or heading.
+- Append each bullet under the most appropriate existing `## sub-section`. You
+  MAY add a new `## sub-section` (match the file's existing heading style) only
+  if you have 3+ verified entries that fit no existing sub-section.
+- Categories live in docs/: design-tools, ip-cores, pdks, verification,
+  simulation, standards, foundry-programs, benchmarks, ai-for-eda, communities,
+  education, hardware-boards.
+
+When finished, print a one-line-per-entry summary in the form
+  `Name | SPDX | year | docs/<file> | sub-section`
+then a final line `ADDED: <N>`. Keep it terse — no long prose.
