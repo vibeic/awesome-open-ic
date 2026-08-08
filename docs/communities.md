@@ -29,6 +29,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Non-profit organization` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 - **[CERN Open Hardware Repository (OHWR)](https://ohwr.org/)** — CERN-hosted platform for collaborative development of open hardware and home of the CERN Open Hardware Licence (CERN-OHL); hosts projects such as Wishbone and White Rabbit.
   `License: CERN project (CERN-OHL)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
+- **[RISE Project](https://riseproject.dev/)** — Linux Foundation project run in partnership with RISC-V International to accelerate open-source software readiness for RISC-V silicon across mobile, consumer, datacenter, and automotive segments.
+  `License: Linux Foundation project` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 
 ## Conferences
 

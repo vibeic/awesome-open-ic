@@ -10,6 +10,10 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Open PDK (ihp-sg13g2)](https://github.com/IHP-GmbH/IHP-Open-PDK)** — IHP 130 nm SiGe BiCMOS open PDK with HBT transistors. RF / mixed-signal friendly.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[C4M sky130 PDK](https://gitlab.com/Chips4Makers/c4m-pdk-sky130)** — Chips4Makers' PDKMaster-based description of the SkyWater sky130 process, generating its own cell and I/O libraries; development is driven by sky130 MPW shuttle runs.
+  `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[C4M SG13G2 PDK](https://gitlab.com/Chips4Makers/c4m-pdk-ihpsg13g2)** — Chips4Makers' PDKMaster-based description of the IHP 130 nm SiGe BiCMOS SG13G2 process, covering the technology definition, generated I/O pad cells, and a KLayout technology export.
+  `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Academic / Educational PDKs
 
@@ -110,6 +114,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[skywater130 (gdsfactory PDK)](https://github.com/gdsfactory/skywater130)** — SkyWater sky130 process design kit packaged for the gdsfactory layout framework, with parametric cells and CI-run DRC and compact-model regression checks.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PDKMaster](https://gitlab.com/Chips4Makers/PDKMaster)** — Python framework from Chips4Makers for describing a process technology once and generating the PDK views from that description, with companion `pdkmaster-io-*` exporters for KLayout, SPICE, LEF/DEF and Coriolis.
+  `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

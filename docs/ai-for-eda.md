@@ -46,6 +46,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[Gamora](https://github.com/Yu-Maryland/Gamora)** — Graph-neural-network framework for symbolic reasoning over large-scale Boolean networks, trained to label adder structures in gate-level And-Inverter Graphs (DAC'23).
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[ArchGym](https://github.com/srivatsankrishnan/oss-arch-gym)** — OpenAI Gym interface for ML-driven architecture design-space exploration, pairing five search algorithms (ACO, GA, Bayesian optimization, RL, random walk) with simulator environments built on DRAMSys, Timeloop, FARSI, and Maestro.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
