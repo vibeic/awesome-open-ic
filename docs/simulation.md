@@ -98,6 +98,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fliplot](https://github.com/raczben/fliplot)** — Browser-based VCD waveform viewer written in HTML and JavaScript, runnable locally or served from a web page.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VCDrom](https://github.com/wavedrom/vcdrom)** — Standalone VCD viewer packaged as a progressive web app, built from the WaveDrom project's VCD parsing and rendering libraries.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
@@ -174,6 +176,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Olympia](https://github.com/riscv-software-src/riscv-perf-model)** — Trace-driven out-of-order superscalar RISC-V CPU performance model in C++ built on the Sparta modeling framework, maintained under RISC-V International.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CACTI](https://github.com/HewlettPackard/cacti)** — Analytical model that estimates access time, cycle time, area, leakage, and dynamic power for caches and memories, including 3D-stacked DRAM and off-chip I/O.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Or1ksim](https://github.com/openrisc/or1ksim)** — Instruction-level simulator for the OpenRISC 1000 architecture that models the CPU together with a range of peripherals, so complete systems can be booted and debugged.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

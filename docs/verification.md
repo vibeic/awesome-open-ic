@@ -56,6 +56,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotb-vivado](https://github.com/themperek/cocotb-vivado)** — Python interface that lets cocotb testbenches drive the AMD/Xilinx Vivado simulator.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pysv](https://github.com/Kuree/pysv)** — Library that generates the C/C++ and SystemVerilog DPI binding code needed to call Python functions and classes — including modules such as numpy — from a SystemVerilog simulation.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -158,6 +160,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MiniSat](https://github.com/niklasso/minisat)** — Minimal CDCL SAT solver by Niklas Eén and Niklas Sörensson; the reference implementation that most later SAT engines and SAT-based EDA back-ends derive from.
   `License: MIT` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Glucose](https://github.com/audemard/glucose)** — CDCL SAT solver built on MiniSat 2.2 that scores learnt clauses by "glue" quality and aggressively deletes weak ones; ships sequential, incremental, parallel, and certified-UNSAT builds.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Decision Diagram Libraries
 

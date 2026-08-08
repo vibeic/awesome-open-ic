@@ -98,6 +98,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V BRS Specification](https://github.com/riscv-non-isa/riscv-brs)** — Boot and Runtime Services specification stating the requirements a platform must satisfy for operating systems to perform device discovery, system management, and boot on RISC-V hardware.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Supervisor Domain Access Protection (Smmtt)](https://github.com/riscv/riscv-smmtt)** — Privileged-architecture extension that isolates the physical address space (memory and devices) between multiple supervisor domains, for uses such as confidential computing and secure devices.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

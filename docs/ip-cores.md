@@ -445,6 +445,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Rocket Chip Inclusive Cache](https://github.com/chipsalliance/rocket-chip-inclusive-cache)** — RTL generator for a coherent last-level inclusive cache controller that acts as a TileLink adapter and drops in as a replacement for Rocket Chip's broadcast coherence manager.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CoupledL2](https://github.com/OpenXiangShan/CoupledL2)** — Non-blocking L2 cache generator written in Chisel for the XiangShan out-of-order RISC-V core, attaching to the rest of the memory hierarchy over TileLink.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

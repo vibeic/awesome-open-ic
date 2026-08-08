@@ -167,3 +167,5 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Red Pitaya Notes](https://github.com/pavel-demin/red-pitaya-notes)** — Open-source FPGA projects, SDR transceivers, and build notes for the Red Pitaya STEMlab board (Zynq-7000 SoC with dual ADC/DAC).
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteX M2SDR](https://github.com/enjoy-digital/litex_m2sdr)** — M.2 2280 Key-M software-defined radio board built around a Xilinx Artix-7 XC7A200T and an AD9361 RF transceiver, with open LiteX gateware, PCIe Gen2 x4 streaming, and a C API.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

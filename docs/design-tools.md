@@ -168,6 +168,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sv-bugpoint](https://github.com/antmicro/sv-bugpoint)** — SystemVerilog test-case minimizer built on the slang front-end; it repeatedly removes syntax-tree fragments while a user-supplied script confirms the property of interest (such as a tool crash) still holds.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Verilog-Perl](https://github.com/veripool/verilog-perl)** — Perl library and command-line utilities (vppreproc, vhier, vrename, vpassert) that preprocess, parse, and report on Verilog and SystemVerilog sources.
+  `License: Artistic-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -239,6 +241,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EqMap](https://github.com/cornell-zhang/eqmap)** — Verilog-to-Verilog FPGA LUT technology mapper that applies e-graph equality saturation to cut selection, from the ICCAD 2025 paper.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[byteman](https://github.com/FPGA-Research/byteman)** — Command-line framework for manipulating FPGA bitstreams: merging, blanking, relocating regions, and rewriting configuration data for a target device.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -264,6 +268,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Interact](https://github.com/asyncvlsi/interact)** — Command-line design environment for asynchronous logic that scripts the ACT toolchain across synthesis, simulation, and physical-design steps.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Alliance](https://github.com/lip6/alliance)** — VLSI CAD system from LIP6 / Sorbonne Université covering VHDL synthesis, place-and-route, symbolic layout editing, extraction, and DRC, shipped with its own portable standard-cell libraries.
+  `License: GPL-2.0 / LGPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -287,6 +293,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RePlAce](https://github.com/The-OpenROAD-Project/RePlAce)** — Electrostatics-based analytic global placer for standard-cell designs, released standalone before the engine was folded into the OpenROAD tree.
   `License: BSD-3-Clause` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Coloquinte](https://github.com/Coloquinte/PlaceRoute)** — Place-and-route package usable as a C++ library or Python module; it replaces and extends the placement library used by the Coriolis toolchain and runs the ISPD contest benchmarks directly.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -560,6 +568,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vlog-Hammer](https://github.com/YosysHQ/VlogHammer)** — Verilog synthesis regression test that generates large numbers of small modules and cross-checks Yosys against vendor synthesis tools using the built-in Yosys SAT solver for equivalence.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tclint](https://github.com/nmoroze/tclint)** — Linter, formatter, and language server for Tcl, with a plugin system that teaches the checker the custom command sets EDA tools add to the language.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Schematic Visualization
 
