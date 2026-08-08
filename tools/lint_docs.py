@@ -203,7 +203,9 @@ def check_duplicates(entries: List[Entry], allow=None) -> List[Finding]:
     return out
 
 
-def check_readme_count(root: pathlib.Path, n_entries: int) -> List[Finding]:
+def check_readme_count(root: pathlib.Path, n_entries: int,
+                       n_categories: int = None,
+                       n_subsections: int = None) -> List[Finding]:
     readme = root / "README.md"
     if not readme.exists():
         return [Finding(str(readme), 0, "readme-missing", "README.md not found")]
@@ -212,12 +214,33 @@ def check_readme_count(root: pathlib.Path, n_entries: int) -> List[Finding]:
     if not m:
         return [Finding(str(readme), 0, "readme-count-absent",
                         "no `**N curated entries` headline to cross-check")]
+    out: List[Finding] = []
+    line = text[:m.start()].count("\n") + 1
     claimed = int(m.group(1))
     if claimed != n_entries:
-        line = text[:m.start()].count("\n") + 1
-        return [Finding(str(readme), line, "readme-count-stale",
-                        f"headline claims {claimed} entries, docs/ holds {n_entries}")]
-    return []
+        out.append(Finding(str(readme), line, "readme-count-stale",
+                           f"headline claims {claimed} entries, docs/ holds {n_entries}"))
+
+    # THE OTHER TWO NUMBERS IN THE SAME SENTENCE.  The headline reads
+    # "**N curated entries across C categories and S sub-sections**", and only
+    # N was ever cross-checked -- so C drifted the moment a 13th category file
+    # was added (a0b40f4, "Add 'Open Behchmark' as its own category") and stayed
+    # wrong through every subsequent enrich round, because nothing asked.
+    # A checker that validates the number ADJACENT to the claim, and not the
+    # claim itself, reports green on a sentence that is two-thirds verified.
+    if n_categories is not None:
+        c = re.search(r"across (\d+) categories", text)
+        if c and int(c.group(1)) != n_categories:
+            out.append(Finding(str(readme), line, "readme-categories-stale",
+                               f"headline claims {int(c.group(1))} categories, "
+                               f"docs/ holds {n_categories}"))
+    if n_subsections is not None:
+        s = re.search(r"and (\d+) sub-sections", text)
+        if s and int(s.group(1)) != n_subsections:
+            out.append(Finding(str(readme), line, "readme-subsections-stale",
+                               f"headline claims {int(s.group(1))} sub-sections, "
+                               f"docs/ holds {n_subsections}"))
+    return out
 
 
 def run(root: pathlib.Path, allow=None) -> Tuple[List[Finding], int]:
@@ -228,7 +251,10 @@ def run(root: pathlib.Path, allow=None) -> Tuple[List[Finding], int]:
     for e in entries:
         findings.extend(check_detail_line(e))
     findings.extend(check_duplicates(entries, allow))
-    findings.extend(check_readme_count(root, len(entries)))
+    n_cat = len(sorted(docs.glob("*.md")))
+    n_sub = sum(len(re.findall(r"(?m)^## ", p.read_text(encoding="utf-8")))
+                for p in sorted(docs.glob("*.md")))
+    findings.extend(check_readme_count(root, len(entries), n_cat, n_sub))
     findings.sort(key=lambda f: (f.path, f.line, f.rule))
     return findings, len(entries)
 
@@ -244,7 +270,19 @@ _GOOD_ENTRY = (
     "  `License: MIT` | `Last commit: 2026` | "
     "![MCP](https://img.shields.io/badge/MCP-no-lightgrey)\n"
 )
-_GOOD_README = "**1 curated entries across 12 categories and 1 sub-sections**\n"
+def _readme(entries: int, categories: int = 1, subsections: int = 0) -> str:
+    """A headline whose THREE numbers describe the fixture that accompanies it.
+
+    Was a single hardcoded string claiming "12 categories" while every fixture
+    builds exactly one docs file.  Harmless while only the entry count was
+    cross-checked; the moment the other two numbers are checked too, a fixture
+    README has to be as honest as the real one.
+    """
+    return (f"**{entries} curated entries across {categories} categories "
+            f"and {subsections} sub-sections**\n")
+
+
+_GOOD_README = _readme(1)
 
 # (name, docs/design-tools.md body, README body, rule expected to fire, allow-list)
 _FIXTURES: Tuple[Tuple[str, str, str, str], ...] = (
@@ -254,7 +292,7 @@ _FIXTURES: Tuple[Tuple[str, str, str, str], ...] = (
      "- **[Tool](https://example.com/a) — does a thing.\n"
      "  `License: MIT` | `Last commit: 2026` | "
      "![MCP](https://img.shields.io/badge/MCP-no-lightgrey)\n",
-     "**0 curated entries across 12 categories and 1 sub-sections**\n",
+     _readme(0),
      "entry-malformed", {}),
     ("no detail line",
      "- **[Tool](https://example.com/a)** — does a thing.\n",
@@ -270,17 +308,17 @@ _FIXTURES: Tuple[Tuple[str, str, str, str], ...] = (
      _GOOD_README, "badge-missing", {}),
     ("same URL twice under one heading",
      "## Synthesis\n" + _GOOD_ENTRY + _GOOD_ENTRY,
-     "**2 curated entries across 12 categories and 1 sub-sections**\n",
+     _readme(2, subsections=1),
      "duplicate-url", {}),
     # The relaxation that made the rule per-section needs its own control, or a
     # rule that had quietly stopped firing anywhere would still show 8/8.
     ("same URL under two different headings (deliberate cross-listing)",
      "## Synthesis\n" + _GOOD_ENTRY + "\n## Verification\n" + _GOOD_ENTRY,
-     "**2 curated entries across 12 categories and 1 sub-sections**\n",
+     _readme(2, subsections=2),
      "", {}),
     ("README count disagrees with docs/",
      _GOOD_ENTRY,
-     "**99 curated entries across 12 categories and 1 sub-sections**\n",
+     _readme(99),
      "readme-count-stale", {}),
     # The parenthesised URL that a naive regex drops.  Must be ACCEPTED.
     ("URL containing balanced parentheses",
@@ -290,6 +328,14 @@ _FIXTURES: Tuple[Tuple[str, str, str, str], ...] = (
      _GOOD_README, "", {}),
     # An allowance for a pair that is not duplicated must itself be reported,
     # so a stale exemption cannot sit in the file as standing permission.
+    # The two numbers that shared the headline with the entry count and were
+    # never cross-checked.  Each needs its own red fixture, or "we now check
+    # them" is a claim with nothing behind it.
+    ("README category count disagrees with docs/",
+     _GOOD_ENTRY, _readme(1, categories=99), "readme-categories-stale", {}),
+    ("README sub-section count disagrees with docs/",
+     "## Synthesis\n" + _GOOD_ENTRY, _readme(1, subsections=99),
+     "readme-subsections-stale", {}),
     ("allowance that no longer applies", _GOOD_ENTRY, _GOOD_README,
      "allowance-stale",
      {("design-tools.md", "https://example.com/gone"): "condition long past"}),
