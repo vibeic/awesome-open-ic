@@ -12,6 +12,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FuseSoC Generators](https://github.com/fusesoc/fusesoc-generators)** — Reusable code generators (e.g. SystemVerilog→Verilog) that plug into FuseSoC.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Verilua](https://github.com/cyril0124/verilua)** — LuaJIT-based hardware verification and analysis framework combining Lua-scripted functional testbenches, an RTL-simulation scripting engine, and waveform analysis via the Verilog Procedural Interface.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotb-bus](https://github.com/cocotb/cocotb-bus)** — Pre-packaged testbenching tools and reusable bus interfaces for cocotb (drivers, monitors, scoreboard).
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_cocotb`*
 - **[cocotb-test](https://github.com/themperek/cocotb-test)** — Standard pytest-style unit testing for cocotb — runs testbenches without Makefiles.
@@ -123,6 +125,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ACL2](https://github.com/acl2/acl2)** — Applicative Common Lisp theorem prover and programming language historically used for machine-checked proofs of hardware designs, including AMD floating-point units and Rockwell Collins avionics microcode.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[rIC3](https://github.com/gipsyh/rIC3)** — Rust hardware model checker (BMC, IC3/PDR, k-induction) reading AIGER/BTOR2 transition systems; took first place in both the bit-level and word-level bit-vector tracks of the 2024 and 2025 Hardware Model Checking Competition.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -208,6 +212,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TestRIG](https://github.com/CTSRD-CHERI/TestRIG)** — RISC-V processor verification framework built on the RVFI-DII interface: verification engines feed random instruction streams to two implementations and compare the returned execution traces.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RiESCUE](https://github.com/tenstorrent/riescue)** — Tenstorrent's RISC-V directed test framework and compliance suite: `RiescueD` builds and runs directed assembly test ELFs on an ISS, and `RiescueC` generates compliance test programs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

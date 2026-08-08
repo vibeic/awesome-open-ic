@@ -48,6 +48,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[ArchGym](https://github.com/srivatsankrishnan/oss-arch-gym)** — OpenAI Gym interface for ML-driven architecture design-space exploration, pairing five search algorithms (ACO, GA, Bayesian optimization, RL, random walk) with simulator environments built on DRAMSys, Timeloop, FARSI, and Maestro.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AiEDA](https://github.com/OSCC-Project/AiEDA)** — AI-native EDA library that orchestrates iEDA-backed design flows and extracts vectorized design data (RTL-to-vector-to-GDS) through standardized Python APIs, for building AI-EDA task baselines.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -65,6 +67,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FVEval](https://github.com/NVlabs/FVEval)** — NVIDIA benchmark for evaluating LLMs on hardware formal verification, covering natural-language-to-SystemVerilog-assertion generation and design-to-assertion tasks; the full flow drives a commercial formal tool.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTL-BenchLS](https://github.com/hkust-zhiyao/RTL-BenchLS)** — Large-scale benchmark of 10,028 formally-verified Verilog designs with three self-supervised tasks — round-trip reasoning, masked-content reasoning, and repository-issue reasoning — all checked by sequential/logic equivalence rather than hand-written testbenches.
+  `License: CC-BY-4.0 (data) / MIT (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## Datasets
 
