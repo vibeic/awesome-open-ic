@@ -58,6 +58,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pysv](https://github.com/Kuree/pysv)** — Library that generates the C/C++ and SystemVerilog DPI binding code needed to call Python functions and classes — including modules such as numpy — from a SystemVerilog simulation.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSVB](https://github.com/umarcor/osvb)** — Open Source Verification Bundle: documentation and integration glue that lets cocotb, OSVVM, UVVM, VUnit, and GHDL share a common project API for VHDL and SystemVerilog testbenches.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -226,6 +228,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
 - **[OSVVM](https://github.com/OSVVM/OsvvmLibraries)** — VHDL verification methodology providing constrained-random, functional coverage, and scoreboards as a library.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UVVM](https://github.com/UVVM/UVVM)** — Universal VHDL Verification Methodology — open library and framework for structured testbenches with bus functional models.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSVVM AXI4](https://github.com/OSVVM/AXI4)** — AXI4 full, AXI4-Lite, and AXI4-Stream verification components for OSVVM, providing interface master, responder, and memory models plus AxiStream transmitters and receivers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Commercial / Freemium (cross-listed for completeness)

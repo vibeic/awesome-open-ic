@@ -50,6 +50,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AiEDA](https://github.com/OSCC-Project/AiEDA)** — AI-native EDA library that orchestrates iEDA-backed design flows and extracts vectorized design data (RTL-to-vector-to-GDS) through standardized Python APIs, for building AI-EDA task baselines.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FASoC Datasheet Scrubber](https://github.com/idea-fasoc/datasheet-scrubber)** — Utility that mines large sets of PDF datasheets with neural-network table and text extraction to build a searchable database of commercial off-the-shelf IP for SoC assembly.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

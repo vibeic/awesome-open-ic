@@ -58,6 +58,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ADMS](https://github.com/Qucs/ADMS)** — Automatic device model synthesizer that transforms Verilog-AMS compact device models into ready-to-compile C code for SPICE simulator APIs, driven by XML transformation rules.
   `License: GPL-3.0` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Circulax](https://github.com/gdsfactory/circulax)** — Differentiable circuit simulator built on JAX that runs transient, DC, AC, and harmonic-balance analyses and propagates gradients through the solver for optimization and inverse design.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -75,6 +77,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NEMU](https://github.com/OpenXiangShan/NEMU)** — RV64 full-system ISA emulator (NJU Emulator) maintained by the XiangShan project as the reference model for its DiffTest co-simulation flow.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ghdl-cosim](https://github.com/ghdl/ghdl-cosim)** — Documentation and worked examples for interfacing VHDL with foreign languages and tools through GHDL, covering VHPIDIRECT, VPI, and shared-library co-simulation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[renode-verilator-integration](https://github.com/antmicro/renode-verilator-integration)** — Sample code and build harness for co-simulating Verilator-generated RTL peripherals alongside the Renode full-system emulator.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
@@ -223,3 +229,5 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MEOW](https://github.com/gdsfactory/meow)** — Python eigenmode-expansion (EME) solver that computes modes and overlaps in photonic waveguides, with optional gdsfactory integration.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Harminv](https://github.com/NanoComp/harminv)** — Implementation of Mandelshtam's harmonic-inversion algorithm that decomposes a time-domain signal into a sum of decaying sinusoids, used with the MEEP and MPB solvers to extract resonant frequencies and decay rates.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

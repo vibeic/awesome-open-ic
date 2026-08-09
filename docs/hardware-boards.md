@@ -169,3 +169,5 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteX M2SDR](https://github.com/enjoy-digital/litex_m2sdr)** — M.2 2280 Key-M software-defined radio board built around a Xilinx Artix-7 XC7A200T and an AD9361 RF transceiver, with open LiteX gateware, PCIe Gen2 x4 streaming, and a C API.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HackRF Pro](https://github.com/greatscottgadgets/hackrf-pro)** — Hardware design files for the HackRF Pro software-defined radio from Great Scott Gadgets.
+  `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

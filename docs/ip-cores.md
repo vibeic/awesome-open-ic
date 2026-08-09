@@ -418,6 +418,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[N-EUREKA](https://github.com/pulp-platform/neureka)** — Neural processing engine for PULP clusters handling 2- to 8-bit weights and 8-bit activations, shipped as RTL with a golden model, microcode, and a regression suite.
   `License: SHL-0.51 (hardware) / Apache-2.0 (software)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hmac (Secworks)](https://github.com/secworks/hmac)** — HMAC-SHA-256 keyed-hash message authentication core written in Verilog 2001.
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -569,6 +571,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SOFA](https://github.com/lnis-uofu/SOFA)** — Family of embedded FPGA IPs generated with OpenFPGA on the SkyWater 130 nm PDK, shipping architecture description files, fabrication-ready GDSII layouts, post-layout Verilog netlists, and per-IP datasheets.
   `License: MIT` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BSG Bladerunner](https://github.com/bespoke-silicon-group/bsg_bladerunner)** — Meta-repository that pins the RTL, toolchain, and runtime releases of the Bespoke Silicon Group HammerBlade manycore architecture for simulating nodes of varying tile counts and memory types.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Diplomacy](https://github.com/chipsalliance/diplomacy)** — Parameter-negotiation framework for Chisel that lets connected SoC nodes agree on bus and interface parameters during elaboration.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

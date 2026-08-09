@@ -175,3 +175,7 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[VSRTL](https://github.com/mortbopet/VSRTL)** — Framework for visually simulating register-transfer-level circuits, pairing a C++ component library with an interactive schematic view; it is the simulation and visualization framework used by the Ripes processor simulator.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[gdsfactory photonics training](https://github.com/gdsfactory/gdsfactory-photonics-training)** — Jupyter-notebook course for the gdsfactory photonic design flow, covering full-chip layout, DRC, FEM and FDFD mode solving, thermal heater simulation, and MZI and ring circuit examples.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Virtual FPGA Lab](https://github.com/os-fpga/Virtual-FPGA-Lab)** — Browser-based FPGA lab built on Makerchip that simulates a development board with LEDs, switches, and an LCD from TL-Verilog source, with an export path to supported physical FPGA boards.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

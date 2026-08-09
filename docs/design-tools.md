@@ -243,6 +243,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[byteman](https://github.com/FPGA-Research/byteman)** — Command-line framework for manipulating FPGA bitstreams: merging, blanking, relocating regions, and rewriting configuration data for a target device.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Logiklib](https://github.com/siliconcompiler/logiklib)** — Library of open FPGA architecture descriptions consumed by the Logik RTL-to-bitstream toolchain.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
