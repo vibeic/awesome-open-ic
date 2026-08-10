@@ -31,6 +31,8 @@ Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
   `License: LGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[iCE40HX8K-EVB](https://github.com/OLIMEX/iCE40HX8K-EVB)** — Olimex open-hardware iCE40HX8K development board with external SRAM and a header bus for fast ADC/DAC and GPIO, with schematics and demo designs for the IceStorm toolchain.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ICE-V Wireless](https://github.com/ICE-V-Wireless/ICE-V-Wireless)** — Board pairing an Espressif ESP32-C3-MINI-1 module with a Lattice iCE40UP5K FPGA over SPI, so the FPGA can be configured and driven over Wi-Fi or Bluetooth; the repository holds the hardware, firmware, gateware, and host-side utilities.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## Lattice ECP5 (fully open toolchain)
 
