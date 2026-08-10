@@ -170,6 +170,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Verilog-Perl](https://github.com/veripool/verilog-perl)** — Perl library and command-line utilities (vppreproc, vhier, vrename, vpassert) that preprocess, parse, and report on Verilog and SystemVerilog sources.
   `License: Artistic-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support)** — VS Code extension for Verilog, SystemVerilog, VHDL, and Verilog-AMS providing syntax highlighting, Ctags-backed navigation and completion, formatting, and linting through Icarus Verilog, Verilator, Slang, or Verible.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -384,6 +386,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gdscheck](https://github.com/aesc-silicon/gdscheck)** — Design-rule-check engine for GDSII layouts written in Rust, with rule decks described in plain YAML and a parallelised geometry engine.
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XicTools](https://github.com/wrcad/xictools)** — Whiteley Research's commercial tool suite released as open source: the Xic layout editor and the WRspice circuit simulator, together with the FastCap and FastHenry extractors and the mrouter maze router.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 

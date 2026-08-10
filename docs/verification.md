@@ -60,6 +60,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OSVB](https://github.com/umarcor/osvb)** — Open Source Verification Bundle: documentation and integration glue that lets cocotb, OSVVM, UVVM, VUnit, and GHDL share a common project API for VHDL and SystemVerilog testbenches.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Berkeley SoftFloat](https://github.com/ucb-bar/berkeley-softfloat-3)** — Software implementation of IEEE 754 binary floating-point arithmetic, used as the reference model that Berkeley TestFloat compares FPU hardware against.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -106,6 +108,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyEDAA.UCIS](https://github.com/edaa-org/pyEDAA.UCIS)** — Python data model for the Accellera Unified Coverage Interoperability Standard with converters that read simulator coverage databases and emit UCIS XML for merging and reporting.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscvISACOV](https://github.com/riscv-verification/riscvISACOV)** — SystemVerilog functional coverage models for the RISC-V ISA, generated from a machine-readable ISA definition and written to connect to the RVVI-TRACE interface of a processor testbench.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 

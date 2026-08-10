@@ -12,6 +12,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V J Extension](https://github.com/riscv/riscv-j-extension)** — Working draft of the RISC-V J extension specification, which targets languages that are interpreted or JIT compiled and that rely on garbage collection, dynamic typing, and dynamic dispatch.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Matrix Extension Proposal](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec)** — XuanTie's proposed matrix extension for AI workloads, with separate tile and accumulation registers and adjustable matrix-register shapes; the repository holds the specification together with ABI and intrinsic manuals, a neural-network library, and emulator support.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## On-chip Buses
 
@@ -99,6 +101,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 - **[RISC-V BRS Specification](https://github.com/riscv-non-isa/riscv-brs)** — Boot and Runtime Services specification stating the requirements a platform must satisfy for operating systems to perform device discovery, system management, and boot on RISC-V hardware.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Supervisor Domain Access Protection (Smmtt)](https://github.com/riscv/riscv-smmtt)** — Privileged-architecture extension that isolates the physical address space (memory and devices) between multiple supervisor domains, for uses such as confidential computing and secure devices.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V CBQRI](https://github.com/riscv-non-isa/riscv-cbqri)** — Work area for the Capacity and Bandwidth QoS Register Interface, a non-ISA specification defining registers that allocate cache capacity and memory bandwidth to applications and monitor their resource usage.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V C API Specification](https://github.com/riscv-non-isa/riscv-c-api-doc)** — Documentation of the compiler-visible RISC-V C API: preprocessor definitions for extensions, ABI and code models, intrinsic support-detection macros, and non-interoperable types.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect

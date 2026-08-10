@@ -449,6 +449,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CoupledL2](https://github.com/OpenXiangShan/CoupledL2)** — Non-blocking L2 cache generator written in Chisel for the XiangShan out-of-order RISC-V core, attaching to the rest of the memory hierarchy over TileLink.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HuanCun](https://github.com/OpenXiangShan/HuanCun)** — Chisel generator for a banked, MSHR-based non-blocking cache with TileLink channel interfaces, used for the outer cache levels of the XiangShan RISC-V memory hierarchy.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

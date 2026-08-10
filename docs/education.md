@@ -22,6 +22,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC-BY-4.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OS-EDA Course](https://github.com/OS-EDA/Course)** — Course material for teaching open-source EDA, covering the RTL-to-GDSII flow with open tools.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipCraft — MEST course](https://github.com/efabless/chipcraft---mest-course)** — Materials for "ChipCraft: The Art of Chip Design for Non-Experts" from the National Micro-Electronics Security Training Center with Efabless and Redwood EDA: syllabus, slides, and TL-Verilog starting points for Tiny Tapeout submissions.
+  `License: CC0-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 
 ## Online Courses (MOOCs)
 
@@ -92,6 +94,10 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Parallel Programming for FPGAs](https://github.com/KastnerRG/pp4fpgas)** — Open-source high-level-synthesis textbook by Kastner, Matai and Neuendorffer, used as the primary reference for UCSD CSE 237C; LaTeX source plus a pre-built PDF.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[RISC-V Assembly Language Programming](https://github.com/johnwinans/rvalp)** — John Winans's open textbook on writing RISC-V assembly, with full LaTeX source and pre-built PDFs published on the releases page.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Learn RISC-V](https://github.com/riscv/learn)** — RISC-V International's community-maintained index of RISC-V learning resources — courses, software, documentation, and articles — organized by topic and experience level, with links checked in CI.
+  `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 

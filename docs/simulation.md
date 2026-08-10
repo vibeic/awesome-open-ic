@@ -186,6 +186,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Or1ksim](https://github.com/openrisc/or1ksim)** — Instruction-level simulator for the OpenRISC 1000 architecture that models the CPU together with a range of peripherals, so complete systems can be booted and debugged.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SimEng](https://github.com/UoB-HPC/SimEng)** — University of Bristol framework for building cycle-accurate processor simulators, scaling from simple scalar cores to superscalar out-of-order models, with AArch64 and RISC-V architecture back-ends.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
