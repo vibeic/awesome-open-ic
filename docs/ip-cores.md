@@ -173,6 +173,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Toooba](https://github.com/bluespec/Toooba)** — Superscalar, out-of-order, multicore-capable RV64 RISC-V core in Bluespec SystemVerilog, derived from MIT's RiscyOO processor.
   `License: Apache-2.0 (RiscyOO sources MIT)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ocelot](https://github.com/tenstorrent/riscv-ocelot)** — Tenstorrent fork of the Berkeley Out-of-Order Machine (BOOM) that adds a RISC-V Vector extension unit to the RV64 out-of-order core.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -420,6 +422,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51 (hardware) / Apache-2.0 (software)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hmac (Secworks)](https://github.com/secworks/hmac)** — HMAC-SHA-256 keyed-hash message authentication core written in Verilog 2001.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[verilog-lfsr](https://github.com/alexforencich/verilog-lfsr)** — Fully parametrizable combinatorial parallel LFSR module that generates CRC, scrambler, descrambler, and PRBS logic from a polynomial and data width.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

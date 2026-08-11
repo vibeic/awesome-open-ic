@@ -388,6 +388,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[XicTools](https://github.com/wrcad/xictools)** — Whiteley Research's commercial tool suite released as open source: the Xic layout editor and the WRspice circuit simulator, together with the FastCap and FastHenry extractors and the mrouter maze router.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AutoCellGen](https://github.com/The-OpenROAD-Project/AutoCellGen)** — Standard-cell layout generator covering netlist input, transistor folding and placement, in-cell routing, and GDS output, usable as a standalone executable to build a cell library.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 

@@ -54,6 +54,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SmoothE](https://github.com/cornell-zhang/SmoothE)** — GPU-accelerated e-graph extraction that relaxes the discrete extraction problem into a continuous one and minimizes the expected cost by gradient descent, from the ASPLOS 2025 paper.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTL-Timer](https://github.com/hkust-zhiyao/RTL-Timer)** — Machine-learning model that annotates post-synthesis timing slack directly onto RTL signals, giving fine-grained timing feedback before synthesis is run.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
