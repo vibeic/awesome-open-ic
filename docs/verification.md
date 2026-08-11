@@ -224,6 +224,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RiESCUE](https://github.com/tenstorrent/riescue)** — Tenstorrent's RISC-V directed test framework and compliance suite: `RiescueD` builds and runs directed assembly test ELFs on an ISS, and `RiescueC` generates compliance test programs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv_arch_tests (Tenstorrent)](https://github.com/tenstorrent/riscv_arch_tests)** — Self-checking directed RISC-V assembly tests covering base and extension instruction behavior, runnable on an ISS or RTL without an external reference model.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

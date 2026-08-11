@@ -188,6 +188,16 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SimEng](https://github.com/UoB-HPC/SimEng)** — University of Bristol framework for building cycle-accurate processor simulators, scaling from simple scalar cores to superscalar out-of-order models, with AArch64 and RISC-V architecture back-ends.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ZigZag](https://github.com/KULeuven-MICAS/zigzag)** — Hardware-architecture and mapping design-space exploration framework for deep-learning accelerators, estimating latency, energy, and area from an architecture and workload description.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Stream](https://github.com/KULeuven-MICAS/stream)** — Multi-core accelerator mapping-optimization framework from KU Leuven that schedules layer-fused machine-learning workloads across heterogeneous compute cores and memory levels.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[nn_dataflow](https://github.com/stanford-mast/nn_dataflow)** — Stanford analytical model that searches dataflow schedules for neural-network accelerators, covering array mapping, loop blocking and reordering, and inter-layer pipelining.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gem5-Aladdin](https://github.com/harvard-acc/gem5-aladdin)** — End-to-end SoC simulator from Harvard that couples the gem5 system simulator with the Aladdin pre-RTL accelerator model to evaluate accelerator, CPU, and memory-system interaction.
+  `License: BSD-3-Clause` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ttsim](https://github.com/tenstorrent/ttsim)** — Full-system functional simulator that provides a virtual Tenstorrent Wormhole or Blackhole device on x86_64 and aarch64 Linux hosts, for running TT-Metalium workloads without silicon.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

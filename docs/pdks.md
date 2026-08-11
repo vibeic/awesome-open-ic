@@ -89,6 +89,8 @@ Synthesizable standard cell libraries — the digital building blocks that map t
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130RHBDlib](https://github.com/stineje/sky130RHBDlib)** — Oklahoma State University radiation-hardened-by-design (RHBD) standard cell library for SKY130, with the parasitic extraction, characterization, synthesis and place-and-route files needed to interface with the open-source flow.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_fd_pr_reram](https://github.com/google/skywater-pdk-libs-sky130_fd_pr_reram)** — SkyWater-provided ReRAM device library for the SKY130 PDK, adding the resistive-RAM primitive together with usage examples.
+  `License: Apache-2.0` | `Last commit: 2022` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## PDK Tooling
 

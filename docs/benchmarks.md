@@ -53,6 +53,10 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AnalogGym](https://github.com/CODA-Team/AnalogGym)** — Open benchmark suite of analog circuit sizing problems (amplifiers, bandgap, comparator, LDO) with ngspice testbenches for evaluating optimization- and learning-based analog design automation.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FloorSet](https://github.com/IntelLabs/FloorSet)** — Intel Labs VLSI floorplanning dataset of synthetic layouts (21–120 blocks) carrying real-world SoC constraints such as fixed blocks, preplaced macros, and boundary and multi-instance rules; basis of the ICCAD 2026 CAD Contest floorplanning problem.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[HeuriGym](https://github.com/cornell-zhang/heurigym)** — Agentic benchmark for LLM-generated heuristics on combinatorial optimization problems, including the EDA tasks of operator scheduling, technology mapping, and global routing with automatic verifiers and a public leaderboard.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## Place-and-Route Contests
 
