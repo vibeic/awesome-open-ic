@@ -213,6 +213,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyEDAA.OSVVM](https://github.com/edaa-org/pyEDAA.OSVVM)** — Python parsers and data models for OSVVM's `*.pro` project files and YAML reports, converting them into pyEDAA.ProjectModel instances for build and regression tooling.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[dram_rtl_sim](https://github.com/pulp-platform/dram_rtl_sim)** — Build and co-simulation setup that links DRAMSys5.0 SystemC LPDDR/DDR/HBM controller and memory models to an RTL testbench, driven through Bender-generated compilation scripts.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[setup-ghdl](https://github.com/ghdl/setup-ghdl)** — Composite GitHub Action that installs a selected GHDL release, nightly build, and backend into a CI workflow job for VHDL simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 
