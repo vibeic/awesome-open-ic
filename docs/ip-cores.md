@@ -343,6 +343,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AOU-RTL](https://github.com/tenstorrent/aou-rtl)** — AXI-over-UCIe bridge IP bridging AXI4 traffic over the UCIe 3.0 Flit-Die Interface, with turn-key and core-only top-level integration options plus an APB3 configuration port, from Tenstorrent.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenTitan Peripherals (PULP)](https://github.com/pulp-platform/opentitan_peripherals)** — Selection of OpenTitan peripheral IPs re-hosted on the PULP register interface and `common_cells` primitives, vendored and patched for reuse in PULP-based SoCs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI Stream (PULP)](https://github.com/pulp-platform/axi_stream)** — SystemVerilog building blocks for AMBA 5 AXI4-Stream on-chip networks, including cuts, width converters, and topology-independent interconnect elements parameterizable in data width and concurrency.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -455,6 +459,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HuanCun](https://github.com/OpenXiangShan/HuanCun)** — Chisel generator for a banked, MSHR-based non-blocking cache with TileLink channel interfaces, used for the outer cache levels of the XiangShan RISC-V memory hierarchy.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP SCM](https://github.com/pulp-platform/scm)** — Latch-based standard-cell-memory register files in SystemVerilog (1r1w, 2r1w asymmetric, 2r2w, 3r2w, byte-enable and multi-port-read variants) with an equivalent flip-flop set for FPGA and Verilator targets.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

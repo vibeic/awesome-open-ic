@@ -172,6 +172,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Artistic-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support)** — VS Code extension for Verilog, SystemVerilog, VHDL, and Verilog-AMS providing syntax highlighting, Ctags-backed navigation and completion, formatting, and linting through Icarus Verilog, Verilator, Slang, or Verible.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pySVModel](https://github.com/edaa-org/pySVModel)** — Python abstract language model of SystemVerilog and Verilog source code, used as a document object model by pyEDAA tooling.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SVase](https://github.com/pulp-platform/svase)** — Source-to-source pre-elaborator for IEEE 1800-2017 single-unit designs that uses Slang to specialize modules per parameter set and unroll generate constructs, emitting compliant SystemVerilog for tools with limited elaboration support.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -354,6 +358,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TaPaSCo](https://github.com/esa-tu-darmstadt/tapasco)** — Task Parallel System Composer from TU Darmstadt: assembles HLS- or HDL-authored processing elements into a complete FPGA system, wiring the host and memory interfaces and building the bitstream.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IPM](https://github.com/efabless/ipm)** — Command-line package manager that installs, versions, and removes open-source IP blocks from the ChipIgnite catalog into a local project.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -675,3 +681,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Blarney](https://github.com/blarney-lang/blarney)** — Haskell library for hardware description that layers HDL abstractions over a small set of pure functional circuit primitives, in the tradition of Lava.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hardcaml Circuits](https://github.com/janestreet/hardcaml_circuits)** — Companion library of reusable circuit generators for Hardcaml, with a synthesis reporting tool for characterizing size and performance trade-offs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

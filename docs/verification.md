@@ -237,6 +237,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OSVVM AXI4](https://github.com/OSVVM/AXI4)** — AXI4 full, AXI4-Lite, and AXI4-Stream verification components for OSVVM, providing interface master, responder, and memory models plus AxiStream transmitters and receivers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSVVM Scripts](https://github.com/OSVVM/OSVVM-Scripts)** — TCL script layer that compiles and runs OSVVM projects from a single `*.pro` description across supported VHDL simulators, with regression running and report generation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Commercial / Freemium (cross-listed for completeness)
 

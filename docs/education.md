@@ -185,3 +185,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Virtual FPGA Lab](https://github.com/os-fpga/Virtual-FPGA-Lab)** — Browser-based FPGA lab built on Makerchip that simulates a development board with LEDs, switches, and an LCD from TL-Verilog source, with an export path to supported physical FPGA boards.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Fomu Workshop](https://github.com/im-tomu/fomu-workshop)** — Top-down workshop for the iCE40 UP5K-based Fomu board, progressing from loading software to writing hardware with the open-source Yosys and nextpnr toolchain.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
