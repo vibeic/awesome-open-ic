@@ -75,6 +75,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ROHD-VF](https://github.com/intel/rohd-vf)** — Hardware verification framework built on ROHD that provides UVM-style testbench components in Dart, from Intel.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CV-HPDcache verification](https://github.com/openhwgroup/cv-hpdcache-verif)** — SystemVerilog verification environment for the OpenHW Group CORE-V high-performance data-cache subsystem, exercising the HPDcache and prefetcher DUTs with an optional AXI5 adapter and directed PLRU tests.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ROHD-Cosim](https://github.com/intel/rohd-cosim)** — Cosimulation layer connecting ROHD (Dart) testbenches to other HDL simulators so Dart models can interoperate with existing SystemVerilog, from Intel.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tvip-axi](https://github.com/taichi-ishitani/tvip-axi)** — UVM verification IP for the AMBA AXI / AXI4 protocol.
@@ -199,6 +201,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Revizor](https://github.com/microsoft/side-channel-fuzzer)** — Model-based fuzzer that searches CPUs for microarchitectural side-channel and speculative-execution leaks by differential contract testing.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ot-sca](https://github.com/lowRISC/ot-sca)** — Infrastructure for running side-channel analysis and fault-injection campaigns against OpenTitan, covering capture setup, trace collection, and attack scripts.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 

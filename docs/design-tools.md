@@ -303,6 +303,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2020 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Coloquinte](https://github.com/Coloquinte/PlaceRoute)** — Place-and-route package usable as a C++ library or Python module; it replaces and extends the placement library used by the Coriolis toolchain and runs the ISPD contest benchmarks directly.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LunaPnR](https://github.com/asicsforthemasses/LunaPnR)** — Standard-cell place-and-route tool with a GUI, cell and technology browsers, a depth-first-search global router, and an embedded Python console; reads flat Verilog netlists and calls external OpenSTA for timing.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -440,6 +442,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[conda-eda](https://github.com/hdl/conda-eda)** — Conda recipes packaging FPGA EDA tools for simulation, synthesis, place-and-route, and bitstream generation, installable without building from source.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[amaranth-yosys](https://github.com/amaranth-lang/amaranth-yosys)** — WebAssembly build of Yosys shipped as a Python wheel and run through wasmtime, used by Amaranth HDL when no suitable system Yosys is installed.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 
@@ -584,6 +588,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tclint](https://github.com/nmoroze/tclint)** — Linter, formatter, and language server for Tcl, with a plugin system that teaches the checker the custom command sets EDA tools add to the language.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[verible-linter-action](https://github.com/chipsalliance/verible-linter-action)** — GitHub Action that runs the Verible style linter over Verilog and SystemVerilog sources and annotates the offending lines in pull requests via reviewdog.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Schematic Visualization
 
@@ -610,6 +616,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenOCD](https://github.com/openocd-org/openocd)** — On-chip debugger that drives JTAG and SWD adapters for target debugging, in-system programming, and boundary-scan testing; the standard host-side tool for RISC-V and Arm core bring-up.
   `License: GPL-2.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Wishbone Utilities](https://github.com/litex-hub/wishbone-utils)** — Host-side tools for reading and writing a device's on-chip Wishbone bus over Ethernet, PCIe, USB, SPI, or UART, comprising the `wishbone-tool` binary, a LiteX `devmem2` implementation, and the libeb-c client library.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 

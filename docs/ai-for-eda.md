@@ -56,6 +56,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RTL-Timer](https://github.com/hkust-zhiyao/RTL-Timer)** — Machine-learning model that annotates post-synthesis timing slack directly onto RTL signals, giving fine-grained timing feedback before synthesis is run.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HOGA](https://github.com/cornell-zhang/HOGA)** — Hop-wise graph attention model for learning on circuits that replaces message passing with gated attention over precomputed hop features, removing graph dependencies during training (arXiv:2403.01317).
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
