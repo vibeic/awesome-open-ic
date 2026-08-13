@@ -106,6 +106,14 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V C API Specification](https://github.com/riscv-non-isa/riscv-c-api-doc)** — Documentation of the compiler-visible RISC-V C API: preprocessor definitions for extensions, ABI and code models, intrinsic support-detection macros, and non-interoperable types.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V BFloat16 Extensions](https://github.com/riscv/riscv-bfloat16)** — Standardization work for the Zfbfmin, Zvfbfmin, and Zvfbfwma instruction-set extensions that add BFloat16 conversion and widening multiply-accumulate operations.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Platform Security Model](https://github.com/riscv/riscv-security-model)** — Specification defining a security model for RISC-V platforms, covering the security objectives, threat model, and architectural requirements a compliant platform must satisfy.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Memory Tagging](https://github.com/riscv/riscv-memory-tagging)** — ISA extension specification that lets software attach tags to memory and have the hardware enforce tag checks on loads and stores, targeting memory-safety violations.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V SPMP](https://github.com/riscv/riscv-spmp)** — Working draft of the Supervisor Physical Memory Protection extension, defining supervisor-level address matching and read/write/execute permission encoding, plus an spmp-for-hyp variant for virtualization.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 
@@ -164,6 +172,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Free Accellera download (OVL 2.8.1)` | `Last commit: 2014 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Unified Coverage Interoperability Standard (UCIS) — Accellera](https://accellera.org/downloads/standards/ucis)** — API for exchanging verification coverage data between tools from different vendors so coverage can be merged and analysed in one methodology; UCIS 1.0 PDF downloadable free from Accellera.
   `License: Free Accellera download (UCIS 1.0)` | `Last commit: 2012 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemC Common Practices (SCP)](https://github.com/accellera-official/systemc-common-practices)** — Accellera working-group repository of interoperable TLM extensions, agreed CCI parameter names for initiator and target sockets, and a replacement SystemC reporting front-end and back-end.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT & JTAG
 
