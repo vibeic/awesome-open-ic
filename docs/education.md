@@ -24,6 +24,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipCraft — MEST course](https://github.com/efabless/chipcraft---mest-course)** — Materials for "ChipCraft: The Art of Chip Design for Non-Experts" from the National Micro-Electronics Security Training Center with Efabless and Redwood EDA: syllabus, slides, and TL-Verilog starting points for Tiny Tapeout submissions.
   `License: CC0-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
+- **[Radio-Frequency Integrated Circuits (JKU)](https://github.com/iic-jku/radio-frequency-integrated-circuits)** — Material for the graduate RFIC course (336.023) at Johannes Kepler University Linz, written as a Quarto book and published as a browsable website.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 
 ## Online Courses (MOOCs)
 

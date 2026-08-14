@@ -122,6 +122,10 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PDKMaster](https://gitlab.com/Chips4Makers/PDKMaster)** — Python framework from Chips4Makers for describing a process technology once and generating the PDK views from that description, with companion `pdkmaster-io-*` exporters for KLayout, SPICE, LEF/DEF and Coriolis.
   `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gf180mcu_fd_pv](https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pv)** — Physical-verification library for the GF180MCU open PDK, providing the DRC and LVS rule decks for KLayout and the DRC deck for Magic.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP Open PDK documentation](https://github.com/IHP-GmbH/IHP-Open-PDK-docs)** — Documentation sources for the IHP SG13G2 130 nm BiCMOS open PDK, published at ihp-open-pdk-docs.readthedocs.io.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

@@ -176,6 +176,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SVase](https://github.com/pulp-platform/svase)** — Source-to-source pre-elaborator for IEEE 1800-2017 single-unit designs that uses Slang to specialize modules per parameter set and unroll generate constructs, emitting compliant SystemVerilog for tools with limited elaboration support.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RTLIL-MLIR](https://github.com/YosysHQ/rtlil-mlir)** — Experimental MLIR dialect for representing arbitrary Yosys RTLIL designs, intended as a bridge to and from the CIRCT core dialects.
+  `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -428,6 +430,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[lithosim](https://github.com/VLSIDA/lithosim)** — Lithography simulator that rasterizes layers from GDSII/OASIS via gdstk and applies Hopkins partially-coherent imaging with SOCS decomposition, Zernike aberrations, a lumped-parameter resist model, and pixel-based OPC.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ArtistIC](https://github.com/pulp-platform/artistic)** — PULP Platform toolchain that translates artwork into top-metal layers of a GDSII and renders layout files at high fidelity for chip posters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Qiskit Metal](https://github.com/qiskit-community/qiskit-metal)** — Python framework for designing and analyzing superconducting quantum chips, covering parameterized component layout, GDS export, and hand-off to electromagnetic solvers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
@@ -691,3 +695,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hardcaml Circuits](https://github.com/janestreet/hardcaml_circuits)** — Companion library of reusable circuit generators for Hardcaml, with a synthesis reporting tool for characterizing size and performance trade-offs.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bsc-contrib](https://github.com/B-Lang-org/bsc-contrib)** — Shared BSV and BH library and utility collection for the Bluespec compiler, holding packages kept outside the core `bsc` repository.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

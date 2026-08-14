@@ -137,6 +137,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[rIC3](https://github.com/gipsyh/rIC3)** — Rust hardware model checker (BMC, IC3/PDR, k-induction) reading AIGER/BTOR2 transition systems; took first place in both the bit-level and word-level bit-vector tracks of the 2024 and 2025 Hardware Model Checking Competition.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sby-gui](https://github.com/YosysHQ/sby-gui)** — Graphical front-end for SymbiYosys that launches and monitors the formal tasks described in a `.sby` file.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 

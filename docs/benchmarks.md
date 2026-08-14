@@ -72,6 +72,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Public release (research)` | `Last commit: 2018 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hypergraph Partitioning (TILOS)](https://github.com/TILOS-AI-Institute/HypergraphPartitioning)** — Netlist hypergraph-partitioning benchmarks with evaluators, best-known solutions, and reference code for comparing partitioning algorithms.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ISPD 2026 contest — post-placement buffering and sizing](https://github.com/ABKGroup/ISPD26-Contest)** — Contest kit for post-placement buffering and gate sizing: ASAP7 platform files, the aes_cipher_top / jpeg_encoder / ariane / bsg_chip designs, evaluation scripts, and netlist equivalence-checking scripts.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## HLS / Accelerator Benchmarks
 

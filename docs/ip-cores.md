@@ -60,6 +60,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CHERIoT-SAFE](https://github.com/microsoft/cheriot-safe)** — FPGA platform for the CHERIoT capability-based security architecture, pairing a CHERIoT-enabled Ibex or Kudu core with RISC-V debug modules, TCM memories, an AXI fabric, and peripherals.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tillitis TKey](https://github.com/tillitis/tillitis-key1)** — FPGA-based USB security token running a PicoRV32 core on an iCE40 UP5K, using DICE-like measured boot so that application keys are derived from the loaded firmware; ships the Verilog design and the firmware.
+  `License: BSD-2-Clause / MIT / ISC / CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -474,6 +476,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_cw_ip](https://github.com/efabless/sky130_cw_ip)** — SKY130 analog IP collection containing a 10-bit SAR ADC, bandgap reference, bias generator, clock generator, and 1.2 V / 1.5 V linear regulators, with schematics, hierarchical GDS, and corner testbenches.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SG13G2 ATBS-ADC](https://github.com/iic-jku/SG13G2_ATBS-ADC)** — Adaptive event-based ADC for bio-signal acquisition on IHP's SG13G2 130 nm process, with the analog blocks designed in Xschem and ngspice and a VHDL digital core taken through Yosys and OpenROAD flow scripts.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
