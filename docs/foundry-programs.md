@@ -43,6 +43,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Open FMD_QNC Tapeouts](https://github.com/IHP-GmbH/IHP-Open-FMD_QNC-Tapeouts)** — Collection of open-source designs taped out on the IHP 130 nm BiCMOS open PDK in the FMD_QNC project, organized per shuttle with linked per-tapeout repositories and ReadTheDocs documentation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[Tiny Tapeout IHP analog template](https://github.com/TinyTapeout/ttihp-analog-template)** — Submission template for analog, mixed-signal, and custom-GDS Tiny Tapeout projects on the IHP SG13G2 open PDK.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

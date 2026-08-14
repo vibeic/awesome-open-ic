@@ -173,3 +173,5 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HackRF Pro](https://github.com/greatscottgadgets/hackrf-pro)** — Hardware design files for the HackRF Pro software-defined radio from Great Scott Gadgets.
   `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LimeSDR XTRX](https://github.com/myriadrf/LimeSDR-XTRX)** — Mini PCIe form-factor software-defined radio board built around a Xilinx Artix-7 XC7A50T FPGA and Lime Microsystems transceiver chipsets, with schematics, PCB design, and manufacturing outputs.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

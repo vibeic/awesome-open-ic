@@ -58,6 +58,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HOGA](https://github.com/cornell-zhang/HOGA)** — Hop-wise graph attention model for learning on circuits that replaces message passing with gated attention over precomputed hop features, removing graph dependencies during training (arXiv:2403.01317).
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ORFS-Agent](https://github.com/ABKGroup/ORFS-Agent)** — LLM-based iterative optimization agent that tunes OpenROAD-flow-scripts parameters by reading flow logs and design metrics, as an alternative to a fixed Bayesian-optimization loop.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

@@ -174,6 +174,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Free Accellera download (UCIS 1.0)` | `Last commit: 2012 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SystemC Common Practices (SCP)](https://github.com/accellera-official/systemc-common-practices)** — Accellera working-group repository of interoperable TLM extensions, agreed CCI parameter names for initiator and target sockets, and a replacement SystemC reporting front-end and back-end.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemC CCI](https://github.com/accellera-official/cci)** — Accellera reference implementation of the SystemC Configuration, Control and Inspection standard, which defines a portable API for setting, looking up, and restricting access to model configuration parameters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## DFT & JTAG
 
