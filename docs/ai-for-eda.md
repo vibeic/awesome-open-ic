@@ -60,6 +60,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ORFS-Agent](https://github.com/ABKGroup/ORFS-Agent)** — LLM-based iterative optimization agent that tunes OpenROAD-flow-scripts parameters by reading flow logs and design metrics, as an alternative to a fixed Bayesian-optimization loop.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UCAgent](https://github.com/XS-MLVP/UCAgent)** — LLM-based agent for automated unit-test verification of chip designs that analyzes the DUT, generates and runs test cases, and reports functional and code coverage.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -100,6 +102,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: arXiv` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[hdl2v](https://arxiv.org/abs/2506.04544)** — Code-translation dataset that converts VHDL, Chisel, and PyMTL3 into Verilog to augment training data for LLM Verilog generation.
   `License: arXiv` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[AICircuit](https://github.com/AvestimehrResearchGroup/AICircuit)** — Multi-level dataset and benchmark for machine-learning-driven analog and RF circuit design, covering seven basic circuits and two wireless transceiver systems built from multiple blocks.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## ML for Placement & Routing
 

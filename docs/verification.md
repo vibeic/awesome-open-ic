@@ -139,6 +139,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sby-gui](https://github.com/YosysHQ/sby-gui)** — Graphical front-end for SymbiYosys that launches and monitors the formal tasks described in a `.sby` file.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kami](https://github.com/mit-plv/kami)** — Coq platform for parametric hardware specification and modular verification, with extraction of verified designs to Bluespec.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 

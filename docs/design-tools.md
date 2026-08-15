@@ -178,6 +178,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RTLIL-MLIR](https://github.com/YosysHQ/rtlil-mlir)** — Experimental MLIR dialect for representing arbitrary Yosys RTLIL designs, intended as a bridge to and from the CIRCT core dialects.
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-ipxact](https://github.com/SystemRDL/PeakRDL-ipxact)** — Imports and exports IP-XACT XML register models to and from the SystemRDL register description used by the PeakRDL toolchain.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -432,6 +434,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[ArtistIC](https://github.com/pulp-platform/artistic)** — PULP Platform toolchain that translates artwork into top-metal layers of a GDSII and renders layout files at high fidelity for chip posters.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Qiskit Metal](https://github.com/qiskit-community/qiskit-metal)** — Python framework for designing and analyzing superconducting quantum chips, covering parameterized component layout, GDS export, and hand-off to electromagnetic solvers.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout GDS Viewer](https://github.com/TinyTapeout/tinytapeout_gds_viewer)** — Browser-based 3D viewer for GDS layouts converted to glTF with GDS2glTF, used to display Tiny Tapeout designs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
