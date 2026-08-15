@@ -45,6 +45,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[Tiny Tapeout IHP analog template](https://github.com/TinyTapeout/ttihp-analog-template)** — Submission template for analog, mixed-signal, and custom-GDS Tiny Tapeout projects on the IHP SG13G2 open PDK.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Caravel Management SoC (LiteX)](https://github.com/efabless/caravel_mgmt_soc_litex)** — LiteX build of the VexRiscv-based management SoC that occupies the management area of the Caravel harness chip, with the makefiles and platform files used to regenerate it.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

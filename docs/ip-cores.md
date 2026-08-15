@@ -62,6 +62,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tillitis TKey](https://github.com/tillitis/tillitis-key1)** — FPGA-based USB security token running a PicoRV32 core on an iCE40 UP5K, using DICE-like measured boot so that application keys are derived from the loaded firmware; ships the Verilog design and the firmware.
   `License: BSD-2-Clause / MIT / ISC / CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CHERI Mocha](https://github.com/lowRISC/mocha)** — Reference design for a CHERI-enabled secure-enclave SoC subsystem, pairing an application-class CHERI RISC-V core with bus and memory blocks reused from OpenTitan.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -210,6 +212,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Z80 Open Silicon](https://github.com/rejunity/z80-open-silicon)** — Pin-compatible Z80 clone taped out on Sky130 via Tiny Tapeout, with silicon from the first two runs confirmed functional.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ventus GPGPU](https://github.com/THU-DSP-LAB/ventus-gpgpu)** — GPGPU processor supporting the RISC-V vector extension, written in Chisel, developed at the International Innovation Center of Tsinghua University with an accompanying OpenCL toolchain.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -349,6 +353,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AXI Stream (PULP)](https://github.com/pulp-platform/axi_stream)** — SystemVerilog building blocks for AMBA 5 AXI4-Stream on-chip networks, including cuts, width converters, and topology-independent interconnect elements parameterizable in data width and concurrency.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ACE (PULP)](https://github.com/pulp-platform/ace)** — SystemVerilog modules for AMBA ACE cache-coherent SoC design, including a coherency unit that broadcasts snoop messages to the cache controllers and forwards AXI transactions to the slaves.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -430,6 +436,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[verilog-lfsr](https://github.com/alexforencich/verilog-lfsr)** — Fully parametrizable combinatorial parallel LFSR module that generates CRC, scrambler, descrambler, and PRBS logic from a polynomial and data width.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Quadrilatero](https://github.com/pulp-platform/quadrilatero)** — Systolic-array matrix coprocessor for RISC-V implementing a custom extension derived from the T-Head matrix ISA proposal, connected through the CORE-V-XIF interface and the OBI memory protocol.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -463,6 +471,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP SCM](https://github.com/pulp-platform/scm)** — Latch-based standard-cell-memory register files in SystemVerilog (1r1w, 2r1w asymmetric, 2r2w, 3r2w, byte-enable and multi-port-read variants) with an equivalent flip-flop set for FPGA and Verilator targets.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_PSRAM_CTRL](https://github.com/efabless/EF_PSRAM_CTRL)** — Controller for Quad I/O SPI pseudo-static RAM covering SPI, QSPI, and QPI modes, verified against the Verilog model of a Microchip M23LC1024 device.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SRAM22 SKY130 Macros](https://github.com/ucb-substrate/sram22_sky130_macros)** — Pre-generated SKY130 SRAM macros from the SRAM22 generator, shipping GDS, LEF, SPICE, Verilog, and Liberty views at slow, typical, and fast corners for a range of depth and width configurations.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -478,6 +490,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SG13G2 ATBS-ADC](https://github.com/iic-jku/SG13G2_ATBS-ADC)** — Adaptive event-based ADC for bio-signal acquisition on IHP's SG13G2 130 nm process, with the analog blocks designed in Xschem and ngspice and a VHDL digital core taken through Yosys and OpenROAD flow scripts.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SPARX](https://github.com/iic-jku/SG13CMOS_SPARX)** — Programmatically generated, frequency-scalable six-port receiver on IHP's 130 nm CMOS process, built on the ihp-sg13g2-ams-chip-template flow and extended with AWS Palace electromagnetic simulation.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
@@ -591,6 +605,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Diplomacy](https://github.com/chipsalliance/diplomacy)** — Parameter-negotiation framework for Chisel that lets connected SoC nodes agree on bus and interface parameters during elaboration.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP Cluster](https://github.com/pulp-platform/pulp_cluster)** — Multi-core cluster subsystem used in PULP chips, integrating RISC-V cores with shared tightly-coupled data memory, the cluster interconnect, and DMA, with a schematic of the internal structure in `doc/`.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
