@@ -62,6 +62,10 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Berkeley SoftFloat](https://github.com/ucb-bar/berkeley-softfloat-3)** — Software implementation of IEEE 754 binary floating-point arithmetic, used as the reference model that Berkeley TestFloat compares FPU hardware against.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[copra](https://github.com/cocotb/copra)** — Generates Python type stubs from an elaborated HDL design so that cocotb testbenches get IDE autocomplete and static type checking on the DUT hierarchy.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-umi](https://github.com/zeroasiccorp/cocotbext-umi)** — Drivers, monitors, transaction models, and memory models for verifying designs that use the Universal Memory Interface (UMI) protocol under cocotb.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -141,6 +145,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kami](https://github.com/mit-plv/kami)** — Coq platform for parametric hardware specification and modular verification, with extraction of verified designs to Bluespec.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[imctk](https://github.com/YosysHQ/imctk)** — YosysHQ incremental model checking toolkit: a set of Rust crates providing an AIGER front-end, ABC bindings, an intermediate representation, and an `eqy-engine` crate for equivalence checking.
+  `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -247,6 +253,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OSVVM Scripts](https://github.com/OSVVM/OSVVM-Scripts)** — TCL script layer that compiles and runs OSVVM projects from a single `*.pro` description across supported VHDL simulators, with regression running and report generation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VHDL Compliance-Tests](https://github.com/VHDL/Compliance-Tests)** — Test suites that measure how much of the VHDL-2008 and VHDL-2019 language a given simulator or synthesis tool actually supports.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Commercial / Freemium (cross-listed for completeness)
 

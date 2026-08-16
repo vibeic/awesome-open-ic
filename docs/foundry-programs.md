@@ -47,6 +47,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Caravel Management SoC (LiteX)](https://github.com/efabless/caravel_mgmt_soc_litex)** — LiteX build of the VexRiscv-based management SoC that occupies the management area of the Caravel harness chip, with the makefiles and platform files used to regenerate it.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Panamax Padframe](https://github.com/fossi-foundation/panamax)** — General-purpose 129-pin SkyWater sky130 padframe updating the Caravel/Caravan harness openframe, with nine banks of eight GPIOs, overvoltage-tolerant pads, and separate 1.8 V and 3.3 V supply domains.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

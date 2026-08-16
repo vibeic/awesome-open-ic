@@ -126,6 +126,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Open PDK documentation](https://github.com/IHP-GmbH/IHP-Open-PDK-docs)** — Documentation sources for the IHP SG13G2 130 nm BiCMOS open PDK, published at ihp-open-pdk-docs.readthedocs.io.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Open-PDKs Regression Tests](https://github.com/iic-jku/open-pdks-regression-tests)** — DRC, LVS, and PEX regression test cases from JKU Linz that exercise the Open-PDKs builds of sky130A, gf180mcuD, and ihp-sg13g2.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

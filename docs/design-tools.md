@@ -366,6 +366,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IPM](https://github.com/efabless/ipm)** — Command-line package manager that installs, versions, and removes open-source IP blocks from the ChipIgnite catalog into a local project.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bazel-orfs](https://github.com/The-OpenROAD-Project/bazel-orfs)** — Bazel rules that wrap unmodified OpenROAD-flow-scripts, adding incremental artifacts, parallel builds, remote execution, and reproducible RTL-to-GDS runs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -402,6 +404,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AutoCellGen](https://github.com/The-OpenROAD-Project/AutoCellGen)** — Standard-cell layout generator covering netlist input, transistor folding and placement, in-cell routing, and GDS output, usable as a standalone executable to build a cell library.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KLayout Connectivity Inspection](https://github.com/iic-jku/klayout-connectivity-inspection)** — KLayout add-on from JKU Linz that navigates PCell instances, exposes terminals and pins, and draws ratsnest flywires to visualize layout connectivity.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -437,6 +441,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout GDS Viewer](https://github.com/TinyTapeout/tinytapeout_gds_viewer)** — Browser-based 3D viewer for GDS layouts converted to glTF with GDS2glTF, used to display Tiny Tapeout designs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[lytest](https://github.com/atait/lytest)** — Layout regression testing for KLayout, combining pytest with the KLayout XOR engine to detect geometry changes against stored GDS reference files.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

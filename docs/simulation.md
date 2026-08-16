@@ -62,6 +62,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Qucsator-RF](https://github.com/ra3xdh/qucsator_rf)** — RF circuit simulation kernel derived from Qucsator and maintained as one of the simulation backends driven by the Qucs-S schematic front-end.
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[snp2le](https://github.com/iic-jku/snp2le)** — Converts S-parameter Touchstone files into lumped-element SPICE or Spectre netlists, with both a PySide6 GUI and a command-line interface, from JKU Linz.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 

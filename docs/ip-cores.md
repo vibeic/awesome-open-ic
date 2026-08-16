@@ -355,6 +355,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ACE (PULP)](https://github.com/pulp-platform/ace)** — SystemVerilog modules for AMBA ACE cache-coherent SoC design, including a coherency unit that broadcasts snoop messages to the cache controllers and forwards AXI transactions to the slaves.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openEye-CamSI](https://github.com/chili-chips-ba/openeye-CamSI)** — MIPI CSI-2 camera receiver and video pipeline whose front-end is built only from Artix-7 IOB primitives (IBUFDS, IDELAY, ISERDES), covering the Sony IMX219, IMX283, and OV2740 sensors at HD and FHD resolutions.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openCologne-PCIE](https://github.com/chili-chips-ba/openCologne-PCIE)** — Unencrypted SystemVerilog PCI Express endpoint soft core implementing the Data Link, Transaction, and Application layers with a standard PIPE interface to a vendor SerDes, shipped with RTL, simulation, and LiteX integration.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -492,6 +496,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SPARX](https://github.com/iic-jku/SG13CMOS_SPARX)** — Programmatically generated, frequency-scalable six-port receiver on IHP's 130 nm CMOS process, built on the ihp-sg13g2-ams-chip-template flow and extended with AWS Palace electromagnetic simulation.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_ef_ip__opamp](https://github.com/fossi-foundation/sky130_ef_ip__opamp)** — Operational amplifier in SkyWater sky130 with Xschem schematics, Magic layout, and a CACE specification plus testbenches for automated characterization.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_am_ip__ldo_01v8](https://github.com/fossi-foundation/sky130_am_ip__ldo_01v8)** — Low-power 1.8 V low-dropout regulator in SkyWater sky130, developed for the Efabless Chipalooza design challenge.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
