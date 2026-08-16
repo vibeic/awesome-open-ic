@@ -110,3 +110,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-2-Clause` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[LogikBench](https://github.com/zeroasiccorp/logikbench)** — Suite of 250 parameterized Verilog RTL benchmark circuits, mixing human-authored and AI-generated designs, for evaluating EDA algorithms, PDKs, architectures, and RTL-generating models.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPGA Timing Coverage Suite](https://github.com/siliconcompiler/fpga-timing-coverage-suite)** — Collection of timing-constraint benchmark files that qualify the timing capabilities of an FPGA CAD flow, with scripts to run them on VPR against any VTR-compatible architecture.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
