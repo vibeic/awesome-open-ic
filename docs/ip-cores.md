@@ -64,6 +64,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause / MIT / ISC / CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CHERI Mocha](https://github.com/lowRISC/mocha)** — Reference design for a CHERI-enabled secure-enclave SoC subsystem, pairing an application-class CHERI RISC-V core with bus and memory blocks reused from OpenTitan.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Guineveer](https://github.com/chipsalliance/guineveer)** — Configurable SoC around the VeeR EL2 RISC-V core, assembled with the Topwrap tool in single-core and dual-core variants with UART and I3C peripherals and a documented memory map.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -442,6 +444,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Quadrilatero](https://github.com/pulp-platform/quadrilatero)** — Systolic-array matrix coprocessor for RISC-V implementing a custom extension derived from the T-Head matrix ISA proposal, connected through the CORE-V-XIF interface and the OBI memory protocol.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MAGIA](https://github.com/pulp-platform/MAGIA)** — Mesh of accelerator tiles for generative-AI workloads; each tile combines the RedMulE GeMM engine, iDMA, a Spatz vector complex, a RISC-V cluster, and L1 scratchpad, interconnected by the FlooNoC network-on-chip.
+  `License: Apache-2.0 / SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Atlas NPU](https://github.com/ucb-bar/atlas-npu)** — Statically scheduled neural-processing-unit generator that emits an accelerator tile attached to a RISC-V system through the Chipyard SoC framework.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -615,6 +621,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP Cluster](https://github.com/pulp-platform/pulp_cluster)** — Multi-core cluster subsystem used in PULP chips, integrating RISC-V cores with shared tightly-coupled data memory, the cluster interconnect, and DMA, with a schematic of the internal structure in `doc/`.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Padrick](https://github.com/pulp-platform/padrick)** — Padframe generator that turns a YAML description into SystemVerilog modules instantiating the IO pads and multiplexing logic, an AXI-Lite or APB configuration interface, C drivers, and documentation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

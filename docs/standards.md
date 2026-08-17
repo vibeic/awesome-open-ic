@@ -114,6 +114,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V SPMP](https://github.com/riscv/riscv-spmp)** — Working draft of the Supervisor Physical Memory Protection extension, defining supervisor-level address matching and read/write/execute permission encoding, plus an spmp-for-hyp variant for virtualization.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V RPMI](https://github.com/riscv-non-isa/riscv-rpmi)** — Platform Management Interface specification defining an extensible messaging interface between application processors and platform microcontrollers for system management and control.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

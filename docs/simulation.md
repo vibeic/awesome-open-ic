@@ -253,3 +253,5 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Harminv](https://github.com/NanoComp/harminv)** — Implementation of Mandelshtam's harmonic-inversion algorithm that decomposes a time-domain signal into a sum of decaying sinusoids, used with the MEEP and MPB solvers to extract resonant frequencies and decay rates.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gerber2ems](https://github.com/antmicro/gerber2ems)** — Antmicro tool that builds openEMS FDTD signal-integrity simulations of PCB traces from Gerber, drill, and stackup files, with automatic grid generation and post-processing.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

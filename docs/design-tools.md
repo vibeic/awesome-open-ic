@@ -309,6 +309,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LunaPnR](https://github.com/asicsforthemasses/LunaPnR)** — Standard-cell place-and-route tool with a GUI, cell and technology browsers, a depth-first-search global router, and an embedded Python console; reads flat Verilog netlists and calls external OpenSTA for timing.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[InstantGR](https://github.com/cuhk-eda/InstantGR)** — GPU-parallel global router written in CUDA that reads capacity and net files and writes a routing solution, from the CUHK EDA group (ICCAD 2024 paper).
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -368,6 +370,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bazel-orfs](https://github.com/The-OpenROAD-Project/bazel-orfs)** — Bazel rules that wrap unmodified OpenROAD-flow-scripts, adding incremental artifacts, parallel builds, remote execution, and reproducible RTL-to-GDS runs.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DVSim](https://github.com/lowRISC/dvsim)** — Python build-and-run system from the OpenTitan project that puts EDA tool flows behind one standardized command-line interface; written for OpenTitan but usable on any ASIC project.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -405,6 +409,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[AutoCellGen](https://github.com/The-OpenROAD-Project/AutoCellGen)** — Standard-cell layout generator covering netlist input, transistor folding and placement, in-cell routing, and GDS output, usable as a standalone executable to build a cell library.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[KLayout Connectivity Inspection](https://github.com/iic-jku/klayout-connectivity-inspection)** — KLayout add-on from JKU Linz that navigates PCell instances, exposes terminals and pins, and draws ratsnest flywires to visualize layout connectivity.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KLayout Align Tool](https://github.com/iic-jku/klayout-align-tool)** — KLayout plugin from JKU Linz that aligns cell instances and shapes against selected edges or edge points, installable from the KLayout package manager.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[KLayout Library Manager](https://github.com/iic-jku/klayout-library-manager)** — KLayout plugin from JKU Linz for hierarchical layout libraries, storing library cells as OASIS-based `.klay` layouts and library maps as JSON `.klib` files.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
@@ -604,6 +612,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[verible-linter-action](https://github.com/chipsalliance/verible-linter-action)** — GitHub Action that runs the Verible style linter over Verilog and SystemVerilog sources and annotates the offending lines in pull requests via reviewdog.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[nldiff](https://github.com/efabless/nldiff)** — Command-line utility built on Pyverilog that lists the differences between two flat gate-level netlists, targeting netlists emitted by Yosys and OpenROAD.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Schematic Visualization
 
@@ -631,6 +641,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
 - **[OpenOCD](https://github.com/openocd-org/openocd)** — On-chip debugger that drives JTAG and SWD adapters for target debugging, in-system programming, and boundary-scan testing; the standard host-side tool for RISC-V and Arm core bring-up.
   `License: GPL-2.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Wishbone Utilities](https://github.com/litex-hub/wishbone-utils)** — Host-side tools for reading and writing a device's on-chip Wishbone bus over Ethernet, PCIe, USB, SPI, or UART, comprising the `wishbone-tool` binary, a LiteX `devmem2` implementation, and the libeb-c client library.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Dumpling](https://github.com/pulp-platform/dumpling)** — Vector generation library and command-line tool that produces ASCII vector files (AVC) for the HP93000 ASIC tester, including JTAG bitbang sequences that boot an ELF binary or configure a DUT.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base

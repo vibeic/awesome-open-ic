@@ -189,3 +189,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Fomu Workshop](https://github.com/im-tomu/fomu-workshop)** — Top-down workshop for the iCE40 UP5K-based Fomu board, progressing from loading software to writing hardware with the open-source Yosys and nextpnr toolchain.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[UCSC VLSI-DA Chip Tutorials](https://github.com/VLSIDA/chip-tutorials)** — Open chip-design tutorials from the UC Santa Cruz VLSI-DA group covering SPICE, OpenROAD / ORFS, LibreLane, STA, sky130, GF180MCU, and KLayout.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

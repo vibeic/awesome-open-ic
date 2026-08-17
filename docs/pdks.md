@@ -128,6 +128,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Open-PDKs Regression Tests](https://github.com/iic-jku/open-pdks-regression-tests)** — DRC, LVS, and PEX regression test cases from JKU Linz that exercise the Open-PDKs builds of sky130A, gf180mcuD, and ihp-sg13g2.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP GDSFactory Addon](https://github.com/iic-jku/IHP-GDSFactory-Addon)** — Python addon from JKU Linz that drives the IHP SG13G2 `sg13g2_pycell_lib` PCells through gdsfactory and adds parametric microstrip transmission lines and RF/mm-wave couplers, dividers, and filters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
