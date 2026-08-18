@@ -66,6 +66,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-umi](https://github.com/zeroasiccorp/cocotbext-umi)** — Drivers, monitors, transaction models, and memory models for verifying designs that use the Universal Memory Interface (UMI) protocol under cocotb.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TL-Test-New](https://github.com/OpenXiangShan/tl-test-new)** — Unified TileLink memory-subsystem tester from the XiangShan project, driving Verilator-built cache DUTs such as CoupledL2 and OpenLLC through scenario regressions.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -97,6 +99,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UVM with Verilator example](https://github.com/antmicro/verilator-uvm-example)** — Reference project from Antmicro showing how to build and run an Accellera UVM testbench on top of Verilator.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI VIP](https://github.com/chipsalliance/axi-vip)** — SystemVerilog UVM verification IP for AXI, providing an AXI UVC (interface, agent, driver, monitor, sequencer, transactions) plus a system UVC and shared scoreboard infrastructure.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

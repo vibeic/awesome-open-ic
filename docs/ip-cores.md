@@ -66,6 +66,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Guineveer](https://github.com/chipsalliance/guineveer)** — Configurable SoC around the VeeR EL2 RISC-V core, assembled with the Topwrap tool in single-core and dual-core variants with UART and I3C peripherals and a documented memory map.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sunburst Chip](https://github.com/lowRISC/sunburst-chip)** — Microcontroller chip design built around the CHERIoT Ibex RISC-V core, shipping the logical design, a design-verification environment, and bare-metal test software from lowRISC's Sunburst project.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -361,6 +363,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openCologne-PCIE](https://github.com/chili-chips-ba/openCologne-PCIE)** — Unencrypted SystemVerilog PCI Express endpoint soft core implementing the Data Link, Transaction, and Application layers with a standard PIPE interface to a vendor SerDes, shipped with RTL, simulation, and LiteX integration.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChiselAIA](https://github.com/OpenXiangShan/ChiselAIA)** — Chisel implementation of the RISC-V Advanced Interrupt Architecture, providing the IMSIC controller and an APLIC that converts wired interrupts into MSIs (direct delivery mode not yet supported).
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OmniXtend Endpoint](https://github.com/chipsalliance/OmnixtendEndpoint)** — Synthesizable Bluespec implementation of an OmniXtend 1.0.3 memory endpoint that carries TileLink TL-UL, TL-UH, and TL-C messages over Ethernet and attaches to AXI memory controllers.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -448,6 +454,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0 / SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Atlas NPU](https://github.com/ucb-bar/atlas-npu)** — Statically scheduled neural-processing-unit generator that emits an accelerator tile attached to a RISC-V system through the Chipyard SoC framework.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[YunSuan](https://github.com/OpenXiangShan/YunSuan)** — Chisel library of the scalar, floating-point, and vector function units used by the XiangShan RISC-V core, with a Verilator-based unit-test harness.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FFT Generator](https://github.com/ucb-bar/FFTGenerator)** — MMIO-based FFT generator in Chisel for Chipyard SoCs, adapted from the UC Berkeley ADEPT Lab Hydra Spine project.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -506,6 +516,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_am_ip__ldo_01v8](https://github.com/fossi-foundation/sky130_am_ip__ldo_01v8)** — Low-power 1.8 V low-dropout regulator in SkyWater sky130, developed for the Efabless Chipalooza design challenge.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_ef_ip__adc3v_12bit](https://github.com/chipfoundry/sky130_ef_ip__adc3v_12bit)** — 12-bit successive-approximation-register ADC hard IP for the sky130A process, assembled from separate capacitive-DAC, sample-and-hold, and comparator IP blocks and installable through the IPM package manager.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
@@ -623,6 +635,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Padrick](https://github.com/pulp-platform/padrick)** — Padframe generator that turns a YAML description into SystemVerilog modules instantiating the IO pads and multiplexing logic, an AXI-Lite or APB configuration interface, C drivers, and documentation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Versat](https://github.com/IObundle/iob-versat)** — Hardware compiler in C++ that turns a high-level dataflow graph into a coarse-grained reconfigurable array accelerator, emitting synthesizable Verilog together with the matching C runtime drivers and memory-mapped headers.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

@@ -85,6 +85,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[renode-verilator-integration](https://github.com/antmicro/renode-verilator-integration)** — Sample code and build harness for co-simulating Verilator-generated RTL peripherals alongside the Renode full-system emulator.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-ams](https://github.com/VLSIDA/cocotbext-ams)** — Analog simulator bridge that synchronizes cocotb digital simulation with ngspice or Xyce through their shared-library APIs, co-simulating SPICE netlists alongside Verilog or VHDL testbenches.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
@@ -123,6 +125,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyDigitalWaveTools](https://github.com/Nic30/pyDigitalWaveTools)** — Python library for reading and writing VCD and other digital waveform file formats.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[trace2power](https://github.com/antmicro/trace2power)** — Rust tool that reads VCD and FST traces and extracts accumulated switching activity, exporting either a Tcl procedure for OpenSTA or a backwards-SAIF file per IEEE 1801-2018 Annex I.3.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 
@@ -255,3 +259,5 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gerber2ems](https://github.com/antmicro/gerber2ems)** — Antmicro tool that builds openEMS FDTD signal-integrity simulations of PCB traces from Gerber, drill, and stackup files, with automatic grid generation and post-processing.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EMStudio](https://github.com/IHP-GmbH/EMStudio)** — Qt desktop application from IHP for preparing electromagnetic simulations: loads GDS layout, defines substrate stacks, visualizes a 2.5D cross-section, and generates configuration files and Python driver scripts for the openEMS and Palace solvers.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
