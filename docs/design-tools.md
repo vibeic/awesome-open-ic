@@ -372,6 +372,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DVSim](https://github.com/lowRISC/dvsim)** — Python build-and-run system from the OpenTitan project that puts EDA tool flows behind one standardized command-line interface; written for OpenTitan but usable on any ASIC project.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Py2HWSW](https://github.com/IObundle/py2hwsw)** — Python framework that organizes the source tree of an embedded hardware/software codesign project and generates the Verilog of its hardware components, driving open-source EDA tools throughout.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -451,6 +453,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[lytest](https://github.com/atait/lytest)** — Layout regression testing for KLayout, combining pytest with the KLayout XOR engine to detect geometry changes against stored GDS reference files.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Argon](https://github.com/ucb-substrate/argon)** — Programming language for constraint-based IC layout generators with bidirectional editing between a code editor (Neovim or VS Code) and a GUI, supporting parametric cells, hierarchy, and sparse linear-constraint solving.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
