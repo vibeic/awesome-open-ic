@@ -100,6 +100,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Learn RISC-V](https://github.com/riscv/learn)** — RISC-V International's community-maintained index of RISC-V learning resources — courses, software, documentation, and articles — organized by topic and experience level, with links checked in CI.
   `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[XiangShan Design Document](https://github.com/OpenXiangShan/XiangShan-Design-Doc)** — Microarchitecture documentation for the XiangShan open-source high-performance RISC-V processor, built with Pandoc and MkDocs; written in Chinese with an English translation in progress.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
@@ -190,4 +192,6 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
 - **[Fomu Workshop](https://github.com/im-tomu/fomu-workshop)** — Top-down workshop for the iCE40 UP5K-based Fomu board, progressing from loading software to writing hardware with the open-source Yosys and nextpnr toolchain.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[UCSC VLSI-DA Chip Tutorials](https://github.com/VLSIDA/chip-tutorials)** — Open chip-design tutorials from the UC Santa Cruz VLSI-DA group covering SPICE, OpenROAD / ORFS, LibreLane, STA, sky130, GF180MCU, and KLayout.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[flipflop_demo](https://github.com/mattvenn/flipflop_demo)** — Interactive explorer for flip-flop setup time, hold time, and metastability, driven by SPICE sweeps of a SKY130 transmission-gate D flip-flop and shipping an OpenLane configuration to build the GDS.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

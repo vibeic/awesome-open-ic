@@ -150,6 +150,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RVX](https://github.com/rafaelcalcada/rvx)** — RV32I microcontroller IP in Verilog bundling memory, timer, UART, GPIO, and SPI, targeted at embedded, FPGA, and ASIC integration and able to run bare-metal software or FreeRTOS.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DRiM](https://github.com/ic-lab-duth/DRIM)** — RV32IMC core from Democritus University of Thrace with a 6-stage pipeline, dual fetch and dual issue of 16-bit compressed instructions, selective register renaming, dynamic branch prediction, out-of-order execution, and a non-blocking data cache.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -183,6 +185,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0 (RiscyOO sources MIT)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Ocelot](https://github.com/tenstorrent/riscv-ocelot)** — Tenstorrent fork of the Berkeley Out-of-Order Machine (BOOM) that adds a RISC-V Vector extension unit to the RV64 out-of-order core.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sargantana](https://github.com/bsc-loca/sargantana)** — RV64GB core from the Barcelona Supercomputing Center with a 7-stage pipeline, out-of-order write-back, register renaming, and a non-blocking memory pipeline; reported at 1.26 GHz in the typical corner of a 22 nm FD-SOI technology.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -518,6 +522,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_ef_ip__adc3v_12bit](https://github.com/chipfoundry/sky130_ef_ip__adc3v_12bit)** — 12-bit successive-approximation-register ADC hard IP for the sky130A process, assembled from separate capacitive-DAC, sample-and-hold, and comparator IP blocks and installable through the IPM package manager.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TinyWhisper](https://github.com/iic-jku/TinyWhisper)** — Fully integrated multi-mode short-wave transmitter for amateur-radio use, designed at JKU Linz on the IHP 130 nm open PDK with an open-source flow and a regression CI workflow.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 
