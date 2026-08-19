@@ -14,6 +14,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Matrix Extension Proposal](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec)** — XuanTie's proposed matrix extension for AI workloads, with separate tile and accumulation registers and adjustable matrix-register shapes; the repository holds the specification together with ABI and intrinsic manuals, a neural-network library, and emulator support.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[XuanTie ISA extension spec](https://github.com/XUANTIE-RV/thead-extension-spec)** — AsciiDoc sources for T-Head's XuanTie vendor extensions to RISC-V, documenting the custom instruction encodings implemented by the openC906 and openC910 core family.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## On-chip Buses
 

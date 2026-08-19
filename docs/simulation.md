@@ -112,6 +112,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VCDrom](https://github.com/wavedrom/vcdrom)** — Standalone VCD viewer packaged as a progressive web app, built from the WaveDrom project's VCD parsing and rendering libraries.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[d3-wave](https://github.com/Nic30/d3-wave)** — D3.js library that renders signal dumps into an SVG waveform view in the browser, usable as an embeddable component in web-based debug tools.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
@@ -208,6 +210,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2022 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ttsim](https://github.com/tenstorrent/ttsim)** — Full-system functional simulator that provides a virtual Tenstorrent Wormhole or Blackhole device on x86_64 and aarch64 Linux hosts, for running TT-Metalium workloads without silicon.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LLMCompass](https://github.com/PrincetonUniversity/LLMCompass)** — Hardware evaluation framework from the ISCA 2024 paper of the same name that models the performance, area, and cost of accelerator designs running large-language-model inference, for pre-RTL architecture exploration.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -234,6 +238,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ngscopeclient](https://github.com/ngscopeclient/scopehal-apps)** — Cross-platform oscilloscope and signal-analysis GUI client built on libscopehal.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libsigrokdecode](https://github.com/sigrokproject/libsigrokdecode)** — C library from the sigrok project that runs Python-written protocol decoders over captured logic-analyzer traces, covering I2C, SPI, UART, JTAG, and many other on-board protocols.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Photonics & Electromagnetic
 
@@ -261,3 +267,5 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EMStudio](https://github.com/IHP-GmbH/EMStudio)** — Qt desktop application from IHP for preparing electromagnetic simulations: loads GDS layout, defines substrate stacks, visualizes a 2.5D cross-section, and generates configuration files and Python driver scripts for the openEMS and Palace solvers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gds_fdtd](https://github.com/SiEPIC/gds_fdtd)** — EDA- and solver-agnostic framework that drives 3D FDTD simulations from photonic GDS layouts and returns S-parameters, field plots, and compact models, with Tidy3D, Lumerical, and beamz back ends behind one API.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

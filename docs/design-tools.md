@@ -79,6 +79,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vericert](https://github.com/ymherklotz/vericert)** — High-level synthesis tool built on the CompCert verified C compiler and written in Coq, so the translation from C to Verilog carries a machine-checked correctness proof.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ac_dsp](https://github.com/hlslibs/ac_dsp)** — Algorithmic C library of synthesizable C++ DSP blocks for high-level synthesis, covering FIR, CIC, polyphase decimation and interpolation, moving average, and several radix-2 FFT architectures.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -180,6 +182,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PeakRDL-ipxact](https://github.com/SystemRDL/PeakRDL-ipxact)** — Imports and exports IP-XACT XML register models to and from the SystemRDL register description used by the PeakRDL toolchain.
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sv-elab](https://github.com/povik/sv-elab)** — SystemVerilog elaborator that lowers a synthesizable IEEE 1800-2017/2023 subset into word-level netlist form using the slang library; formerly named yosys-slang, it is a component of Yosys and of the OpenROAD integrated synthesis tool.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -311,6 +315,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[InstantGR](https://github.com/cuhk-eda/InstantGR)** — GPU-parallel global router written in CUDA that reads capacity and net files and writes a routing solution, from the CUHK EDA group (ICCAD 2024 paper).
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TritonPart](https://github.com/ABKGroup/TritonPart)** — Constraints-driven multilevel hypergraph partitioner supporting multiway partitioning, multidimensional vertex and hyperedge weights, fixed vertices, placement-aware partitioning, and timing-driven optimization; maintained inside OpenROAD's `par` module, with this repository holding the reproducibility scripts for the reported Titan23 cuts.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TaiWei](https://github.com/CODA-Team/TaiWei)** — Physical-design platform for three-dimensional system integration, targeting chiplet, 3D-stacking, and heterogeneous-integration flows with system-technology co-optimization (STCO); documentation is in Chinese.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
