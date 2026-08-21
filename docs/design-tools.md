@@ -81,6 +81,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ac_dsp](https://github.com/hlslibs/ac_dsp)** — Algorithmic C library of synthesizable C++ DSP blocks for high-level synthesis, covering FIR, CIC, polyphase decimation and interpolation, moving average, and several radix-2 FFT architectures.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MatchLib Connections](https://github.com/hlslibs/matchlib_connections)** — SystemC library implementing latency-insensitive channels for high-level synthesis tools, packaged standalone from the MatchLib component library.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hector](https://github.com/pku-liang/Hector)** — MLIR-based two-level intermediate representation for hardware synthesis that binds computation to a timing-annotated control graph and lowers it to synthesizable RTL.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Lake](https://github.com/StanfordAHA/lake)** — Framework from the Stanford AHA project that generates synthesizable memory modules from a high-level behavioral specification and available memory macros.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -259,6 +265,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Logiklib](https://github.com/siliconcompiler/logiklib)** — Library of open FPGA architecture descriptions consumed by the Logik RTL-to-bitstream toolchain.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DREAMPlaceFPGA](https://github.com/rachelselinar/DREAMPlaceFPGA)** — Analytical placer for large heterogeneous FPGAs built on a deep-learning toolkit, covering global placement, packing and legalization, and timing-driven placement.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -382,6 +390,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Py2HWSW](https://github.com/IObundle/py2hwsw)** — Python framework that organizes the source tree of an embedded hardware/software codesign project and generates the Verilog of its hardware components, driving open-source EDA tools throughout.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FLGen](https://github.com/pezy-computing/flgen)** — Ruby DSL and generator tool that produces the filelists handed to EDA tools from a structured, reusable description.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

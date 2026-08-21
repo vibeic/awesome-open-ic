@@ -114,6 +114,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[d3-wave](https://github.com/Nic30/d3-wave)** — D3.js library that renders signal dumps into an SVG waveform view in the browser, usable as an embeddable component in web-based debug tools.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Simview](https://github.com/pieter3d/simview)** — Ncurses terminal browser for SystemVerilog designs and waveforms that elaborates the design with slang, traces signal drivers and loads, and reads VCD and FST dumps.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SCViewer](https://github.com/Minres/SCViewer)** — Eclipse plugin set that displays VCD waveforms and SystemC transaction streams recorded with SCV or LWTR4SC.
+  `License: EPL-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
@@ -128,6 +132,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
 - **[pyDigitalWaveTools](https://github.com/Nic30/pyDigitalWaveTools)** — Python library for reading and writing VCD and other digital waveform file formats.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[trace2power](https://github.com/antmicro/trace2power)** — Rust tool that reads VCD and FST traces and extracts accumulated switching activity, exporting either a Tcl procedure for OpenSTA or a backwards-SAIF file per IEEE 1801-2018 Annex I.3.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LWTR4SC](https://github.com/Minres/LWTR4SC)** — Lightweight transaction-recording library for SystemC that emits transaction streams for waveform viewers without requiring the SystemC Verification Library.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
@@ -212,6 +218,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LLMCompass](https://github.com/PrincetonUniversity/LLMCompass)** — Hardware evaluation framework from the ISCA 2024 paper of the same name that models the performance, area, and cost of accelerator designs running large-language-model inference, for pre-RTL architecture exploration.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Khronos](https://github.com/pku-liang/ksim)** — Cycle-accurate RTL simulator that fuses state reads and writes carrying temporal locality across consecutive cycles to reduce host cache and memory pressure.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemC-Components (SCC)](https://github.com/Minres/SystemC-Components)** — C++11 productivity library for SystemC and TLM-2.0 modeling, adding configurable logging, JSON-driven configuration, automatic tracing, and reusable bus components.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
