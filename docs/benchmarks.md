@@ -112,3 +112,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPGA Timing Coverage Suite](https://github.com/siliconcompiler/fpga-timing-coverage-suite)** — Collection of timing-constraint benchmark files that qualify the timing capabilities of an FPGA CAD flow, with scripts to run them on VPR against any VTR-compatible architecture.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Bringup-Bench](https://github.com/toddmaustin/bringup-bench)** — Collection of C benchmarks with zero library dependencies and only four required system calls, built for bringing up newly designed CPUs, accelerators, compilers, and operating systems.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*

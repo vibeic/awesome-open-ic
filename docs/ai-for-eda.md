@@ -62,6 +62,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UCAgent](https://github.com/XS-MLVP/UCAgent)** — LLM-based agent for automated unit-test verification of chip designs that analyzes the DUT, generates and runs test cases, and reports functional and code coverage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenROAD Agent](https://github.com/OpenROAD-Assistant/OpenROAD-Agent)** — Qwen2.5-Coder-based agent trained with supervised and reinforcement learning that generates and executes Python inside OpenROAD, refining scripts from tool feedback.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

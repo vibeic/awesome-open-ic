@@ -462,6 +462,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FFT Generator](https://github.com/ucb-bar/FFTGenerator)** — MMIO-based FFT generator in Chisel for Chipyard SoCs, adapted from the UC Berkeley ADEPT Lab Hydra Spine project.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[secworks/cmac](https://github.com/secworks/cmac)** — Verilog implementation of the CMAC keyed hash function using AES as the block cipher, verified against IETF and NIST test vectors for 128- and 256-bit keys.
+  `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -643,6 +645,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Versat](https://github.com/IObundle/iob-versat)** — Hardware compiler in C++ that turns a high-level dataflow graph into a coarse-grained reconfigurable array accelerator, emitting synthesizable Verilog together with the matching C runtime drivers and memory-mapped headers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyOCN (PyMTL3-net)](https://github.com/cornell-brg/pymtl3-net)** — Parameterizable on-chip-network generator that emits synthesizable Verilog for a chosen topology, virtual-channel count, and routing strategy, with functional-, cycle-, and register-transfer-level models in PyMTL3.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PZBCM](https://github.com/pezy-computing/pzbcm)** — SystemVerilog collection of basic common modules from PEZY Computing — arbiters, asynchronous FIFOs, handshake synchronizers, counters, and delay elements.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
