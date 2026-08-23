@@ -392,6 +392,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FLGen](https://github.com/pezy-computing/flgen)** — Ruby DSL and generator tool that produces the filelists handed to EDA tools from a structured, reusable description.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chisel Project Template](https://github.com/chipsalliance/chisel-template)** — Starter repository for new Chisel projects, providing SBT and Mill builds with a bootstrap `./mill` script and a Verilator-backed svsim test example.
+  `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

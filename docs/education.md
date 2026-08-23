@@ -102,6 +102,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[XiangShan Design Document](https://github.com/OpenXiangShan/XiangShan-Design-Doc)** — Microarchitecture documentation for the XiangShan open-source high-performance RISC-V processor, built with Pandoc and MkDocs; written in Chinese with an English translation in progress.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[SpinalHDL documentation source](https://github.com/SpinalHDL/SpinalDoc-RTD)** — Sources for the SpinalHDL online documentation, covering the language elements, standard libraries, simulation, and worked examples; published on Read the Docs.
+  `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Reference Cards & Cheat Sheets
 

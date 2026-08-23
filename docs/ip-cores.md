@@ -152,6 +152,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DRiM](https://github.com/ic-lab-duth/DRIM)** — RV32IMC core from Democritus University of Thrace with a 6-stage pipeline, dual fetch and dual issue of 16-bit compressed instructions, selective register renaming, dynamic branch prediction, out-of-order execution, and a non-blocking data cache.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NoX](https://github.com/aignacio/nox)** — 32-bit RISC-V core (RV32I_Zicsr) in SystemVerilog with a four-stage single-issue in-order pipeline, machine-mode privileged support, and a choice of AXI4 or AHB interfaces.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -371,6 +373,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OmniXtend Endpoint](https://github.com/chipsalliance/OmnixtendEndpoint)** — Synthesizable Bluespec implementation of an OmniXtend 1.0.3 memory endpoint that carries TileLink TL-UL, TL-UH, and TL-C messages over Ethernet and attaches to AXI memory controllers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wbsata](https://github.com/ZipCPU/wbsata)** — In-development Wishbone SATA host controller targeting Gen1 (1.5 Gb/s) link speed, handling little-endian commands alongside big-endian data, with its own test benches.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -464,6 +468,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[secworks/cmac](https://github.com/secworks/cmac)** — Verilog implementation of the CMAC keyed hash function using AES as the block cipher, verified against IETF and NIST test vectors for 128- and 256-bit keys.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CORDIC core generator](https://github.com/ZipCPU/cordic)** — Software generator that emits Verilog sine-wave and CORDIC cores — full and quarter-wave table generators plus rectangular-to-polar and polar-to-rectangular CORDIC modes — accompanying the ZipCPU DSP articles.
+  `License: GPL-3.0 (generator) / LGPL-3.0 (generated RTL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -649,6 +655,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PZBCM](https://github.com/pezy-computing/pzbcm)** — SystemVerilog collection of basic common modules from PEZY Computing — arbiters, asynchronous FIFOs, handshake synchronizers, counters, and delay elements.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VeeRwolf](https://github.com/chipsalliance/VeeRwolf)** — FuseSoC-based reference SoC platform for the VeeR EH1 and EL2 RISC-V cores, combining the CPU with boot ROM, AXI4 interconnect, UART, SPI, timer, and GPIO plus target-specific FPGA wrappers; formerly named SweRVolf.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULPino](https://github.com/pulp-platform/pulpino)** — Single-core 32-bit RISC-V microcontroller system from ETH Zurich, configurable to use either the RISCY or the zero-riscy core, with instruction and data RAM, APB peripherals, and an SPI slave debug interface.
+  `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
