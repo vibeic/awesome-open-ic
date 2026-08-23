@@ -156,6 +156,10 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — DRAM test hardware*
 - **[Red Pitaya](https://github.com/RedPitaya/RedPitaya)** — Zynq-based open instrumentation platform used as an oscilloscope, signal generator, and spectrum analyzer; the repository carries the FPGA sources alongside the applications and OS tooling.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — instrumentation*
+- **[ThunderScope](https://github.com/EEVengers/ThunderScope)** — Four-channel 1 GS/s oscilloscope that streams digitized samples over Thunderbolt/USB4 to a host PC for processing and display; the repository carries the hardware design files, FPGA gateware, and host software.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LPDDR4 Test Board](https://github.com/antmicro/lpddr4-test-board)** — Open-hardware KiCad design for a Xilinx Kintex-7 platform used to develop and customize LPDDR4 memory controllers; runs the Rowhammer Tester gateware.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR
 
@@ -175,3 +179,5 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LimeSDR XTRX](https://github.com/myriadrf/LimeSDR-XTRX)** — Mini PCIe form-factor software-defined radio board built around a Xilinx Artix-7 XC7A50T FPGA and Lime Microsystems transceiver chipsets, with schematics, PCB design, and manufacturing outputs.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bladeRF](https://github.com/Nuand/bladeRF)** — Nuand's USB 3.0 software-defined radio platform; the repository holds the FPGA HDL, Cypress FX3 firmware, the libbladeRF host library, and command-line tools.
+  `License: MIT (HDL / firmware) / LGPL-2.1 (libbladeRF) / GPL-2.0 (CLI)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

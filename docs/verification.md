@@ -248,6 +248,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cosim-arch-checker](https://github.com/tenstorrent/cosim-arch-checker)** — Verification collateral that runs a RISC-V core in lockstep against the Whisper instruction-set simulator over a SystemVerilog DPI bridge, comparing integer, floating-point, and vector register state on each retire.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[UnityChip for XiangShan](https://github.com/XS-MLVP/UnityChipForXiangShan)** — Crowdsourced unit-test verification project for the Kunminghu architecture of the XiangShan RISC-V processor, with pytest-driven Python testbenches organized per module (frontend, backend, memory block) on the toffee framework.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

@@ -130,6 +130,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP GDSFactory Addon](https://github.com/iic-jku/IHP-GDSFactory-Addon)** — Python addon from JKU Linz that drives the IHP SG13G2 `sg13g2_pycell_lib` PCells through gdsfactory and adds parametric microstrip transmission lines and RF/mm-wave couplers, dividers, and filters.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NanGate45 Synopsys Enablement](https://github.com/ABKGroup/NanGate45-Synopsys-Enablement)** — Public `.tluplus` and supporting enablement files from UCSD, POSTECH, and Drexel that let Synopsys tools run post-route extraction, timing, and timing-driven place-and-route on the NanGate45 open PDK and Open Cell Library, with test cases correlating against the existing Cadence enablement.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
