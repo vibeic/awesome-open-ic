@@ -49,6 +49,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (NPTEL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Coursera — VLSI CAD Part II: Layout (UIUC)](https://www.coursera.org/learn/vlsi-cad-layout)** — Rob Rutenbar's sequel to VLSI CAD Part I, covering technology mapping, ASIC placement, maze routing, and static timing analysis; free audit.
   `License: Free audit, paid certificate` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Building a RISC-V CPU Core (Linux Foundation)](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core)** — Free mini-workshop from Redwood EDA, the Linux Foundation, and RISC-V International that builds a simple RISC-V core from logic gates in Transaction-Level Verilog using the Makerchip IDE; also offered on edX.
+  `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## University Open Courseware
 

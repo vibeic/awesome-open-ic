@@ -101,6 +101,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AXI VIP](https://github.com/chipsalliance/axi-vip)** — SystemVerilog UVM verification IP for AXI, providing an AXI UVC (interface, agent, driver, monitor, sequencer, transactions) plus a system UVC and shared scoreboard infrastructure.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CVFPU UVM Testbench](https://github.com/openhwgroup/cvfpu-uvm)** — UVM verification environment for the CVFPU floating-point unit in its CVA6 wrapper, with a C++ reference model, a documented testplan, and regression scripts.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -250,6 +252,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[UnityChip for XiangShan](https://github.com/XS-MLVP/UnityChipForXiangShan)** — Crowdsourced unit-test verification project for the Kunminghu architecture of the XiangShan RISC-V processor, with pytest-driven Python testbenches organized per module (frontend, backend, memory block) on the toffee framework.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RiVer Core](https://github.com/incoresemi/river_core)** — Python framework that splits RISC-V core verification into plugin-driven stages — test generation, target run, reference-model run, log comparison, and HTML report generation.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

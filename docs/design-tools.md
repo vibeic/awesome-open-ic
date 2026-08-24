@@ -190,6 +190,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sv-elab](https://github.com/povik/sv-elab)** — SystemVerilog elaborator that lowers a synthesizable IEEE 1800-2017/2023 subset into word-level netlist form using the slang library; formerly named yosys-slang, it is a component of Yosys and of the OpenROAD integrated synthesis tool.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hdlConvertorAst](https://github.com/Nic30/hdlConvertorAst)** — Python library of universal HDL abstract-syntax-tree nodes for SystemVerilog and VHDL, with writers that emit VHDL, SystemVerilog, SystemC, or JSON from the same tree.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -394,6 +396,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Chisel Project Template](https://github.com/chipsalliance/chisel-template)** — Starter repository for new Chisel projects, providing SBT and Mill builds with a bootstrap `./mill` script and a Verilator-backed svsim test example.
   `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[prunefl](https://github.com/Silimate/prunefl)** — Utility that takes a SystemVerilog file list and a top module and returns the minimal set of files required to compile that module.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -407,6 +411,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[f4pga-sdf-timing](https://github.com/chipsalliance/f4pga-sdf-timing)** — Python library for parsing, editing, and emitting Standard Delay Format (SDF) timing-annotation files.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SDCx](https://github.com/dalance/sdcx)** — Synopsys Design Constraints toolkit — a Rust parsing library plus a command-line tool, covering the SDC 1.1 through SDC 2.1 specifications.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[liberty2json](https://github.com/Silimate/liberty2json)** — Command-line converter that reads Liberty timing library files with the OpenSTA Liberty parser and writes them out as JSON.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
