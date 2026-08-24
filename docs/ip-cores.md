@@ -507,6 +507,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SRAM22 SKY130 Macros](https://github.com/ucb-substrate/sram22_sky130_macros)** — Pre-generated SKY130 SRAM macros from the SRAM22 generator, shipping GDS, LEF, SPICE, Verilog, and Liberty views at slow, typical, and fast corners for a range of depth and width configurations.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GF180MCU 3.3 V SRAM macros](https://github.com/RTimothyEdwards/gf180mcu_ocd_ip_sram)** — 3.3 V SRAM macro library from Open Circuit Design for the GlobalFoundries GF180MCU open PDK, derived from the 5 V macros shipped upstream.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -659,6 +661,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULPino](https://github.com/pulp-platform/pulpino)** — Single-core 32-bit RISC-V microcontroller system from ETH Zurich, configurable to use either the RISCY or the zero-riscy core, with instruction and data RAM, APB peripherals, and an SPI slave debug interface.
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LUNA-SOC](https://github.com/greatscottgadgets/luna-soc)** — Amaranth HDL library for building SoCs around LUNA USB peripherals, pairing a Minerva or VexRiscv RISC-V core with Wishbone and CSR peripherals such as SRAM, GPIO, and UART.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

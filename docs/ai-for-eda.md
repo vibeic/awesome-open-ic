@@ -125,6 +125,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Xplace](https://github.com/cuhk-eda/Xplace)** — GPU-accelerated, extensible, and deterministic placement framework from CUHK with detailed-routability and timing optimization (DAC'22 / TCAD).
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[iPCL-R](https://github.com/OSCC-Project/iPCL-R)** — Pre-trained sequence model for chip layout routing from the iEDA team that treats routing patterns as token sequences, with a pipeline from EDA data extraction through training to routing generation and evaluation.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

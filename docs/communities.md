@@ -90,3 +90,12 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Public viewing` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — media*
 - **[Embedded.fm](https://embedded.fm/)** — Weekly podcast hosted by Elecia and Christopher White; episodes regularly feature hardware/firmware engineers, chip designers, and makers.
   `License: Public listening` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — media*
+
+## Related Curated Lists
+
+- **[awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware)** — Curated list of open-source hardware tools, generators, and reusable designs, grouped by category and alphabetized within each one.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — curated list*
+- **[Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification)** — Curated list of free and open-source tools and frameworks for verifying the functional correctness of hardware designs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — curated list*
+- **[hdl/awesome](https://github.com/hdl/awesome)** — Curated list of open-source HDL design and verification resources, published as a browsable site at hdl.github.io/awesome.
+  `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — curated list*

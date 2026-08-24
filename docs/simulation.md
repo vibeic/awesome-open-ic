@@ -135,6 +135,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LWTR4SC](https://github.com/Minres/LWTR4SC)** — Lightweight transaction-recording library for SystemC that emits transaction streams for waveform viewers without requiring the SystemC Verification Library.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vcddiff](https://github.com/veripool/vcddiff)** — Command-line tool that reports differences between two Verilog value change dump (VCD) files; maintained by the Verilator project for its self-tests.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 

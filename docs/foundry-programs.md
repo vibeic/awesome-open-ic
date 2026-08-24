@@ -51,6 +51,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP SG13G2 LibreLane template](https://github.com/IHP-GmbH/ihp-sg13g2-librelane-template)** — Full-chip LibreLane flow template for the IHP SG13G2 open PDK, providing a Nix shell, a PDK clone target, and make targets that run the implementation and open the result in the OpenROAD GUI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout SKY130 analog template](https://github.com/TinyTapeout/ttsky-analog-template)** — Submission template for analog, mixed-signal, and custom-GDS Tiny Tapeout projects on the SKY130 (ChipFoundry) shuttles.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
