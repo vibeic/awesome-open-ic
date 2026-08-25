@@ -224,6 +224,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SystemC-Components (SCC)](https://github.com/Minres/SystemC-Components)** — C++11 productivity library for SystemC and TLM-2.0 modeling, adding configurable logging, JSON-driven configuration, automatic tracing, and reusable bus components.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ETISS](https://github.com/tum-ei-eda/etiss)** — Extendable translating instruction-set simulator from TU Munich that translates target instructions to C at run time for RISC-V and other architectures, with a plugin interface for virtual prototyping and architecture exploration.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -252,6 +254,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[libsigrokdecode](https://github.com/sigrokproject/libsigrokdecode)** — C library from the sigrok project that runs Python-written protocol decoders over captured logic-analyzer traces, covering I2C, SPI, UART, JTAG, and many other on-board protocols.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyVISA](https://github.com/pyvisa/pyvisa)** — Python bindings to the VISA (Virtual Instrument Software Architecture) library for controlling measurement instruments and test equipment over GPIB, RS-232, USB, and Ethernet.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyMeasure](https://github.com/pymeasure/pymeasure)** — Python measurement package that bundles instrument drivers, experiment sequencing, and live plotting for automated bench measurements.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Photonics & Electromagnetic
 

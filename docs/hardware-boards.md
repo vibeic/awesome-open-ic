@@ -160,6 +160,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LPDDR4 Test Board](https://github.com/antmicro/lpddr4-test-board)** — Open-hardware KiCad design for a Xilinx Kintex-7 platform used to develop and customize LPDDR4 memory controllers; runs the Rowhammer Tester gateware.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GreatFET](https://github.com/greatscottgadgets/greatfet)** — Firmware and Python host stack for the GreatFET One interface board, exposing USB, SPI, I2C, JTAG, GPIO, and logic-analyzer functions for board and chip bring-up.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR
 
