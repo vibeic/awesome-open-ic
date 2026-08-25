@@ -375,6 +375,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wbsata](https://github.com/ZipCPU/wbsata)** — In-development Wishbone SATA host controller targeting Gen1 (1.5 Gb/s) link speed, handling little-endian commands alongside big-endian data, with its own test benches.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_QSPI_XIP_CTRL](https://github.com/efabless/EF_QSPI_XIP_CTRL)** — QSPI execute-in-place flash controller with a parameterized direct-mapped cache, packaged with an AHB-Lite wrapper.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_WDT32](https://github.com/efabless/EF_WDT32)** — 32-bit loadable down-counter watchdog timer that raises a time-out flag on expiry, with APB, AHB-Lite, and Wishbone wrappers.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_I2S](https://github.com/efabless/EF_I2S)** — Two-wire I2S synchronous serial audio interface with APB, AHB-Lite, and Wishbone wrappers that share one programmer's interface.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -534,6 +540,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TinyWhisper](https://github.com/iic-jku/TinyWhisper)** — Fully integrated multi-mode short-wave transmitter for amateur-radio use, designed at JKU Linz on the IHP 130 nm open PDK with an open-source flow and a regression CI workflow.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_ADC1008A](https://github.com/efabless/EF_ADC1008A)** — Digital controller for the EF_ADCS1008NC 8-channel 10-bit SAR ADC macro, adding a 32-sample FIFO and a programmable channel sequencer.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks
 

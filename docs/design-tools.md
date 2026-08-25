@@ -87,6 +87,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Lake](https://github.com/StanfordAHA/lake)** — Framework from the Stanford AHA project that generates synthesizable memory modules from a high-level behavioral specification and available memory macros.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Polygeist](https://github.com/llvm/Polygeist)** — C and C++ frontend that raises source code into MLIR while preserving loop structure for polyhedral and parallel transformations, used as an input path by MLIR-based high-level synthesis flows.
+  `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
