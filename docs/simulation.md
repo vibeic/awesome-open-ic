@@ -87,6 +87,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-ams](https://github.com/VLSIDA/cocotbext-ams)** — Analog simulator bridge that synchronizes cocotb digital simulation with ngspice or Xyce through their shared-library APIs, co-simulating SPICE netlists alongside Verilog or VHDL testbenches.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[msdsl](https://github.com/sgherbst/msdsl)** — Python tool that generates synthesizable real-number models of analog circuits for FPGA emulation; part of the mixed-signal emulation framework with svreal and anasymod.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 

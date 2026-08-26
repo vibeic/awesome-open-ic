@@ -476,6 +476,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CORDIC core generator](https://github.com/ZipCPU/cordic)** — Software generator that emits Verilog sine-wave and CORDIC cores — full and quarter-wave table generators plus rectangular-to-polar and polar-to-rectangular CORDIC modes — accompanying the ZipCPU DSP articles.
   `License: GPL-3.0 (generator) / LGPL-3.0 (generated RTL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Ascon hardware reference](https://github.com/ascon/ascon-hardware)** — NIST Lightweight Cryptography hardware reference implementation of Ascon v1.2 from the algorithm's designers, covering authenticated encryption and hashing.
+  `License: GPL-3.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -515,6 +517,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GF180MCU 3.3 V SRAM macros](https://github.com/RTimothyEdwards/gf180mcu_ocd_ip_sram)** — 3.3 V SRAM macro library from Open Circuit Design for the GlobalFoundries GF180MCU open PDK, derived from the 5 V macros shipped upstream.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenLLC](https://github.com/OpenXiangShan/OpenLLC)** — Chisel last-level cache from the XiangShan project with a CHI interface, directory, snoop unit, and refill/response pipeline, built on CoupledL2 and OpenNCB.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

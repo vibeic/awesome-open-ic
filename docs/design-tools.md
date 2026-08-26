@@ -194,6 +194,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hdlConvertorAst](https://github.com/Nic30/hdlConvertorAst)** — Python library of universal HDL abstract-syntax-tree nodes for SystemVerilog and VHDL, with writers that emit VHDL, SystemVerilog, SystemC, or JSON from the same tree.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[svinst](https://github.com/sgherbst/svinst)** — Command-line tool built on sv-parser that lists the modules declared in a SystemVerilog file and the modules instantiated inside each declaration, so a design hierarchy can be assembled outside Verilog configs and libraries.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -399,6 +401,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[Chisel Project Template](https://github.com/chipsalliance/chisel-template)** — Starter repository for new Chisel projects, providing SBT and Mill builds with a bootstrap `./mill` script and a Verilator-backed svsim test example.
   `License: Unlicense` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[prunefl](https://github.com/Silimate/prunefl)** — Utility that takes a SystemVerilog file list and a top module and returns the minimal set of files required to compile that module.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[vhdMMIO](https://github.com/abs-tudelft/vhdmmio)** — Vendor-agnostic generator that builds AXI4-Lite MMIO register-file infrastructure in VHDL from YAML specification files.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RgGen SystemVerilog](https://github.com/rggen/rggen-systemverilog)** — RgGen plugin that emits SystemVerilog RTL and a UVM register model from a register-map specification.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
