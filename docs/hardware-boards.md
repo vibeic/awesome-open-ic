@@ -162,6 +162,10 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GreatFET](https://github.com/greatscottgadgets/greatfet)** — Firmware and Python host stack for the GreatFET One interface board, exposing USB, SPI, I2C, JTAG, GPIO, and logic-analyzer functions for board and chip bring-up.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DDR5 Testbed](https://github.com/antmicro/ddr5-testbed)** — Open-hardware test bed for interfacing a Micron MT60B2G8HB DDR5 IC with FPGA-driven memory testers, used with the Rowhammer Tester gateware.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LPDDR5 Testbed](https://github.com/antmicro/lpddr5-testbed)** — Open-hardware adapter that interfaces a single LPDDR5 IC with FPGA-driven memory testers.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR
 

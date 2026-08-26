@@ -186,6 +186,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Glucose](https://github.com/audemard/glucose)** — CDCL SAT solver built on MiniSat 2.2 that scores learnt clauses by "glue" quality and aggressively deletes weak ones; ships sequential, incremental, parallel, and certified-UNSAT builds.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bill](https://github.com/lsils/bill)** — C++ header-only reasoning library from EPFL that integrates SAT solvers and decision-diagram engines behind a unified interface, used as the reasoning layer by the mockturtle logic-synthesis library.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Decision Diagram Libraries
 
@@ -206,6 +208,10 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sail](https://github.com/rems-project/sail)** — Architecture definition language and toolchain for specifying instruction-set semantics and emitting executable models, documentation, and theorem-prover definitions.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sail ARM](https://github.com/rems-project/sail-arm)** — Sail version of the Arm ISA definition, currently Armv9.3-A together with the earlier Armv8.5-A model, derived from Arm's machine-readable architecture specification.
+  `License: BSD-3-Clause-Clear` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-coq](https://github.com/mit-plv/riscv-coq)** — RISC-V ISA specification in Coq covering RV32I and RV64I with the A and M extensions, generated from the riscv-semantics Haskell model via hs-to-coq plus hand-written Coq files.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing
 
