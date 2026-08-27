@@ -35,6 +35,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 
 - **[XLS](https://github.com/google/xls)** — Google's accelerated HW synthesis framework that compiles a strongly-typed functional DSL to Verilog.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Holoso](https://github.com/Zubax/holoso)** — Compiles numerical, control, and DSP kernels written in an idiomatic Python (no adaptation required) into synthesizable Verilog.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hwtHls](https://github.com/Nic30/hwtHls)** — LLVM-based high-level synthesis library for the hwt hardware development toolkit, compiling Python descriptions to pipelined RTL.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Bambu (PandA)](https://github.com/ferrandi/PandA-bambu)** — C/C++/OpenMP-to-RTL HLS compiler from PandA, supports FPGA and ASIC targets.
