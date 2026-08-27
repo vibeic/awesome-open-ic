@@ -675,6 +675,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LUNA-SOC](https://github.com/greatscottgadgets/luna-soc)** — Amaranth HDL library for building SoCs around LUNA USB peripherals, pairing a Minerva or VexRiscv RISC-V core with Wishbone and CSR peripherals such as SRAM, GPIO, and UART.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rocket Chip FPGA Shells](https://github.com/chipsalliance/rocket-chip-fpga-shells)** — Chisel shell and overlay library that wraps any Rocket Chip subsystem configuration for a given FPGA board, with Xilinx Series7/UltraScale and Microsemi device support; replaces the sifive/fpga-shells repository.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

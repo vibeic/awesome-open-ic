@@ -33,6 +33,8 @@ Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ICE-V Wireless](https://github.com/ICE-V-Wireless/ICE-V-Wireless)** — Board pairing an Espressif ESP32-C3-MINI-1 module with a Lattice iCE40UP5K FPGA over SPI, so the FPGA can be configured and driven over Wi-Fi or Bluetooth; the repository holds the hardware, firmware, gateware, and host-side utilities.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[pico2-ice](https://github.com/tinyvision-ai-inc/pico2-ice)** — Open-hardware KiCad board pairing a Raspberry Pi RP2350B microcontroller with a Lattice iCE40UP5K FPGA, with separate flash for each device, 8 MB QSPI PSRAM, and all pins on 0.1-inch Pmod-style headers.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice ECP5 (fully open toolchain)
 
@@ -70,6 +72,8 @@ Open-source projects (e.g. F4PGA / Project X-Ray) reverse-engineer the 7-series 
   `License: ISC` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — toolchain enabler for Xilinx boards*
 - **[F4PGA Architecture Definitions](https://github.com/SymbiFlow/symbiflow-arch-defs)** — Open FPGA architecture definitions covering iCE40, ECP5, Xilinx 7-series (Artix/Kintex/Zynq) and QuickLogic.
   `License: ISC / Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — toolchain enabler*
+- **[Kintex K410T Devboard](https://github.com/antmicro/kintex-410t-devboard)** — Open-hardware KiCad development board for the AMD Xilinx Kintex-7 K410T FPGA with 512 MB DDR3L, 256 MB SPI NOR flash, gigabit Ethernet, and HDMI output.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Gowin (partial open)
 
@@ -165,6 +169,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
 - **[DDR5 Testbed](https://github.com/antmicro/ddr5-testbed)** — Open-hardware test bed for interfacing a Micron MT60B2G8HB DDR5 IC with FPGA-driven memory testers, used with the Rowhammer Tester gateware.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LPDDR5 Testbed](https://github.com/antmicro/lpddr5-testbed)** — Open-hardware adapter that interfaces a single LPDDR5 IC with FPGA-driven memory testers.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Data Center RDIMM DDR4 Tester](https://github.com/antmicro/rdimm-ddr4-tester)** — Open-hardware KiCad platform built around a Xilinx Kintex-7 FPGA for interfacing with data-center RDIMM DDR4 modules; the board used by the Rowhammer testing framework.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR

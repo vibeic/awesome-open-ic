@@ -114,3 +114,5 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Bringup-Bench](https://github.com/toddmaustin/bringup-bench)** — Collection of C benchmarks with zero library dependencies and only four required system calls, built for bringing up newly designed CPUs, accelerators, compilers, and operating systems.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[HighTide](https://github.com/VLSIDA/HighTide)** — Benchmark suite that builds open-source hardware designs through the OpenROAD RTL-to-GDSII flow on ASAP7, NanGate45, and SkyWater 130 nm, with each design pinned to an upstream commit and fetched by Bazel.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

@@ -68,6 +68,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TL-Test-New](https://github.com/OpenXiangShan/tl-test-new)** — Unified TileLink memory-subsystem tester from the XiangShan project, driving Verilator-built cache DUTs such as CoupledL2 and OpenLLC through scenario regressions.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Verilator Verification Test Suite](https://github.com/antmicro/verilator-verification)** — Test dashboard tracking Verilator support for SystemVerilog verification features including concurrent assertions, functional coverage, randomization constraints, sequences, and class parameters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -103,6 +105,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CVFPU UVM Testbench](https://github.com/openhwgroup/cvfpu-uvm)** — UVM verification environment for the CVFPU floating-point unit in its CVA6 wrapper, with a C++ reference model, a documented testplan, and regression scripts.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CRAVE](https://github.com/accellera-official/crave)** — Accellera reference implementation of a C++/SystemC constrained-random stimulus library with BDD- and SAT/SMT-based constraint solvers, intended for use with UVM-SystemC.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -212,6 +216,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-3-Clause-Clear` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-coq](https://github.com/mit-plv/riscv-coq)** — RISC-V ISA specification in Coq covering RV32I and RV64I with the A and M extensions, generated from the riscv-semantics Haskell model via hs-to-coq plus hand-written Coq files.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Isla](https://github.com/rems-project/isla)** — Symbolic execution engine for Sail ISA specifications that evaluates relaxed-memory behavior of Armv8-A and RISC-V against axiomatic memory models written in the herd7 cat language.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing
 
