@@ -118,6 +118,10 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V RPMI](https://github.com/riscv-non-isa/riscv-rpmi)** — Platform Management Interface specification defining an extensible messaging interface between application processors and platform microcontrollers for system management and control.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V UEFI Protocol Specification](https://github.com/riscv-non-isa/riscv-uefi)** — Specification of the UEFI protocols that RISC-V platforms require, reviewed in the RISC-V Unix Platform group before being referenced by the UEFI Forum specification.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V External Debug Security](https://github.com/riscv-non-isa/riscv-external-debug-security)** — RISC-V International specification defining security controls for the external debug architecture, maintained as AsciiDoc sources that build to a PDF.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 

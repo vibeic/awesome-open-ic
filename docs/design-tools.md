@@ -452,6 +452,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[KLayout Library Manager](https://github.com/iic-jku/klayout-library-manager)** — KLayout plugin from JKU Linz for hierarchical layout libraries, storing library cells as OASIS-based `.klay` layouts and library maps as JSON `.klib` files.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[klayout_pyxs](https://github.com/gdsfactory/klayout_pyxs)** — Python port of the XSection add-on for KLayout that builds a cross-section view of a layout from a technology description script.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
