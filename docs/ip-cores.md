@@ -224,6 +224,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Ventus GPGPU](https://github.com/THU-DSP-LAB/ventus-gpgpu)** — GPGPU processor supporting the RISC-V vector extension, written in Chisel, developed at the International Innovation Center of Tsinghua University with an accompanying OpenCL toolchain.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[f32c](https://github.com/f32c/f32c)** — Parameterized VHDL 32-bit pipelined core that executes subsets of either the RISC-V or the MIPS instruction set, shipped with SoC modules and glue logic for many FPGA boards.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -381,6 +383,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EF_I2S](https://github.com/efabless/EF_I2S)** — Two-wire I2S synchronous serial audio interface with APB, AHB-Lite, and Wishbone wrappers that share one programmer's interface.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AOU-RTL (AXI-over-UCIe)](https://github.com/tenstorrent/tt-oca-harness-aou)** — Pre-release SystemVerilog bridge that carries AXI4 traffic over the UCIe 3.0 Flit-Die Interface, exposing AXI4 master and slave ports, an APB3 configuration port, and 32B/64B/128B FDI configurations.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -519,6 +523,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenLLC](https://github.com/OpenXiangShan/OpenLLC)** — Chisel last-level cache from the XiangShan project with a CHI interface, directory, snoop unit, and refill/response pipeline, built on CoupledL2 and OpenNCB.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenCache](https://github.com/VLSIDA/OpenCache)** — Python generator that builds configurable cache designs on OpenRAM SRAM arrays, emitting synthesizable Verilog for the cache logic together with the SRAM configuration files.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bsg_fakeram](https://github.com/bespoke-silicon-group/bsg_fakeram)** — Black-box SRAM generator that reads a JSON technology and memory-size configuration and produces macro views, using a modified Cacti for area, power, and timing modeling, for flows without a commercial memory compiler.
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

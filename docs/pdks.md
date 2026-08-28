@@ -132,6 +132,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NanGate45 Synopsys Enablement](https://github.com/ABKGroup/NanGate45-Synopsys-Enablement)** — Public `.tluplus` and supporting enablement files from UCSD, POSTECH, and Drexel that let Synopsys tools run post-route extraction, timing, and timing-driven place-and-route on the NanGate45 open PDK and Open Cell Library, with test cases correlating against the existing Cadence enablement.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sky130_klayout_pdk](https://github.com/mabrains/sky130_klayout_pdk)** — KLayout technology, layer-property, and LVS files plus device generators for the SkyWater 130 nm process, from Mabrains; the repository states the files are not qualified.
+  `License: AGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
