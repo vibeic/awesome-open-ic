@@ -70,6 +70,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Verilator Verification Test Suite](https://github.com/antmicro/verilator-verification)** — Test dashboard tracking Verilator support for SystemVerilog verification features including concurrent assertions, functional coverage, randomization constraints, sequences, and class parameters.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyHDL-IF](https://github.com/fvutils/pyhdl-if)** — Interface library that lets SystemVerilog and UVM testbenches start Python behavior, call Python methods, and run async pytest tests, passing structured data through ctypes structures.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -157,6 +159,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[imctk](https://github.com/YosysHQ/imctk)** — YosysHQ incremental model checking toolkit: a set of Rust crates providing an AIGER front-end, ABC bindings, an intermediate representation, and an `eqy-engine` crate for equivalence checking.
   `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AutoSVA](https://github.com/PrincetonUniversity/AutoSVA)** — Generates formal testbenches with SystemVerilog liveness properties from annotations placed in an RTL module's signal declarations, for unit-level formal verification.
+  `License: BSD-3-Clause-Clear` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -203,6 +207,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OxiDD](https://github.com/OxiDD/oxidd)** — Concurrent decision diagram framework written in Rust, supporting BDDs, zero-suppressed BDDs and multi-terminal BDDs with C, C++ and Python bindings.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MEDDLY](https://github.com/asminer/meddly)** — Library of multi-terminal and edge-valued decision diagrams with C++ and C interfaces, used as a symbolic back-end for state-space generation and reachability analysis.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 
@@ -218,6 +224,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Isla](https://github.com/rems-project/isla)** — Symbolic execution engine for Sail ISA specifications that evaluates relaxed-memory behavior of Armv8-A and RISC-V against axiomatic memory models written in the herd7 cat language.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ILAng](https://github.com/PrincetonUniversity/ILAng)** — Modeling and verification platform that specifies accelerators and SoC components as Instruction-Level Abstractions and checks RTL implementations against them.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing
 

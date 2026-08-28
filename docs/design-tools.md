@@ -89,6 +89,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Polygeist](https://github.com/llvm/Polygeist)** — C and C++ frontend that raises source code into MLIR while preserving loop structure for polyhedral and parallel transformations, used as an input path by MLIR-based high-level synthesis flows.
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Stream-HLS](https://github.com/UCLA-VAST/Stream-HLS)** — MLIR-based framework that converts PyTorch models or C/C++ code into streaming dataflow HLS designs, using an analytical performance model to schedule the generated modules globally.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -196,6 +198,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[svinst](https://github.com/sgherbst/svinst)** — Command-line tool built on sv-parser that lists the modules declared in a SystemVerilog file and the modules instantiated inside each declaration, so a design hierarchy can be assembled outside Verilog configs and libraries.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MLIR-AIE](https://github.com/Xilinx/mlir-aie)** — MLIR dialect and Python API for programming the AI Engine array in AMD Ryzen AI NPUs, covering core code generation, data movement, and array configuration.
+  `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -333,6 +337,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TaiWei](https://github.com/CODA-Team/TaiWei)** — Physical-design platform for three-dimensional system integration, targeting chiplet, 3D-stacking, and heterogeneous-integration flows with system-technology co-optimization (STCO); documentation is in Chinese.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GrayWolf](https://github.com/rubund/graywolf)** — Standard-cell placement tool forked from TimberWolf 6.3.5 and repackaged as an ordinary command-line program; used as the placer in the qflow ASIC flow.
+  `License: GPL-2.0-or-later` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -667,6 +673,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: EPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Xschem Viewer](https://github.com/TinyTapeout/xschem-viewer)** — Browser-based viewer for Xschem schematic files, from the Tiny Tapeout project, that displays a schematic without a local Xschem installation.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sphinxcontrib-hdl-diagrams](https://github.com/SymbiFlow/sphinxcontrib-hdl-diagrams)** — Sphinx extension that generates diagrams from Verilog, nMigen, and RTLIL sources, primarily by driving Yosys to read the design.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 
@@ -761,3 +769,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bsc-contrib](https://github.com/B-Lang-org/bsc-contrib)** — Shared BSV and BH library and utility collection for the Bluespec compiler, holding packages kept outside the core `bsc` repository.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Cement](https://github.com/pku-liang/Cement)** — Rust-embedded hardware description language with rule-based semantics that emits SystemVerilog through the FIRRTL intermediate representation and the firtool compiler.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
