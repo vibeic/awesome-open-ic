@@ -66,6 +66,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CHIA](https://github.com/ucb-bar/chia)** — UC Berkeley framework that expresses hardware/software co-design workflows as graphs and runs them on a distributed runtime, so AI agents can drive existing EDA tools inside a reproducible flow.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HAgent](https://github.com/masc-ucsc/hagent)** — LLM-based hardware agent framework from UC Santa Cruz that connects language models to hardware design tools for code generation, verification, debugging, and synthesis through Docker builds and YAML-described pipelines.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -129,6 +131,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[iPCL-R](https://github.com/OSCC-Project/iPCL-R)** — Pre-trained sequence model for chip layout routing from the iEDA team that treats routing patterns as token sequences, with a pipeline from EDA data extraction through training to routing generation and evaluation.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DE-HNN](https://github.com/TILOS-AI-Institute/DEHNN)** — Hypergraph neural network for circuit-netlist representation (AISTATS 2024), with training code and netlist datasets for predicting routing congestion and other physical-design outcomes.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

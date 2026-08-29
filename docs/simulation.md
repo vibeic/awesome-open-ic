@@ -16,6 +16,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-wrapped-brightgreen) *via `eda_synth` (synthesis mode)*
 - **[DigitalJS](https://github.com/tilk/digitaljs)** — Browser-based digital circuit simulator that runs Yosys-synthesized Verilog netlists interactively for visualization and teaching.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DigSim](https://github.com/freand76/digsim)** — Interactive Python digital-logic simulator with a GUI that runs gate-level circuits and Yosys-synthesized Verilog modules for teaching and experimentation.
+  `License: BSD-3-Clause-Clear` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Simulators
 
@@ -228,6 +230,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ETISS](https://github.com/tum-ei-eda/etiss)** — Extendable translating instruction-set simulator from TU Munich that translates target instructions to C at run time for RISC-V and other architectures, with a plugin interface for virtual prototyping and architecture exploration.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PACT](https://github.com/peaclab/PACT)** — SPICE-based parallel compact thermal simulator for standard-cell-level to architecture-level steady-state and transient analysis, taking floorplan, layer-configuration, and power-trace files and solving with Xyce or SuperLU.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
