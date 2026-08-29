@@ -72,6 +72,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyHDL-IF](https://github.com/fvutils/pyhdl-if)** — Interface library that lets SystemVerilog and UVM testbenches start Python behavior, call Python methods, and run async pytest tests, passing structured data through ctypes structures.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pcievhost](https://github.com/wyvernSemi/pcievhost)** — PCIe 1.0a to 2.0 virtual root-complex model that generates physical, data-link, and transaction-layer traffic for up to 16 lanes from a user C program, co-simulating with Verilog, SystemVerilog, and VHDL through the VProc virtual processor.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 

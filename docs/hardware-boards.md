@@ -10,6 +10,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: Hardware (commercially available)` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Eurorack PMOD](https://github.com/apfaudio/eurorack-pmod)** — Open-hardware analog audio front-end module that plugs into the PMOD header of many FPGA development boards, with board ports and example DSP gateware buildable under the open Yosys toolchain.
   `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)** — Open-hardware system-on-module built around the Cologne Chip GateMate FPGA, with KiCad sources and schematics for the module and its Raspberry Pi HAT, memory-extension, and USB 3 adapter boards.
+  `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

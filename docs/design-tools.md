@@ -91,6 +91,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Stream-HLS](https://github.com/UCLA-VAST/Stream-HLS)** — MLIR-based framework that converts PyTorch models or C/C++ code into streaming dataflow HLS designs, using an analytical performance model to schedule the generated modules globally.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Polyphony](https://github.com/polyphony-dev/polyphony)** — High-level synthesis compiler that generates synthesizable Verilog HDL from a subset of Python.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -277,6 +279,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DREAMPlaceFPGA](https://github.com/rachelselinar/DREAMPlaceFPGA)** — Analytical placer for large heterogeneous FPGAs built on a deep-learning toolkit, covering global placement, packing and legalization, and timing-driven placement.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Project Bureau](https://github.com/whitequark/prjbureau)** — Documentation of the Atmel/Microchip ATF15xx CPLD fuse maps and programming algorithms, shipped as a machine-readable database with fuzzers and bitstream utilities.
+  `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -304,6 +308,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Alliance](https://github.com/lip6/alliance)** — VLSI CAD system from LIP6 / Sorbonne Université covering VHDL synthesis, place-and-route, symbolic layout editing, extraction, and DRC, shipped with its own portable standard-cell libraries.
   `License: GPL-2.0 / LGPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ORDeC](https://github.com/tub-msc/ordec)** — Custom IC design platform from TU Berlin combining the ORD hardware description language, a schematic and layout data model, Ngspice integration, and a web interface for analog, mixed-signal, and custom digital design; currently at an experimental stage.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -412,6 +418,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RgGen SystemVerilog](https://github.com/rggen/rggen-systemverilog)** — RgGen plugin that emits SystemVerilog RTL and a UVM register model from a register-map specification.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SoCMake](https://github.com/HEP-SoC/SoCMake)** — CMake library that adds hardware support to the CMake build system, driving Verilog/SystemVerilog/VHDL simulation, SystemC and UVM testbenches, and C/C++ cross-compilation for SoC projects from one flow.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -460,6 +468,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[klayout_pyxs](https://github.com/gdsfactory/klayout_pyxs)** — Python port of the XSection add-on for KLayout that builds a cross-section view of a layout from a technology description script.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[capiche](https://github.com/RTimothyEdwards/capiche)** — Parasitic-capacitance analysis of foundry metal stackups that builds FasterCap geometries from a PDK and generates the resulting capacitance parameters for a Magic technology file.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -675,6 +685,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sphinxcontrib-hdl-diagrams](https://github.com/SymbiFlow/sphinxcontrib-hdl-diagrams)** — Sphinx extension that generates diagrams from Verilog, nMigen, and RTLIL sources, primarily by driving Yosys to read the design.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Netlist Viewer](https://github.com/f18m/netlist-viewer)** — Desktop tool that loads a SPICE netlist and converts it into a graphical schematic representation of the circuit.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

@@ -154,6 +154,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NoX](https://github.com/aignacio/nox)** — 32-bit RISC-V core (RV32I_Zicsr) in SystemVerilog with a four-stage single-issue in-order pipeline, machine-mode privileged support, and a choice of AXI4 or AHB interfaces.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[QERV](https://github.com/olofk/qerv)** — Four-bit-serial variant of the SERV RV32I core that trades a small area increase for higher throughput while staying compatible with SERV and its FuseSoC flow.
+  `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -482,6 +484,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0 (generator) / LGPL-3.0 (generated RTL)` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Ascon hardware reference](https://github.com/ascon/ascon-hardware)** — NIST Lightweight Cryptography hardware reference implementation of Ascon v1.2 from the algorithm's designers, covering authenticated encryption and hashing.
   `License: GPL-3.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[qoiimg](https://github.com/ZipCPU/qoiimg)** — Verilog encoder for the Quite OK Image (QOI) format that compresses video frames into an AXI stream of QOI packets, with a Wishbone recorder to write them to memory.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -527,6 +531,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bsg_fakeram](https://github.com/bespoke-silicon-group/bsg_fakeram)** — Black-box SRAM generator that reads a JSON technology and memory-size configuration and produces macro views, using a modified Cacti for area, power, and timing modeling, for flows without a commercial memory compiler.
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[esp-caches](https://github.com/sld-columbia/esp-caches)** — SystemVerilog L2 and last-level cache hierarchy with a directory-based coherence protocol for Columbia's ESP SoC platform, plus SystemC wrappers for co-simulation with the ESP testbenches.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
