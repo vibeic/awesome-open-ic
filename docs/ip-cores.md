@@ -156,6 +156,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[QERV](https://github.com/olofk/qerv)** — Four-bit-serial variant of the SERV RV32I core that trades a small area increase for higher throughput while staying compatible with SERV and its FuseSoC flow.
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ultraembedded RISC-V Core](https://github.com/ultraembedded/riscv)** — 32-bit RV32IMZicsr core in Verilog with machine, supervisor, and user privilege modes and basic MMU support, verified against a C++ ISA model using RISCV-DV random instruction sequences.
+  `License: BSD-3-Clause` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -387,6 +389,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AOU-RTL (AXI-over-UCIe)](https://github.com/tenstorrent/tt-oca-harness-aou)** — Pre-release SystemVerilog bridge that carries AXI4 traffic over the UCIe 3.0 Flit-Die Interface, exposing AXI4 master and slave ports, an APB3 configuration port, and 32B/64B/128B FDI configurations.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteI2C](https://github.com/litex-hub/litei2c)** — Small-footprint configurable I2C controller core for LiteX-based FPGA SoCs.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP Ethernet](https://github.com/pulp-platform/pulp-ethernet)** — Technology- and FPGA-agnostic synthesizable Gigabit Ethernet IP for PULP SoCs, adapted from lowRISC's ariane-ethernet top level and Alex Forencich's RGMII MAC.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openPCIE](https://github.com/chili-chips-ba/openPCIE)** — PCI Express Gen2 Root Complex for Artix-7 FPGAs that surrounds the Xilinx Series-7 PCIe and GTP hard macros with open RTL, a layered software driver, and a hardware/software co-simulation setup.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -486,6 +494,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[qoiimg](https://github.com/ZipCPU/qoiimg)** — Verilog encoder for the Quite OK Image (QOI) format that compresses video frames into an AXI stream of QOI packets, with a Wishbone recorder to write them to memory.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPU Subsystem (fpu_ss)](https://github.com/pulp-platform/fpu_ss)** — 32-bit floating-point coprocessor implementing the RISC-V F and Zfinx extensions, attached to a core over the CORE-V eXtension Interface and using CVFPU/FPnew as its execution unit.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SoftEx](https://github.com/pulp-platform/softex)** — Hardware processing engine that computes the floating-point softmax function, with a dedicated exponential unit, reduction and accumulation datapath, and an HWPE streaming interface.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -533,6 +545,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[esp-caches](https://github.com/sld-columbia/esp-caches)** — SystemVerilog L2 and last-level cache hierarchy with a directory-based coherence protocol for Columbia's ESP SoC platform, plus SystemC wrappers for co-simulation with the ESP testbenches.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hier-icache](https://github.com/pulp-platform/hier-icache)** — Hierarchical instruction cache for PULP multi-core clusters, pairing per-core private L1 caches with a shared L1.5 cache and an AXI4 refill path.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -691,6 +705,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Rocket Chip FPGA Shells](https://github.com/chipsalliance/rocket-chip-fpga-shells)** — Chisel shell and overlay library that wraps any Rocket Chip subsystem configuration for a given FPGA board, with Xilinx Series7/UltraScale and Microsemi device support; replaces the sifive/fpga-shells repository.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pulp_soc](https://github.com/pulp-platform/pulp_soc)** — SoC microcontroller subsystem used by the PULPissimo single-core and PULP multi-core chips, providing the interconnect, memory, and peripheral structure around the compute core.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chimera](https://github.com/pulp-platform/chimera)** — Configurable microcontroller SoC template from PULP for multi-cluster heterogeneous systems, aimed at integrating and managing hardware accelerators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[linux-on-litex-rocket](https://github.com/litex-hub/linux-on-litex-rocket)** — Reference LiteX SoC design that boots 64-bit Linux on an RV64GC Rocket Chip core on FPGA boards.
+  `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
