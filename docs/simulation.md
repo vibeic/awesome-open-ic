@@ -253,6 +253,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[BSG Replicant](https://github.com/bespoke-silicon-group/bsg_replicant)** — Cosimulation and emulation infrastructure for the HammerBlade manycore, providing the host runtime, example programs, and a regression flow shared between RTL simulation and FPGA execution.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NVBoard](https://github.com/NJU-ProjectN/nvboard)** — SDL-based virtual FPGA board that attaches to a Verilator simulation and models LEDs, seven-segment displays, DIP switches, UART, keyboard, and VGA output.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 
