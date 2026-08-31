@@ -61,6 +61,8 @@ Quartus required for synthesis/bitstream, but RTL and constraint files can be au
 
 - **[Tang Primer 20K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-20k/primer-20k.html)** — Note: vendor calls this "Tang Primer" but it ships a Gowin GW2A-18 (20,736 LUT4, 828Kb BSRAM, 128M DDR3) — listed here for completeness near the larger eval-board class; Gowin toolchain required.
   `License: Hardware (commercially available)` | `Last commit: 2025 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[MiSTer](https://github.com/MiSTer-devel/Main_MiSTer)** — Open-source FPGA platform on the Terasic DE10-Nano (Cyclone V SoC) that re-implements classic computers, game consoles, and arcade boards as RTL cores maintained by a large community.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Xilinx
 
