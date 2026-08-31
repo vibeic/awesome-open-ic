@@ -66,6 +66,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[snp2le](https://github.com/iic-jku/snp2le)** — Converts S-parameter Touchstone files into lumped-element SPICE or Spectre netlists, with both a PySide6 GUI and a command-line interface, from JKU Linz.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DMT-core](https://github.com/SemiMod/DMT-core)** — Python toolkit for compact-model parameter extraction and electrical characterization that manages measurement data and drives circuit simulators such as ngspice and Xyce from a unified interface.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -232,6 +234,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PACT](https://github.com/peaclab/PACT)** — SPICE-based parallel compact thermal simulator for standard-cell-level to architecture-level steady-state and transient analysis, taking floorplan, layer-configuration, and power-trace files and solving with Xyce or SuperLU.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[STONNE](https://github.com/stonne-simulator/stonne)** — Cycle-level microarchitectural simulator for flexible DNN accelerators such as MAERI and SIGMA, with a PyTorch frontend for evaluating full models on simulated hardware.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -268,6 +272,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PyMeasure](https://github.com/pymeasure/pymeasure)** — Python measurement package that bundles instrument drivers, experiment sequencing, and live plotting for automated bench measurements.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Scopy](https://github.com/analogdevicesinc/scopy)** — Multi-instrument lab software from Analog Devices for ADALM2000 and related hardware, providing oscilloscope, spectrum analyzer, network analyzer, logic analyzer, and pattern-generator front-ends.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Photonics & Electromagnetic
 

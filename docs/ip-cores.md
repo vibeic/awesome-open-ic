@@ -395,6 +395,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openPCIE](https://github.com/chili-chips-ba/openPCIE)** — PCI Express Gen2 Root Complex for Artix-7 FPGAs that surrounds the Xilinx Series-7 PCIe and GTP hard macros with open RTL, a layered software driver, and a hardware/software co-simulation setup.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Manta](https://github.com/fischermoseley/manta)** — Generates on-chip logic-analyzer and register-I/O debug cores for FPGA designs, with a Python host-side API that communicates over UART or Ethernet.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

@@ -66,6 +66,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
 - **[OpenROAD GitHub Discussions](https://github.com/The-OpenROAD-Project/OpenROAD/discussions)** — Active Q&A board for the OpenROAD digital-flow project; categories for general, ideas, Q&A, show-and-tell.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
+- **[Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/)** — Stack Exchange Q&A site for electronics and electrical engineering, with active tags for IC design, FPGA, Verilog/VHDL, and semiconductor device questions.
+  `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community*
 
 ## Newsletters & Blogs
 
