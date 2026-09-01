@@ -46,6 +46,16 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Community resource` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 - **[OSDA](https://osda.ws/)** — Workshop on Open-Source Design Automation, held in conjunction with the DATE conference; brings industrial, academic, and hobbyist actors together over open design-automation work.
   `License: Community resource` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[DAC (Design Automation Conference)](https://www.dac.com/)** — Annual conference and exhibition on chips-to-systems design with tracks on EDA, design, AI, security, and systems; the 63rd edition runs July 26-29, 2026 in Long Beach, California.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[DATE](https://www.date-conference.com/)** — Design, Automation and Test in Europe conference on electronic system design and test, covering ICs and SoCs, reconfigurable hardware, and embedded systems; DATE 2027 runs March 22-24 in Dresden, Germany.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[Hot Chips](https://hotchips.org/)** — Annual symposium on high-performance chips where industry and academia present new CPUs, GPUs, AI accelerators, FPGAs, memory, and networking silicon.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[ICCAD](https://iccad.com/)** — IEEE/ACM International Conference on Computer-Aided Design, the principal research forum for EDA from device and circuit level up to system level; the 2026 edition runs November 8-12 in San Jose, California.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[ISSCC](https://www.isscc.org/)** — IEEE International Solid-State Circuits Conference, the leading global forum for advances in solid-state circuits and systems-on-chip; ISSCC 2027 runs February 14-18 in San Francisco.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 
 ## Chat & Real-time Discussion
 
@@ -76,6 +86,8 @@ Foundations, chats, and forums that keep open silicon moving.
 - **[Zero to ASIC Newsletter](https://www.zerotoasiccourse.com/newsletter/)** — Matt Venn's newsletter on open-source IC design, Tiny Tapeout updates, and shuttle results.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
 - **[El Correo Libre](https://fossi-foundation.org/ecl/)** — FOSSi Foundation's monthly newsletter rounding up free/open-source silicon ecosystem news, projects, and events.
+  `License: Public reading` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
+- **[Ken Shirriff's Blog](https://www.righto.com/)** — Blog on IC reverse engineering and computer history, with die photographs and circuit-level analyses of vintage chips and modules.
   `License: Public reading` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — publication*
 
 ## YouTube & Podcasts

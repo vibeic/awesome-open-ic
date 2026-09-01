@@ -68,6 +68,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sunburst Chip](https://github.com/lowRISC/sunburst-chip)** — Microcontroller chip design built around the CHERIoT Ibex RISC-V core, shipping the logical design, a design-verification environment, and bare-metal test software from lowRISC's Sunburst project.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ControlPULP](https://github.com/pulp-platform/control-pulp)** — PULP-based multi-core RISC-V platform from ETH Zurich and the University of Bologna intended as a real-time embedded power and thermal controller for HPC processors, developed within the European Processor Initiative.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -713,6 +715,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[linux-on-litex-rocket](https://github.com/litex-hub/linux-on-litex-rocket)** — Reference LiteX SoC design that boots 64-bit Linux on an RV64GC Rocket Chip core on FPGA boards.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenCGRA](https://github.com/pnnl/OpenCGRA)** — PNNL parameterizable coarse-grained reconfigurable array (CGRA) generator built on PyMTL that emits synthesizable Verilog for user-specified array size, per-tile functional-unit mix, and interconnect topology.
+  `License: BSD-3-Clause (Battelle variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
