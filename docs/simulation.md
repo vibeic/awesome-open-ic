@@ -68,6 +68,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DMT-core](https://github.com/SemiMod/DMT-core)** — Python toolkit for compact-model parameter extraction and electrical characterization that manages measurement data and drives circuit simulators such as ngspice and Xyce from a unified interface.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cicsim](https://github.com/wulffern/cicsim)** — Python command-line package from Carsten Wulff (NTNU) that drives ngspice for corner simulations, creates IP and simulation directories, and views waveforms in open-source analog design flows.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 

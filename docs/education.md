@@ -201,3 +201,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[flipflop_demo](https://github.com/mattvenn/flipflop_demo)** — Interactive explorer for flip-flop setup time, hold time, and metastability, driven by SPICE sweeps of a SKY130 transmission-gate D flip-flop and shipping an OpenLane configuration to build the GDS.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[EDA Playground](https://www.edaplayground.com/)** — Browser-based HDL editor and simulator from Doulos for running Verilog, SystemVerilog, VHDL, and SystemC code on open-source simulators (Icarus Verilog, Verilator, GHDL, Yosys) and selected commercial ones; free with sign-in.
+  `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

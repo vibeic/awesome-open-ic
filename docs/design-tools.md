@@ -30,6 +30,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Lighter](https://github.com/AUCOHL/Lighter)** — Automatic clock-gating utility that rewrites a synthesized netlist to insert clock-gating cells and reports the resulting dynamic-power reduction.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[aigverse](https://github.com/marcelwa/aigverse)** — Python library that wraps the EPFL mockturtle/lorina C++ logic-synthesis stack to construct, read, optimize, and analyze And-Inverter Graphs from Python-first workflows.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 
@@ -93,6 +95,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Polyphony](https://github.com/polyphony-dev/polyphony)** — High-level synthesis compiler that generates synthesizable Verilog HDL from a subset of Python.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SODA-OPT](https://github.com/pnnl/soda-opt)** — MLIR-based compiler from PNNL that extracts, optimizes, and lowers selected high-level code regions (e.g., from TensorFlow or ONNX models) to LLVM IR so that downstream HLS tools such as Bambu can synthesize them.
+  `License: BSD-3-Clause (Battelle variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vitis Libraries](https://github.com/Xilinx/Vitis_Libraries)** — AMD/Xilinx collection of performance-optimized C/C++ HLS libraries (BLAS, DSP, vision, security, database, graph) written for Vitis HLS and FPGA acceleration flows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 

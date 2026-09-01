@@ -87,6 +87,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RTL-BenchLS](https://github.com/hkust-zhiyao/RTL-BenchLS)** — Large-scale benchmark of 10,028 formally-verified Verilog designs with three self-supervised tasks — round-trip reasoning, masked-content reasoning, and repository-issue reasoning — all checked by sequential/logic equivalence rather than hand-written testbenches.
   `License: CC-BY-4.0 (data) / MIT (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[RealBench](https://github.com/IPRC-DIP/RealBench)** — Benchmark of complex, real-scenario IP design tasks at module and system level with multi-modal specifications and syntax, functional, and formal correctness verification for LLM-based RTL generation (arXiv 2507.16200).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 
 ## Datasets
 
@@ -110,6 +112,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: arXiv` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[AICircuit](https://github.com/AvestimehrResearchGroup/AICircuit)** — Multi-level dataset and benchmark for machine-learning-driven analog and RF circuit design, covering seven basic circuits and two wireless transceiver systems built from multiple blocks.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HLSFactory](https://github.com/sharc-lab/HLSFactory)** — Python framework for building high-level-synthesis datasets for machine learning, covering design-space sampling, HLS tool execution, and data aggregation across benchmark suites.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 
 ## ML for Placement & Routing
 
