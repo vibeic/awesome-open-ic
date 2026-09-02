@@ -53,6 +53,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout SKY130 analog template](https://github.com/TinyTapeout/ttsky-analog-template)** — Submission template for analog, mixed-signal, and custom-GDS Tiny Tapeout projects on the SKY130 (ChipFoundry) shuttles.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ihp-sg13cmos5l LibreLane Template](https://github.com/IHP-GmbH/ihp-sg13cmos5l-librelane-template)** — LibreLane full-chip implementation template for the IHP SG13CMOS5L open PDK, shipped with a Nix flake that provides the matching tool shell.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 

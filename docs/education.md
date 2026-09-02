@@ -203,3 +203,7 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[EDA Playground](https://www.edaplayground.com/)** — Browser-based HDL editor and simulator from Doulos for running Verilog, SystemVerilog, VHDL, and SystemC code on open-source simulators (Icarus Verilog, Verilator, GHDL, Yosys) and selected commercial ones; free with sign-in.
   `License: Free signup` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[F4PGA Examples](https://github.com/chipsalliance/f4pga-examples)** — Example FPGA designs that build end to end with the F4PGA open-source toolchain, with Xilinx 7-Series and QuickLogic EOS S3 targets.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Silicon Notebooks](https://github.com/chipsalliance/silicon-notebooks)** — Jupyter and Colab notebooks that run open silicon flows in the browser, including a digital inverter through OpenLane on sky130 and gf180mcu and an analog inverter in Magic.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

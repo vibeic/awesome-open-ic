@@ -95,6 +95,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[msdsl](https://github.com/sgherbst/msdsl)** — Python tool that generates synthesizable real-number models of analog circuits for FPGA emulation; part of the mixed-signal emulation framework with svreal and anasymod.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Whisper (VeeR-ISS)](https://github.com/chipsalliance/VeeR-ISS)** — RISC-V instruction set simulator written for VeeR core verification; runs interactively or in lock step with a Verilog simulator as a golden model.
+  `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
