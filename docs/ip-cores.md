@@ -195,6 +195,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sargantana](https://github.com/bsc-loca/sargantana)** — RV64GB core from the Barcelona Supercomputing Center with a 7-stage pipeline, out-of-order write-back, register renaming, and a non-blocking memory pipeline; reported at 1.26 GHz in the typical corner of a 22 nm FD-SOI technology.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP C910](https://github.com/pulp-platform/pulp-c910)** — Superscalar out-of-order RV64 core adapted from T-Head's openC910 and wrapped for integration into the PULP ecosystem.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -399,6 +401,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Manta](https://github.com/fischermoseley/manta)** — Generates on-chip logic-analyzer and register-I/O debug cores for FPGA designs, with a Python host-side API that communicates over UART or Ethernet.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[trace_debugger](https://github.com/pulp-platform/trace_debugger)** — RISC-V instruction trace unit that records control-flow discontinuities and compresses them with branch tracing before streaming the packets out.
+  `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteNVMe](https://github.com/enjoy-digital/litenvme)** — Small-footprint configurable NVMe host core built with Migen and LiteX for driving NVMe storage from an FPGA SoC.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -502,6 +508,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SoftEx](https://github.com/pulp-platform/softex)** — Hardware processing engine that computes the floating-point softmax function, with a dedicated exponential unit, reduction and accumulation datapath, and an HWPE streaming interface.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fpu_interco](https://github.com/pulp-platform/fpu_interco)** — Interconnect that lets the cores of a PULP cluster share a pool of floating-point units, with a template for top-level integration.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -717,6 +725,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenCGRA](https://github.com/pnnl/OpenCGRA)** — PNNL parameterizable coarse-grained reconfigurable array (CGRA) generator built on PyMTL that emits synthesizable Verilog for user-specified array size, per-tile functional-unit mix, and interconnect topology.
   `License: BSD-3-Clause (Battelle variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Culsans](https://github.com/pulp-platform/culsans)** — Tightly-coupled cache coherence unit using the ACE protocol to keep memory accesses consistent across the two to four CVA6 cores of a multicore system.
+  `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

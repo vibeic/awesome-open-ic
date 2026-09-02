@@ -137,6 +137,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DE-HNN](https://github.com/TILOS-AI-Institute/DEHNN)** — Hypergraph neural network for circuit-netlist representation (AISTATS 2024), with training code and netlist datasets for predicting routing congestion and other physical-design outcomes.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpeNPDN](https://github.com/The-OpenROAD-Project/OpeNPDN)** — Convolutional-neural-network framework from the OpenROAD project that synthesizes on-chip power delivery networks at the placement stage by classifying each chip region into a predefined PDN template.
+  `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

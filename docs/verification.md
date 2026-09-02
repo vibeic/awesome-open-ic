@@ -111,6 +111,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CRAVE](https://github.com/accellera-official/crave)** — Accellera reference implementation of a C++/SystemC constrained-random stimulus library with BDD- and SAT/SMT-based constraint solvers, intended for use with UVM-SystemC.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TUE](https://github.com/taichi-ishitani/tue)** — SystemVerilog UVM extension library adding configuration-aware components, agents, reactive sequences, and a register-model layer.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

@@ -210,6 +210,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Open Register Design Tool (ORDT)](https://github.com/Juniper/open-register-design-tool)** — Juniper's register-automation tool that compiles SystemRDL or JSpec register specifications into SystemVerilog/Verilog RTL, UVM register models, C headers, and documentation outputs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libsdcparse](https://github.com/verilog-to-routing/libsdcparse)** — C++ parsing library for a subset of the Synopsys Design Constraints (SDC) language, used by the VTR FPGA flow.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libblifparse](https://github.com/verilog-to-routing/libblifparse)** — C++ parsing library for Berkeley Logic Interchange Format (BLIF) netlists, used by the VTR FPGA flow.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -428,6 +432,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SoCMake](https://github.com/HEP-SoC/SoCMake)** — CMake library that adds hardware support to the CMake build system, driving Verilog/SystemVerilog/VHDL simulation, SystemC and UVM testbenches, and C/C++ cross-compilation for SoC projects from one flow.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteX-Boards](https://github.com/litex-hub/litex-boards)** — Platform and target definitions for the FPGA boards supported by LiteX, covering board I/O, constraints, clocking, and bitstream load and flash methods.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
