@@ -74,6 +74,10 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ISPD 2026 contest — post-placement buffering and sizing](https://github.com/ABKGroup/ISPD26-Contest)** — Contest kit for post-placement buffering and gate sizing: ASAP7 platform files, the aes_cipher_top / jpeg_encoder / ariane / bsg_chip designs, evaluation scripts, and netlist equivalence-checking scripts.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[MLCAD 2026 contest — algorithm discovery for timing optimization](https://github.com/ASU-VDA-Lab/MLCAD26-Contest-Scripts-Benchmarks)** — Public benchmarks, ASAP7 library, and evaluation scripts for the MLCAD 2026 contest on agentic algorithm discovery for timing optimization and detailed placement, scored against a pinned OpenROAD build with netlist equivalence checking.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[DAC 2026 DRC Benchmark](https://github.com/ASU-VDA-Lab/DAC26_DRC_Benchmark)** — Containerized benchmark of 594 frozen ASAP7 KLayout test cases that scores agents on two tasks, DRC violation detection and layout repair, against a golden DRC report.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## HLS / Accelerator Benchmarks
 

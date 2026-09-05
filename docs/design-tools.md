@@ -99,6 +99,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause (Battelle variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vitis Libraries](https://github.com/Xilinx/Vitis_Libraries)** — AMD/Xilinx collection of performance-optimized C/C++ HLS libraries (BLAS, DSP, vision, security, database, graph) written for Vitis HLS and FPGA acceleration flows.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[finn-hlslib](https://github.com/Xilinx/finn-hlslib)** — Vitis HLS C++ template library of quantized neural-network building blocks used by the FINN dataflow accelerator generator.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -214,6 +216,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[libblifparse](https://github.com/verilog-to-routing/libblifparse)** — C++ parsing library for Berkeley Logic Interchange Format (BLIF) netlists, used by the VTR FPGA flow.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MLIR-AIR](https://github.com/Xilinx/mlir-air)** — MLIR dialect and compiler that describes a design as a hierarchy of compute regions over an explicit L3/L2/L1 memory hierarchy, infers asynchronous dependencies, and lowers to MLIR-AIE for AMD NPUs or to `gpu.launch` for AMD GPUs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ipCorePackager](https://github.com/Nic30/ipCorePackager)** — Python API that packages an HDL design into an IP-XACT `component.xml` (Vivado) or Quartus `_hw.tcl` description together with its sources, constraints, and Tcl GUI.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -484,6 +490,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[capiche](https://github.com/RTimothyEdwards/capiche)** — Parasitic-capacitance analysis of foundry metal stackups that builds FasterCap geometries from a PDK and generates the resulting capacitance parameters for a Magic technology file.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[extra_be_checks](https://github.com/d-m-bailey/extra_be_checks)** — Scripts that run additional back-end checks on GDS files with magic, netgen, and CVC; the LVS side of the eFabless MPW precheck flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 

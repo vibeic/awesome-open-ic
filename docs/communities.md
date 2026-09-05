@@ -56,6 +56,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 - **[ISSCC](https://www.isscc.org/)** — IEEE International Solid-State Circuits Conference, the leading global forum for advances in solid-state circuits and systems-on-chip; ISSCC 2027 runs February 14-18 in San Francisco.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[DVCon](https://dvcon.org/)** — Accellera's conference on languages, tools, and methodologies for design and verification of electronic systems and ICs, covering SystemVerilog, VHDL, SystemC, PSS, formal, functional safety, and low-power topics; DVCon U.S. 2027 runs March 1-4 in Santa Clara, California.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 
 ## Chat & Real-time Discussion
 
