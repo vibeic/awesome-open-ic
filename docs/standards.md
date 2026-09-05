@@ -184,6 +184,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SystemC CCI](https://github.com/accellera-official/cci)** — Accellera reference implementation of the SystemC Configuration, Control and Inspection standard, which defines a portable API for setting, looking up, and restricting access to model configuration parameters.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[SCE-MI (Standard Co-Emulation Modeling Interface) — Accellera](https://accellera.org/downloads/standards/sce-mi)** — Accellera Interface Working Group standard for hardware-software co-emulation, defining a function-based interface over a subset of SystemVerilog DPI, simulation control through VPI calls, and a direct memory interface; current release SCE-MI 2.4.
+  `License: Free Accellera download (SCE-MI 2.4)` | `Last commit: 2016 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## DFT & JTAG
 

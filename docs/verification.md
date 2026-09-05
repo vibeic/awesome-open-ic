@@ -74,6 +74,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pcievhost](https://github.com/wyvernSemi/pcievhost)** — PCIe 1.0a to 2.0 virtual root-complex model that generates physical, data-link, and transaction-layer traffic for up to 16 lanes from a user C program, co-simulating with Verilog, SystemVerilog, and VHDL through the VProc virtual processor.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotb-cpp](https://github.com/themperek/cocotb-cpp)** — Experiment in writing cocotb-style tests in modern C++ using coroutines and strong typing while keeping a Python-like test structure.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -280,6 +282,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RiVer Core](https://github.com/incoresemi/river_core)** — Python framework that splits RISC-V core verification into plugin-driven stages — test generation, target run, reference-model run, log comparison, and HTML report generation.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LLVM-snippy](https://github.com/syntacore/snippy)** — LLVM fork providing `llvm-snippy`, a random code generator for processor verification that supports model-based generation, loops, function calls, and memory patterns, with RISC-V model and Spike integration.
+  `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

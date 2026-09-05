@@ -240,6 +240,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[STONNE](https://github.com/stonne-simulator/stonne)** — Cycle-level microarchitectural simulator for flexible DNN accelerators such as MAERI and SIGMA, with a PyTorch frontend for evaluating full models on simulated hardware.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ECO-CHIP](https://github.com/ASU-VDA-Lab/ECO-CHIP)** — Carbon-footprint estimator for chiplet-based and monolithic systems that models design, manufacturing, packaging, and assembly emissions across RDL fan-out, silicon-bridge, passive/active interposer, and 3D integration.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

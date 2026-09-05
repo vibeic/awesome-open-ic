@@ -114,6 +114,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HLSFactory](https://github.com/sharc-lab/HLSFactory)** — Python framework for building high-level-synthesis datasets for machine learning, covering design-space sampling, HLS tool execution, and data aggregation across benchmark suites.
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[ArchPower](https://github.com/hkust-zhiyao/ArchPower)** — Open dataset for architecture-level CPU power modeling: 200 samples from 25 CPU configurations across 8 workloads, each with over 100 architectural features and component-wise simulated power labels.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 
 ## ML for Placement & Routing
 

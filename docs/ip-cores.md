@@ -744,3 +744,5 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[opl3_fpga](https://github.com/gtaylormb/opl3_fpga)** — Reverse-engineered SystemVerilog RTL implementation of the Yamaha OPL3 (YMF262) FM synthesizer.
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[JTCORES](https://github.com/jotego/jtcores)** — Jotego's umbrella repository of FPGA arcade-machine cores, bundling the JT sound-chip cores and their surrounding CPU and video logic for MiSTer and Analogue Pocket.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
