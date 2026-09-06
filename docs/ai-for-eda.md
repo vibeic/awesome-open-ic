@@ -68,6 +68,18 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HAgent](https://github.com/masc-ucsc/hagent)** — LLM-based hardware agent framework from UC Santa Cruz that connects language models to hardware design tools for code generation, verification, debugging, and synthesis through Docker builds and YAML-described pipelines.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ReasoningV](https://github.com/BUAA-CLab/ReasoningV)** — Verilog code-generation model (ReasoningV-7B) and companion dataset of functionally verified Verilog samples with reasoning paths, using an adaptive hybrid reasoning strategy that adjusts reasoning depth to problem complexity; weights and data are published on Hugging Face and ModelScope (arXiv:2504.14560).
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MAGE](https://github.com/stable-lab/MAGE)** — Multi-agent LLM engine for automated RTL code generation that samples and debugs RTL candidates with iterative simulation feedback, supporting OpenAI and Anthropic model back ends (arXiv:2412.07822).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AutoBench](https://github.com/AutoBench/AutoBench)** — LLM-based testbench generator that produces a hybrid self-checking testbench from a description of the design under test and scores it through a multi-stage evaluation framework, with an HDLBits-derived dataset (MLCAD 2024).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CorrectBench](https://github.com/AutoBench/CorrectBench)** — Successor to AutoBench that adds self-validation and self-correction to LLM-generated testbenches, raising the pass ratio of generated testbenches over the original framework (DATE 2025).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[c2hlsc](https://github.com/Lucaz97/c2hlsc)** — Framework that uses LLMs to refactor plain C code into synthesizable C for high-level synthesis, driving Catapult HLS to check the result and optimize for area or latency.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AnalogGenie](https://github.com/xz-group/AnalogGenie)** — Generative engine for automatic discovery of analog circuit topologies that represents each circuit as an Eulerian circuit and uses a decoder-only transformer to predict the next device pin, with a processed topology dataset and model checkpoint on Hugging Face (ICLR 2025).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -141,6 +153,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpeNPDN](https://github.com/The-OpenROAD-Project/OpeNPDN)** — Convolutional-neural-network framework from the OpenROAD project that synthesizes on-chip power delivery networks at the placement stage by classifying each chip region into a predefined PDN template.
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[WireMask-BBO](https://github.com/lamda-bbo/WireMask-BBO)** — Black-box optimization framework for macro placement that scores candidate placements with a wire-mask-guided greedy procedure and plugs in random-search, evolutionary, and Bayesian optimizers, evaluated on the ISPD 2005 benchmarks (NeurIPS 2023).
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 
