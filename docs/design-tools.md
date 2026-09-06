@@ -101,6 +101,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[finn-hlslib](https://github.com/Xilinx/finn-hlslib)** — Vitis HLS C++ template library of quantized neural-network building blocks used by the FINN dataflow accelerator generator.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[conifer](https://github.com/thesps/conifer)** — Python package that translates trained boosted-decision-tree models into FPGA firmware for low-latency inference, with Xilinx HLS, VHDL, and C++ back ends; a companion project to hls4ml.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyfda](https://github.com/chipmuenk/pyfda)** — Python/Qt tool for designing and analyzing discrete-time filters that also simulates fixed-point filter implementations to check quantization and overflow behavior before hardware implementation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -709,6 +713,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Netlist Viewer](https://github.com/f18m/netlist-viewer)** — Desktop tool that loads a SPICE netlist and converts it into a graphical schematic representation of the circuit.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[yosys2digitaljs](https://github.com/tilk/yosys2digitaljs)** — Converter that turns Yosys JSON netlist output into the input format of the DigitalJS browser-based circuit simulator, so synthesized designs can be visualized and simulated interactively.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

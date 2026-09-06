@@ -26,6 +26,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC0-1.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
 - **[Radio-Frequency Integrated Circuits (JKU)](https://github.com/iic-jku/radio-frequency-integrated-circuits)** — Material for the graduate RFIC course (336.023) at Johannes Kepler University Linz, written as a Quarto book and published as a browsable website.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — course*
+- **[One Student One Chip (一生一芯)](https://ysyx.oscc.cc/)** — Free chip-design training program run by the University of Chinese Academy of Sciences and the CAS Institute of Computing Technology in which students build a RISC-V processor from scratch and take it through tapeout, with openly available course materials.
+  `License: Open educational materials` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Online Courses (MOOCs)
 

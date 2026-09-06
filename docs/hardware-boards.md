@@ -37,6 +37,8 @@ Yosys + nextpnr + icestorm = end-to-end open-source bitstream generation.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 - **[pico2-ice](https://github.com/tinyvision-ai-inc/pico2-ice)** — Open-hardware KiCad board pairing a Raspberry Pi RP2350B microcontroller with a Lattice iCE40UP5K FPGA, with separate flash for each device, 8 MB QSPI PSRAM, and all pins on 0.1-inch Pmod-style headers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[iCEstick](https://www.latticesemi.com/icestick)** — Lattice iCE40HX1K evaluation kit in a USB-stick form factor with a Pmod connector, IrDA transceiver, five LEDs, and 32 Mbit SPI flash; a long-standing target of the Yosys + nextpnr + IceStorm flow.
+  `License: Hardware (commercially available)` | `Last commit: 2026 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice ECP5 (fully open toolchain)
 
@@ -112,6 +114,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon SoC + FPGA fabric reference*
 - **[VSDSquadron](https://github.com/vsdip/vsdsquadron)** — Open-hardware RISC-V development board from VLSI System Design, with design files and labs for learning the open-source RTL-to-GDSII flow.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[LicheePi 4A](https://wiki.sipeed.com/hardware/en/lichee/th1520/lpi4a/1_intro.html)** — Sipeed RISC-V single-board computer built on the T-Head TH1520 SoC (four XuanTie C910 RV64GCV cores at 1.85 GHz plus NPU and GPU) with up to 16 GB LPDDR4X, dual Gigabit Ethernet, and HDMI 2.0 output.
+  `License: Hardware (commercially available)` | `Last commit: 2026 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## ASIC Test Vehicles (Caravel / Tiny Tapeout)
 
