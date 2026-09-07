@@ -510,6 +510,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fpu_interco](https://github.com/pulp-platform/fpu_interco)** — Interconnect that lets the cores of a PULP cluster share a pool of floating-point units, with a template for top-level integration.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EvoApproxLib](https://github.com/ehw-fit/evoapproxlib)** — Library of approximate adders and multipliers distributed as both hardware (Verilog) and software (C) models with characterized error and PPA metrics, from Brno University of Technology.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -727,6 +729,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause (Battelle variant)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Culsans](https://github.com/pulp-platform/culsans)** — Tightly-coupled cache coherence unit using the ACE protocol to keep memory accesses consistent across the two to four CVA6 cores of a multicore system.
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Open Logic](https://github.com/open-logic/open-logic)** — Vendor- and tool-independent VHDL standard library of reusable building blocks (FIFOs, clock-domain crossings, AXI infrastructure, arithmetic), with SystemVerilog wrappers and per-vendor integration examples.
+  `License: PSI HDL Library License 1.0 (LGPL with FPGA-bitstream exception)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

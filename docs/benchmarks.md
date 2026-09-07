@@ -120,3 +120,12 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[HighTide](https://github.com/VLSIDA/HighTide)** — Benchmark suite that builds open-source hardware designs through the OpenROAD RTL-to-GDSII flow on ASAP7, NanGate45, and SkyWater 130 nm, with each design pinned to an upstream commit and fetched by Bazel.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Logic Synthesis Contests
+
+- **[IWLS 2023 Programming Contest](https://github.com/alanminko/iwls2023-ls-contest)** — Benchmarks, participant circuits, and results of the IWLS 2023 contest on synthesizing minimal-size AIGs and XAIGs for completely-specified multi-output Boolean functions given as truth tables.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[IWLS 2025 Programming Contest](https://github.com/alanminko/iwls2025-ls-contest)** — Benchmarks, participant circuits, and results of the IWLS 2025 contest on synthesizing AIGs with the fewest two-input AND nodes for two sets of truth-table-specified Boolean functions, submitted in binary AIGER format.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[IWLS 2026 Programming Contest](https://github.com/alanminko/iwls2026-ls-contest)** — Benchmarks, participant circuits, evaluation script, and results of the IWLS 2026 contest, which scored a delay/area Pareto trade-off (AND-node count versus logic levels) over 100 truth-table-specified Boolean functions.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
