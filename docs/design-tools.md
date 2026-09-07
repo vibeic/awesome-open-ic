@@ -107,6 +107,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyfda](https://github.com/chipmuenk/pyfda)** — Python/Qt tool for designing and analyzing discrete-time filters that also simulates fixed-point filter implementations to check quantization and overflow behavior before hardware implementation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Morpher](https://github.com/ecolab-nus/morpher)** — Compilation and simulation framework for coarse-grained reconfigurable arrays that maps an application kernel onto a user-described CGRA architecture and validates the mapping with cycle-accurate simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -446,6 +448,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteX-Boards](https://github.com/litex-hub/litex-boards)** — Platform and target definitions for the FPGA boards supported by LiteX, covering board I/O, constraints, clocking, and bitstream load and flash methods.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HBS](https://github.com/m-kru/hbs)** — Tcl-based build system for hardware description projects that provides a minimal common abstraction over vendor and open-source toolchains.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -498,6 +502,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[extra_be_checks](https://github.com/d-m-bailey/extra_be_checks)** — Scripts that run additional back-end checks on GDS files with magic, netgen, and CVC; the LVS side of the eFabless MPW precheck flow.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenMPL](https://github.com/limbo018/OpenMPL)** — Multiple-patterning lithography layout decomposition framework covering stitch insertion, graph simplification, and mask colour assignment.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -537,6 +543,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Argon](https://github.com/ucb-substrate/argon)** — Programming language for constraint-based IC layout generators with bidirectional editing between a code editor (Neovim or VS Code) and a GUI, supporting parametric cells, hierarchy, and sparse linear-constraint solving.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BFG](https://github.com/growly/bfg)** — Full-custom silicon compiler that hierarchically composes parameterized layout and circuit generators to build FPGA fabric IP, with SKY130 configurable-logic-block generators as the reference example.
+  `License: BSD-4-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SQuADDS](https://github.com/LFL-Lab/SQuADDS)** — Database and simulation workflow for superconducting quantum device designs that predicts Hamiltonian parameters across design geometries and generates the corresponding Qiskit Metal layouts.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

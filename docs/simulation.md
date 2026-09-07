@@ -309,3 +309,7 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gds_fdtd](https://github.com/SiEPIC/gds_fdtd)** — EDA- and solver-agnostic framework that drives 3D FDTD simulations from photonic GDS layouts and returns S-parameters, field plots, and compact models, with Tidy3D, Lumerical, and beamz back ends behind one API.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tidy3D](https://github.com/flexcompute/tidy3d)** — Open-source Python client library for the Tidy3D finite-difference time-domain electrodynamics solver, used to build, submit, and post-process FDTD simulations; the solver itself runs as a hosted service.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ARTEMIS](https://github.com/AMReX-Microelectronics/artemis)** — Coupled electrodynamics and micromagnetics solver from Lawrence Berkeley National Laboratory that pairs FDTD Maxwell solves with the Landau-Lifshitz-Gilbert equation on AMReX adaptive meshes, applied to on-chip coplanar waveguides, resonators, and tunable filters.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
