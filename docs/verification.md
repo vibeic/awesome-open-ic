@@ -134,6 +134,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscvISACOV](https://github.com/riscv-verification/riscvISACOV)** — SystemVerilog functional coverage models for the RISC-V ISA, generated from a machine-readable ISA definition and written to connect to the RVVI-TRACE interface of a processor testbench.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[testplanner](https://github.com/antmicro/testplanner)** — Standalone tool extracted from OpenTitan's DV flow that parses Hjson testplans, expands them as a table inside the DV document, and annotates simulation results with their testplan entries.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 
@@ -248,6 +250,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
 - **[xfuzz](https://github.com/OpenXiangShan/xfuzz)** — Fuzzer for general-purpose hardware designs built on the LibAFL framework, used with the XiangShan difftest flow to fuzz an RTL design against a reference model.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ProcessorFuzz](https://github.com/bu-icsg/ProcessorFuzz)** — Processor fuzzer that uses control-and-status-register values from an ISA simulator as coverage feedback and reports bugs from RTL-versus-ISS discrepancies, with harnesses for Rocket, BOOM, and BlackParrot.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Faultergeist](https://github.com/antmicro/faultergeist)** — Fault-injection framework for hardware design simulation from Antmicro that builds fault campaigns from a netlist and injects them into a running simulation through a plugin for VPI-compatible simulators.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites

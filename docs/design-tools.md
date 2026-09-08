@@ -307,6 +307,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Project Bureau](https://github.com/whitequark/prjbureau)** — Documentation of the Atmel/Microchip ATF15xx CPLD fuse maps and programming algorithms, shipped as a machine-readable database with fuzzers and bitstream utilities.
   `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPGAPart](https://github.com/ABKGroup/FPGAPart)** — Partitioning-based CAD flow for interposer-based multi-die FPGAs that combines VTR pre-packing, timing-path pattern mining, multilevel clustering, and K-way FM refinement (FCCM 2025).
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -746,6 +748,10 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Dumpling](https://github.com/pulp-platform/dumpling)** — Vector generation library and command-line tool that produces ASCII vector files (AVC) for the HP93000 ASIC tester, including JTAG bitbang sequences that boot an ELF binary or configure a DUT.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Drop-In-JTAG](https://github.com/stineje/Drop-In-JTAG)** — Silicon development testing unit built around a JTAG TAP, from Harvey Mudd College and Oklahoma State University, shipping the JTAG HDL, an OpenOCD configuration, testbenches, and an Arty A7 FPGA example.
+  `License: Apache-2.0 WITH SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DUTCTL](https://github.com/pulp-platform/dutctl)** — PULP framework that drives SCPI lab instruments, scripted OpenOCD and GDB sessions, and DUT serial logging from one YAML configuration to automate bring-up, characterization, and remote operation of custom RISC-V SoCs without an ATE setup.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 

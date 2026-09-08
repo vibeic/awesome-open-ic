@@ -14,6 +14,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[C4M SG13G2 PDK](https://gitlab.com/Chips4Makers/c4m-pdk-ihpsg13g2)** — Chips4Makers' PDKMaster-based description of the IHP 130 nm SiGe BiCMOS SG13G2 process, covering the technology definition, generated I/O pad cells, and a KLayout technology export.
   `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP SG13CMOS5L PDK](https://github.com/IHP-GmbH/ihp-sg13cmos5l)** — Open PDK for IHP's SG13CMOS5L 130 nm CMOS process with the M1-M4-TM1 metal stack, published as a development-stage repository that is cloned alongside IHP-Open-PDK and selected through the `$PDK` environment variable.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Academic / Educational PDKs
 
@@ -38,6 +40,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[QPDK](https://github.com/gdsfactory/quantum-rf-pdk)** — Process design kit for superconducting quantum RF circuits built on gdsfactory, with a parametric component library, DRC workflow, and generated documentation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP Open ADK](https://github.com/IHP-GmbH/IHP-Open-ADK)** — Assembly-level design kit that sits one layer above the PDKs and holds the rules for placing and connecting chiplets on an interposer, with a KLayout assembly DRC and runner, a KiCad design-rule generator, and an IHP interposer adapter; released as a preview.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
@@ -134,6 +138,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sky130_klayout_pdk](https://github.com/mabrains/sky130_klayout_pdk)** — KLayout technology, layer-property, and LVS files plus device generators for the SkyWater 130 nm process, from Mabrains; the repository states the files are not qualified.
   `License: AGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ASAP7 Synopsys Enablement](https://github.com/ABKGroup/ASAP7-Synopsys-Enablement)** — TF, TLU+ and NXTGRD enablement files from UCSD that let Synopsys tools run post-route extraction, timing, and timing-driven place-and-route on the ASAP7 predictive PDK, with test cases correlating the results against the existing Cadence enablement.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

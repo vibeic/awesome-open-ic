@@ -57,6 +57,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[HeuriGym](https://github.com/cornell-zhang/heurigym)** — Agentic benchmark for LLM-generated heuristics on combinatorial optimization problems, including the EDA tasks of operator scheduling, technology mapping, and global routing with automatic verifiers and a public leaderboard.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[ICCAD-23 Contest Problem C (static IR-drop)](https://github.com/ASU-VDA-Lab/ML-for-IR-drop)** — Benchmarks and dataset-generation scripts for the ICCAD 2023 CAD Contest problem on machine-learning static IR-drop prediction, bundled with the contest description, the invited paper, and the released final scores.
+  `License: BSD-3-Clause` | `Last commit: 2024 (ICCAD-23 contest set)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route Contests
 
