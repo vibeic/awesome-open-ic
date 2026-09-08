@@ -128,6 +128,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[ArchPower](https://github.com/hkust-zhiyao/ArchPower)** — Open dataset for architecture-level CPU power modeling: 200 samples from 25 CPU configurations across 8 workloads, each with over 100 architectural features and component-wise simulated power labels.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
+- **[DALI-PD](https://github.com/ASU-VDA-Lab/DALI-PD)** — Diffusion-model dataset generator for physical design that synthesizes layout heatmaps covering power, IR drop, congestion, macro placement, and cell density, with 23,069 generated configurations included in the repository.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## ML for Placement & Routing
 
@@ -155,6 +157,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[WireMask-BBO](https://github.com/lamda-bbo/WireMask-BBO)** — Black-box optimization framework for macro placement that scores candidate placements with a wire-mask-guided greedy procedure and plugs in random-search, evolutionary, and Bayesian optimizers, evaluated on the ISPD 2005 benchmarks (NeurIPS 2023).
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MLBuf](https://github.com/ABKGroup/MLBuf_MLCAD)** — Learning-driven virtual-buffering-aware analytical global placement framework built on the OpenROAD infrastructure, with the model, training data, and placement and evaluation scripts (MLCAD 2025).
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Dr. Guide](https://github.com/cuhk-eda/Dr-Guide)** — Generative framework from CUHK that produces co-planned detailed route guides for many nets at once to allocate routing resources across nets, released with model source, trained checkpoints, and an inference script.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

@@ -16,6 +16,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[XuanTie ISA extension spec](https://github.com/XUANTIE-RV/thead-extension-spec)** — AsciiDoc sources for T-Head's XuanTie vendor extensions to RISC-V, documenting the custom instruction encodings implemented by the openC906 and openC910 core family.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V ISA Explorer](https://github.com/riscv/riscv-isa-explorer)** — Interactive reference for RISC-V extensions, profiles, and per-instruction encodings that resolves extension dependencies, blocks conflicts, and emits a valid `-march` string.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## On-chip Buses
 
@@ -147,6 +149,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
 - **[AIGER](https://github.com/arminbiere/aiger)** — Format specification, reference C library, and conversion utilities for And-Inverter Graphs, the interchange format used by logic-synthesis and hardware model-checking tools.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[pyEDAA.IPXACT](https://github.com/edaa-org/pyEDAA.IPXACT)** — Python document object model for IEEE 1685 IP-XACT that validates files against the Accellera XML schemas, extracts filesets from components, and generates IP-XACT catalogs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP chiplet-spec](https://github.com/IHP-GmbH/chiplet-spec)** — Neutral home for IHP's open heterogeneous-integration formats, chiefly the `.chiplet` assembly interchange format together with the sidecar manifests and vocabularies that travel with it, kept separate from the GPL-licensed reference tools that implement them.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Languages
