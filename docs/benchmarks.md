@@ -122,6 +122,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[HighTide](https://github.com/VLSIDA/HighTide)** — Benchmark suite that builds open-source hardware designs through the OpenROAD RTL-to-GDSII flow on ASAP7, NanGate45, and SkyWater 130 nm, with each design pinned to an upstream commit and fetched by Bazel.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Deterload](https://github.com/OpenXiangShan/Deterload)** — Framework that builds deterministic RISC-V workloads for the XiangShan ecosystem, targeting the XiangShan processor, the NEMU emulator, and the XiangShan GEM5 model from one workload description.
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## Logic Synthesis Contests
 

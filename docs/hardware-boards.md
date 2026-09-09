@@ -12,6 +12,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)** — Open-hardware system-on-module built around the Cologne Chip GateMate FPGA, with KiCad sources and schematics for the module and its Raspberry Pi HAT, memory-extension, and USB 3 adapter boards.
   `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteX-Acorn-Baseboard](https://github.com/enjoy-digital/litex-acorn-baseboard)** — Open-hardware baseboard for the SQRL Acorn and compatible RHS Research LiteFury/NiteFury M.2 FPGA cards, adding PCIe x1, SFP, SATA, GPIO, and a JTAG/UART USB-C port, with LiteX gateware targets and CI.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

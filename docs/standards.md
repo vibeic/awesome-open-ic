@@ -152,6 +152,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP chiplet-spec](https://github.com/IHP-GmbH/chiplet-spec)** — Neutral home for IHP's open heterogeneous-integration formats, chiefly the `.chiplet` assembly interchange format together with the sidecar manifests and vocabularies that travel with it, kept separate from the GPL-licensed reference tools that implement them.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IP-XACT Schema](https://github.com/edaa-org/IPXACT-Schema)** — Submodule-friendly collection of the IP-XACT XML schema files, covering IP-XACT 1.0 through 1.5 and IEEE 1685-2009, 1685-2014, and 1685-2022.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## HDL Languages
 
