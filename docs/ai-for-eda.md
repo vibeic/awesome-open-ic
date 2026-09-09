@@ -80,6 +80,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AnalogGenie](https://github.com/xz-group/AnalogGenie)** — Generative engine for automatic discovery of analog circuit topologies that represents each circuit as an Eulerian circuit and uses a decoder-only transformer to predict the next device pin, with a processed topology dataset and model checkpoint on Hugging Face (ICLR 2025).
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ACE-RTL](https://github.com/NVlabs/ACE-RTL)** — NVIDIA agentic system for RTL generation, verification, and iterative repair that coordinates Generator, Reflector, and Coordinator roles through a context-evolution workflow, released with agent skills and CVDP benchmark integration scripts.
+  `License: Apache-2.0 / CC-BY-4.0 (docs)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -227,6 +229,12 @@ Where machine learning meets chip design. This category covers LLM-driven assist
 - **[HighTide paper](https://arxiv.org/abs/2606.04126)** — Agent-curated open-source VLSI benchmark suite that pairs diverse open hardware designs with agent skills and decision logs for the RTL-to-GDS flow.
   `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 - **[CHIA paper](https://arxiv.org/abs/2606.27350)** — Open-source framework for agentic AI-driven hardware/software co-design research that expresses design flows as directed cyclic graphs coordinating tools and agents.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[ChipVerilog paper](https://arxiv.org/abs/2607.13079)** — Benchmark of 64 Verilog generation tasks derived from OpenCores designs, covering single-module and hierarchical cross-module targets that reach beyond 1,000 lines of code.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[EvolVE paper](https://arxiv.org/abs/2601.18067)** — Evolutionary-search framework for Verilog generation and optimization that pairs Monte-Carlo tree search for functional correctness with idea-guided refinement for performance.
+  `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[From Natural Language to Silicon](https://arxiv.org/abs/2604.17097)** — Study of LLM hardware design across intermediate representations, reporting that the choice of representation rather than the model determines success and describing an accessibility-competence paradox.
   `License: arXiv preprint` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
 
 ## Bug-Fixing / Debug Agents

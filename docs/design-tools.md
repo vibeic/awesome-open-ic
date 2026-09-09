@@ -109,6 +109,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Morpher](https://github.com/ecolab-nus/morpher)** — Compilation and simulation framework for coarse-grained reconfigurable arrays that maps an application kernel onto a user-described CGRA architecture and validates the mapping with cycle-accurate simulation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vitis HLS Open Source Resources](https://github.com/Xilinx/HLS)** — AMD/Xilinx index of the open-sourced Vitis HLS repositories, linking the LLVM/Clang-based HLS front end, the HLS stream utility library, and the introductory and pragma-benchmark example sets.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -309,6 +311,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPGAPart](https://github.com/ABKGroup/FPGAPart)** — Partitioning-based CAD flow for interposer-based multi-die FPGAs that combines VTR pre-packing, timing-path pattern mining, multilevel clustering, and K-way FM refinement (FCCM 2025).
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipScoPy](https://github.com/Xilinx/chipscopy)** — Python API from AMD for controlling ChipScope debug IP in Versal devices — integrated logic analyzer, virtual I/O, IBERT, and device memory access — with IBERT-only support on UltraScale+.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -469,6 +473,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[liberty2json](https://github.com/Silimate/liberty2json)** — Command-line converter that reads Liberty timing library files with the OpenSTA Liberty parser and writes them out as JSON.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GCS-Timer](https://github.com/cuhk-eda/GCS-Timer)** — GPU-accelerated static timing analyzer built on the Composite Current Source (CCS) delay model, distributed with ASAP7-based benchmark designs plus PrimeTime and HSPICE reference delays for accuracy comparison (DAC 2024).
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
@@ -564,6 +570,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[amaranth-yosys](https://github.com/amaranth-lang/amaranth-yosys)** — WebAssembly build of Yosys shipped as a Python wheel and run through wasmtime, used by Amaranth HDL when no suitable system Yosys is installed.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout Analog Design VM](https://github.com/TinyTapeout/analog-virtualbox-vm-sky130a)** — Build scripts for an Ubuntu 22.04 virtual-machine image preloaded with Magic, KLayout, Xschem, netgen, ngspice, gaw, OpenLane, Verilator, and the SkyWater sky130 PDK for analog design.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 

@@ -561,6 +561,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hier-icache](https://github.com/pulp-platform/hier-icache)** — Hierarchical instruction cache for PULP multi-core clusters, pairing per-core private L1 caches with a shared L1.5 cache and an AXI4 refill path.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[YuQuan](https://github.com/OpenXiangShan/YuQuan)** — Tape-out-targeted DDR3/DDR4/DDR5 memory controller written in Chisel for the XiangShan ecosystem, with architecturally parameterizable structure and a companion RTL-aligned memory-controller simulator (MCSim).
+  `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -731,6 +733,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Open Logic](https://github.com/open-logic/open-logic)** — Vendor- and tool-independent VHDL standard library of reusable building blocks (FIFOs, clock-domain crossings, AXI infrastructure, arithmetic), with SystemVerilog wrappers and per-vendor integration examples.
   `License: PSI HDL Library License 1.0 (LGPL with FPGA-bitstream exception)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Radiance](https://github.com/ucb-bar/radiance)** — UC Berkeley open GPU platform for heterogeneous AI and neural-graphics systems, combining a SIMT core targeted at ASIC implementation, accelerator integration interfaces, and Chipyard-based SoC integration.
+  `License: BSD-3-Clause / Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
