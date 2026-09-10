@@ -18,6 +18,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V ISA Explorer](https://github.com/riscv/riscv-isa-explorer)** — Interactive reference for RISC-V extensions, profiles, and per-instruction encodings that resolves extension dependencies, blocks conflicts, and emits a valid `-march` string.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Integrated Matrix Extension](https://github.com/riscv/integrated-matrix-extension)** — RISC-V International development repository for the Integrated Matrix Extension, holding the draft matrix-extension chapter alongside the ISA manual sources it is built from.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## On-chip Buses
 

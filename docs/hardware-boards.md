@@ -58,6 +58,8 @@ Yosys + nextpnr-ecp5 + prjtrellis = open bitstream flow.
   `License: BSD-2-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — gateware/bring-up reference*
 - **[Colorlight-FPGA-Projects](https://github.com/wuxx/Colorlight-FPGA-Projects)** — Documentation, schematics, and example gateware for the low-cost Colorlight i5/i9/i9plus ECP5 FPGA modules usable with the open Yosys+nextpnr flow.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Icepi Zero](https://github.com/cheyao/icepi-zero)** — Open hardware Lattice ECP5-25F development board in the Raspberry Pi Zero form factor, with a GPDI mini video output and three USB-C ports.
+  `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
 
 ## Intel/Altera
 

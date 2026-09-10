@@ -204,6 +204,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bill](https://github.com/lsils/bill)** — C++ header-only reasoning library from EPFL that integrates SAT solvers and decision-diagram engines behind a unified interface, used as the reasoning layer by the mockturtle logic-synthesis library.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PaInleSS](https://github.com/lip6/painless)** — Framework for parallel and distributed SAT solving that composes existing sequential solvers with configurable sharing and preprocessing strategies.
+  `License: GPL-3.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Decision Diagram Libraries
 
@@ -288,6 +290,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LLVM-snippy](https://github.com/syntacore/snippy)** — LLVM fork providing `llvm-snippy`, a random code generator for processor verification that supports model-based generation, loops, function calls, and memory patterns, with RISC-V model and Spike integration.
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-test-env](https://github.com/riscv/riscv-test-env)** — Shared bare-metal and virtual-memory test environment that riscv-tests builds against, providing the linker scripts, trap handlers, encoding headers, and HTIF startup macros.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 
@@ -303,6 +307,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VHDL Compliance-Tests](https://github.com/VHDL/Compliance-Tests)** — Test suites that measure how much of the VHDL-2008 and VHDL-2019 language a given simulator or synthesis tool actually supports.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OSVVM UART](https://github.com/OSVVM/UART)** — UART transmitter and receiver verification components for OSVVM, with injection and handling of parity, stop-bit, and break errors.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Commercial / Freemium (cross-listed for completeness)
 
