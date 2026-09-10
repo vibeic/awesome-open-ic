@@ -110,6 +110,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ADC Performance Survey](https://github.com/bmurmann/ADC-survey)** — Boris Murmann's dataset and plotting scripts tracking analog-to-digital converter performance published at ISSCC and the VLSI Symposium since 1997, a standard reference for ADC figure-of-merit trends.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Analysis and Design of Elementary MOS Amplifier Stages](https://github.com/bmurmann/Book-on-MOS-stages)** — Boris Murmann's textbook on single-stage MOS amplifier analysis and design, distributed as a PDF with LTspice schematics, device models, and Jupyter notebook examples.
+  `License: CC-BY-4.0 (book) / BSD-3-Clause (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 

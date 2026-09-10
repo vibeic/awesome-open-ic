@@ -111,6 +111,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vitis HLS Open Source Resources](https://github.com/Xilinx/HLS)** — AMD/Xilinx index of the open-sourced Vitis HLS repositories, linking the LLVM/Clang-based HLS front end, the HLS stream utility library, and the introductory and pragma-benchmark example sets.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hastlayer SDK](https://github.com/Lombiq/Hastlayer-SDK)** — Transforms compiled .NET IL assemblies into FPGA hardware implementations, programs the attached device, and handles host-to-FPGA communication at run time.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -229,6 +231,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[MLIR-AIR](https://github.com/Xilinx/mlir-air)** — MLIR dialect and compiler that describes a design as a hierarchy of compute regions over an explicit L3/L2/L1 memory hierarchy, infers asynchronous dependencies, and lowers to MLIR-AIE for AMD NPUs or to `gpu.launch` for AMD GPUs.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ipCorePackager](https://github.com/Nic30/ipCorePackager)** — Python API that packages an HDL design into an IP-XACT `component.xml` (Vivado) or Quartus `_hw.tcl` description together with its sources, constraints, and Tcl GUI.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemVerilog Language Support for VS Code](https://github.com/eirikpre/VSCode-SystemVerilog)** — VS Code extension that indexes a SystemVerilog workspace to provide syntax highlighting, symbol search, go-to-definition, find-references, and member auto-completion for structs, classes, and packages.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
@@ -837,3 +841,7 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Cement](https://github.com/pku-liang/Cement)** — Rust-embedded hardware description language with rule-based semantics that emits SystemVerilog through the FIRRTL intermediate representation and the firtool compiler.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PyXHDL](https://github.com/davidel/pyxhdl)** — Python front end that executes a design written in Python and emits VHDL-2008 or SystemVerilog for synthesis and simulation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AnvilHDL](https://github.com/kisp-nus/anvil)** — Register-transfer-level hardware description language whose type system checks the timing safety of values referenced across cycles, emitting SystemVerilog for integration with existing designs (ASPLOS 2026).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

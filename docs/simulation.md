@@ -128,6 +128,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SCViewer](https://github.com/Minres/SCViewer)** — Eclipse plugin set that displays VCD waveforms and SystemC transaction streams recorded with SCV or LWTR4SC.
   `License: EPL-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Undulate](https://github.com/LudwigCRON/undulate)** — Python renderer that turns WaveJSON, YAML, or TOML descriptions into digital and analog timing diagrams, with SVG, PostScript, PDF, and PNG output.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
@@ -242,6 +244,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ECO-CHIP](https://github.com/ASU-VDA-Lab/ECO-CHIP)** — Carbon-footprint estimator for chiplet-based and monolithic systems that models design, manufacturing, packaging, and assembly emissions across RDL fan-out, silicon-bridge, passive/active interposer, and 3D integration.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Noxim](https://github.com/davidepatti/noxim)** — SystemC network-on-chip simulator from the University of Catania with configurable topologies and routing algorithms, reporting latency, throughput, and power per run.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM)** — SystemC and TLM-2.0 instruction-set simulator covering RV32IMAC and RV64IMAC for system-level modeling.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
