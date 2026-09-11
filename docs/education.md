@@ -112,6 +112,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Analysis and Design of Elementary MOS Amplifier Stages](https://github.com/bmurmann/Book-on-MOS-stages)** — Boris Murmann's textbook on single-stage MOS amplifier analysis and design, distributed as a PDF with LTspice schematics, device models, and Jupyter notebook examples.
   `License: CC-BY-4.0 (book) / BSD-3-Clause (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[ZX16 ISA specification](https://github.com/shalan/zx16)** — Specification of ZX16, a 16-bit RISC-V-inspired teaching instruction set with eight general-purpose registers, a 64 KB flat address space, eight instruction formats, and 50+ real and pseudo-instructions.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
@@ -211,3 +213,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Silicon Notebooks](https://github.com/chipsalliance/silicon-notebooks)** — Jupyter and Colab notebooks that run open silicon flows in the browser, including a digital inverter through OpenLane on sky130 and gf180mcu and an analog inverter in Magic.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyrtlnet](https://github.com/UCSBarchlab/pyrtlnet)** — End-to-end Python example that trains a quantized neural network, generates inference hardware for it with PyRTL, and simulates that hardware at the logic-gate level.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*

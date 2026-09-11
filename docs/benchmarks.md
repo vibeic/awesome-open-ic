@@ -80,6 +80,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[DAC 2026 DRC Benchmark](https://github.com/ASU-VDA-Lab/DAC26_DRC_Benchmark)** — Containerized benchmark of 594 frozen ASAP7 KLayout test cases that scores agents on two tasks, DRC violation detection and layout repair, against a golden DRC report.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[MLCAD 2025 contest — physical-aware logic resynthesis](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks)** — Public benchmarks, ASAP7 platform files, and evaluation scripts for the MLCAD 2025 contest on physical-aware logic resynthesis (gate sizing, cloning, buffering, Vt swapping), driven through the OpenROAD Python API and NVIDIA CircuitOps IR tables.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## HLS / Accelerator Benchmarks
 

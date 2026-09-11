@@ -42,6 +42,10 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Open ADK](https://github.com/IHP-GmbH/IHP-Open-ADK)** — Assembly-level design kit that sits one layer above the PDKs and holds the rules for placing and connecting chiplets on an interposer, with a KLayout assembly DRC and runner, a KiCad design-rule generator, and an IHP interposer adapter; released as a preview.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP gdsfactory PDK](https://github.com/gdsfactory/IHP)** — gdsfactory-packaged process design kit for IHP's SG13G2 130 nm SiGe BiCMOS open technology for RF and mmWave design, with DRC, model-regression, and coverage checks run in CI.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VTT gdsfactory PDK](https://github.com/gdsfactory/vtt)** — Public gdsfactory process design kit for VTT's 3 µm silicon-on-insulator photonics platform, installed as the `gvtt` Python package together with a KLayout technology.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
