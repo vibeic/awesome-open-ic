@@ -70,6 +70,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ControlPULP](https://github.com/pulp-platform/control-pulp)** — PULP-based multi-core RISC-V platform from ETH Zurich and the University of Bologna intended as a real-time embedded power and thermal controller for HPC processors, developed within the European Processor Initiative.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chameleon SoC](https://github.com/shalan/Chameleon_SoC)** — AHB-Lite system-on-chip with GPIO, UART, SPI, and I2C peripherals that hosts an Ibex, VexRiscv, or SweRV core; taped out on the efabless OpenMPW-1 shuttle.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -405,6 +407,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteNVMe](https://github.com/enjoy-digital/litenvme)** — Small-footprint configurable NVMe host core built with Migen and LiteX for driving NVMe storage from an FPGA SoC.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MS_DMAC_AHBL](https://github.com/shalan/MS_DMAC_AHBL)** — Direct memory access controller with an AHB-Lite bus interface, per-peripheral transfer request lines, and an interrupt output to the CPU.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

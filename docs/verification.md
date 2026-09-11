@@ -169,6 +169,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AutoSVA](https://github.com/PrincetonUniversity/AutoSVA)** — Generates formal testbenches with SystemVerilog liveness properties from annotations placed in an RTL module's signal declarations, for unit-level formal verification.
   `License: BSD-3-Clause-Clear` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[psl_with_ghdl](https://github.com/tmeissner/psl_with_ghdl)** — Collection of worked examples applying PSL directives and temporal operators to VHDL designs for both simulation and formal proof with GHDL, Yosys, and SymbiYosys, tracking which PSL features GHDL supports.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -254,6 +256,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
 - **[ProcessorFuzz](https://github.com/bu-icsg/ProcessorFuzz)** — Processor fuzzer that uses control-and-status-register values from an ISA simulator as coverage feedback and reports bugs from RTL-versus-ISS discrepancies, with harnesses for Rocket, BOOM, and BlackParrot.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Faultergeist](https://github.com/antmicro/faultergeist)** — Fault-injection framework for hardware design simulation from Antmicro that builds fault campaigns from a netlist and injects them into a running simulation through a plugin for VPI-compatible simulators.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SiliFuzz](https://github.com/google/silifuzz)** — Google system that finds CPU defects by fuzzing software proxies such as instruction-set simulators and disassemblers, then executing the accumulated corpus on real CPUs at scale.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites

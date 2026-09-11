@@ -32,6 +32,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[aigverse](https://github.com/marcelwa/aigverse)** — Python library that wraps the EPFL mockturtle/lorina C++ logic-synthesis stack to construct, read, optimize, and analyze And-Inverter Graphs from Python-first workflows.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[moosic-yosys-plugin](https://github.com/Coloquinte/moosic-yosys-plugin)** — Yosys plugin that inserts logic-locking key gates into a design so the netlist only behaves as intended with the correct key, and runs security analysis on the locked circuit.
+  `License: GPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Level Synthesis
 
@@ -234,6 +236,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SystemVerilog Language Support for VS Code](https://github.com/eirikpre/VSCode-SystemVerilog)** — VS Code extension that indexes a SystemVerilog workspace to provide syntax highlighting, symbol search, go-to-definition, find-references, and member auto-completion for structs, classes, and packages.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[astsee](https://github.com/antmicro/astsee)** — Command-line suite for pretty-printing, diffing, and exploring abstract syntax trees, with a generic JSON mode and a dedicated reader for Verilator JSON AST dumps.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -346,6 +350,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-2.0 / LGPL-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ORDeC](https://github.com/tub-msc/ordec)** — Custom IC design platform from TU Berlin combining the ORD hardware description language, a schematic and layout data model, Ngspice integration, and a web interface for analog, mixed-signal, and custom digital design; currently at an experimental stage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[librelane_summary](https://github.com/mattvenn/librelane_summary)** — Post-run explorer for a LibreLane run directory that reports statistics from `final_report_summary.csv` and opens the resulting design views in KLayout.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -763,6 +769,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
 - **[Drop-In-JTAG](https://github.com/stineje/Drop-In-JTAG)** — Silicon development testing unit built around a JTAG TAP, from Harvey Mudd College and Oklahoma State University, shipping the JTAG HDL, an OpenOCD configuration, testbenches, and an Arty A7 FPGA example.
   `License: Apache-2.0 WITH SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DUTCTL](https://github.com/pulp-platform/dutctl)** — PULP framework that drives SCPI lab instruments, scripted OpenOCD and GDB sessions, and DUT serial logging from one YAML configuration to automate bring-up, characterization, and remote operation of custom RISC-V SoCs without an ATE setup.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Difetto](https://github.com/donn/difetto)** — Design-for-test flow built on LibreLane that combines OpenROAD, Quaigh, cocotb, and a custom Yosys plugin for scan-chain insertion and ATPG; a rewrite of Fault, currently at alpha stage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base

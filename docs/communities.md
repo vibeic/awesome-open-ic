@@ -31,6 +31,8 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: CERN project (CERN-OHL)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 - **[RISE Project](https://riseproject.dev/)** — Linux Foundation project run in partnership with RISC-V International to accelerate open-source software readiness for RISC-V silicon across mobile, consumer, datacenter, and automotive segments.
   `License: Linux Foundation project` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
+- **[Unified RISC-V Access Platform (UAP)](https://github.com/openhwgroup/uap)** — OpenHW Group catalogue of RISC-V hardware and software IP produced by European research projects such as TRISTAN and ISOLDE, documenting each asset's maturity, licensing, and integration workflow.
+  `License: EPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — organization*
 
 ## Conferences
 
