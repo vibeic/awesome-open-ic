@@ -76,6 +76,16 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotb-cpp](https://github.com/themperek/cocotb-cpp)** — Experiment in writing cocotb-style tests in modern C++ using coroutines and strong typing while keeping a Python-like test structure.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VProc](https://github.com/wyvernSemi/vproc)** — Virtual processor co-simulation component that lets native C/C++ programs or Python scripts drive a memory-mapped bus and model interrupts inside Verilog, SystemVerilog, or VHDL simulations on Questa, Icarus, Verilator, Xsim, NVC, and GHDL.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[mem_model](https://github.com/wyvernSemi/mem_model)** — C-based behavioral memory model for Verilog and VHDL testbenches that provides a sparse large address space through the simulator programming interfaces, with an AXI subordinate wrapper and Avalon-compatible default ports.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[usbModel](https://github.com/wyvernSemi/usbModel)** — Software models of a USB 1.1 host and a communications-device-class peripheral that drive USB signals in Verilog and VHDL simulations through the VProc virtual processor.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tcpIpPg](https://github.com/wyvernSemi/tcpIpPg)** — Verification IP that generates and receives 10GbE TCP/IPv4 packets over an XGMII interface from C++ classes, connected to Verilog or VHDL simulations through the VProc virtual processor.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SVLogger](https://github.com/dpretet/svlogger)** — Dependency-free SystemVerilog class that logs events from a design during simulation with configurable severity levels and a consistent message format.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 

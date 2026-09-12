@@ -162,6 +162,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: ISC` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ultraembedded RISC-V Core](https://github.com/ultraembedded/riscv)** — 32-bit RV32IMZicsr core in Verilog with machine, supervisor, and user privilege modes and basic MMU support, verified against a C++ ISA model using RISCV-DV random instruction sequences.
   `License: BSD-3-Clause` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscV (wyvernSemi)](https://github.com/wyvernSemi/riscV)** — Verilog RV32I softcore with a five-stage pipeline and separate instruction and data memory interfaces, configurable for RV32E, Zicsr, and RV32M, paired with the rv32 instruction-set simulator as a reference model.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -236,6 +238,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[f32c](https://github.com/f32c/f32c)** — Parameterized VHDL 32-bit pipelined core that executes subsets of either the RISC-V or the MIPS instruction set, shipped with SoC modules and glue logic for many FPGA boards.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Boneless-CPU](https://github.com/whitequark/Boneless-CPU)** — Resource-efficient 16-bit CPU architecture aimed at FPGA control planes, with Amaranth gateware plus an assembler and disassembler.
+  `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -739,6 +743,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: PSI HDL Library License 1.0 (LGPL with FPGA-bitstream exception)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Radiance](https://github.com/ucb-bar/radiance)** — UC Berkeley open GPU platform for heterogeneous AI and neural-graphics systems, combining a SIMT core targeted at ASIC implementation, accelerator integration interfaces, and Chipyard-based SoC integration.
   `License: BSD-3-Clause / Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SCAIE-V 2.0](https://github.com/esa-tu-darmstadt/SCAIE-V-2.0)** — Interface generator that adds custom RISC-V ISA extensions to existing cores including CVA5, CVA6, VexRiscv, ORCA, and Piccolo, emitting only the logic each extension requires and supporting multi-cycle, decoupled, and memory instructions.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gf180mcu FABulous FPGA](https://github.com/mole99/gf180mcu-fabulous-fpga)** — Embedded FPGA fabric generated with FABulous for the GF180MCU open PDK, providing 480 LUT4 and flip-flop tiles with carry chains, 60 multiplexers, six 512x8 SRAMs, and six 8x8+20-bit MAC blocks, packaged for wafer.space MPW runs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
