@@ -466,6 +466,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HBS](https://github.com/m-kru/hbs)** — Tcl-based build system for hardware description projects that provides a minimal common abstraction over vendor and open-source toolchains.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BSVTools](https://github.com/esa-tu-darmstadt/BSVTools)** — Python helper scripts that scaffold a Bluespec SystemVerilog project and generate a Makefile for Bluesim simulation, bsc-driven Verilog simulation, and IP-XACT packaging for Vivado.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Packtype](https://github.com/Intuity/packtype)** — Python framework for describing packed data structures once and generating equivalent definitions for other languages such as SystemVerilog, for use across design, verification, and firmware.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

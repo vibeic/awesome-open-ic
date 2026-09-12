@@ -57,6 +57,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipFoundry OpenFrame User Project](https://github.com/chipfoundry/openframe_user_project)** — Template for the OpenFrame harness, a bare sky130 padframe with no integrated SoC that gives a 15 mm² user area and 44 GPIOs, wired to the OpenLane flow and a local precheck for shuttle submission.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenFASOC Tapeouts](https://github.com/idea-fasoc/openfasoc-tapeouts)** — Collection of tapeouts generated with OpenFASOC across several processes and foundries, covering temperature sensors, LDOs, operational amplifiers, and integrated systems, with test infrastructure and measurement results.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
