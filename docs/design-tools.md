@@ -586,6 +586,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout Analog Design VM](https://github.com/TinyTapeout/analog-virtualbox-vm-sky130a)** — Build scripts for an Ubuntu 22.04 virtual-machine image preloaded with Magic, KLayout, Xschem, netgen, ngspice, gaw, OpenLane, Verilator, and the SkyWater sky130 PDK for analog design.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[setup-oss-cad-suite](https://github.com/YosysHQ/setup-oss-cad-suite)** — GitHub Action that downloads a pinned OSS CAD Suite release and sets it up inside a workflow runner so Yosys, nextpnr, and the rest of the suite can be called from CI steps.
+  `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 

@@ -147,6 +147,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
 - **[TinyTapeout Demo Board](https://github.com/TinyTapeout/tt-demo-pcb)** — Demonstration PCB for Tiny Tapeout ASICs with DIP switches, a 7-segment display, PMOD extension headers, an on-board RP2, and a 100-mil header exposing analog/mixed-signal IO since TT06.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
+- **[Tiny Tapeout IHP 0p1](https://github.com/TinyTapeout/tinytapeout-ihp-0p1)** — Experimental Tiny Tapeout chip on the IHP 0.13 μm SG13G2 process, holding the multiplexer, the per-project Verilog sources it carries, and the verification, formal, and GDS build workflows.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
 
 ## Test & Measurement Boards (FPGA-based)
 

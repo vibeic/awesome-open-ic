@@ -59,6 +59,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenFASOC Tapeouts](https://github.com/idea-fasoc/openfasoc-tapeouts)** — Collection of tapeouts generated with OpenFASOC across several processes and foundries, covering temperature sensors, LDOs, operational amplifiers, and integrated systems, with test infrastructure and measurement results.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP SG13G2 April 2025 Tape-out (T586)](https://github.com/IHP-GmbH/TO_Apr2025)** — Design sources for the IHP open-source SG13G2 April 2025 shuttle, covering mm-wave LNAs and TIAs, VCOs, a bandgap reference, an Ascon core, a 6502 CPU, and two Tiny Tapeout IHP sub-shuttles, together with the DRC setup and the sample-request procedure.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 
 ## Historical / Reference
 

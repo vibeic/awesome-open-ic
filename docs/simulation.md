@@ -319,3 +319,12 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ARTEMIS](https://github.com/AMReX-Microelectronics/artemis)** — Coupled electrodynamics and micromagnetics solver from Lawrence Berkeley National Laboratory that pairs FDTD Maxwell solves with the Landau-Lifshitz-Gilbert equation on AMReX adaptive meshes, applied to on-chip coplanar waveguides, resonators, and tunable filters.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+
+## Process & Topography Simulation
+
+- **[ViennaPS](https://github.com/ViennaTools/ViennaPS)** — Header-only C++ library with Python bindings for process and topography simulation in microelectronic fabrication, modeling 2D and 3D surface evolution during etching, deposition, and oxidation with level-set methods and Monte Carlo ray tracing.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ViennaLS](https://github.com/ViennaTools/ViennaLS)** — Header-only C++ level-set library for topography and semiconductor process simulation, covering interface advection, Boolean and geometric operations, curvature and normal calculation, and VTK mesh export.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ViennaRay](https://github.com/ViennaTools/ViennaRay)** — Flux-calculation library for topography simulation built on Intel's Embree ray-tracing kernel, written to run on ViennaLS geometries but usable standalone.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
