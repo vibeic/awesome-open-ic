@@ -126,6 +126,14 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V External Debug Security](https://github.com/riscv-non-isa/riscv-external-debug-security)** — RISC-V International specification defining security controls for the external debug architecture, maintained as AsciiDoc sources that build to a PDF.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Control Transfer Records (CTR)](https://github.com/riscv/riscv-control-transfer-records)** — Working repository of the RISC-V CTR task group, specifying an ISA extension that records recent control transfers into on-chip registers for profiling and debug.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Zalasr Extension](https://github.com/riscv/riscv-zalasr)** — Specification repository for the Zalasr extension, which adds load-acquire and store-release instructions to the RISC-V ISA.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Double Trap Extension](https://github.com/riscv/riscv-double-trap)** — Fast-track specification covering RISC-V behavior when a trap is taken while an earlier trap is still being handled, maintained as AsciiDoc sources that build to a PDF.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Atomic Cryptography Extension (ACE)](https://github.com/riscv/riscv-high-assurance-cryptography)** — Specification from the RISC-V High Assurance Cryptography task group defining cryptographic contexts and cryptographic registers that bind a key to one algorithm and keep it out of plaintext memory.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

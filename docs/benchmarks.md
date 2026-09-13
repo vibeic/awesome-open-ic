@@ -82,6 +82,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[MLCAD 2025 contest — physical-aware logic resynthesis](https://github.com/ASU-VDA-Lab/MLCAD25-Contest-Scripts-Benchmarks)** — Public benchmarks, ASAP7 platform files, and evaluation scripts for the MLCAD 2025 contest on physical-aware logic resynthesis (gate sizing, cloning, buffering, Vt swapping), driven through the OpenROAD Python API and NVIDIA CircuitOps IR tables.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[First Commercial Benchmarking — Siemens EDA Aprisa](https://github.com/ieee-ceda-datc/First-Commercial-Benchmarking-SiemensEDA)** — IEEE CEDA DATC release of reproducible place-and-route benchmarks for Siemens EDA Aprisa v2025.2 on aes_cipher_top, jpeg_encoder, ariane, and bsg_chip, with synthesized netlists, run scripts, reference post-route databases, and PPA evaluation scripts for ASAP7, NanGate45, IHP130, and SKY130HD.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 
 ## HLS / Accelerator Benchmarks
 
