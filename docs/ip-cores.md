@@ -415,6 +415,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Nitro USB (no2usb)](https://github.com/no2fpga/no2usb)** — USB full-speed device core that uses only ordinary FPGA CMOS IOs, supports runtime-reconfigurable endpoints, and keeps a constant footprint regardless of how many endpoints are used.
   `License: CERN-OHL-P-2.0 (HDL core) / LGPL-3.0-or-later + MIT (software stack)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AIB Protocol IP](https://github.com/chipsalliance/aib-protocols)** — CHIPS Alliance reference RTL and example designs for protocol layers carried over the Advanced Interface Bus die-to-die interface, covering AXI4 memory-mapped, AXI4-Stream, logic-link, LPIF, and SPI channels.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -524,6 +526,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fixedpoint (Chisel)](https://github.com/ucb-bar/fixedpoint)** — User-level Chisel library that reimplements the FixedPoint type, the BinaryPoint traits, and their arithmetic operators after they were dropped from Chisel 3.6 onward.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SpinalHDL Math Library](https://github.com/tomverbeure/math)** — SpinalHDL library of `Fpxx` floating-point units — add, multiply, divide, square root, and reciprocal square root — parameterized by exponent and mantissa width.
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

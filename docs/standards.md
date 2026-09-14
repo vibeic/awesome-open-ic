@@ -134,6 +134,12 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Atomic Cryptography Extension (ACE)](https://github.com/riscv/riscv-high-assurance-cryptography)** — Specification from the RISC-V High Assurance Cryptography task group defining cryptographic contexts and cryptographic registers that bind a key to one algorithm and keep it out of plaintext memory.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Performance Events](https://github.com/riscv/riscv-performance-events)** — Working repository of the RISC-V Performance Events task group, developing the specification for standard hardware performance-monitoring events; the README states the specification is still in development.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Zabha Extension](https://github.com/riscv/riscv-zabha)** — Specification repository for the Zabha extension, which adds byte and halfword atomic memory operations to the RISC-V ISA.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Composable Custom Extensions](https://github.com/riscv/composable-custom-extensions)** — Working repository of the RISC-V Composable Custom Extensions task group, proposing ISA extensions plus hardware and software interoperability interfaces that let custom extensions be reused and composed.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 
 ## Bus & Interconnect
 

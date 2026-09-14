@@ -115,6 +115,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Hastlayer SDK](https://github.com/Lombiq/Hastlayer-SDK)** — Transforms compiled .NET IL assemblies into FPGA hardware implementations, programs the attached device, and handles host-to-FPGA communication at run time.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LightningSim](https://github.com/sharc-lab/LightningSim)** — Trace-based simulator from Georgia Tech's Sharc Lab that estimates cycle counts for AMD/Xilinx Vitis HLS designs without rerunning RTL co-simulation.
+  `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -753,6 +755,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[yosys2digitaljs](https://github.com/tilk/yosys2digitaljs)** — Converter that turns Yosys JSON netlist output into the input format of the DigitalJS browser-based circuit simulator, so synthesized designs can be visualized and simulated interactively.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bitfield](https://github.com/wavedrom/bitfield)** — Renders register bit-field diagrams as SVG from a JSON description, distributed by the WaveDrom project as the `bit-field` npm library and command-line tool.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 
