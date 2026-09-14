@@ -46,6 +46,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VTT gdsfactory PDK](https://github.com/gdsfactory/vtt)** — Public gdsfactory process design kit for VTT's 3 µm silicon-on-insulator photonics platform, installed as the `gvtt` Python package together with a KLayout technology.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ubcpdk (SiEPIC EBeam PDK for gdsfactory)](https://github.com/gdsfactory/ubc)** — University of British Columbia SiEPIC EBeam PDK — a 220 nm silicon-on-insulator electron-beam-lithography photonics platform — adapted for the gdsfactory flow and distributed as the `ubcpdk` Python package.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
@@ -144,6 +146,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: AGPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ASAP7 Synopsys Enablement](https://github.com/ABKGroup/ASAP7-Synopsys-Enablement)** — TF, TLU+ and NXTGRD enablement files from UCSD that let Synopsys tools run post-route extraction, timing, and timing-driven place-and-route on the ASAP7 predictive PDK, with test cases correlating the results against the existing Cadence enablement.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PROBE3.0](https://github.com/ABKGroup/PROBE3.0)** — Design-technology pathfinding framework from UCSD that generates configurable standard-cell libraries and PDKs with scaling boosters such as backside power delivery networks and buried power rails, together with logic-synthesis, place-and-route, and IR-drop scripts for evaluating power, performance, area, and cost.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

@@ -60,6 +60,10 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 - **[DVCon](https://dvcon.org/)** — Accellera's conference on languages, tools, and methodologies for design and verification of electronic systems and ICs, covering SystemVerilog, VHDL, SystemC, PSS, formal, functional safety, and low-power topics; DVCon U.S. 2027 runs March 1-4 in Santa Clara, California.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[ISPD](https://www.ispd.cc/)** — International Symposium on Physical Design, covering physical design "ranging from traditional topics for ASIC and FPGA designs to emerging technologies" and host of the long-running ISPD contests; the 36th edition runs March 31 - April 2, 2027 in Taipei, Taiwan.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[ICLAD](https://iclad.ai/)** — IEEE International Conference on LLM-Aided Design, on applying large language models to the design of circuits, software, and computing systems; the second edition was held July 30-31, 2026 at Stanford University, continuing the LAD'24 and LAD'25 workshops.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 
 ## Chat & Real-time Discussion
 

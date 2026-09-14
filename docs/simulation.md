@@ -70,6 +70,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cicsim](https://github.com/wulffern/cicsim)** — Python command-line package from Carsten Wulff (NTNU) that drives ngspice for corner simulations, creates IP and simulation directories, and views waveforms in open-source analog design flows.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VAJAX](https://github.com/ChipFlow/vajax)** — GPU-accelerated analog circuit simulator built on JAX that compiles Verilog-A compact models through OpenVAF and runs DC, transient, AC, noise, transfer-function, corner-sweep, and harmonic-balance analyses.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 

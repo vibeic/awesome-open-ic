@@ -114,6 +114,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC-BY-4.0 (book) / BSD-3-Clause (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ZX16 ISA specification](https://github.com/shalan/zx16)** — Specification of ZX16, a 16-bit RISC-V-inspired teaching instruction set with eight general-purpose registers, a 64 KB flat address space, eight instruction formats, and 50+ real and pseudo-instructions.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[XiangShan documentation](https://github.com/OpenXiangShan/XiangShan-doc)** — Source repository for the XiangShan documentation site at docs.xiangshan.cc, documenting the open-source high-performance RISC-V processor in English and Chinese.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 
 ## Reference Cards & Cheat Sheets
 
