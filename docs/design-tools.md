@@ -240,6 +240,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[astsee](https://github.com/antmicro/astsee)** — Command-line suite for pretty-printing, diffing, and exploring abstract syntax trees, with a generic JSON mode and a dedicated reader for Verilator JSON AST dumps.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sv-tools](https://github.com/chipsalliance/sv-tools)** — CHIPS Alliance suite that groups a number of open-source tools for working with SystemVerilog and UVM into a single toolchain for open-source SystemVerilog codebase development.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -472,6 +474,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Packtype](https://github.com/Intuity/packtype)** — Python framework for describing packed data structures once and generating equivalent definitions for other languages such as SystemVerilog, for use across design, verification, and firmware.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SoC Generator](https://github.com/antmicro/soc-generator)** — Antmicro collection of tools for generating SoCs together with their firmware, built around a library of parameterizable Amaranth modules and an example SoC assembled from them.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -528,6 +532,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenMPL](https://github.com/limbo018/OpenMPL)** — Multiple-patterning lithography layout decomposition framework covering stitch insertion, graph simplification, and mask colour assignment.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chiplet Studio](https://github.com/IHP-GmbH/chiplet-studio)** — 3D chiplet assembly design tool that reads the `.chiplet` interchange format, shows the assembly in an interactive 3D view, drills down into the underlying GDS/OASIS layout in 2D through KLayout, and runs a build and connectivity-inspection pipeline from an embedded Python console; released as a preview.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GDS-to-LEF](https://github.com/ABKGroup/GDS-to-LEF)** — KLayout-based script from UCSD that converts a standard-cell GDS into a LEF abstract without a commercial tool, tracking metal and active connectivity to classify each segment as PIN or OBS, with ready-to-run configurations for NanGate45, ASAP7, IHP SG13G2, SO3, and GT2N.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 

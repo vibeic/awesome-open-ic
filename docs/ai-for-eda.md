@@ -82,6 +82,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ACE-RTL](https://github.com/NVlabs/ACE-RTL)** — NVIDIA agentic system for RTL generation, verification, and iterative repair that coordinates Generator, Reflector, and Coordinator roles through a context-evolution workflow, released with agent skills and CVDP benchmark integration scripts.
   `License: Apache-2.0 / CC-BY-4.0 (docs)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AuDoPEDA](https://github.com/ABKGroup/AuDoPEDA)** — Public collateral for the ICCAD 2026 paper on automated quality-of-results improvement in OpenROAD with coding agents, holding the three OpenROAD diffs, their reconstruction scripts, the reported evaluation results, and Lean models of the headline contracts.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

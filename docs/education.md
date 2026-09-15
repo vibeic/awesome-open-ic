@@ -74,6 +74,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Open courseware (ETH Zurich)` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[MIT OCW 6.884 — Complex Digital Systems](https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/)** — Graduate project course on designing multi-million-gate CMOS VLSI chips with high-level synthesis, with a six-lecture Bluespec sequence, a Bluespec tutorial, and labs including a network linecard model.
   `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2005 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Design of Complex Integrated Circuits (JKU)](https://github.com/iic-jku/design-complex-ic)** — Material for the graduate course 336.048 at Johannes Kepler University Linz, written in Quarto with every figure generated from embedded Python and published as lecture notes plus one reveal.js slide deck per chapter.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Free Books
 

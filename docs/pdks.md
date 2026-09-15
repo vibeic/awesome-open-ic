@@ -48,6 +48,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ubcpdk (SiEPIC EBeam PDK for gdsfactory)](https://github.com/gdsfactory/ubc)** — University of British Columbia SiEPIC EBeam PDK — a 220 nm silicon-on-insulator electron-beam-lithography photonics platform — adapted for the gdsfactory flow and distributed as the `ubcpdk` Python package.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenIntM4TM2](https://github.com/IHP-GmbH/OpenIntM4TM2)** — KLayout PDK and assembly tooling for IHP's 130 nm IntM4TM2 aluminium BEOL interposer, a passive technology derived from SG13G2 that keeps only Metal4 through TopMetal2 plus MIM capacitors, thin-film resistors, passivation and pad openings, edge seal, and localized backside etch; released as a preview with DRC and LVS still in progress.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
@@ -148,6 +150,10 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PROBE3.0](https://github.com/ABKGroup/PROBE3.0)** — Design-technology pathfinding framework from UCSD that generates configurable standard-cell libraries and PDKs with scaling boosters such as backside power delivery networks and buried power rails, together with logic-synthesis, place-and-route, and IR-drop scripts for evaluating power, performance, area, and cost.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenRCX Calibration](https://github.com/fossi-foundation/openrcx-calibration)** — Scripts that generate OpenRCX parasitic-extraction technology files using Magic for extraction and OpenROAD for pattern and rule generation, currently supporting the sky130, gf180mcu, and IHP SG13 PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gpdk](https://github.com/gdsfactory/gpdk)** — Generic gdsfactory PDK packaged standalone, wrapping every generic cell as a PDK cell and owning the generic technology definition — layers, layer stack, layer views, and KLayout assets — as the reference shape for other gdsfactory PDKs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 
