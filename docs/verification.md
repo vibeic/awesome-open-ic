@@ -125,6 +125,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TUE](https://github.com/taichi-ishitani/tue)** — SystemVerilog UVM extension library adding configuration-aware components, agents, reactive sequences, and a register-model layer.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cv32e40s-dv](https://github.com/openhwgroup/cv32e40s-dv)** — SystemVerilog/UVM design-verification environment for the OpenHW Group CV32E40S core, bundling the board support package, UVM environment, testbench module, test suite, and a directory for formal verification runs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 

@@ -417,6 +417,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: CERN-OHL-P-2.0 (HDL core) / LGPL-3.0-or-later + MIT (software stack)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AIB Protocol IP](https://github.com/chipsalliance/aib-protocols)** — CHIPS Alliance reference RTL and example designs for protocol layers carried over the Advanced Interface Bus die-to-die interface, covering AXI4 memory-mapped, AXI4-Stream, logic-link, LPIF, and SPI channels.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CHIPS Alliance USB 2.0 Controller](https://github.com/chipsalliance/usb2)** — USB 2.0 host and device controller IP written in VHDL and Verilog, with a high-speed memory wrapper as the top level and the Caliptra RTL repository pulled in as a submodule.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -579,6 +581,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[YuQuan](https://github.com/OpenXiangShan/YuQuan)** — Tape-out-targeted DDR3/DDR4/DDR5 memory controller written in Chisel for the XiangShan ecosystem, with architecturally parameterizable structure and a companion RTL-aligned memory-controller simulator (MCSim).
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CF_SRAM_8192x32](https://github.com/chipfoundry/CF_SRAM_8192x32)** — 32 KB SRAM macro (8192 words by 32 bits) assembled from eight 1024x32 macros with address decoding and data multiplexing, byte-level write enables, scan-chain support, and a Wishbone B4 slave wrapper.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

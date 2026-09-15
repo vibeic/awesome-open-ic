@@ -61,6 +61,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP SG13G2 April 2025 Tape-out (T586)](https://github.com/IHP-GmbH/TO_Apr2025)** — Design sources for the IHP open-source SG13G2 April 2025 shuttle, covering mm-wave LNAs and TIAs, VCOs, a bandgap reference, an Ascon core, a 6502 CPU, and two Tiny Tapeout IHP sub-shuttles, together with the DRC setup and the sample-request procedure.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[gf180mcu Project Template](https://github.com/VLSIDA/gf180mcu-project-template)** — Project template for wafer.space multi-project-wafer runs on the GF180MCU PDK, providing a Nix flake with a LibreLane shell and an all-digital PLL built from standard cells as the reference design.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
