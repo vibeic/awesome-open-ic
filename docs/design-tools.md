@@ -242,6 +242,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[sv-tools](https://github.com/chipsalliance/sv-tools)** — CHIPS Alliance suite that groups a number of open-source tools for working with SystemVerilog and UVM into a single toolchain for open-source SystemVerilog codebase development.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kythe Verible Indexer](https://github.com/antmicro/verible-indexer)** — Pipeline that runs Verible-based Kythe indexing over a JSON-declared list of HDL repositories and publishes each result as a cross-referenced source-browsing website in its own container image.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -391,6 +393,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GrayWolf](https://github.com/rubund/graywolf)** — Standard-cell placement tool forked from TimberWolf 6.3.5 and repackaged as an ordinary command-line program; used as the placer in the qflow ASIC flow.
   `License: GPL-2.0-or-later` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GPU-DPO](https://github.com/ABKGroup/GPU-DPO)** — GPU-accelerated detailed-placement operators — global swap, maximal independent set, and local reordering — implemented as CUDA kernels with multi-height cell relocation support.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MBFFClustering](https://github.com/ABKGroup/MBFFClustering)** — Multi-bit flip-flop clustering by divide-and-conquer capacitated k-means from UCSD, released with the FTray and MShift reference implementations, evaluation scripts, and generated ASAP7 MBFF lib and lef files.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -476,6 +482,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SoC Generator](https://github.com/antmicro/soc-generator)** — Antmicro collection of tools for generating SoCs together with their firmware, built around a library of parameterizable Amaranth modules and an example SoC assembled from them.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IPM](https://github.com/chipfoundry/ipm)** — Package manager for the ChipIgnite program's open-source IP catalogue, installed from PyPI as `cf-ipm`.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -790,6 +798,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Difetto](https://github.com/donn/difetto)** — Design-for-test flow built on LibreLane that combines OpenROAD, Quaigh, cocotb, and a custom Yosys plugin for scan-chain insertion and ATPG; a rewrite of Fault, currently at alpha stage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TRDB](https://github.com/pulp-platform/trdb)** — Library and command-line tools for compressing, decompressing, and disassembling captured RISC-V execution traces per the RISC-V Processor Trace specification, usable from an RTL testbench through DPI.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 
