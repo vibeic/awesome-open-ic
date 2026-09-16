@@ -86,6 +86,12 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SVLogger](https://github.com/dpretet/svlogger)** — Dependency-free SystemVerilog class that logs events from a design during simulation with configurable severity levels and a consistent message format.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-i3c](https://github.com/antmicro/cocotbext-i3c)** — cocotb simulation models for the MIPI I3C bus, providing a host-controller model with configurable timings alongside target models for driving I3C designs in a testbench.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotb-AHB](https://github.com/antmicro/cocotb-ahb)** — cocotb extension with an AHB bus functional model, covering packet and signal monitors, drivers for DUT managers and subordinates, and a simulated multi-manager multi-subordinate interconnect.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[InjectaFault](https://github.com/pulp-platform/InjectaFault)** — Scripts from the PULP platform for injecting faults into RTL simulations, with signal-name extraction, vulnerability analysis, and simulation comparison; developed against QuestaSim.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -126,6 +132,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
 - **[TUE](https://github.com/taichi-ishitani/tue)** — SystemVerilog UVM extension library adding configuration-aware components, agents, reactive sequences, and a register-model layer.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cv32e40s-dv](https://github.com/openhwgroup/cv32e40s-dv)** — SystemVerilog/UVM design-verification environment for the OpenHW Group CV32E40S core, bundling the board support package, UVM environment, testbench module, test suite, and a directory for formal verification runs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[uvmdvgen](https://github.com/antmicro/uvmdvgen)** — Generates the boilerplate code for a UVM agent and a complete UVM testbench for a given DUT, extracted from OpenTitan's `uvmdvgen` utility as a standalone tool.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage

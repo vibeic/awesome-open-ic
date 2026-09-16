@@ -419,6 +419,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CHIPS Alliance USB 2.0 Controller](https://github.com/chipsalliance/usb2)** — USB 2.0 host and device controller IP written in VHDL and Verilog, with a high-speed memory wrapper as the top level and the Caliptra RTL repository pulled in as a submodule.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[rv_tracer](https://github.com/pulp-platform/rv_tracer)** — RTL implementation of the RISC-V Efficient Trace (E-Trace) specification, developed under the PULP project.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -583,6 +585,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CF_SRAM_8192x32](https://github.com/chipfoundry/CF_SRAM_8192x32)** — 32 KB SRAM macro (8192 words by 32 bits) assembled from eight 1024x32 macros with address decoding and data multiplexing, byte-level write enables, scan-chain support, and a Wishbone B4 slave wrapper.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Antmicro DRAM Controller](https://github.com/antmicro/lpddr4-dram-controller)** — DRAM controller with a DFI interface based on LiteDRAM, generated from a Python configuration and shipped with a Verilator-based test setup.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CF_SRAM_1024x32](https://github.com/chipfoundry/CF_SRAM_1024x32)** — Single-port synchronous flow-through SRAM macro organized as 1024 words by 32 bits in SKY130, occupying 0.118 mm²; the building block of the larger CF_SRAM macros.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cluster_icache](https://github.com/pulp-platform/cluster_icache)** — Instruction cache for processor clusters pairing a latch- or flip-flop-based private L0 with a shared SRAM L1 that emits AXI refill requests; originally developed for the Snitch cluster.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

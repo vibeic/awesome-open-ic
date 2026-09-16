@@ -63,6 +63,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
 - **[gf180mcu Project Template](https://github.com/VLSIDA/gf180mcu-project-template)** — Project template for wafer.space multi-project-wafer runs on the GF180MCU PDK, providing a Nix flake with a LibreLane shell and an all-digital PLL built from standard cells as the reference design.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP Open-Silicon MPW](https://github.com/IHP-GmbH/Open-Silicon-MPW)** — Aggregates the production-ready IPs submitted to IHP's Open-Silicon MPW runs as git submodules, organized into analog, digital, RF, and mixed-signal category directories.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
