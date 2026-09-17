@@ -258,6 +258,10 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ILAng](https://github.com/PrincetonUniversity/ILAng)** — Modeling and verification platform that specifies accelerators and SoC components as Instruction-Level Abstractions and checks RTL implementations against them.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LibRISCV](https://github.com/agra-uni-bremen/libriscv)** — Executable formal model of the RISC-V ISA written in Haskell using free monads, with an instruction decoder generated from riscv-opcodes, so custom instruction interpreters can be built on top of it.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BinSym](https://github.com/agra-uni-bremen/BinSym)** — Symbolic execution of RISC-V machine code built on the LibRISCV formal ISA model, substituting SMT expressions for concrete instruction operands.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing
 
@@ -316,6 +320,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0 WITH LLVM-exception` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-test-env](https://github.com/riscv/riscv-test-env)** — Shared bare-metal and virtual-memory test environment that riscv-tests builds against, providing the linker scripts, trap handlers, encoding headers, and HTIF startup macros.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DAMO-RV-ATS](https://github.com/XUANTIE-RV/damo-rv-ats)** — RISC-V instruction-compatibility regression and random-test framework covering the V (RVV 1.0), Zvbb, and Zvbc extensions across 200 instruction test cases.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

@@ -250,6 +250,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V-TLM](https://github.com/mariusmm/RISC-V-TLM)** — SystemC and TLM-2.0 instruction-set simulator covering RV32IMAC and RV64IMAC for system-level modeling.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Arbolta](https://github.com/Xilinx/arbolta)** — Gate-level netlist simulator from AMD Research that pairs a Rust runtime with Python bindings, aimed at collecting high-level hardware/software co-design statistics instead of timing-accurate waveforms.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -321,6 +323,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ARTEMIS](https://github.com/AMReX-Microelectronics/artemis)** — Coupled electrodynamics and micromagnetics solver from Lawrence Berkeley National Laboratory that pairs FDTD Maxwell solves with the Landau-Lifshitz-Gilbert equation on AMReX adaptive meshes, applied to on-chip coplanar waveguides, resonators, and tunable filters.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gsim](https://github.com/gdsfactory/gsim)** — Connects gdsfactory layouts to electromagnetic solvers — GDSFactory FDTD, AWS Palace FEM, and Meep — handling layer-stack geometry extraction, mesh generation, and port configuration to produce S-parameters.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Process & Topography Simulation
 

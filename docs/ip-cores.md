@@ -164,6 +164,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscV (wyvernSemi)](https://github.com/wyvernSemi/riscV)** — Verilog RV32I softcore with a five-stage pipeline and separate instruction and data memory interfaces, configurable for RV32E, Zicsr, and RV32M, paired with the rv32 instruction-set simulator as a reference model.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MicroRV32](https://github.com/agra-uni-bremen/microrv32)** — SpinalHDL RV32IMC core with CSR registers, CLINT/CLIC timer interrupts, and GPIO/UART/LED peripherals, synthesizable for FPGA (tested on a Lattice HX8K) and paired with the RISC-V Virtual Prototype for co-simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -767,6 +769,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gf180mcu FABulous FPGA](https://github.com/mole99/gf180mcu-fabulous-fpga)** — Embedded FPGA fabric generated with FABulous for the GF180MCU open PDK, providing 480 LUT4 and flip-flop tiles with carry chains, 60 multiplexers, six 512x8 SRAMs, and six 8x8+20-bit MAC blocks, packaged for wafer.space MPW runs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AhaM3SoC](https://github.com/StanfordAHA/AhaM3SoC)** — Verilog integration of the Stanford AHA! SoC: an ARM Cortex-M3 host with the Garnet CGRA accelerator, DMA, TLX interface, memory and peripheral subsystems, and a pad frame.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
