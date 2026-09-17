@@ -154,6 +154,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gpdk](https://github.com/gdsfactory/gpdk)** — Generic gdsfactory PDK packaged standalone, wrapping every generic cell as a PDK cell and owning the generic technology definition — layers, layer stack, layer views, and KLayout assets — as the reference shape for other gdsfactory PDKs.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gf180mcu (gdsfactory)](https://github.com/gdsfactory/gf180mcu)** — Pure-Python gdsfactory PDK for the GlobalFoundries 180 nm MCU process, built on Google's open GF180MCU PDK, with DRC and device-model regression checks run in CI.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

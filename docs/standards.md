@@ -140,6 +140,14 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
 - **[RISC-V Composable Custom Extensions](https://github.com/riscv/composable-custom-extensions)** — Working repository of the RISC-V Composable Custom Extensions task group, proposing ISA extensions plus hardware and software interoperability interfaces that let custom extensions be reused and composed.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[RISC-V Post-Quantum Cryptography](https://github.com/riscv/riscv-pqc)** — Specification work for RISC-V post-quantum cryptography instruction-set extensions, shipped alongside reference implementations and tests written for reuse in QEMU, OpenSSL, and Spike.
+  `License: CC-BY-4.0 (spec) / BSD-3-Clause (reference code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Dot-Product Extension](https://github.com/riscv/riscv-dot-product)** — Specification repository for the RISC-V Dot-Product extension, maintained as AsciiDoc sources that build to a PDF.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Zaamo and Zalrsc Extensions](https://github.com/riscv/riscv-zaamo-zalrsc)** — Specification of the Zaamo and Zalrsc extensions, which separate the A extension into its atomic memory operation and load-reserved/store-conditional components.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V RERI (RAS Error-record Register Interface)](https://github.com/riscv-non-isa/riscv-ras-eri)** — Draft specification from the RERI task group defining a memory-mapped error-record register interface for RAS error detection, logging, and configuration in RISC-V SoCs.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 

@@ -606,6 +606,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[setup-oss-cad-suite](https://github.com/YosysHQ/setup-oss-cad-suite)** — GitHub Action that downloads a pinned OSS CAD Suite release and sets it up inside a workflow runner so Yosys, nextpnr, and the rest of the suite can be called from CI steps.
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openXC7 toolchain-installer](https://github.com/openXC7/toolchain-installer)** — Installer script that sets up the nextpnr-xilinx open toolchain for Kintex-7, Artix-7, Spartan-7, and Zynq-7 devices.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 

@@ -95,6 +95,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DeepBench](https://github.com/baidu-research/DeepBench)** — Baidu Research benchmark of the basic operations (GEMM, convolution, RNN, all-reduce) underlying deep-learning training/inference, used to compare ML-accelerator hardware.
   `License: Apache-2.0` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HiSparse](https://github.com/cornell-zhang/HiSparse)** — Sparse matrix-vector multiplication accelerator for HBM-equipped FPGAs written in Vitis HLS, released as the artifact of the FPGA 2022 paper.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC / Application Benchmarks
 
