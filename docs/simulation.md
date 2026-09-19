@@ -290,6 +290,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Scopy](https://github.com/analogdevicesinc/scopy)** — Multi-instrument lab software from Analog Devices for ADALM2000 and related hardware, providing oscilloscope, spectrum analyzer, network analyzer, logic analyzer, and pattern-generator front-ends.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DSView](https://github.com/DreamSourceLab/DSView)** — Qt front-end for DreamSourceLab logic analyzers and oscilloscopes, built on the sigrok project's device-access and protocol-decode libraries.
+  `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Photonics & Electromagnetic
 

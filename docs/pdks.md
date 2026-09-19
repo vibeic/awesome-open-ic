@@ -50,6 +50,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenIntM4TM2](https://github.com/IHP-GmbH/OpenIntM4TM2)** — KLayout PDK and assembly tooling for IHP's 130 nm IntM4TM2 aluminium BEOL interposer, a passive technology derived from SG13G2 that keeps only Metal4 through TopMetal2 plus MIM capacitors, thin-film resistors, passivation and pad openings, edge seal, and localized backside etch; released as a preview with DRC and LVS still in progress.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP Interconnect IntM4TM2](https://github.com/IHP-GmbH/IHP-Interconnect-IntM4TM2)** — Interconnection PDK for chiplet-on-interposer assembly holding the post-fabrication attachment elements — copper pillars, solder bumps, and microbumps — as 3D bodies, connection stacks, and bump pitch and spacing rules; split out of the interposer PDK so the bumping method can come from any vendor. Preview release.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
