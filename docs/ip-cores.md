@@ -423,6 +423,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[rv_tracer](https://github.com/pulp-platform/rv_tracer)** — RTL implementation of the RISC-V Efficient Trace (E-Trace) specification, developed under the PULP project.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipFlow Digital IP](https://github.com/ChipFlow/chipflow-digital-ip)** — Parameterized peripheral cores wrapped in Amaranth for the ChipFlow platform, covering GPIO, UART, I2C, (Q)SPI, QSPI flash, HyperRAM, bus-attached SRAM, a platform timer, and a SoC ID block, each shipped with verification tests.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -771,6 +773,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AhaM3SoC](https://github.com/StanfordAHA/AhaM3SoC)** — Verilog integration of the Stanford AHA! SoC: an ARM Cortex-M3 host with the Garnet CGRA accelerator, DMA, TLX interface, memory and peripheral subsystems, and a pad frame.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[bsg_pearls](https://github.com/bespoke-silicon-group/bsg_pearls)** — Silicon-validated SoC IP blocks and testing collateral from the Bespoke Silicon Group, assembled largely from BaseJump STL primitives; the clock generator ships with complete collateral and the remaining blocks are works in progress.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

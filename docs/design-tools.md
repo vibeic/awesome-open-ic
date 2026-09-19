@@ -484,6 +484,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IPM](https://github.com/chipfoundry/ipm)** — Package manager for the ChipIgnite program's open-source IP catalogue, installed from PyPI as `cf-ipm`.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rivet](https://github.com/ucb-substrate/rivet)** — Rust flow manager that walks a dependency graph of tool steps, executes independent branches concurrently on a worker pool, and adds dependency pinning and fine-grained checkpointing through PDK and tool plugins.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
@@ -503,6 +505,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GCS-Timer](https://github.com/cuhk-eda/GCS-Timer)** — GPU-accelerated static timing analyzer built on the Composite Current Source (CCS) delay model, distributed with ASAP7-based benchmark designs plus PrimeTime and HSPICE reference delays for accuracy comparison (DAC 2024).
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Silisizer](https://github.com/Silimate/silisizer)** — Timing optimizer that runs inside OpenSTA as a Tcl command, upsizing cells on violating paths over repeated timing passes until worst negative slack stops improving.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
@@ -587,6 +591,12 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-4-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SQuADDS](https://github.com/LFL-Lab/SQuADDS)** — Database and simulation workflow for superconducting quantum device designs that predicts Hamiltonian parameters across design geometries and generates the corresponding Qiskit Metal layouts.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[macrostrip](https://github.com/ChipFlow/macrostrip)** — Generates LEF-consistent frame-view GDS for NDA-protected hard macros so chip-level DRC, antenna, density, and LVS can run without the real layout, then swaps the real macro back for the final tapeout GDS.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gds2kicad](https://github.com/IHP-GmbH/gds2kicad)** — Reads pad geometry and text labels out of a die or chiplet GDSII and emits the matching KiCad footprints, schematic symbols, pin lists, and netlist for board or interposer design; preview release.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chiplet KiCad Plugin](https://github.com/IHP-GmbH/Chiplets-KiCad-Plugin)** — KiCad pcbnew action plugin that runs the HYP to GDS to canonical `.chiplet` export pipeline from a single dialog, rendering the interposer GDS for chiplet-aware assembly flows; consumed by adk-tools as a submodule.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -608,6 +618,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openXC7 toolchain-installer](https://github.com/openXC7/toolchain-installer)** — Installer script that sets up the nextpnr-xilinx open toolchain for Kintex-7, Artix-7, Spartan-7, and Zynq-7 devices.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[adk-tools](https://github.com/IHP-GmbH/ADK-Tools)** — Docker image for IHP's heterogeneous-integration flow that compiles the chiplet and interposer toolchain from pinned submodules so every tool is callable by name; preview release with no pre-built image.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 
