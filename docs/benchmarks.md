@@ -84,6 +84,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[First Commercial Benchmarking — Siemens EDA Aprisa](https://github.com/ieee-ceda-datc/First-Commercial-Benchmarking-SiemensEDA)** — IEEE CEDA DATC release of reproducible place-and-route benchmarks for Siemens EDA Aprisa v2025.2 on aes_cipher_top, jpeg_encoder, ariane, and bsg_chip, with synthesized netlists, run scripts, reference post-route databases, and PPA evaluation scripts for ASAP7, NanGate45, IHP130, and SKY130HD.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
+- **[FPGA'24 Routing Contest](https://github.com/Xilinx/fpga24_routing_contest)** — Runtime-first FPGA routing contest kit built on the FPGA Interchange Format, with benchmark netlists, a scoring flow based on critical-path wirelength, and utilities to print, diff, and analyze routed physical netlists.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HLS / Accelerator Benchmarks
 

@@ -221,3 +221,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Verilog Power Analysis Workflows](https://github.com/antmicro/verilog-power-analysis-workflows)** — Step-by-step workflows from Antmicro that measure gate-level power with Verilator, OpenSTA, and trace2power, demonstrated on the Ibex core.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IEEE SSCS Code-a-Chip Travel Grant Awards](https://github.com/sscs-ose/sscs-ose-code-a-chip.github.io)** — Program site and archive for the IEEE SSCS Open-Source Ecosystem travel-grant competition, collecting the winning openly licensed Jupyter notebooks that walk through reproducible circuit-design projects built with open-source tools and PDKs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

@@ -65,6 +65,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Open-Silicon MPW](https://github.com/IHP-GmbH/Open-Silicon-MPW)** — Aggregates the production-ready IPs submitted to IHP's Open-Silicon MPW runs as git submodules, organized into analog, digital, RF, and mixed-signal category directories.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IHP SG13G2 July 2025 Tape-out (T593)](https://github.com/IHP-GmbH/TO_July2025)** — Design sources for the IHP open-source SG13G2 July 2025 shuttle, listing each design and its directory alongside the DRC setup, QFN bonding-plan templates, and the sample-request procedure now that the run is out of the fab.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
