@@ -151,6 +151,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[vcddiff](https://github.com/veripool/vcddiff)** — Command-line tool that reports differences between two Verilog value change dump (VCD) files; maintained by the Verilator project for its self-tests.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fst-reader](https://github.com/ekiwi/fst-reader)** — Native Rust implementation of a reader for the FST waveform format used by GTKWave.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 
@@ -275,6 +277,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NVBoard](https://github.com/NJU-ProjectN/nvboard)** — SDL-based virtual FPGA board that attaches to a Verilator simulation and models LEDs, seven-segment displays, DIP switches, UART, keyboard, and VGA output.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[hgdb](https://github.com/Kuree/hgdb)** — Hardware debugging framework that gives a running simulator breakpoint, conditional-breakpoint, frame-reconstruction, and replay-mode reverse-debugging APIs through a separate symbol table, with no RTL modification required.
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 
@@ -327,6 +331,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gsim](https://github.com/gdsfactory/gsim)** — Connects gdsfactory layouts to electromagnetic solvers — GDSFactory FDTD, AWS Palace FEM, and Meep — handling layer-stack geometry extraction, mesh generation, and port configuration to produce S-parameters.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[path_length_analysis](https://github.com/mabrains/path_length_analysis)** — Python script and library from Mabrains that measures the length of resistive and photonic paths in a GDS layout; released as an experimental preview.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Process & Topography Simulation
 

@@ -283,6 +283,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SiliFuzz](https://github.com/google/silifuzz)** — Google system that finds CPU defects by fuzzing software proxies such as instruction-set simulators and disassemblers, then executing the accumulated corpus on real CPUs at scale.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ConFuzz](https://github.com/emsec/ConFuzz)** — FPGA configuration-engine fuzzing and rapid-prototyping framework built on boofuzz and OpenOCD, exercised on Xilinx 7-Series and UltraScale boards and shipping the artifacts for the JustSTART attack (CVE-2023-20570).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 

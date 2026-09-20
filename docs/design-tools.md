@@ -327,6 +327,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipScoPy](https://github.com/Xilinx/chipscopy)** — Python API from AMD for controlling ChipScope debug IP in Versal devices — integrated logic analyzer, virtual I/O, IBERT, and device memory access — with IBERT-only support on UltraScale+.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[librelane_plugin_fabulous](https://github.com/mole99/librelane_plugin_fabulous)** — LibreLane plugin that integrates FABulous, adding a `FABulousTile` flow to harden a tile or supertile and a `FABulousFabric` flow to stitch hardened tiles into an embedded-FPGA fabric.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -396,6 +398,10 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[GPU-DPO](https://github.com/ABKGroup/GPU-DPO)** — GPU-accelerated detailed-placement operators — global swap, maximal independent set, and local reordering — implemented as CUDA kernels with multi-height cell relocation support.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MBFFClustering](https://github.com/ABKGroup/MBFFClustering)** — Multi-bit flip-flop clustering by divide-and-conquer capacitated k-means from UCSD, released with the FTray and MShift reference implementations, evaluation scripts, and generated ASAP7 MBFF lib and lef files.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipletPart](https://github.com/ABKGroup/ChipletPart)** — Chiplet-driven partitioner that splits an SoC netlist across chiplets, built on METIS, Eigen, and Boost, with a system-definition generator and wafer-scale, MemPool, EPYC, and GA100 test cases.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BlobPlace](https://github.com/ABKGroup/BlobPlacement)** — Clustering-driven placement framework for large-scale designs from the DAC 2024 paper, installed by replacing the `par` source directory of an OpenROAD build.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
@@ -814,6 +820,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TRDB](https://github.com/pulp-platform/trdb)** — Library and command-line tools for compressing, decompressing, and disassembling captured RISC-V execution traces per the RISC-V Processor Trace specification, usable from an RTL testbench through DPI.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Semi-ATE STDF](https://github.com/Semi-ATE/STDF)** — Python library that reads and writes Standard Test Data Format (STDF) V4 and ATDF files from automated test equipment, handling both endiannesses and compressed streams and converting records for pandas-based analysis.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 

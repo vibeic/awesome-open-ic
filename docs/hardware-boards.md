@@ -14,6 +14,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: CERN-OHL-P-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteX-Acorn-Baseboard](https://github.com/enjoy-digital/litex-acorn-baseboard)** — Open-hardware baseboard for the SQRL Acorn and compatible RHS Research LiteFury/NiteFury M.2 FPGA cards, adding PCIe x1, SFP, SATA, GPIO, and a JTAG/UART USB-C port, with LiteX gateware targets and CI.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[GateMateA1-EVB](https://github.com/OLIMEX/GateMateA1-EVB)** — Open-hardware development board for the Cologne Chip GateMateA1 CCGM1A1 FPGA, with 64 Mbit PSRAM, an RP2040 for programming and debugging, VGA and PS/2 connectors, and level-shifted PMOD and UEXT headers.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 
@@ -149,6 +151,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test PCB*
 - **[Tiny Tapeout IHP 0p1](https://github.com/TinyTapeout/tinytapeout-ihp-0p1)** — Experimental Tiny Tapeout chip on the IHP 0.13 μm SG13G2 process, holding the multiplexer, the per-project Verilog sources it carries, and the verification, formal, and GDS build workflows.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
+- **[QSPI Pmod](https://github.com/mole99/qspi-pmod)** — KiCad Pmod board carrying one SPI flash and two PSRAMs on a shared QSPI bus, giving Tiny Tapeout designs external program and data memory.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 
