@@ -118,6 +118,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[XiangShan documentation](https://github.com/OpenXiangShan/XiangShan-doc)** — Source repository for the XiangShan documentation site at docs.xiangshan.cc, documenting the open-source high-performance RISC-V processor in English and Chinese.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[Learn Bluespec and RISC-V Design](https://github.com/rsnikhil/Learn_Bluespec_and_RISCV_Design)** — Textbook and full source code from Rishiyur Nikhil for learning RISC-V pipelined CPU design in the Bluespec hardware design languages, built around the Fife and Drum example cores.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Reference Cards & Cheat Sheets
 

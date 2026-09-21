@@ -244,6 +244,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kythe Verible Indexer](https://github.com/antmicro/verible-indexer)** — Pipeline that runs Verible-based Kythe indexing over a JSON-declared list of HDL repositories and publishes each result as a cross-referenced source-browsing website in its own container image.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VHDL LS for VS Code](https://github.com/VHDL-LS/rust_hdl_vscode)** — Visual Studio Code extension packaging the rust_hdl VHDL language server, adding live syntax and type checking, goto-definition, find-all-references, hover, rename, and workspace symbol search driven by a vhdl_ls.toml library mapping.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -822,6 +824,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Semi-ATE STDF](https://github.com/Semi-ATE/STDF)** — Python library that reads and writes Standard Test Data Format (STDF) V4 and ATDF files from automated test equipment, handling both endiannesses and compressed streams and converting records for pandas-based analysis.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Apollo](https://github.com/greatscottgadgets/apollo)** — On-board FPGA programmer and debugger used to load gateware over USB onto Cynthion and other FPGA platforms, shipping both the debug-microcontroller firmware and the apollo host command-line tool.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IC Knowledge Base
 
