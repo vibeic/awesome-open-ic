@@ -16,6 +16,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GateMateA1-EVB](https://github.com/OLIMEX/GateMateA1-EVB)** — Open-hardware development board for the Cologne Chip GateMateA1 CCGM1A1 FPGA, with 64 Mbit PSRAM, an RP2040 for programming and debugging, VGA and PS/2 connectors, and level-shifted PMOD and UEXT headers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openCologne](https://github.com/chili-chips-ba/openCologne)** — NLnet-funded project around the Cologne Chip GateMate FPGA that develops the ULX5M board in Raspberry Pi CM4 form factor together with documented Verilog, VHDL, and Amaranth examples.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 
@@ -85,6 +87,10 @@ Open-source projects (e.g. F4PGA / Project X-Ray) reverse-engineer the 7-series 
 - **[F4PGA Architecture Definitions](https://github.com/SymbiFlow/symbiflow-arch-defs)** — Open FPGA architecture definitions covering iCE40, ECP5, Xilinx 7-series (Artix/Kintex/Zynq) and QuickLogic.
   `License: ISC / Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — toolchain enabler*
 - **[Kintex K410T Devboard](https://github.com/antmicro/kintex-410t-devboard)** — Open-hardware KiCad development board for the AMD Xilinx Kintex-7 K410T FPGA with 512 MB DDR3L, 256 MB SPI NOR flash, gigabit Ethernet, and HDMI output.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kria K26 Devboard](https://github.com/antmicro/kria-k26-devboard)** — Open-hardware KiCad carrier board for the AMD Xilinx Kria K26 System on Module that routes the SoM I/O interfaces, supplies the required power buses, and adds gigabit Ethernet, with PDF schematics included.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Artix DC-SCM](https://github.com/antmicro/artix-dc-scm)** — Open-hardware KiCad baseboard-management-controller module built on a Xilinx Artix-7 XC7A100T that follows the Open Compute Project Data Center Secure Control Module specification, with DDR3, eMMC, four SPI flash devices, and gigabit Ethernet.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Gowin (partial open)

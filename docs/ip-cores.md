@@ -72,6 +72,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Chameleon SoC](https://github.com/shalan/Chameleon_SoC)** — AHB-Lite system-on-chip with GPIO, UART, SPI, and I2C peripherals that hosts an Ibex, VexRiscv, or SweRV core; taped out on the efabless OpenMPW-1 shuttle.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Caliptra](https://github.com/chipsalliance/Caliptra)** — Home repository of the Caliptra project incepted at the Open Compute Project, holding the specification, silicon logic, ROM, and firmware for a Root of Trust for Measurement block inside datacenter-class SoCs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Caliptra firmware and software](https://github.com/chipsalliance/caliptra-sw)** — Firmware, libraries, and tools for the Caliptra root of trust, covering the ROM, FMC, and runtime firmware modules together with the libcaliptra host library and their module specifications.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -166,6 +170,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MicroRV32](https://github.com/agra-uni-bremen/microrv32)** — SpinalHDL RV32IMC core with CSR registers, CLINT/CLIC timer interrupts, and GPIO/UART/LED peripherals, synthesizable for FPGA (tested on a Lattice HX8K) and paired with the RISC-V Virtual Prototype for co-simulation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[NucleusRV](https://github.com/merledu/nucleusrv)** — Chisel-based 32-bit RISC-V CPU with a five-stage pipeline, emitted to Verilog and exercised against Verilator and the RISC-V GNU toolchain.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

@@ -92,6 +92,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[InjectaFault](https://github.com/pulp-platform/InjectaFault)** — Scripts from the PULP platform for injecting faults into RTL simulations, with signal-name extraction, vulnerability analysis, and simulation comparison; developed against QuestaSim.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-i2c](https://github.com/alexforencich/cocotbext-i2c)** — I2C simulation models for cocotb, published on PyPI as cocotbext-i2c and used to build testbenches for I2C controller and peripheral RTL.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
