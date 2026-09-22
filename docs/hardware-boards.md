@@ -159,6 +159,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — silicon test vehicle*
 - **[QSPI Pmod](https://github.com/mole99/qspi-pmod)** — KiCad Pmod board carrying one SPI flash and two PSRAMs on a shared QSPI bus, giving Tiny Tapeout designs external program and data memory.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tt-micropython-firmware](https://github.com/TinyTapeout/tt-micropython-firmware)** — MicroPython firmware and API for the RP2040 on the Tiny Tapeout demo board, used to select and drive multiplexed projects.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 
@@ -197,6 +199,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
 - **[Data Center RDIMM DDR4 Tester](https://github.com/antmicro/rdimm-ddr4-tester)** — Open-hardware KiCad platform built around a Xilinx Kintex-7 FPGA for interfacing with data-center RDIMM DDR4 modules; the board used by the Rowhammer testing framework.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LogicAnalyzer](https://github.com/gusmanb/logicanalyzer)** — Open-hardware 24-channel, 100 MS/s logic analyzer, with the board design, firmware, desktop capture application, and command-line client kept in one repository.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LibreVNA](https://github.com/jankae/LibreVNA)** — Open-hardware 100 kHz to 6 GHz two-port USB vector network analyzer, with PCB sources, firmware, and a Qt GUI application.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RF / SDR

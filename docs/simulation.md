@@ -254,6 +254,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Arbolta](https://github.com/Xilinx/arbolta)** — Gate-level netlist simulator from AMD Research that pairs a Rust runtime with Python bindings, aimed at collecting high-level hardware/software co-design statistics instead of timing-accurate waveforms.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Muchisim](https://github.com/PrincetonUniversity/muchisim)** — Simulation framework for design exploration of multi-chip manycore systems that reports performance, energy, area, and cost.
+  `License: BSD-3-Clause-Clear` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
