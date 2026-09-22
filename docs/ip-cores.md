@@ -431,6 +431,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipFlow Digital IP](https://github.com/ChipFlow/chipflow-digital-ip)** — Parameterized peripheral cores wrapped in Amaranth for the ChipFlow platform, covering GPIO, UART, I2C, (Q)SPI, QSPI flash, HyperRAM, bus-attached SRAM, a platform timer, and a SoC ID block, each shipped with verification tests.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[usb_dfu](https://github.com/ulixxe/usb_dfu)** — Verilog full-speed USB Device Firmware Upgrade (DFU 1.1) function with run-time CDC/ACM mode and DFU mode, for FPGA and ASIC designs.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -542,6 +544,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SpinalHDL Math Library](https://github.com/tomverbeure/math)** — SpinalHDL library of `Fpxx` floating-point units — add, multiply, divide, square root, and reciprocal square root — parameterized by exponent and mantissa width.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Sextans](https://github.com/linghaosong/Sextans)** — FPGA accelerator for general-purpose sparse-matrix dense-matrix multiplication (SpMM), built with TAPA for HBM devices.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -781,6 +785,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bsg_pearls](https://github.com/bespoke-silicon-group/bsg_pearls)** — Silicon-validated SoC IP blocks and testing collateral from the Bespoke Silicon Group, assembled largely from BaseJump STL primitives; the clock generator ships with complete collateral and the remaining blocks are works in progress.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LibSV](https://github.com/bensampson5/libsv)** — Parameterized SystemVerilog library of reusable digital hardware building blocks, distributed as a Python package.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

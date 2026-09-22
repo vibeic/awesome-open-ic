@@ -117,6 +117,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LightningSim](https://github.com/sharc-lab/LightningSim)** — Trace-based simulator from Georgia Tech's Sharc Lab that estimates cycle counts for AMD/Xilinx Vitis HLS designs without rerunning RTL co-simulation.
   `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LogicNets](https://github.com/Xilinx/logicnets)** — Methodology and PyTorch-based library for training sparse quantized neural networks that map onto FPGA LUT netlists.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -246,6 +248,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VHDL LS for VS Code](https://github.com/VHDL-LS/rust_hdl_vscode)** — Visual Studio Code extension packaging the rust_hdl VHDL language server, adding live syntax and type checking, goto-definition, find-all-references, hover, rename, and workspace symbol search driven by a vhdl_ls.toml library mapping.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pyVHDLParser](https://github.com/Paebbels/pyVHDLParser)** — Streaming-based VHDL parser in Python that turns source into token and block streams and then into a code document object model.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -405,6 +409,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[BlobPlace](https://github.com/ABKGroup/BlobPlacement)** — Clustering-driven placement framework for large-scale designs from the DAC 2024 paper, installed by replacing the `par` source directory of an OpenROAD build.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AMF-Placer](https://github.com/zslwyuan/AMF-Placer)** — Timing-driven analytical mixed-size FPGA placer for heterogeneous resources (LUT/FF/LUTRAM/MUX/CARRY/DSP/BRAM) on Xilinx UltraScale devices.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -795,6 +801,8 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[bitfield](https://github.com/wavedrom/bitfield)** — Renders register bit-field diagrams as SVG from a JSON description, distributed by the WaveDrom project as the `bit-field` npm library and command-line tool.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hdl21 Schematics](https://github.com/Vlsir/Hdl21Schematics)** — SVG-based schematic format and editor whose drawings import directly as Hdl21 Python circuit generators.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DFT
 

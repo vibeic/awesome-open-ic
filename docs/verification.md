@@ -94,6 +94,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cocotbext-i2c](https://github.com/alexforencich/cocotbext-i2c)** — I2C simulation models for cocotb, published on PyPI as cocotbext-i2c and used to build testbenches for I2C controller and peripheral RTL.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PZTB-CORE](https://github.com/pezy-computing/pztb-core)** — SystemVerilog library of common testbench modules and class libraries released by PEZY Computing.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -243,6 +245,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MEDDLY](https://github.com/asminer/meddly)** — Library of multi-terminal and edge-valued decision diagrams with C++ and C interfaces, used as a symbolic back-end for state-space generation and reachability analysis.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[dd](https://github.com/tulip-control/dd)** — Binary decision diagram package in pure Python with Cython bindings to CUDD, Sylvan, and BuDDy, also covering multi-valued and zero-suppressed decision diagrams.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Property / ISA Checking
 
