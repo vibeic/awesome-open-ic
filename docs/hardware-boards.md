@@ -161,6 +161,10 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tt-micropython-firmware](https://github.com/TinyTapeout/tt-micropython-firmware)** — MicroPython firmware and API for the RP2040 on the Tiny Tapeout demo board, used to select and drive multiplexed projects.
   `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout SKY 25b shuttle](https://github.com/TinyTapeout/tinytapeout-sky-25b)** — Shuttle aggregate for Tiny Tapeout SKY 25b on the sky130A PDK (ChipFoundry CC2511 MPW), with verification, datasheet, GDS, and precheck workflows for the assembled chip.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout IHP 26a shuttle](https://github.com/TinyTapeout/tinytapeout-ihp-26a)** — Shuttle aggregate for Tiny Tapeout IHP 26a on the open IHP SG13G2 PDK, with verification, datasheet, GDS, and precheck workflows for the assembled chip.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 

@@ -69,6 +69,10 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout SKY130 VHDL template](https://github.com/TinyTapeout/ttsky-vhdl-template)** — Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles targeting VHDL projects.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wafer.space gf180mcu Project Template](https://github.com/wafer-space/gf180mcu-project-template)** — Project template for wafer.space MPW runs on the open_pdks gf180mcuD PDK variant, with a Nix shell and LibreLane-based implementation flow.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipFoundry CLI (cf-cli)](https://github.com/chipfoundry/cf-cli)** — Command-line tool for ChipFoundry ASIC projects that handles authentication, project registration, SFTP submission of design files, and syncing of GDS hash and slot metadata with the platform.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
 
