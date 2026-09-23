@@ -84,6 +84,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0 / CC-BY-4.0 (docs)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AuDoPEDA](https://github.com/ABKGroup/AuDoPEDA)** — Public collateral for the ICCAD 2026 paper on automated quality-of-results improvement in OpenROAD with coding agents, holding the three OpenROAD diffs, their reconstruction scripts, the reported evaluation results, and Lean models of the headline contracts.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AnalogCoder](https://github.com/laiyao1/AnalogCoder)** — Official implementation of the AAAI 2025 paper on a training-free LLM agent that designs analog circuits by generating Python/SPICE code with simulation feedback.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

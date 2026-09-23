@@ -433,6 +433,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[usb_dfu](https://github.com/ulixxe/usb_dfu)** — Verilog full-speed USB Device Firmware Upgrade (DFU 1.1) function with run-time CDC/ACM mode and DFU mode, for FPGA and ASIC designs.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI-RT](https://github.com/pulp-platform/axi_rt)** — Modular real-time extension for AXI4 memory systems from PULP Platform, independent of the specific AXI4 implementation and intended for use with the PULP AXI4+ATOP IP.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -787,6 +789,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LibSV](https://github.com/bensampson5/libsv)** — Parameterized SystemVerilog library of reusable digital hardware building blocks, distributed as a Python package.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Astral](https://github.com/pulp-platform/astral)** — Space-oriented computing platform from PULP built around the Cheshire RV64 SoC, with configurable safety, security, reliability, and predictability features and an FPGA flow for multiple boards.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
