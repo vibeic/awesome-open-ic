@@ -99,6 +99,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Whisper (VeeR-ISS)](https://github.com/chipsalliance/VeeR-ISS)** — RISC-V instruction set simulator written for VeeR core verification; runs interactively or in lock step with a Verilog simulator as a golden model.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[renode-systemc-examples](https://github.com/antmicro/renode-systemc-examples)** — Tools and examples for co-simulating SystemC components with the Renode system emulator, with the two simulations running as separate communicating processes.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
@@ -153,6 +155,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[fst-reader](https://github.com/ekiwi/fst-reader)** — Native Rust implementation of a reader for the FST waveform format used by GTKWave.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Busperf](https://github.com/antmicro/busperf)** — Analyzes bus performance from simulation traces to measure throughput and identify bottlenecks.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 

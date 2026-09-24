@@ -86,6 +86,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AnalogCoder](https://github.com/laiyao1/AnalogCoder)** — Official implementation of the AAAI 2025 paper on a training-free LLM agent that designs analog circuits by generating Python/SPICE code with simulation feedback.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DOSA](https://github.com/ucb-bar/dosa)** — Differentiable model-based one-loop design space exploration for DNN accelerators, with a learned model adapted to the Gemmini RTL implementation (MICRO 2023).
+  `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 

@@ -139,6 +139,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[uvmdvgen](https://github.com/antmicro/uvmdvgen)** — Generates the boilerplate code for a UVM agent and a complete UVM testbench for a given DUT, extracted from OpenTitan's `uvmdvgen` utility as a standalone tool.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VTE](https://github.com/fvutils/vte)** — Jinja2-based Verification Template Engine that generates UVM elements such as tests, sequences, and agents from reusable template libraries.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -195,6 +197,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: BSD-3-Clause-Clear` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[psl_with_ghdl](https://github.com/tmeissner/psl_with_ghdl)** — Collection of worked examples applying PSL directives and temporal operators to VHDL designs for both simulation and formal proof with GHDL, Yosys, and SymbiYosys, tracking which PSL features GHDL supports.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Patronus](https://github.com/cucapra/patronus)** — Rust hardware bug-finding toolkit with a btor2 front end, bit-vector SMT-based model checking, and a circuit simulator.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 
@@ -330,6 +334,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DAMO-RV-ATS](https://github.com/XUANTIE-RV/damo-rv-ats)** — RISC-V instruction-compatibility regression and random-test framework covering the V (RVV 1.0), Zvbb, and Zvbc extensions across 200 instruction test cases.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cvw-arch-verif](https://github.com/openhwfoundation/cvw-arch-verif)** — Architectural verification tests and coverage collateral for the CORE-V Wally RISC-V processor.
+  `License: SHL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Verification Methodologies
 

@@ -250,6 +250,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pyVHDLParser](https://github.com/Paebbels/pyVHDLParser)** — Streaming-based VHDL parser in Python that turns source into token and block streams and then into a code document object model.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tree-sitter-systemverilog](https://github.com/gmlarumbe/tree-sitter-systemverilog)** — SystemVerilog grammar for the tree-sitter incremental parser generator, providing a concrete syntax tree for editor highlighting, navigation, and code-analysis tools.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -335,6 +337,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[librelane_plugin_fabulous](https://github.com/mole99/librelane_plugin_fabulous)** — LibreLane plugin that integrates FABulous, adding a `FABulousTile` flow to harden a tile or supertile and a `FABulousFabric` flow to stitch hardened tiles into an embedded-FPGA fabric.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FABulator](https://github.com/FPGA-Research/FABulator)** — Graphical frontend for the FABulous embedded-FPGA fabric generator and its CAD tools.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 

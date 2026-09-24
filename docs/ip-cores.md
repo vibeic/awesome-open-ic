@@ -76,6 +76,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Caliptra firmware and software](https://github.com/chipsalliance/caliptra-sw)** — Firmware, libraries, and tools for the Caliptra root of trust, covering the ROM, FMC, and runtime firmware modules together with the libcaliptra host library and their module specifications.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Underserved](https://github.com/olofk/underserved)** — Tiny RISC-V SoC fitting in two Tiny Tapeout tiles, built from the SERV bit-serial core with a GPIO controller and an XIP SPI Flash controller.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -791,6 +793,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Astral](https://github.com/pulp-platform/astral)** — Space-oriented computing platform from PULP built around the Cheshire RV64 SoC, with configurable safety, security, reliability, and predictability features and an FPGA flow for multiple boards.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)** — FABulous-generated embedded FPGA (672 LUT4s, 7 DSPs, 7 BRAMs) implemented RTL-to-GDS with OpenLane on SKY130 inside the Caravel user-project wrapper.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
