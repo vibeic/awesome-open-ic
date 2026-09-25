@@ -295,6 +295,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ConFuzz](https://github.com/emsec/ConFuzz)** — FPGA configuration-engine fuzzing and rapid-prototyping framework built on boofuzz and OpenOCD, exercised on Xilinx 7-Series and UltraScale boards and shipping the artifacts for the JustSTART attack (CVE-2023-20570).
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Encarsia](https://github.com/comsec-group/encarsia)** — Artifacts for the USENIX Security 2025 Encarsia paper, which injects bugs into RISC-V CPU netlists with Yosys passes to evaluate CPU fuzzers such as DifuzzRTL, ProcessorFuzz, and Cascade, and ships the EnCorpus bug set for Ibex, Rocket, and BOOM.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 

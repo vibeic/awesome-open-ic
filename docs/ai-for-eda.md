@@ -169,6 +169,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Dr. Guide](https://github.com/cuhk-eda/Dr-Guide)** — Generative framework from CUHK that produces co-planned detailed route guides for many nets at once to allocate routing resources across nets, released with model source, trained checkpoints, and an inference script.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MaskRegulate](https://github.com/lamda-bbo/macro-regulator)** — Reinforcement-learning macro placement method that refines an existing placement as a regulator rather than placing macros from scratch, released as the official NeurIPS 2024 implementation.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EfficientPlace](https://github.com/MIRALab-USTC/AI4EDA-EfficientPlace)** — Macro placement method that combines Monte Carlo tree search with a reinforcement-learning policy, released as the official ICML 2024 implementation.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 
@@ -247,6 +251,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
 
 - **[RTLFixer paper](https://arxiv.org/abs/2311.16543)** — RAG + ReAct-driven LLM agent that auto-repairs ~98.5% of Verilog syntax errors and lifts pass@1 by 10-32% on VerilogEval variants.
   `License: Paper (arXiv)` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — paper*
+- **[CirFix](https://github.com/hammad-a/verilog_repair)** — Artifact for the ASPLOS 2022 CirFix paper, which automatically repairs functional defects in Verilog designs using fault localization and a genetic-programming search driven by testbench outputs.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Commercial (cross-listed for reference)
 
