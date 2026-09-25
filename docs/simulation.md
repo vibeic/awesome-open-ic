@@ -262,6 +262,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause-Clear` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GVSoC](https://github.com/gvsoc/gvsoc)** — Simulator for PULP-based chips, bundled with the PULP SDK, used to build virtual systems and extract performance results before silicon (Bruschi et al., arXiv:2201.08166).
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gem5-SALAM](https://github.com/TeCSAR-UNCC/gem5-SALAM)** — gem5 extension for LLVM-based modeling and system-level simulation of custom hardware accelerators alongside CPUs and memory.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
