@@ -119,6 +119,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: AGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LogicNets](https://github.com/Xilinx/logicnets)** — Methodology and PyTorch-based library for training sparse quantized neural networks that map onto FPGA LUT netlists.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kanagawa](https://github.com/microsoft/kanagawa)** — Microsoft's imperative high-level hardware design language and compiler built on a wavefront-threading execution model that makes concurrency, synchronization, and scheduling explicit in source code.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -918,4 +920,6 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
 - **[PyXHDL](https://github.com/davidel/pyxhdl)** — Python front end that executes a design written in Python and emits VHDL-2008 or SystemVerilog for synthesis and simulation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AnvilHDL](https://github.com/kisp-nus/anvil)** — Register-transfer-level hardware description language whose type system checks the timing safety of values referenced across cycles, emitting SystemVerilog for integration with existing designs (ASPLOS 2026).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RHDL](https://github.com/samitbasu/rhdl)** — Rust-based hardware description language and ground-up rewrite of Rust-HDL that simulates designs natively in Rust and generates Verilog.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

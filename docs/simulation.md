@@ -72,6 +72,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VAJAX](https://github.com/ChipFlow/vajax)** — GPU-accelerated analog circuit simulator built on JAX that compiles Verilog-A compact models through OpenVAF and runs DC, transient, AC, noise, transfer-function, corner-sweep, and harmonic-balance analyses.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Mosplot (gmid)](https://github.com/medwatt/gmid)** — Python framework for gm/ID-based analog design that builds MOSFET lookup tables from ngspice/HSPICE/Spectre sweeps, plots design charts, and sizes circuits across process corners.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -264,6 +266,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gem5-SALAM](https://github.com/TeCSAR-UNCC/gem5-SALAM)** — gem5 extension for LLVM-based modeling and system-level simulation of custom hardware accelerators alongside CPUs and memory.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MGPUSim](https://github.com/sarchlab/mgpusim)** — Go-based GPU architecture simulator built on the Akita engine that models AMD GCN3 GPUs and supports multi-GPU system simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

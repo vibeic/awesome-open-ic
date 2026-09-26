@@ -88,6 +88,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DOSA](https://github.com/ucb-bar/dosa)** — Differentiable model-based one-loop design space exploration for DNN accelerators, with a learned model adapted to the Gemmini RTL implementation (MICRO 2023).
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AccelForge](https://github.com/Accelergy-Project/accelforge)** — Python framework from the Accelergy project for modeling, designing, and exploring tensor-algebra accelerators; successor to the CiMLoop architecture models.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HWComponents](https://github.com/Accelergy-Project/hwcomponents)** — Library of area, energy, latency, and leakage-power models for hardware components used by Accelergy-based accelerator estimation flows.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -109,6 +113,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: CC-BY-4.0 (data) / MIT (code)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[RealBench](https://github.com/IPRC-DIP/RealBench)** — Benchmark of complex, real-scenario IP design tasks at module and system level with multi-modal specifications and syntax, functional, and formal correctness verification for LLM-based RTL generation (arXiv 2507.16200).
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
+- **[LLM4DV](https://github.com/ZixiBenZhang/ml4dv)** — Benchmarking framework that uses large language models to generate test stimuli for hardware design verification and measures coverage-bin hits on sample designs.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 
