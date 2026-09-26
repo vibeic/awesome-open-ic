@@ -550,6 +550,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Sextans](https://github.com/linghaosong/Sextans)** — FPGA accelerator for general-purpose sparse-matrix dense-matrix multiplication (SpMM), built with TAPA for HBM devices.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fpu_div_sqrt_mvp](https://github.com/pulp-platform/fpu_div_sqrt_mvp)** — Multi-precision iterative floating-point division and square-root unit in SystemVerilog from ETH Zurich / PULP, used as a dependency of CVFPU.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenOFDM](https://github.com/jhshi/openofdm)** — Synthesizable Verilog 802.11a/g/n OFDM PHY decoder with a Python reference decoder for cross-validation.
+  `License: Apache-2.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
