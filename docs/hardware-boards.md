@@ -92,6 +92,10 @@ Open-source projects (e.g. F4PGA / Project X-Ray) reverse-engineer the 7-series 
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Artix DC-SCM](https://github.com/antmicro/artix-dc-scm)** — Open-hardware KiCad baseboard-management-controller module built on a Xilinx Artix-7 XC7A100T that follows the Open Compute Project Data Center Secure Control Module specification, with DDR3, eMMC, four SPI flash devices, and gigabit Ethernet.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Digilent XDC Files](https://github.com/Digilent/digilent-xdc)** — Master XDC constraint files for Digilent FPGA and Zynq development boards.
+  `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openXC7 Demo Projects](https://github.com/openXC7/demo-projects)** — Template demo projects for Xilinx Series 7 development boards built with the openXC7 open-source toolchain, with a CI test-matrix dashboard.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Gowin (partial open)
 

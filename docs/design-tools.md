@@ -341,6 +341,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FABulator](https://github.com/FPGA-Research/FABulator)** — Graphical frontend for the FABulous embedded-FPGA fabric generator and its CAD tools.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Raptor](https://github.com/os-fpga/Raptor)** — Rapid Silicon RTL-to-bitstream FPGA compiler for user designs and IP, run in batch or GUI mode with full Tcl scripting.
+  `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -417,6 +419,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AMF-Placer](https://github.com/zslwyuan/AMF-Placer)** — Timing-driven analytical mixed-size FPGA placer for heterogeneous resources (LUT/FF/LUTRAM/MUX/CARRY/DSP/BRAM) on Xilinx UltraScale devices.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fiction](https://github.com/cda-tum/fiction)** — C++20 design automation framework from TU Munich for field-coupled nanocomputing, implementing logic synthesis, placement, routing, clocking, verification, and simulation, with Python bindings.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Build Systems & Flow Generators
 
@@ -506,6 +510,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Rivet](https://github.com/ucb-substrate/rivet)** — Rust flow manager that walks a dependency graph of tool steps, executes independent branches concurrently on a worker pool, and adds dependency pinning and fine-grained checkpointing through PDK and tool plugins.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BFASST](https://github.com/byuccl/bfasst)** — BYU FPGA assurance tool, a Python package for composing custom FPGA CAD flows from predefined flow descriptions and running them on example designs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 

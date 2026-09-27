@@ -799,6 +799,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)** — FABulous-generated embedded FPGA (672 LUT4s, 7 DSPs, 7 BRAMs) implemented RTL-to-GDS with OpenLane on SKY130 inside the Caravel user-project wrapper.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Coyote](https://github.com/fpgasystems/Coyote)** — ETH Zurich open-source FPGA shell that provides operating-system abstractions such as multi-tenancy, reconfiguration, RDMA and TCP/IP networking, and shared virtualized memory for datacenter FPGAs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OFS Agilex 7 PCIe Attach FIM](https://github.com/OFS/ofs-agx7-pcie-attach)** — Open FPGA Stack FPGA Interface Manager design for Agilex 7 PCIe-attach boards, with per-board configurations and .ofss settings for PCIe functions, clocks, local memory, and Ethernet topology.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
