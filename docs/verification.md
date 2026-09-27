@@ -96,6 +96,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PZTB-CORE](https://github.com/pezy-computing/pztb-core)** — SystemVerilog library of common testbench modules and class libraries released by PEZY Computing.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ADI HDL Testbenches](https://github.com/analogdevicesinc/testbenches)** — Analog Devices testbenches and verification components for system-level projects and blocks of the ADI HDL repository, built around Xilinx verification IPs.
+  `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
