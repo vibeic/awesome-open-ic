@@ -127,6 +127,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Free tutorial collection` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[ASIC World — Verilog Tutorial](https://www.asic-world.com/verilog/veritut.html)** — Long-running comprehensive Verilog reference: gate-level, behavioural, testbench, synthesis, PLI. All examples Icarus-verified.
   `License: Free online tutorial` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[RISC-V Reference Card](https://github.com/jameslzhu/riscv-card)** — Unofficial LaTeX-sourced RISC-V assembly reference card listing base and standard-extension instructions, pseudo-instructions, and register conventions.
+  `License: CC-BY-4.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Video Series & YouTube
 
@@ -227,3 +229,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SSCS Chipathon 2025](https://github.com/sscs-ose/sscs-chipathon-2025)** — Repository for the IEEE SSCS Chipathon 2025 ("Blocks & Bots") with schedule, participant guidelines, and track resources covering IIC-OSIC-TOOLS setup, gLayout analog automation, digital building blocks, and gm/ID sizing data.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vitis In-Depth Tutorials](https://github.com/Xilinx/Vitis-Tutorials)** — AMD tutorial collection for the Vitis unified software platform covering HLS kernels, AI Engine programming, and hardware acceleration on AMD FPGAs and adaptive SoCs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

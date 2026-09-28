@@ -554,6 +554,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenOFDM](https://github.com/jhshi/openofdm)** — Synthesizable Verilog 802.11a/g/n OFDM PHY decoder with a Python reference decoder for cross-validation.
   `License: Apache-2.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Coral NPU](https://github.com/google-coral/coralnpu)** — Google Research RV32IMF_Zve32x-based ML inference accelerator IP combining scalar, vector, and matrix units for ultra-low-power edge SoCs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
