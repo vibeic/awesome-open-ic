@@ -121,6 +121,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kanagawa](https://github.com/microsoft/kanagawa)** — Microsoft's imperative high-level hardware design language and compiler built on a wavefront-threading execution model that makes concurrency, synchronization, and scheduling explicit in source code.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Vitis HLS Introductory Examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)** — AMD collection of synthesizable C/C++ examples with testbenches and Tcl/Python scripts covering Vitis HLS pragmas, array partitioning, interfaces, and DSP/FFT/FIR usage.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -574,6 +576,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[GDS-to-LEF](https://github.com/ABKGroup/GDS-to-LEF)** — KLayout-based script from UCSD that converts a standard-cell GDS into a LEF abstract without a commercial tool, tracking metal and active connectivity to classify each segment as PIN or OBS, with ready-to-run configurations for NanGate45, ASAP7, IHP SG13G2, SO3, and GT2N.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Revolution EDA](https://github.com/eskiyerli/revolution-eda)** — Python-based schematic, symbol, and hierarchical layout editor for custom IC design with Verilog-A symbol generation and netlisting for Xyce, Spectre, and VACASK.
+  `License: MPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -929,3 +933,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RHDL](https://github.com/samitbasu/rhdl)** — Rust-based hardware description language and ground-up rewrite of Rust-HDL that simulates designs natively in Rust and generates Verilog.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[BSC Development Workstation (BDW)](https://github.com/B-Lang-org/bdw)** — Graphical environment for creating, editing, compiling, simulating, and debugging Bluespec BSV/BH designs with the open-source BSC compiler.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

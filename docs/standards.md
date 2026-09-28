@@ -148,6 +148,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V RERI (RAS Error-record Register Interface)](https://github.com/riscv-non-isa/riscv-ras-eri)** — Draft specification from the RERI task group defining a memory-mapped error-record register interface for RAS error detection, logging, and configuration in RISC-V SoCs.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V RVM-CSI](https://github.com/riscv-non-isa/riscv-rvm-csi)** — RISC-V eMbedded Common Software Interface specification and C headers defining a source-level portability layer across RISC-V microcontrollers.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 

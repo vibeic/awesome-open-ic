@@ -268,6 +268,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MGPUSim](https://github.com/sarchlab/mgpusim)** — Go-based GPU architecture simulator built on the Akita engine that models AMD GCN3 GPUs and supports multi-GPU system simulation.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XS-GEM5](https://github.com/OpenXiangShan/GEM5)** — gem5-based full-system RISC-V simulator calibrated against the XiangShan Nanhu/Kunminghu RTL for cycle-level performance modeling.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Akita](https://github.com/sarchlab/akita)** — Go-based event-driven computer-architecture simulation engine that underpins MGPUSim and other cycle-level hardware models.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
