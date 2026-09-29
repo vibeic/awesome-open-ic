@@ -20,6 +20,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V Integrated Matrix Extension](https://github.com/riscv/integrated-matrix-extension)** — RISC-V International development repository for the Integrated Matrix Extension, holding the draft matrix-extension chapter alongside the ISA manual sources it is built from.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — spec, not tool*
+- **[CoreDSL](https://github.com/Minres/CoreDSL)** — Xtext grammar, standalone validator, and editor plugins for CoreDSL 2, a language for describing RISC-V instruction-set extensions and processor cores.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## On-chip Buses
 
