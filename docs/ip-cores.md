@@ -174,6 +174,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[NucleusRV](https://github.com/merledu/nucleusrv)** — Chisel-based 32-bit RISC-V CPU with a five-stage pipeline, emitted to Verilog and exercised against Verilator and the RISC-V GNU toolchain.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[R5P (rp32)](https://github.com/jeras/rp32)** — Family of small RV32I(E) cores in Verilog-2001 and SystemVerilog, including the Degu variant that executes every instruction in a single clock cycle (CPI=1).
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -250,6 +252,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Boneless-CPU](https://github.com/whitequark/Boneless-CPU)** — Resource-efficient 16-bit CPU architecture aimed at FPGA control planes, with Amaranth gateware plus an assembler and disassembler.
   `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TinyGPUs (DMC-1)](https://github.com/sylefeb/tinygpus)** — DMC-1, a small early-1990s-style texture-mapping GPU that renders Doom, Comanche, and Quake levels on the icebreaker board, the MCH2022 badge, and in simulation.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -437,6 +441,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AXI-RT](https://github.com/pulp-platform/axi_rt)** — Modular real-time extension for AXI4 memory systems from PULP Platform, independent of the specific AXI4 implementation and intended for use with the PULP AXI4+ATOP IP.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ADI HDL](https://github.com/analogdevicesinc/hdl)** — Analog Devices HDL library and reference projects for interfacing its ADCs, DACs, and transceivers with FPGAs, including JESD204, AXI DMA, and converter-interface cores.
+  `License: GPL-2.0 OR ADI-BSD (dual-licensed per module)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -555,6 +561,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[OpenOFDM](https://github.com/jhshi/openofdm)** — Synthesizable Verilog 802.11a/g/n OFDM PHY decoder with a Python reference decoder for cross-validation.
   `License: Apache-2.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Coral NPU](https://github.com/google-coral/coralnpu)** — Google Research RV32IMF_Zve32x-based ML inference accelerator IP combining scalar, vector, and matrix units for ultra-low-power edge SoCs.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[pptrees (synth_opt_adders)](https://github.com/tdene/synth_opt_adders)** — Python library for generating and exploring parallel-prefix adder trees and emitting their Verilog, used to study synthesis-optimal adder topologies.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
