@@ -78,6 +78,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Underserved](https://github.com/olofk/underserved)** — Tiny RISC-V SoC fitting in two Tiny Tapeout tiles, built from the SERV bit-serial core with a GPIO controller and an XIP SPI Flash controller.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[caliptra-dpe](https://github.com/chipsalliance/caliptra-dpe)** — Reference Rust implementation of the DICE Protection Environment (DPE) for the Caliptra Root of Trust, providing the hardware-abstraction traits used by the embedded crypto peripherals and PCR bank.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 

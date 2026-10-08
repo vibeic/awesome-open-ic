@@ -272,6 +272,14 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Akita](https://github.com/sarchlab/akita)** — Go-based event-driven computer-architecture simulation engine that underpins MGPUSim and other cycle-level hardware models.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MPACT-Sim](https://github.com/google/mpact-sim)** — Google's C++ toolkit for building retargetable instruction set simulators, providing binary decoder generators, operand decoders, and simulation infrastructure as reusable base classes.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MPACT-RISC-V](https://github.com/google/mpact-riscv)** — RISC-V ISS built on the MPACT-Sim framework, targeting RV32/RV64GC with RVV and debug-server support, serving as the reference implementation for the MPACT ISA modeling libraries.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MPACT-CHERIoT](https://github.com/google/mpact-cheriot)** — CHERIoT ISS built on the MPACT-Sim framework, providing a standalone simulator binary and a Renode-compatible shared-library target for capability-hardware bring-up and security testing.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tt-npe](https://github.com/tenstorrent/tt-npe)** — Simple network-on-chip performance estimator for Tenstorrent Tensix-based AI accelerators that analytically models NoC bandwidth, link contention, and routed-wire latency for pre-silicon workload planning.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
@@ -297,6 +305,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hgdb](https://github.com/Kuree/hgdb)** — Hardware debugging framework that gives a running simulator breakpoint, conditional-breakpoint, frame-reconstruction, and replay-mode reverse-debugging APIs through a separate symbol table, with no RTL modification required.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[caravel-sim-infrastructure](https://github.com/efabless/caravel-sim-infrastructure)** — Simulation infrastructure for the efabless Caravel harness that drives co-simulation of user projects inside the Caravel SoC, supporting Verilator and Icarus Verilog flows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 

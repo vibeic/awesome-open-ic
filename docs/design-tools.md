@@ -256,6 +256,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tree-sitter-systemverilog](https://github.com/gmlarumbe/tree-sitter-systemverilog)** — SystemVerilog grammar for the tree-sitter incremental parser generator, providing a concrete syntax tree for editor highlighting, navigation, and code-analysis tools.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[tt-mlir](https://github.com/tenstorrent/tt-mlir)** — Tenstorrent MLIR-based compiler that lowers ML graphs expressed in MLIR dialects to TT-Metalium kernels, targeting Grayskull, Wormhole, and Blackhole AI accelerator hardware.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
