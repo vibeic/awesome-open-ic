@@ -272,6 +272,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Akita](https://github.com/sarchlab/akita)** — Go-based event-driven computer-architecture simulation engine that underpins MGPUSim and other cycle-level hardware models.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ZigZag-IMC](https://github.com/KULeuven-MICAS/zigzag-imc)** — Extension of the KU Leuven ZigZag design-space exploration framework that models in-memory-computing (IMC) accelerators for fast hardware cost estimation of deep-learning workloads.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 

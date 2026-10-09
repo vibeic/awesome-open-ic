@@ -120,6 +120,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Learn Bluespec and RISC-V Design](https://github.com/rsnikhil/Learn_Bluespec_and_RISCV_Design)** — Textbook and full source code from Rishiyur Nikhil for learning RISC-V pipelined CPU design in the Bluespec hardware design languages, built around the Fife and Drum example cores.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[XiangShan User Guide](https://github.com/OpenXiangShan/XiangShan-User-Guide)** — User guide for the XiangShan open-source RISC-V processor, written in Chinese with an English translation in progress and built with Pandoc and MkDocs.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Reference Cards & Cheat Sheets
 
@@ -231,3 +233,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vitis In-Depth Tutorials](https://github.com/Xilinx/Vitis-Tutorials)** — AMD tutorial collection for the Vitis unified software platform covering HLS kernels, AI Engine programming, and hardware acceleration on AMD FPGAs and adaptive SoCs.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SSCS Chipathon 2026](https://github.com/sscs-ose/sscs-chipathon-2026)** — Repository for the IEEE SSCS Chipathon 2026 ("Build It. Test It. Publish It.") with the schedule, participant guidelines, and track resources for open-source chip design, tapeout, and measurement.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

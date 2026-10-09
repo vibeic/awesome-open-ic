@@ -123,6 +123,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Vitis HLS Introductory Examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples)** — AMD collection of synthesizable C/C++ examples with testbenches and Tcl/Python scripts covering Vitis HLS pragmas, array partitioning, interfaces, and DSP/FFT/FIR usage.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Nanotube](https://github.com/Xilinx/nanotube)** — AMD compiler framework that translates eBPF XDP packet-processing C code into a pipelined HLS C++ design for synthesis with Vitis HLS onto SmartNIC FPGAs.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
