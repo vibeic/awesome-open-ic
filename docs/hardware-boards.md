@@ -169,6 +169,12 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout IHP 26a shuttle](https://github.com/TinyTapeout/tinytapeout-ihp-26a)** — Shuttle aggregate for Tiny Tapeout IHP 26a on the open IHP SG13G2 PDK, with verification, datasheet, GDS, and precheck workflows for the assembled chip.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout SKY 26a shuttle](https://github.com/TinyTapeout/tinytapeout-sky-26a)** — Shuttle aggregate for Tiny Tapeout SKY 26a on the sky130A PDK (ChipFoundry CI2605 MPW), with verification, datasheet, GDS, and precheck workflows for the assembled chip.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout GF 0.2 shuttle](https://github.com/TinyTapeout/tinytapeout-gf-0p2)** — Shuttle aggregate for the experimental Tiny Tapeout GF 0.2 chip on the gf180mcuD process, built with LibreLane and including verification, datasheet, GDS, and precheck workflows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout IHP 25b shuttle](https://github.com/TinyTapeout/tinytapeout-ihp-25b)** — Shuttle aggregate for Tiny Tapeout IHP 25b on the open IHP SG13G2 PDK, with verification, formal, datasheet, GDS, and precheck workflows for the assembled chip.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 

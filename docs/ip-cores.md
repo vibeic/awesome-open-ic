@@ -813,6 +813,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OFS Agilex 7 PCIe Attach FIM](https://github.com/OFS/ofs-agx7-pcie-attach)** — Open FPGA Stack FPGA Interface Manager design for Agilex 7 PCIe-attach boards, with per-board configurations and .ofss settings for PCIe functions, clocks, local memory, and Ethernet topology.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Starship](https://github.com/sycuricon/starship)** — SoC generator for building and running rocket-chip RISC-V designs on FPGA boards such as the Xilinx VC707, as a lighter alternative to Chipyard for FPGA bring-up.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 

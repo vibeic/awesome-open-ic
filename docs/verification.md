@@ -303,6 +303,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Encarsia](https://github.com/comsec-group/encarsia)** — Artifacts for the USENIX Security 2025 Encarsia paper, which injects bugs into RISC-V CPU netlists with Yosys passes to evaluate CPU fuzzers such as DifuzzRTL, ProcessorFuzz, and Cascade, and ships the EnCorpus bug set for Ibex, Rocket, and BOOM.
   `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Cascade](https://github.com/cascade-artifacts-designs/cascade-meta)** — Meta-repository for Cascade, an ETH Zurich RISC-V CPU fuzzer that generates long programs with intricate control and data flow, including the fuzzer, program reduction, and design-processing scripts.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Test Suites
 
