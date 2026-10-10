@@ -299,6 +299,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: MulanPSL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[hgdb](https://github.com/Kuree/hgdb)** — Hardware debugging framework that gives a running simulator breakpoint, conditional-breakpoint, frame-reconstruction, and replay-mode reverse-debugging APIs through a separate symbol table, with no RTL modification required.
   `License: BSD-2-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FireMarshal](https://github.com/firesim/FireMarshal)** — Workload generation tool for RISC-V SoCs that builds boot binaries and filesystem images and can launch them in Spike or QEMU; the default workload manager for Chipyard and FireSim.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lab Instruments / SDR-adjacent
 

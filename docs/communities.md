@@ -64,6 +64,14 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 - **[ICLAD](https://iclad.ai/)** — IEEE International Conference on LLM-Aided Design, on applying large language models to the design of circuits, software, and computing systems; the second edition was held July 30-31, 2026 at Stanford University, continuing the LAD'24 and LAD'25 workshops.
   `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[FCCM](https://www.fccm.org/)** — IEEE Symposium on Field-Programmable Custom Computing Machines, a research forum on computing with FPGAs and other reconfigurable hardware; the 35th edition runs May 9-12, 2027 in Provo, Utah.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[ISFPGA](https://www.isfpga.org/)** — ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, covering advances in FPGA architecture, CAD, and applications; the 35th edition runs March 14-16, 2027 in California.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[FPL](https://fpl.org/)** — International Conference on Field-Programmable Logic and Applications, on reconfigurable architectures, applications, and design automation; the 36th edition ran September 7-11, 2026 at Ghent University, Belgium.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
+- **[VLSI Symposium](https://www.vlsisymposium.org/)** — Symposium on VLSI Technology and Circuits, spanning process technology to system-on-chip design; the 2027 edition runs June 20-24 in Kyoto, Japan.
+  `License: Paid registration` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — event*
 
 ## Chat & Real-time Discussion
 
