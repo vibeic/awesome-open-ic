@@ -203,6 +203,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Patronus](https://github.com/cucapra/patronus)** — Rust hardware bug-finding toolkit with a btor2 front end, bit-vector SMT-based model checking, and a circuit simulator.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Hardcaml Verify](https://github.com/janestreet/hardcaml_verify)** — Verification support for Hardcaml designs, with SAT-solver interfaces for combinational problems and NuSMV code generation for sequential model checking.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SMT / SAT Solvers (for HW formal back-ends)
 

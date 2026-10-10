@@ -78,6 +78,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Underserved](https://github.com/olofk/underserved)** — Tiny RISC-V SoC fitting in two Tiny Tapeout tiles, built from the SERV bit-serial core with a GPIO controller and an XIP SPI Flash controller.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HEEPsilon](https://github.com/esl-epfl/HEEPsilon)** — Low-power RISC-V platform built on X-HEEP that integrates the OpenEdgeCGRA coarse-grained reconfigurable array for processing biological and environmental signals.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -176,6 +178,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[R5P (rp32)](https://github.com/jeras/rp32)** — Family of small RV32I(E) cores in Verilog-2001 and SystemVerilog, including the Degu variant that executes every instruction in a single clock cycle (CPI=1).
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Wildcat](https://github.com/schoeberl/wildcat)** — RV32I RISC-V ISA simulator and hardware core variants, aimed at education and real-time systems, by Martin Schoeberl.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -254,6 +258,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: 0BSD` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TinyGPUs (DMC-1)](https://github.com/sylefeb/tinygpus)** — DMC-1, a small early-1990s-style texture-mapping GPU that renders Doom, Comanche, and Quake levels on the icebreaker board, the MCH2022 badge, and in simulation.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Leros](https://github.com/leros-dev/leros)** — Tiny FPGA-optimized processor core for embedded systems, with a 16-bit VHDL version and a 16/32/64-bit Chisel redesign supported by an LLVM C compiler.
+  `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 

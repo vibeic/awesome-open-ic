@@ -939,3 +939,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Transactron](https://github.com/kuznia-rdzeni/transactron)** — Amaranth HDL library that abstracts ready/valid handshakes into transactions and methods and auto-generates arbitration between conflicting callers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ROHD Bridge](https://github.com/intel/rohd-bridge)** — ROHD-based Dart library from Intel that automates connectivity and hierarchy generation for assembling large SoC and IP designs.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
