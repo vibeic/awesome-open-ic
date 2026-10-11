@@ -136,6 +136,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: EPL-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Undulate](https://github.com/LudwigCRON/undulate)** — Python renderer that turns WaveJSON, YAML, or TOML descriptions into digital and analog timing diagrams, with SVG, PostScript, PDF, and PNG output.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tywaves](https://github.com/rameloni/tywaves-chisel)** — Type-based waveform debugging for Chisel and Tydi-Chisel that maps simulator dumps back to Chisel-level types and values.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform & Trace Libraries
 
