@@ -144,6 +144,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — dataset*
 - **[DALI-PD](https://github.com/ASU-VDA-Lab/DALI-PD)** — Diffusion-model dataset generator for physical design that synthesizes layout heatmaps covering power, IR drop, congestion, macro placement, and cell density, with 23,069 generated configurations included in the repository.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ForgeHLS](https://github.com/zedong-peng/ForgeHLS)** — Large-scale open dataset of HLS designs with pragma configurations and QoR results for QoR prediction and automatic pragma insertion.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## ML for Placement & Routing
 

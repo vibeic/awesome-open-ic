@@ -18,6 +18,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openCologne](https://github.com/chili-chips-ba/openCologne)** — NLnet-funded project around the Cologne Chip GateMate FPGA that develops the ULX5M board in Raspberry Pi CM4 form factor together with documented Verilog, VHDL, and Amaranth examples.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Marble](https://github.com/BerkeleyLab/marble)** — Dual-FMC Artix-7 FPGA carrier board from Berkeley Lab for accelerator instrumentation, designed in KiCad.
+  `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

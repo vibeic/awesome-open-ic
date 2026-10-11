@@ -449,6 +449,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ADI HDL](https://github.com/analogdevicesinc/hdl)** — Analog Devices HDL library and reference projects for interfacing its ADCs, DACs, and transceivers with FPGAs, including JESD204, AXI DMA, and converter-interface cores.
   `License: GPL-2.0 OR ADI-BSD (dual-licensed per module)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteJESD204B](https://github.com/enjoy-digital/litejesd204)** — Small-footprint, configurable JESD204B/JESD204C core for interfacing high-speed ADCs and DACs, written in Migen/LiteX.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -570,6 +572,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[pptrees (synth_opt_adders)](https://github.com/tdene/synth_opt_adders)** — Python library for generating and exploring parallel-prefix adder trees and emitting their Verilog, used to study synthesis-optimal adder topologies.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Virgo](https://github.com/ucb-bar/virgo)** — GPU microarchitecture RTL that integrates Gemmini matrix units at the cluster level with Vortex SIMT cores, built in Chipyard.
+  `License: BSD-3-Clause / Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

@@ -145,6 +145,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Zuspec](https://github.com/zuspec/zuspec)** — Umbrella project for Zuspec, a Python-embedded modeling language with a core IR, a constraint solver, and back ends that emit SystemVerilog or run in Python and HDL simulators.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI4 AVIP](https://github.com/mbits-mirafra/axi4_avip)** — SystemVerilog UVM accelerated verification IP for the AMBA AXI4 protocol with master/slave agents, sequences, and coverage.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Coverage
 
@@ -279,6 +281,8 @@ Binary decision diagram (BDD) packages used as the symbolic back-end for equival
 - **[BinSym](https://github.com/agra-uni-bremen/BinSym)** — Symbolic execution of RISC-V machine code built on the LibRISCV formal ISA model, substituting SMT expressions for concrete instruction operands.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[CHERIoT Sail](https://github.com/CHERIoT-Platform/cheriot-sail)** — Sail reference model and architecture document for the CHERIoT capability ISA, derived from sail-cheri-riscv and built on the Sail RISC-V model.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CHERI-RISC-V Sail Model](https://github.com/CTSRD-CHERI/sail-cheri-riscv)** — Formal Sail specification of the CHERI capability extensions to RISC-V, generating an executable emulator and theorem-prover definitions.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HW Fuzzing

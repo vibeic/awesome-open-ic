@@ -378,6 +378,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[librelane_summary](https://github.com/mattvenn/librelane_summary)** — Post-run explorer for a LibreLane run directory that reports statistics from `final_report_summary.csv` and opens the resulting design views in KLayout.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ECOS Chip Compiler (ECC)](https://github.com/openecos-projects/ecc)** — RTL-to-GDS flow that integrates Yosys, a DREAMPlace-based placer, iEDA-derived ECC-Tools, and KLayout, usable via CLI or Python API.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
 
@@ -516,6 +518,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[BFASST](https://github.com/byuccl/bfasst)** — BYU FPGA assurance tool, a Python package for composing custom FPGA CAD flows from predefined flow descriptions and running them on example designs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IPbus Builder (ipbb)](https://github.com/ipbus/ipbb)** — Command-line tool for building modular, multi-repository FPGA firmware projects, driving Vivado synthesis/implementation and ModelSim simulation.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
