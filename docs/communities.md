@@ -129,3 +129,5 @@ Foundations, chats, and forums that keep open silicon moving.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — curated list*
 - **[hdl/awesome](https://github.com/hdl/awesome)** — Curated list of open-source HDL design and verification resources, published as a browsable site at hdl.github.io/awesome.
   `License: CC0-1.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — curated list*
+- **[awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools)** — Curated list of open-source hardware design tools with a focus on chip design, covering semi-custom/FPGA tooling, open PDKs, and full-custom layout and mixed-signal design.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
