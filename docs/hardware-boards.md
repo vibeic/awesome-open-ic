@@ -177,6 +177,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout IHP 25b shuttle](https://github.com/TinyTapeout/tinytapeout-ihp-25b)** — Shuttle aggregate for Tiny Tapeout IHP 25b on the open IHP SG13G2 PDK, with verification, formal, datasheet, GDS, and precheck workflows for the assembled chip.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wafer.space Chip-on-Board PCBs](https://github.com/wafer-space/chip-on-board-wire-bonded-pcbs)** — Work-in-progress chip-on-board PCB designs for wire-bonding wafer.space GF180MCU dies, following the Tiny Tapeout 74-pad convention.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 

@@ -451,6 +451,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-2.0 OR ADI-BSD (dual-licensed per module)` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteJESD204B](https://github.com/enjoy-digital/litejesd204)** — Small-footprint, configurable JESD204B/JESD204C core for interfacing high-speed ADCs and DACs, written in Migen/LiteX.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_I2C](https://github.com/efabless/EF_I2C)** — APB and Wishbone wrappers from Efabless around an I2C master controller derived from alexforencich/verilog-i2c, packaged as soft IP.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -633,6 +635,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[cluster_icache](https://github.com/pulp-platform/cluster_icache)** — Instruction cache for processor clusters pairing a latch- or flip-flop-based private L0 with a shared SRAM L1 that emits AXI refill requests; originally developed for the Snitch cluster.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FakeRAM2.0](https://github.com/ABKGroup/FakeRAM2.0)** — Fake memory compiler from ABKGroup that generates Liberty, LEF, and Verilog memory models for a user-chosen PDK from a configuration file, for physical-design research flows.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -825,6 +829,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Starship](https://github.com/sycuricon/starship)** — SoC generator for building and running rocket-chip RISC-V designs on FPGA boards such as the Xilinx VC707, as a lighter alternative to Chipyard for FPGA bring-up.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Clash Protocols](https://github.com/clash-lang/clash-protocols)** — Clash (Haskell HDL) library for writing on-chip dataflow protocols such as AMBA AXI and Altera Avalon, with composable circuits and simulation-based testing.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
