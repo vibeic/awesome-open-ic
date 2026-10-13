@@ -656,6 +656,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[adk-tools](https://github.com/IHP-GmbH/ADK-Tools)** — Docker image for IHP's heterogeneous-integration flow that compiles the chiplet and interposer toolchain from pinned submodules so every tool is callable by name; preview release with no pre-built image.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenEDA-PDK_SetupScript](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript)** — ISHI-Kai setup scripts that install an open-source EDA environment and shuttle-specific PDKs (Phenitec, Tokai Rika, Minimal Fab, IHP SG13G2) on Ubuntu, WSL2, and macOS.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## IIC-OSIC-TOOLS Docker Bundle
 

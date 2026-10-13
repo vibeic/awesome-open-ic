@@ -16,6 +16,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0 / GPL-2.0-or-later / AGPL-3.0-or-later / CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP SG13CMOS5L PDK](https://github.com/IHP-GmbH/ihp-sg13cmos5l)** — Open PDK for IHP's SG13CMOS5L 130 nm CMOS process with the M1-M4-TM1 metal stack, published as a development-stage repository that is cloned alongside IHP-Open-PDK and selected through the `$PDK` environment variable.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TR-1um](https://github.com/OpenSUSI/TR-1um)** — NDA-free Tokai Rika 1 µm CMOS PDK released through OpenSUSI, with the foundry's original KLayout DRC/LVS runsets, standard cells, xschem/ngspice files, and new community DRC decks.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Academic / Educational PDKs
 
@@ -27,6 +29,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: NCSU EDA wiki terms` | `Last commit: 2018 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Nangate45 / OpenROAD nangate45](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/tree/master/flow/platforms/nangate45)** — 45 nm reference platform bundled with OpenROAD-flow-scripts.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenRule1um](https://github.com/mineda-support/OpenRule1um)** — KLayout technology package for the MakeLSI OpenRule1um 1 µm open design rules, with PCells, DRC/LVS decks, SPICE models, and LTspice/xschem symbols.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Specialty PDKs
 
@@ -52,6 +56,8 @@ Process Design Kits with permissive licensing. PDKs are what make hobbyist and s
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IHP Interconnect IntM4TM2](https://github.com/IHP-GmbH/IHP-Interconnect-IntM4TM2)** — Interconnection PDK for chiplet-on-interposer assembly holding the post-fabrication attachment elements — copper pillars, solder bumps, and microbumps — as 3D bodies, connection stacks, and bump pitch and spacing rules; split out of the interposer PDK so the bumping method can come from any vendor. Preview release.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ICPS2023_5 (Minimal Fab SOI CMOS PDK)](https://github.com/mineda-support/ICPS2023_5)** — PDK for the single-metal SOI CMOS process on AIST's Minimal Fab line, with SPICE models, PCells, DRC/LVS rules, and design manual.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Cell Libraries
 
@@ -158,6 +164,8 @@ Tools that build, install, version-manage or abstract open PDKs across vendors.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[gf180mcu (gdsfactory)](https://github.com/gdsfactory/gf180mcu)** — Pure-Python gdsfactory PDK for the GlobalFoundries 180 nm MCU process, built on Google's open GF180MCU PDK, with DRC and device-model regression checks run in CI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ALIGN-pdk-sky130](https://github.com/ALIGN-analoglayout/ALIGN-pdk-sky130)** — SkyWater SKY130 PDK abstraction for the ALIGN analog layout generator, enabling schematic-to-layout runs on sky130.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Educational / Predictive PDKs
 

@@ -92,6 +92,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HWComponents](https://github.com/Accelergy-Project/hwcomponents)** — Library of area, energy, latency, and leakage-power models for hardware components used by Accelergy-based accelerator estimation flows.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipSeek](https://github.com/rong-hash/chipseek)** — Training code for ChipSeek (ACL 2026), which fine-tunes LLMs for Verilog generation with supervised cold-start data and EDA-feedback reinforcement learning.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
