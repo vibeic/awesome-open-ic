@@ -20,6 +20,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Marble](https://github.com/BerkeleyLab/marble)** — Dual-FMC Artix-7 FPGA carrier board from Berkeley Lab for accelerator instrumentation, designed in KiCad.
   `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Kölsch Computer](https://github.com/machdyne/kolsch)** — Machdyne open-hardware FPGA computer built around the Cologne Chip GateMate A1, with an RP2040 configurator, MicroSD boot, schematics, PCB layouts, and example gateware.
+  `License: CERN-OHL-P-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

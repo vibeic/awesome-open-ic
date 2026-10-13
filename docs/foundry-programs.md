@@ -24,6 +24,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Program page` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — community resource hub*
 - **[Wafer.Space](https://wafer.space/)** — Shared wafer-shuttle service on the GlobalFoundries GF180MCU 180 nm process, sold in full, half-width, and half-height slots of 1000 dies with optional chip-on-board packaging; Run 1 carried 29 open-source designs from universities, startups, and hobbyists and Run 2 is taking submissions through mid-2026.
   `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — foundry program, not tool*
+- **[OpenSUSI MPW Shuttle](https://www.opensusi.org)** — Japanese non-profit (Open Source Utilized Silicon Initiatives) that runs an NDA-free MPW shuttle on the Tokai Rika 1 µm CMOS process using open-source EDA tools.
+  `License: Program terms` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Tape-out Harnesses
 
@@ -76,6 +78,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
 - **[wafer.space gf180mcu Precheck](https://github.com/wafer-space/gf180mcu-precheck)** — Precheck for wafer.space GF180MCU MPW submissions that verifies top cell, origin, database unit, maximum metal layer, slot dimensions, and required ID/marker cells.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout GF180 Verilog template](https://github.com/TinyTapeout/ttgf-verilog-template)** — Submission template for Tiny Tapeout GF180MCU (wafer.space) shuttles, providing the project manifest, Verilog source skeleton, test directory, docs, and GDS/docs/test/FPGA GitHub Actions workflows.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TR-1um MPW Template](https://github.com/OpenSUSI/TR-1um_MPW_template)** — Submission template for the OpenSUSI TR-1um shuttle whose CI runs pre-check, DRC, LVS, and mask-data preparation on a user GDS and netlist.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Historical / Reference
