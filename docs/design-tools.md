@@ -633,6 +633,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Chiplet KiCad Plugin](https://github.com/IHP-GmbH/Chiplets-KiCad-Plugin)** — KiCad pcbnew action plugin that runs the HYP to GDS to canonical `.chiplet` export pipeline from a single dialog, rendering the interposer GDS for chiplet-aware assembly flows; consumed by adk-tools as a submodule.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[openPCells](https://github.com/patrickschulz/openPCells)** — Lua-based parametric cell and layout generator for digital, analog and mixed-signal circuits, with technology-independent cell descriptions translated to target nodes via layer maps.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -947,3 +949,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ROHD Bridge](https://github.com/intel/rohd-bridge)** — ROHD-based Dart library from Intel that automates connectivity and hierarchy generation for assembling large SoC and IP designs.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[reqack](https://github.com/drom/reqack)** — JavaScript toolkit for building elastic (latency-insensitive) request/acknowledge circuits as graphs and emitting synthesizable Verilog RTL and diagrams.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

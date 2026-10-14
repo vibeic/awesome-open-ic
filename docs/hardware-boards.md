@@ -181,6 +181,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wafer.space Chip-on-Board PCBs](https://github.com/wafer-space/chip-on-board-wire-bonded-pcbs)** — Work-in-progress chip-on-board PCB designs for wire-bonding wafer.space GF180MCU dies, following the Tiny Tapeout 74-pad convention.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Arty MPW Tester](https://github.com/antmicro/arty-mpw-tester)** — Antmicro KiCad expansion board connecting a Digilent Arty A7 FPGA to a Caravel breakout board for testing chips fabricated on open MPW shuttles.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 
