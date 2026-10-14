@@ -180,6 +180,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Wildcat](https://github.com/schoeberl/wildcat)** — RV32I RISC-V ISA simulator and hardware core variants, aimed at education and real-time systems, by Martin Schoeberl.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FazyRV](https://github.com/meiniKi/FazyRV)** — Minimal-area RISC-V RV32 core whose data path is configurable to 1, 2, 4 or 8 bits, with riscv-formal checks and a reference SoC.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -453,6 +455,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EF_I2C](https://github.com/efabless/EF_I2C)** — APB and Wishbone wrappers from Efabless around an I2C master controller derived from alexforencich/verilog-i2c, packaged as soft IP.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[display_controller](https://github.com/projf/display_controller)** — Project F FPGA display controller in Verilog generating VGA, DVI and HDMI timing and TMDS output.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 

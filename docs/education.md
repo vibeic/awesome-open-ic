@@ -76,6 +76,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: CC BY-NC-SA (MIT OCW)` | `Last commit: 2005 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Design of Complex Integrated Circuits (JKU)](https://github.com/iic-jku/design-complex-ic)** — Material for the graduate course 336.048 at Johannes Kepler University Linz, written in Quarto with every figure generated from embedded Python and published as lecture notes plus one reveal.js slide deck per chapter.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EE 628: Analysis and Design of Integrated Circuits](https://github.com/bmurmann/EE628)** — Boris Murmann's University of Hawaiʻi course repository teaching mixed-signal IC design with open-source tools through lectures, assignments and a voltmeter-chip design project.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Free Books
 
@@ -235,3 +237,5 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[SSCS Chipathon 2026](https://github.com/sscs-ose/sscs-chipathon-2026)** — Repository for the IEEE SSCS Chipathon 2026 ("Build It. Test It. Publish It.") with the schedule, participant guidelines, and track resources for open-source chip design, tapeout, and measurement.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[chisel-lab](https://github.com/schoeberl/chisel-lab)** — Martin Schoeberl's Chisel lab exercises for the Digital Electronics 2 course at DTU, also usable as an introduction to digital design with Chisel.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
