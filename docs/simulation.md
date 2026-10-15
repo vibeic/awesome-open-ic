@@ -161,6 +161,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Busperf](https://github.com/antmicro/busperf)** — Analyzes bus performance from simulation traces to measure throughput and identify bottlenecks.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libfst](https://github.com/gtkwave/libfst)** — C library for reading and writing FST (Fast Signal Trace) waveform files, maintained under the GTKWave project.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 

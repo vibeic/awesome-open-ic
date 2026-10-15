@@ -635,6 +635,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[openPCells](https://github.com/patrickschulz/openPCells)** — Lua-based parametric cell and layout generator for digital, analog and mixed-signal circuits, with technology-independent cell descriptions translated to target nodes via layer maps.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ciccreator](https://github.com/wulffern/ciccreator)** — Custom IC layout compiler that reads a JSON object definition, a SPICE netlist, and design rules and emits layout as JSON or GDS, used for technology-portable SAR ADC generation.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 

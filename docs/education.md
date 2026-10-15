@@ -78,6 +78,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EE 628: Analysis and Design of Integrated Circuits](https://github.com/bmurmann/EE628)** — Boris Murmann's University of Hawaiʻi course repository teaching mixed-signal IC design with open-source tools through lectures, assignments and a voltmeter-chip design project.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[aicex (NTNU Advanced Integrated Circuits)](https://github.com/wulffern/aicex)** — Course repository for NTNU TFE4188 Advanced Integrated Circuits with tool containers, tutorials, and links to student analog IP designs.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Free Books
 
@@ -239,3 +241,9 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[chisel-lab](https://github.com/schoeberl/chisel-lab)** — Martin Schoeberl's Chisel lab exercises for the Digital Electronics 2 course at DTU, also usable as an introduction to digital design with Chisel.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FuseSoC Blinky (LED to Believe)](https://github.com/fusesoc/blinky)** — LED-blinking example with a separate FuseSoC target for each supported FPGA development board, used to bring up new boards and learn the FuseSoC flow.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[systemverilog-homework](https://github.com/yuri-panchul/systemverilog-homework)** — SystemVerilog exercises with self-checking testbenches, ranging from beginner level to microarchitecture interview level, runnable with Icarus Verilog or Verilator.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[basics-graphics-music](https://github.com/yuri-panchul/basics-graphics-music)** — Portable Verilog lab examples (graphics, sound, I/O) for many FPGA boards and ASIC flows, companion to systemverilog-homework.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

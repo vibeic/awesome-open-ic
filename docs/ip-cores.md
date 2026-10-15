@@ -182,6 +182,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FazyRV](https://github.com/meiniKi/FazyRV)** — Minimal-area RISC-V RV32 core whose data path is configurable to 1, 2, 4 or 8 bits, with riscv-formal checks and a reference SoC.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[riscv-simple-sv](https://github.com/tilk/riscv-simple-sv)** — Single-cycle, multicycle, and five-stage pipelined RV32I teaching cores in a Yosys/Verilator-compatible SystemVerilog subset, tested with riscv-tests.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 

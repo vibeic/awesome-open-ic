@@ -117,6 +117,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: see repo` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — example sources*
 - **[Tang Primer 25K](https://wiki.sipeed.com/hardware/en/tang/tang-primer-25k/primer-25k.html)** — Sipeed Tang Primer 25K core board with Gowin GW5A-LV25 (23,040 LUT4, 1,008 Kb BSRAM, 28 multipliers, 6 PLLs); Gowin toolchain required (apicula support evolving).
   `License: Docs (vendor) — board commercially available` | `Last commit: 2024 (active product)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — hardware platform*
+- **[Tang Mega 138K Examples](https://github.com/sipeed/TangMega-138K-example)** — Example designs for the Sipeed Tang Mega 138K Gowin FPGA board covering DDR, HDMI, SD card, RGMII Ethernet, camera, and USB host.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V Single-Board Computers
 
