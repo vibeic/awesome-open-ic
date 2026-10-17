@@ -582,6 +582,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Virgo](https://github.com/ucb-bar/virgo)** — GPU microarchitecture RTL that integrates Gemmini matrix units at the cluster level with Vortex SIMT cores, built in Chipyard.
   `License: BSD-3-Clause / Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Bedrock](https://gitlab.lbl.gov/hdl-libraries/bedrock)** — Lawrence Berkeley National Laboratory library of portable Verilog for RF controls, including DDS, CIC and FIR filters, mixers, a CORDIC core, serial I/O, and FPGA board support, with test benches.
+  `License: BSD-3-Clause-LBNL` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

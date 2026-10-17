@@ -117,6 +117,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted*
 - **[LLM4DV](https://github.com/ZixiBenZhang/ml4dv)** — Benchmarking framework that uses large language models to generate test stimuli for hardware design verification and measures coverage-bin hits on sample designs.
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HWE-bench](https://github.com/pku-liang/hwe-bench)** — Benchmark of 417 real RTL bug-fix cases from ibex, CVA6, Caliptra, Rocket Chip, XiangShan, and OpenTitan for evaluating coding agents, each verified fail-to-pass in simulation.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 
@@ -185,6 +187,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EfficientPlace](https://github.com/MIRALab-USTC/AI4EDA-EfficientPlace)** — Macro placement method that combines Monte Carlo tree search with a reinforcement-learning policy, released as the official ICML 2024 implementation.
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[TimingPredict](https://github.com/TimingPredict/TimingPredict)** — Official code for the DAC 2022 timing-engine-inspired graph neural network that predicts pre-routing slack on placed netlists.
+  `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

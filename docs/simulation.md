@@ -103,6 +103,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2023` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[renode-systemc-examples](https://github.com/antmicro/renode-systemc-examples)** — Tools and examples for co-simulating SystemC components with the Renode system emulator, with the two simulations running as separate communicating processes.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IBM Analog Hardware Acceleration Kit](https://github.com/IBM/aihwkit)** — Python toolkit built on PyTorch for simulating analog in-memory computing crossbar arrays, including device noise and nonideality models, for hardware-aware neural-network training and inference.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Waveform Viewers
 
@@ -324,6 +326,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DSView](https://github.com/DreamSourceLab/DSView)** — Qt front-end for DreamSourceLab logic analyzers and oscilloscopes, built on the sigrok project's device-access and protocol-decode libraries.
   `License: GPL-3.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[libm2k](https://github.com/analogdevicesinc/libm2k)** — C++ library with Python and C# bindings from Analog Devices for controlling the ADALM2000 multi-instrument (oscilloscope, signal generator, logic analyzer, power supplies) from scripts.
+  `License: LGPL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Photonics & Electromagnetic
 

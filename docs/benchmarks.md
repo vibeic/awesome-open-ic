@@ -88,6 +88,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — benchmark suite*
 - **[FPGA'24 Routing Contest](https://github.com/Xilinx/fpga24_routing_contest)** — Runtime-first FPGA routing contest kit built on the FPGA Interchange Format, with benchmark netlists, a scoring flow based on critical-path wirelength, and utilities to print, diff, and analyze routed physical netlists.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FPL'26 Agentic FPGA Backend Optimization Contest](https://github.com/Xilinx/fpl26_optimization_contest)** — AMD contest kit for LLM agents that optimize FPGA design timing, with an example agent driving RapidWright and Vivado through MCP servers and a validator for optimized design checkpoints.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HLS / Accelerator Benchmarks
 
