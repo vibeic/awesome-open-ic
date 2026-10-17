@@ -125,6 +125,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Nanotube](https://github.com/Xilinx/nanotube)** — AMD compiler framework that translates eBPF XDP packet-processing C code into a pipelined HLS C++ design for synthesis with Vitis HLS onto SmartNIC FPGAs.
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VeriGOOD-ML](https://github.com/VeriGOOD-ML/public)** — Compiler stack that translates ONNX machine-learning models into Verilog accelerators through the PolyMath IR, targeting the TABLA, GeneSys systolic-array, and Axiline backends.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 
@@ -347,6 +349,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Raptor](https://github.com/os-fpga/Raptor)** — Rapid Silicon RTL-to-bitstream FPGA compiler for user designs and IP, run in batch or GUI mode with full Tcl scripting.
   `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Zynq mkbootimage](https://github.com/antmicro/zynq-mkbootimage)** — Open-source C replacement for the Xilinx bootgen utility that creates and extracts Zynq and ZynqMP boot images.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
