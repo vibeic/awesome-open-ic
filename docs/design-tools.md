@@ -260,6 +260,14 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[tree-sitter-systemverilog](https://github.com/gmlarumbe/tree-sitter-systemverilog)** — SystemVerilog grammar for the tree-sitter incremental parser generator, providing a concrete syntax tree for editor highlighting, navigation, and code-analysis tools.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-regblock-vhdl](https://github.com/SystemRDL/PeakRDL-regblock-vhdl)** — Generates synthesizable VHDL control/status register blocks from a compiled SystemRDL description, as a VHDL counterpart to PeakRDL-regblock.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-Markdown](https://github.com/SystemRDL/PeakRDL-Markdown)** — PeakRDL exporter that renders a SystemRDL register map as Markdown documentation.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-systemrdl](https://github.com/SystemRDL/PeakRDL-systemrdl)** — PeakRDL exporter that converts a compiled register model back into SystemRDL source code.
+  `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PeakRDL-python](https://github.com/krcb197/PeakRDL-python)** — Generates a Python register access layer (RAL) from a SystemRDL register description for test and bring-up scripts.
+  `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 

@@ -459,6 +459,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[display_controller](https://github.com/projf/display_controller)** — Project F FPGA display controller in Verilog generating VGA, DVI and HDMI timing and TMDS output.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[PULP GPIO](https://github.com/pulp-platform/gpio)** — Parametric GPIO peripheral from PULP Platform with input synchronization, push-pull/open-drain outputs, per-pin edge/level interrupts, and register_interface, AXI-Lite and APB wrappers.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AXI VGA](https://github.com/pulp-platform/axi_vga)** — Synthesizable VGA controller from PULP Platform that fetches pixel data from memory using configurable AXI bursts.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[APB Timer](https://github.com/pulp-platform/apb_timer)** — PULP Platform APB timer unit supporting an arbitrary number of 32-bit timers, each with timer, compare and control registers.
+  `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## DSP & Crypto
 
@@ -839,6 +845,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Clash Protocols](https://github.com/clash-lang/clash-protocols)** — Clash (Haskell HDL) library for writing on-chip dataflow protocols such as AMBA AXI and Altera Avalon, with composable circuits and simulation-based testing.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ZynqParrot](https://github.com/black-parrot-hdk/zynq-parrot)** — Co-simulation and co-emulation environment for prototyping accelerators on Zynq FPGAs, serving as a meta-repository for the BlackParrot RISC-V processor and the HammerBlade manycore.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
