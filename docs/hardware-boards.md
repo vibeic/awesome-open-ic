@@ -22,6 +22,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: CERN-OHL-1.2` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kölsch Computer](https://github.com/machdyne/kolsch)** — Machdyne open-hardware FPGA computer built around the Cologne Chip GateMate A1, with an RP2040 configurator, MicroSD boot, schematics, PCB layouts, and example gateware.
   `License: CERN-OHL-P-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Antmicro PolarFire SoM](https://github.com/antmicro/polarfire-som)** — Open-hardware KiCad design of a 55×40 mm system-on-module built around the Microchip PolarFire MPFS250T RISC-V FPGA SoC, with 2 GB LPDDR4, 8 GB eMMC, and Raspberry Pi CM4-compatible connectors.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

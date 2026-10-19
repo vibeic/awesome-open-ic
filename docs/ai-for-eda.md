@@ -189,6 +189,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[TimingPredict](https://github.com/TimingPredict/TimingPredict)** — Official code for the DAC 2022 timing-engine-inspired graph neural network that predicts pre-routing slack on placed netlists.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Differentiable Global Router (DGR)](https://github.com/NVlabs/Differentiable-Global-Router)** — PyTorch implementation of differentiable global routing from NVIDIA Research, designed to integrate with the CUGR2 global router and run on its benchmarks.
+  `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Research Papers (LLM × EDA)
 

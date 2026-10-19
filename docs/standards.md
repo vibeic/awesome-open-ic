@@ -152,6 +152,18 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V RVM-CSI](https://github.com/riscv-non-isa/riscv-rvm-csi)** — RISC-V eMbedded Common Software Interface specification and C headers defining a source-level portability layer across RISC-V microcontrollers.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Ssqosid Extension](https://github.com/riscv/riscv-ssqosid)** — Specification of the Quality-of-Service Identifiers extension, which adds the `srmcfg` register to tag each hart's requests with a Resource Control ID and a Monitoring Counter ID for shared-resource controllers.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Svvptc Extension](https://github.com/riscv/riscv-svvptc)** — Specification of the Svvptc extension, which removes the need for memory-management fence instructions after a page-table entry is marked valid.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Ssdtso Extension](https://github.com/riscv/riscv-ssdtso)** — Fast-track specification adding a dynamic-RVTSO mode with on-demand per-hart switching between the RVWMO and RVTSO memory models.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Speculation Barrier (Zisb)](https://github.com/riscv/riscv-spec-barrier)** — Draft specification of the Zisb speculation-barrier extension.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Performance Event Sampling](https://github.com/riscv/riscv-performance-event-sampling)** — Specifications from the Performance Event Sampling task group defining two extensions that, alongside Zihpm and Sscofpmf, enable event and instruction sampling for performance analysis.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V Logic Analyzer Trace](https://github.com/riscv-non-isa/riscv-logic-analyzer-trace)** — Non-ISA specification from the Logic Analyzer Trace task group under the SoC Infrastructure Horizontal Committee.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 
