@@ -24,6 +24,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: CERN-OHL-P-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Antmicro PolarFire SoM](https://github.com/antmicro/polarfire-som)** — Open-hardware KiCad design of a 55×40 mm system-on-module built around the Microchip PolarFire MPFS250T RISC-V FPGA SoC, with 2 GB LPDDR4, 8 GB eMMC, and Raspberry Pi CM4-compatible connectors.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiliqua](https://github.com/apfaudio/tiliqua)** — Open-hardware Eurorack audio module built around a Lattice ECP5 FPGA, with published hardware schematics and Amaranth-based gateware for audio DSP.
+  `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 
@@ -187,6 +189,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Arty MPW Tester](https://github.com/antmicro/arty-mpw-tester)** — Antmicro KiCad expansion board connecting a Digilent Arty A7 FPGA to a Caravel breakout board for testing chips fabricated on open MPW shuttles.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Tiny Tapeout GF 26a shuttle](https://github.com/TinyTapeout/tinytapeout-gf-26a)** — Shuttle aggregate for Tiny Tapeout GF 26a on the GF180MCU PDK, with verification, datasheet, GDS, and precheck workflows for the assembled chip.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 
