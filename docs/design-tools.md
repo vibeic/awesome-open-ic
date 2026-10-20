@@ -268,6 +268,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PeakRDL-python](https://github.com/krcb197/PeakRDL-python)** — Generates a Python register access layer (RAL) from a SystemRDL register description for test and bring-up scripts.
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[naja-verilog](https://github.com/keplertech/naja-verilog)** — Standalone C++ parser for structural (gate-level) Verilog netlists such as synthesis outputs, usable on its own or as the Verilog front end of the Naja netlist API.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -359,6 +361,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0-or-later` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Zynq mkbootimage](https://github.com/antmicro/zynq-mkbootimage)** — Open-source C replacement for the Xilinx bootgen utility that creates and extracts Zynq and ZynqMP boot images.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Aegis](https://github.com/LilithSemi/aegis)** — End-to-end open-source FPGA project covering parameterized fabric generation (LUT4, BRAM, DSP, SerDes tiles), synthesis, place-and-route, bitstream packing, simulation, and tapeout of the fabric on open PDKs such as GF180MCU.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -391,6 +395,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
 - **[librelane_summary](https://github.com/mattvenn/librelane_summary)** — Post-run explorer for a LibreLane run directory that reports statistics from `final_report_summary.csv` and opens the resulting design views in KLayout.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ECOS Chip Compiler (ECC)](https://github.com/openecos-projects/ecc)** — RTL-to-GDS flow that integrates Yosys, a DREAMPlace-based placer, iEDA-derived ECC-Tools, and KLayout, usable via CLI or Python API.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[microlane](https://github.com/htfab/microlane)** — Self-contained Python RTL-to-GDS flow with minimal parsing, synthesis, placement, routing, and GDS streamout that hardens single-tile Tiny Tapeout designs on sky130A, gf180mcuD, and IHP PDKs.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route
@@ -596,6 +602,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Revolution EDA](https://github.com/eskiyerli/revolution-eda)** — Python-based schematic, symbol, and hierarchical layout editor for custom IC design with Verilog-A symbol generation and netlisting for Xyce, Spectre, and VACASK.
   `License: MPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gLayout](https://github.com/ReaLLMASIC/gLayout)** — PDK-agnostic Python framework for generating DRC-clean analog circuit layouts, with PDK mappings for sky130 and gf180 and KLayout integration.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## GDS Scripting & Layout Libraries
 
@@ -965,3 +973,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[reqack](https://github.com/drom/reqack)** — JavaScript toolkit for building elastic (latency-insensitive) request/acknowledge circuits as graphs and emitting synthesizable Verilog RTL and diagrams.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[OpenVADL](https://github.com/OpenVADL/openvadl)** — Open-source implementation of the VADL processor description language that generates an instruction set simulator (QEMU frontend), LLVM compiler backend, assembler, and linker from one ISA and microarchitecture specification.
+  `License: GPL-3.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

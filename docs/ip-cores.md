@@ -80,6 +80,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HEEPsilon](https://github.com/esl-epfl/HEEPsilon)** — Low-power RISC-V platform built on X-HEEP that integrates the OpenEdgeCGRA coarse-grained reconfigurable array for processing biological and environmental signals.
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ElemRV](https://github.com/aesc-silicon/ElemRV)** — Platform of RISC-V microcontroller SoCs written in SpinalHDL around the VexiiRiscv CPU, implemented through the OpenROAD flow on open PDKs such as IHP SG13G2, with Zephyr RTOS firmware.
+  `License: CERN-OHL-W-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -184,6 +186,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[riscv-simple-sv](https://github.com/tilk/riscv-simple-sv)** — Single-cycle, multicycle, and five-stage pipelined RV32I teaching cores in a Yosys/Verilator-compatible SystemVerilog subset, tested with riscv-tests.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChiselV](https://github.com/carlosedp/chiselv)** — RV32I RISC-V processor core written in Chisel, with tests and FPGA build targets.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## RISC-V CPU Cores — Additional 64-bit / Application-class
 
@@ -847,6 +851,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ZynqParrot](https://github.com/black-parrot-hdk/zynq-parrot)** — Co-simulation and co-emulation environment for prototyping accelerators on Zynq FPGAs, serving as a meta-repository for the BlackParrot RISC-V processor and the HammerBlade manycore.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Fletcher](https://github.com/abs-tudelft/fletcher)** — Framework from TU Delft that generates hardware interfaces for FPGA accelerators to read and write Apache Arrow in-memory data structures, with host-side runtime libraries.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Audio / Sound-Chip Cores
 
