@@ -94,6 +94,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipSeek](https://github.com/rong-hash/chipseek)** — Training code for ChipSeek (ACL 2026), which fine-tunes LLMs for Verilog generation with supervised cold-start data and EDA-feedback reinforcement learning.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EEsizer](https://github.com/eelab-dev/EEsizer)** — LLM-based agent that sizes transistors in analog/mixed-signal circuits from a SPICE netlist and natural-language specs, using ngspice in the loop.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -119,6 +121,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HWE-bench](https://github.com/pku-liang/hwe-bench)** — Benchmark of 417 real RTL bug-fix cases from ibex, CVA6, Caliptra, Rocket Chip, XiangShan, and OpenTitan for evaluating coding agents, each verified fail-to-pass in simulation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipBench (zhongkaiyu)](https://github.com/zhongkaiyu/ChipBench)** — Evaluation framework for AI-aided chip design covering Verilog generation, Verilog debugging, and cross-language reference model generation tasks.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 

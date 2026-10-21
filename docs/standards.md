@@ -164,6 +164,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V Logic Analyzer Trace](https://github.com/riscv-non-isa/riscv-logic-analyzer-trace)** — Non-ISA specification from the Logic Analyzer Trace task group under the SoC Infrastructure Horizontal Committee.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V E-Trace Encapsulation Specification](https://github.com/riscv-non-isa/riscv-e-trace-encap)** — Source of the RISC-V non-ISA specification defining how processor trace (E-Trace) data is encapsulated for transport.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 
