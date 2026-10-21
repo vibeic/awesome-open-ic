@@ -82,6 +82,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ElemRV](https://github.com/aesc-silicon/ElemRV)** — Platform of RISC-V microcontroller SoCs written in SpinalHDL around the VexiiRiscv CPU, implemented through the OpenROAD flow on open PDKs such as IHP SG13G2, with Zephyr RTOS firmware.
   `License: CERN-OHL-W-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Baochip-1x](https://github.com/baochip/baochip-1x)** — Open-sourced RTL of the taped-out Baochip-1x microcontroller SoC, with a VexRiscv CPU configuration, Verilator simulation subset, and Arty-A7 FPGA stubs.
+  `License: CERN-OHL-W-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SPARC / Legacy
 
@@ -268,6 +270,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Leros](https://github.com/leros-dev/leros)** — Tiny FPGA-optimized processor core for embedded systems, with a 16-bit VHDL version and a 16/32/64-bit Chisel redesign supported by an LLVM C compiler.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[s80x86](https://github.com/jamieiles/80x86)** — 80186-binary-compatible CPU core in synthesizable SystemVerilog with a C++ reference model, tests, reference BIOS, and FPGA reference designs.
+  `License: GPL-3.0` | `Last commit: 2024 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[z386](https://github.com/nand2mario/z386)** — 80386-compatible CPU core in SystemVerilog that reconstructs the hardware driven by the original Intel 386 microcode, with configurable instruction and data caches.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Peripherals — Bus & Standard I/O
 
@@ -594,6 +600,10 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause / Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Bedrock](https://gitlab.lbl.gov/hdl-libraries/bedrock)** — Lawrence Berkeley National Laboratory library of portable Verilog for RF controls, including DDS, CIC and FIR filters, mixers, a CORDIC core, serial I/O, and FPGA board support, with test benches.
   `License: BSD-3-Clause-LBNL` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Mini-ISP](https://github.com/amd/mini-isp)** — Minimal image signal processor implemented in Verilog RTL and optimized for AMD FPGAs, with CI for lint, simulation, and synthesis.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[IEEE 754 FPU (dawsonjon)](https://github.com/dawsonjon/fpu)** — Synthesizable IEEE 754 floating-point library in Verilog providing adder, multiplier, divider, and int/float conversion with denormal support.
+  `License: MIT` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 

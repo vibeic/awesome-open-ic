@@ -18,6 +18,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DigSim](https://github.com/freand76/digsim)** — Interactive Python digital-logic simulator with a GUI that runs gate-level circuits and Yosys-synthesized Verilog modules for teaching and experimentation.
   `License: BSD-3-Clause-Clear` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Verilator Verification Test Suite](https://github.com/antmicro/verilator-verification)** — Test suite and dashboard tracking Verilator support for verification features such as concurrent assertions, functional coverage, constrained randomization, and sequences.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## VHDL Simulators
 

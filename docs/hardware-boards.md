@@ -191,6 +191,8 @@ apicula (open) + Gowin proprietary toolchain co-exist; many Sipeed boards target
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout GF 26a shuttle](https://github.com/TinyTapeout/tinytapeout-gf-26a)** — Shuttle aggregate for Tiny Tapeout GF 26a on the GF180MCU PDK, with verification, datasheet, GDS, and precheck workflows for the assembled chip.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HeiChips 2025 Tapeout](https://github.com/HeiChips/heichips25-tapeout)** — Chip from the HeiChips 2025 summer school on IHP SG13G2 130nm, combining hackathon user designs around a central FABulous eFPGA fabric, built with open-source EDA tools.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Test & Measurement Boards (FPGA-based)
 

@@ -657,6 +657,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ciccreator](https://github.com/wulffern/ciccreator)** — Custom IC layout compiler that reads a JSON object definition, a SPICE netlist, and design rules and emits layout as JSON or GDS, used for technology-portable SAR ADC generation.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[rawast](https://github.com/edacommons/rawast)** — Grammar-driven bidirectional parser/writer engine (C++17 with Python bindings) for EDA file formats including GDSII, LEF, DEF, and Tcl.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Distribution & Environment
 
@@ -975,3 +977,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[OpenVADL](https://github.com/OpenVADL/openvadl)** — Open-source implementation of the VADL processor description language that generates an instruction set simulator (QEMU frontend), LLVM compiler backend, assembler, and linker from one ISA and microarchitecture specification.
   `License: GPL-3.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[C++HDL](https://github.com/mirekez/cpphdl)** — Hardware description language for writing C++ RTL models, with a language specification, best-practice guide, and book in the repository.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
