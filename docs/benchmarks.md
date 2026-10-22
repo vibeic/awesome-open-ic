@@ -61,6 +61,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: BSD-3-Clause` | `Last commit: 2024 (ICCAD-23 contest set)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChiPBench](https://github.com/MIRALab-USTC/ChiPBench)** — Benchmark that measures AI-based chip placement algorithms by their end-to-end results after running the full OpenROAD-flow-scripts flow, rather than by intermediate proxy metrics.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EDAFlowQA](https://github.com/NVlabs/EDAFlowQA)** — NVIDIA benchmark that measures LLM understanding of EDA log files, generating QA pairs from OpenROAD flow logs and scoring with Pass@K.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Place-and-Route Contests
 
@@ -90,6 +92,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FPL'26 Agentic FPGA Backend Optimization Contest](https://github.com/Xilinx/fpl26_optimization_contest)** — AMD contest kit for LLM agents that optimize FPGA design timing, with an example agent driving RapidWright and Vivado through MCP servers and a validator for optimized design checkpoints.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ISPD 2027 contest — MCMM post-CTS buffering and sizing](https://github.com/ABKGroup/ISPD27-Contest)** — Contest kit for multi-corner multi-mode post-CTS buffering and gate sizing with public benchmarks, ASAP7 platform files, an evaluator, and Docker setup.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HLS / Accelerator Benchmarks
 

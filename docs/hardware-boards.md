@@ -26,6 +26,8 @@ FPGA dev boards and silicon test vehicles useful for prototyping or verifying op
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiliqua](https://github.com/apfaudio/tiliqua)** — Open-hardware Eurorack audio module built around a Lattice ECP5 FPGA, with published hardware schematics and Amaranth-based gateware for audio DSP.
   `License: CERN-OHL-S-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Rocket PCB](https://github.com/chipsalliance/rocket-pcb)** — CHIPS Alliance KiCad PCB designs for rocket-chip FPGA/ASIC work, including an XCVU13P board with DDR4/FMC/PCIe plus FMC and PMOD daughterboards.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Lattice iCE40 (fully open toolchain)
 

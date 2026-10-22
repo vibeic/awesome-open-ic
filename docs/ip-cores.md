@@ -227,6 +227,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[PULP C910](https://github.com/pulp-platform/pulp-c910)** — Superscalar out-of-order RV64 core adapted from T-Head's openC910 and wrapped for integration into the PULP ecosystem.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[AraXL](https://github.com/pulp-platform/AraXL)** — Multi-cluster, physically scalable extension of the PULP Ara RISC-V vector processor for computation on long vectors.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## OpenRISC / Non-RISC-V CPUs
 
@@ -604,6 +606,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IEEE 754 FPU (dawsonjon)](https://github.com/dawsonjon/fpu)** — Synthesizable IEEE 754 floating-point library in Verilog providing adder, multiplier, divider, and int/float conversion with denormal support.
   `License: MIT` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MxGen](https://github.com/ucb-bar/MxGen)** — Berkeley Chisel generators for low-precision floating-point and OCP microscaling (MX) datapaths covering FP4, FP6, and FP8 formats.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -665,6 +669,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[FakeRAM2.0](https://github.com/ABKGroup/FakeRAM2.0)** — Fake memory compiler from ABKGroup that generates Liberty, LEF, and Verilog memory models for a user-chosen PDK from a configuration file, for physical-design research flows.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Memory Island](https://github.com/pulp-platform/memory_island)** — PULP interleaved, multi-banked L2 scratchpad memory with narrow low-latency and wide high-throughput ports for large SoCs.
+  `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 
@@ -691,6 +697,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 - **[TinyWhisper](https://github.com/iic-jku/TinyWhisper)** — Fully integrated multi-mode short-wave transmitter for amateur-radio use, designed at JKU Linz on the IHP 130 nm open PDK with an open-source flow and a regression CI workflow.
   `License: SHL-2.1` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EF_ADC1008A](https://github.com/efabless/EF_ADC1008A)** — Digital controller for the EF_ADCS1008NC 8-channel 10-bit SAR ADC macro, adding a 32-sample FIFO and a programmable channel sequencer.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SKY130 Programmable PLL](https://github.com/fossi-foundation/sky130_aa_ip__programmable_pll)** — Chipalooza 2024 programmable PLL for SkyWater SKY130 with Xschem schematics, Magic block layouts, and a complete PLL GDS.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC Integration / Frameworks

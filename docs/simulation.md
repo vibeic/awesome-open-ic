@@ -167,6 +167,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[libfst](https://github.com/gtkwave/libfst)** — C library for reading and writing FST (Fast Signal Trace) waveform files, maintained under the GTKWave project.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[wavetools](https://github.com/hudson-trading/wavetools)** — Hudson River Trading command-line tools written in Rust that read, filter, and diff FST and VCD simulation waveform files.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## High-Performance Simulation
 
@@ -284,6 +286,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[DBT-RISE-RISCV](https://github.com/Minres/DBT-RISE-RISCV)** — MINRES RISC-V instruction set simulator built on the DBT-RISE dynamic binary translation framework, usable standalone or inside SystemC virtual platforms.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VCML](https://github.com/machineware-gmbh/vcml)** — MachineWare library of SystemC/TLM modeling primitives and component models (buses, memories, UARTs, interrupt ports) for assembling virtual platforms.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
