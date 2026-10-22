@@ -96,6 +96,10 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[EEsizer](https://github.com/eelab-dev/EEsizer)** — LLM-based agent that sizes transistors in analog/mixed-signal circuits from a SPICE netlist and natural-language specs, using ngspice in the loop.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipXplore](https://github.com/scale-lab/ChipXplore)** — LLM-based system for natural-language queries over PDK standard-cell data (LEF/Liberty) and placed-and-routed DEF design data (ICLAD 2025).
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CorrectRTL](https://github.com/hkust-zhiyao/CorrectRTL)** — Agentic spec-to-RTL framework (ICCAD 2026) using instruction decomposition, RTL snippet retrieval, and SVA-guided self-correction, released with the ScaleBench benchmark.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## LLM Benchmarks for RTL
 
@@ -122,6 +126,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
 - **[HWE-bench](https://github.com/pku-liang/hwe-bench)** — Benchmark of 417 real RTL bug-fix cases from ibex, CVA6, Caliptra, Rocket Chip, XiangShan, and OpenTitan for evaluating coding agents, each verified fail-to-pass in simulation.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipBench (zhongkaiyu)](https://github.com/zhongkaiyu/ChipBench)** — Evaluation framework for AI-aided chip design covering Verilog generation, Verilog debugging, and cross-language reference model generation tasks.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[poRTLe](https://github.com/HPAI-BSC/poRTLe)** — Harness for running, tracking, and analyzing AI agents on RTL benchmarks such as CVDP and TuRTLe, with custom task generation and a results UI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets

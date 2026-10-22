@@ -270,6 +270,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: LGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[naja-verilog](https://github.com/keplertech/naja-verilog)** — Standalone C++ parser for structural (gate-level) Verilog netlists such as synthesis outputs, usable on its own or as the Verilog front end of the Naja netlist API.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Slang Netlist](https://github.com/jameshanlon/slang-netlist)** — C++ library and command-line tool built on slang that builds a dependency graph to analyze the source-level static connectivity of a SystemVerilog design.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## FPGA Backend
 
@@ -538,6 +540,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[IPbus Builder (ipbb)](https://github.com/ipbus/ipbb)** — Command-line tool for building modular, multi-repository FPGA firmware projects, driving Vivado synthesis/implementation and ModelSim simulation.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Xeda](https://github.com/XedaHQ/xeda)** — Python automation layer that drives simulation and synthesis flows across multiple open-source and commercial EDA tools from a single design description.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Static Timing Analysis
 
