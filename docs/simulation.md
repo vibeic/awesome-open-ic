@@ -76,6 +76,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Mosplot (gmid)](https://github.com/medwatt/gmid)** — Python framework for gm/ID-based analog design that builds MOSFET lookup tables from ngspice/HSPICE/Spectre sweeps, plots design charts, and sizes circuits across process corners.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Chipify](https://github.com/santihofi/chipify)** — Python GUI tool from JKU that wraps Xschem and ngspice for mismatch simulation, parameter sweeps, and yield analysis, currently targeting the IHP SG13G2 open PDK.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Mixed-Signal / Co-simulation
 
@@ -371,6 +373,10 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[path_length_analysis](https://github.com/mabrains/path_length_analysis)** — Python script and library from Mabrains that measures the length of resistive and photonic paths in a GDS layout; released as an experimental preview.
   `License: LGPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[FDTDX](https://github.com/ymahlau/fdtdx)** — JAX-based finite-difference time-domain electromagnetic solver with GPU acceleration and automatic differentiation for inverse design of photonic devices.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fdtd-z](https://github.com/spinsphotonics/fdtdz)** — GPU-accelerated FDTD photonic simulation kernel with a JAX interface, designed to scale across many accelerator nodes.
+  `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Process & Topography Simulation
 

@@ -365,6 +365,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Aegis](https://github.com/LilithSemi/aegis)** — End-to-end open-source FPGA project covering parameterized fabric generation (LUT4, BRAM, DSP, SerDes tiles), synthesis, place-and-route, bitstream packing, simulation, and tapeout of the fabric on open PDKs such as GF180MCU.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LaZagna](https://github.com/sharc-lab/LaZagna)** — 3D FPGA architecture exploration tool with configurable vertical interconnect and layer heterogeneity that emits synthesizable RTL and bitstreams through a modified OpenFPGA.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## End-to-End Flows
 
@@ -563,6 +565,8 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Silisizer](https://github.com/Silimate/silisizer)** — Timing optimizer that runs inside OpenSTA as a Tcl command, upsizing cells on violating paths over repeated timing passes until worst negative slack stops improving.
   `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[sdc-parser](https://github.com/dalance/sdc-parser)** — Rust library for parsing Synopsys Design Constraints (SDC) timing-constraint files.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Layout, DRC & LVS
 
@@ -983,3 +987,5 @@ The [IIC-OSIC-TOOLS](https://github.com/iic-jku/IIC-OSIC-TOOLS) Docker image (`h
   `License: GPL-3.0-or-later` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[C++HDL](https://github.com/mirekez/cpphdl)** — Hardware description language for writing C++ RTL models, with a language specification, best-practice guide, and book in the repository.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Genesis2](https://github.com/StanfordVLSI/Genesis2)** — Stanford chip-generator system that uses Perl meta-programming embedded in Verilog to elaborate parameterized hardware.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

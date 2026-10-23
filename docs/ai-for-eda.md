@@ -129,6 +129,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[poRTLe](https://github.com/HPAI-BSC/poRTLe)** — Harness for running, tracking, and analyzing AI agents on RTL benchmarks such as CVDP and TuRTLe, with custom task generation and a results UI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HLS-Eval](https://github.com/sharc-lab/hls-eval)** — Benchmark and evaluation framework for LLMs on high-level synthesis code generation and editing tasks, with natural-language specs, testbenches, and reference HLS designs.
+  `License: AGPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Datasets
 
