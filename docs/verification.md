@@ -98,6 +98,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ADI HDL Testbenches](https://github.com/analogdevicesinc/testbenches)** — Analog Devices testbenches and verification components for system-level projects and blocks of the ADI HDL repository, built around Xilinx verification IPs.
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[microcotb](https://github.com/psychogenic/microcotb)** — Lightweight cocotb-compatible test runner that executes the same tests on MicroPython microcontrollers, a Raspberry Pi, or a desktop for hardware-in-the-loop checks of FPGA and ASIC designs.
+  `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
