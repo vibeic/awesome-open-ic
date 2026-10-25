@@ -107,6 +107,8 @@ Reference circuits for evaluating synthesis quality, place-and-route flows, form
   `License: Apache-2.0` | `Last commit: 2021 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[HiSparse](https://github.com/cornell-zhang/HiSparse)** — Sparse matrix-vector multiplication accelerator for HBM-equipped FPGAs written in Vitis HLS, released as the artifact of the FPGA 2022 paper.
   `License: BSD-3-Clause` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[gemm_hls](https://github.com/spcl/gemm_hls)** — ETH SPCL systolic-array matrix-matrix multiplication kernel written in Vitis HLS for Xilinx FPGAs, released with the FPGA'20 paper on scalable GEMM.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## SoC / Application Benchmarks
 

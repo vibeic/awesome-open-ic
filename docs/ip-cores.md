@@ -608,6 +608,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: MIT` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[MxGen](https://github.com/ucb-bar/MxGen)** — Berkeley Chisel generators for low-precision floating-point and OCP microscaling (MX) datapaths covering FP4, FP6, and FP8 formats.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[LiteDSP](https://github.com/enjoy-digital/litedsp)** — Toolbox of portable RF/DSP building blocks for FPGA written in Migen/LiteX as pure HDL without vendor IP.
+  `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
