@@ -249,3 +249,7 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[basics-graphics-music](https://github.com/yuri-panchul/basics-graphics-music)** — Portable Verilog lab examples (graphics, sound, I/O) for many FPGA boards and ASIC flows, companion to systemverilog-homework.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[SystemVerilog Tutorial (ARC Lab, UF)](https://github.com/ARC-Lab-UF/sv-tutorial)** — Tutorial from the University of Florida ARC Lab on writing synthesizable SystemVerilog, with examples that compare alternative implementations and common mistakes.
+  `License: GPL-3.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[VHDL Tutorial (ARC Lab, UF)](https://github.com/ARC-Lab-UF/vhdl-tutorial)** — Companion tutorial on writing synthesizable VHDL (1993 standard, with notes on 2008/2019 differences), with multiple example implementations per circuit.
+  `License: GPL-3.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*

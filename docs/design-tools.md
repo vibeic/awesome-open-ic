@@ -127,6 +127,14 @@ Open-source EDA tools that take a design from RTL through synthesis, place-and-r
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VeriGOOD-ML](https://github.com/VeriGOOD-ML/public)** — Compiler stack that translates ONNX machine-learning models into Verilog accelerators through the PolyMath IR, targeting the TABLA, GeneSys systolic-array, and Axiline backends.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CGRA-Flow](https://github.com/tancheng/CGRA-Flow)** — Integrated framework for coarse-grained reconfigurable array (CGRA) compilation, design-space exploration, Verilog generation, and synthesis, with a GUI and Docker image.
+  `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[HLS Arbitrary Precision Types](https://github.com/Xilinx/HLS_arbitrary_Precision_Types)** — AMD/Xilinx simulation headers for the `ap_int` and `ap_fixed` arbitrary-precision types used by Vivado/Vitis HLS, for C++ simulation outside the vendor tools.
+  `License: Apache-2.0` | `Last commit: 2023 (widely used)` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[APyTypes](https://github.com/apytypes/apytypes)** — Python library with a C++ core providing fixed- and floating-point scalar and array types for finite-word-length hardware algorithm design and simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[fxpmath](https://github.com/francof2a/fxpmath)** — Python library for binary fixed-point arithmetic with NumPy compatibility, configurable word/fraction sizes, rounding, and overflow behavior.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## HDL Parsers & Compiler Infrastructure
 

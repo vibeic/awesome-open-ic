@@ -166,6 +166,8 @@ ISA specifications, on-chip bus protocols, and EDA file formats. Some of these a
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[RISC-V E-Trace Encapsulation Specification](https://github.com/riscv-non-isa/riscv-e-trace-encap)** — Source of the RISC-V non-ISA specification defining how processor trace (E-Trace) data is encapsulated for transport.
   `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[RISC-V AP-TEE-IO Specification](https://github.com/riscv-non-isa/riscv-ap-tee-io)** — Specification repository of the RISC-V AP-TEE-IO task group defining ABI extensions that give confidential VMs secure direct access to assigned devices; not yet ratified.
+  `License: CC-BY-4.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Bus & Interconnect
 

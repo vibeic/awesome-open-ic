@@ -290,6 +290,8 @@ Digital, analog, and mixed-signal simulators plus waveform viewers.
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[VCML](https://github.com/machineware-gmbh/vcml)** — MachineWare library of SystemC/TLM modeling primitives and component models (buses, memories, UARTs, interrupt ports) for assembling virtual platforms.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[DAM (Dataflow Abstract Machine)](https://github.com/stanford-ppl/DAM-RS)** — Stanford Rust framework for building parallel simulators of dataflow-style hardware modeled as contexts connected by latency-carrying channels.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Simulation Orchestration
 
