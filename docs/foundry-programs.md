@@ -75,6 +75,8 @@ Paths to real silicon for individuals, students, and small companies. These prog
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChipFoundry CLI (cf-cli)](https://github.com/chipfoundry/cf-cli)** — Command-line tool for ChipFoundry ASIC projects that handles authentication, project registration, SFTP submission of design files, and syncing of GDS hash and slot metadata with the platform.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[ChipFoundry Precheck (cf-precheck)](https://github.com/chipfoundry/cf-precheck)** — ChipFoundry's MPW tapeout precheck tool that runs KLayout DRC and XOR checks, optional Magic DRC, and Netgen LVS on a user project before shuttle submission.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[wafer.space gf180mcu Precheck](https://github.com/wafer-space/gf180mcu-precheck)** — Precheck for wafer.space GF180MCU MPW submissions that verifies top cell, origin, database unit, maximum metal layer, slot dimensions, and required ID/marker cells.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Tiny Tapeout GF180 Verilog template](https://github.com/TinyTapeout/ttgf-verilog-template)** — Submission template for Tiny Tapeout GF180MCU (wafer.space) shuttles, providing the project manifest, Verilog source skeleton, test directory, docs, and GDS/docs/test/FPGA GitHub Actions workflows.

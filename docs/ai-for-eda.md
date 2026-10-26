@@ -166,6 +166,8 @@ Where machine learning meets chip design. This category covers LLM-driven assist
   `License: MIT` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[ChatEDA](https://github.com/wuhy68/ChatEDA)** — EDA tool instruction dataset, the 50-task ChatEDA-Bench, and a Python API for OpenROAD from the ChatEDA (TCAD'24) and EDAid (NAACL'25) LLM-agent papers.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[Buffering-Benchmarks](https://github.com/ieee-ceda-datc/Buffering-Benchmarks)** — IEEE CEDA DATC dataset of buffer-insertion events captured from the OpenROAD Resizer during timing-driven global placement, with original netlists, intermediate states, and final buffered results for training ML-based buffering strategies.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## ML for Placement & Routing
 
