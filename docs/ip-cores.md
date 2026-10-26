@@ -482,8 +482,12 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
 
 - **[secworks/aes](https://github.com/secworks/aes)** — NIST-validated AES-128/256 core with single/dual-core variants in Verilog.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_AES](https://github.com/efabless/EF_AES)** — APB, AHB-Lite, and Wishbone bus-wrapped AES encryption core from eFabless's open IP catalog, built around the secworks/aes Verilog implementation.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[secworks/sha256](https://github.com/secworks/sha256)** — SHA-256 cryptographic hash core in Verilog, FIPS-180-4 compliant.
   `License: BSD-2-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[EF_SHA256](https://github.com/efabless/EF_SHA256)** — APB, AHB-Lite, and Wishbone bus-wrapped SHA-256 hash core from eFabless's open IP catalog, built around the secworks/sha256 Verilog implementation.
+  `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[secworks/sha3](https://github.com/secworks/sha3)** — SHA-3 (Keccak) hash core in Verilog with FIPS-202 compliance.
   `License: BSD-2-Clause` | `Last commit: 2020` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[dblclockfft](https://github.com/ZipCPU/dblclockfft)** — Parameterizable pipelined FFT generator with Verilog output, formally verified.
@@ -610,6 +614,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[LiteDSP](https://github.com/enjoy-digital/litedsp)** — Toolbox of portable RF/DSP building blocks for FPGA written in Migen/LiteX as pure HDL without vendor IP.
   `License: BSD-2-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[MXCore](https://github.com/pulp-platform/MXCore)** — Parametric HWPE-based matrix-multiplication accelerator for Open Compute Project Microscaling (MX) low-precision data formats, exploring processing-element granularity, dataflow, and memory-bandwidth design space.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Memory IP
 
@@ -673,6 +679,8 @@ Open-source CPU cores, peripheral controllers, accelerators, and memory IP. Most
   `License: BSD-3-Clause` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Memory Island](https://github.com/pulp-platform/memory_island)** — PULP interleaved, multi-banked L2 scratchpad memory with narrow low-latency and wide high-throughput ports for large SoCs.
   `License: SHL-0.51` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CachePool (ManyRVData)](https://github.com/pulp-platform/ManyRVData)** — Snitch-Spatz-based many-core RISC-V vector system with a shared L1 data cache ("CachePool") and DRAMSys-backed main memory, connected through a FlooNoC mesh.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Analog IP
 

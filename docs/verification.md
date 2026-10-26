@@ -100,6 +100,12 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: GPL-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[microcotb](https://github.com/psychogenic/microcotb)** — Lightweight cocotb-compatible test runner that executes the same tests on MicroPython microcontrollers, a Raspberry Pi, or a desktop for hardware-in-the-loop checks of FPGA and ASIC designs.
   `License: LGPL-2.1` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CVM (Tenstorrent)](https://github.com/tenstorrent/CVM)** — Tenstorrent's library of reusable C++ and SystemVerilog testbench utilities, with worked examples under its test directory.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-nvme](https://github.com/syedsk/cocotbext-nvme)** — cocotb NVMe endpoint model built on cocotbext-pcie that implements a functional NVMe controller drivable by a real host driver (e.g. the Linux kernel) through QEMU co-simulation.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-avalon](https://github.com/yarko18/cocotbext-avalon)** — Reusable Avalon Streaming (Avalon-ST) and Avalon Memory-Mapped (Avalon-MM) bus-functional models for cocotb testbenches.
+  `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## UVM / HVL Frameworks
 
@@ -170,6 +176,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[testplanner](https://github.com/antmicro/testplanner)** — Standalone tool extracted from OpenTitan's DV flow that parses Hjson testplans, expands them as a table inside the DV document, and annotates simulation results with their testplan entries.
   `License: Apache-2.0` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[cocotbext-fcov](https://github.com/furiosa-ai/cocotbext-fcov)** — cocotb extension for collecting functional coverage (covergroups and coverpoints) from Python testbenches, from FuriosaAI.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 
 ## Formal Verification
 
@@ -199,6 +207,8 @@ Functional and formal verification frameworks. Simulators themselves live in [si
   `License: ISC` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[Kami](https://github.com/mit-plv/kami)** — Coq platform for parametric hardware specification and modular verification, with extraction of verified designs to Bluespec.
   `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
+- **[CakeML/hardware](https://github.com/CakeML/hardware)** — Verilog hardware-development and formal-verification project for the HOL4 theorem prover, from the CakeML verified-software ecosystem.
+  `License: BSD-3-Clause` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[imctk](https://github.com/YosysHQ/imctk)** — YosysHQ incremental model checking toolkit: a set of Rust crates providing an AIGER front-end, ABC bindings, an intermediate representation, and an `eqy-engine` crate for equivalence checking.
   `License: Apache-2.0 OR MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *contribution wanted — wrap this in mcp-eda-server*
 - **[AutoSVA](https://github.com/PrincetonUniversity/AutoSVA)** — Generates formal testbenches with SystemVerilog liveness properties from annotations placed in an RTL module's signal declarations, for unit-level formal verification.
