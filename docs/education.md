@@ -155,6 +155,8 @@ Courses, free books, and self-study tracks for digital, analog, and VLSI.
   `License: Free practice platform` | `Last commit: 2024` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[Caravel User Project (efabless)](https://github.com/efabless/caravel_user_project)** — Template for users participating in efabless MPW / chipIgnite shuttles; Apache 2.0, OpenLane-integrated, ReadTheDocs guide.
   `License: Apache-2.0` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
+- **[MPW Handoff Teaching Lab](https://github.com/mst-sg/mpw-tools/tree/main/examples/mpw-handoff-lab)** — Offline Python exercise for checking layout hashes and matching DRC/LVS report metadata to synthetic GDSII revisions.
+  `License: MIT` | `Last commit: 2026` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[OpenLane — Quick-start + tutorials](https://openlane.readthedocs.io/)** — Hands-on tutorials including hierarchical chip design with macros and OpenRAM integration. Step-by-step from RTL to GDSII.
   `License: Apache-2.0 docs` | `Last commit: 2025` | ![MCP](https://img.shields.io/badge/MCP-no-lightgrey) *N/A — educational resource*
 - **[OpenROAD-flow-scripts (ORFS)](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)** — Fully autonomous RTL-to-GDSII tutorial flow; Docker / pre-built / Bazel install paths; good entry point for trying a full PnR flow end-to-end.
